@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Jetzt beitreten",
+        "howtojoin": "Wie man beitritt?",
+        "giveawaylist": "Werbegeschenkliste",
+        "review": "Rezension",
+        "support": "Unterst\u00fctzung",
+        "contact": "Kontakt",
+        "aboutus": "\u00dcber uns",
+        "aboutusdesc": "General Store ist das Store Center aller General Store-Filialen auf der ganzen Welt, die Spezialdistributoren bekannter Marken betreiben.",
+        "links": "Links",
+        "subscribe": "Abonnieren",
+        "subscribedesc": "Bitte geben Sie Ihre E-Mail-Adresse ein, wenn Sie die neuesten Nachrichten von uns erhalten m\u00f6chten.",
+        "subscribesend": "Anfrage <strong> erfolgreich <\/ strong> gesendet",
+        "openregistration": "Registrierung \u00f6ffnen",
+        "opening": "\u00d6ffnung",
+        "closing": "Schlie\u00dfen",
+        "registernow": "Jetzt registrieren",
+        "checkingregistereddata": "Registrierte Daten \u00fcberpr\u00fcfen",
+        "from": "Von",
+        "to": "Zu",
+        "viewregistereddata": "Registrierte Daten anzeigen",
+        "visitor": "Besucher",
+        "copyright": "Urheberrechte \u00a9",
+        "allrightsreserved": "Alle Rechte vorbehalten"
+    },
+    "title": "Gib %s weg",
+    "subtitle": "Melden Sie sich jetzt an und gewinnen Sie %s!",
+    "wordcontinue": "Fortsetzen",
+    "section1": {
+        "sTitleBefore1": "Lasst uns zusammentun",
+        "sTitle1": "Genie\u00dfen Sie die Vorteile",
+        "sDesc1": "Nur hier erhalten Sie viele Vorteile zum Verschenken, eine einfache Verbindung, die besten Produkte zum Verschenken und verschiedene andere Vorteile",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Sichern",
+            "descItem1": "Garantierte Sicherheit.",
+            "iconItem2": "Ikonengeld",
+            "titleItem2": "Sicheres Geld",
+            "descItem2": "Erhebt keine Geb\u00fchren f\u00fcr den Erhalt eines Werbegeschenks.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Sichere Zeit",
+            "descItem3": "Holen Sie sich GiveAway in weniger als 24 Stunden!"
+        },
+        "timer": {
+            "timerTitle": "Der kostenlose Eintrittsbonus endet bei:",
+            "days": "Tage",
+            "hours": "Std",
+            "minutes": "Protokoll",
+            "seconds": "Sekunden"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Gib %s weg",
+        "bDesc1": "Wenn Sie sich registriert haben, \u00fcberpr\u00fcfen Sie Ihre E-Mails regelm\u00e4\u00dfig, um die neuesten Informationen von uns zu erhalten. Wir geben auch kostenlos Gutscheine f\u00fcr den Einkauf in unserem Gesch\u00e4ft aus. Worauf wartest du! <a href='%s' target='_blank'> Erste Schritte <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Sag es jetzt deinen Freunden",
+        "sTitle2": "Holen Sie sich alles kostenlos GiveAway",
+        "sDesc2": "W\u00e4hlen Sie das Geschenk aus, das Ihnen gef\u00e4llt. Sie k\u00f6nnen auch an allen Werbegeschenken aus der unten aufgef\u00fchrten Liste teilnehmen."
+    },
+    "banner2": {
+        "bTitle2": "Einfache und einfache Anforderungen",
+        "bDesc2": "Nur wenn Sie sich registrieren, k\u00f6nnen Sie an unserem Werbegeschenk teilnehmen. Worauf wartest du! Lassen Sie uns <a href='%s' target='_blank'> sich jetzt registrieren <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "Hol es dir jetzt",
+        "sTitle3": "Wie man beitritt?",
+        "sDesc3": "Holen Sie sich ein kostenloses GiveAway in weniger als 24 Stunden! Verpassen Sie nicht diese seltene Gelegenheit, es ist sehr einfach. Registrieren Sie sich einfach auf unserer Website und nehmen Sie an der Umfrage teil (falls vorhanden). Sie m\u00fcssen nichts bezahlen. Herzliche Gl\u00fcckw\u00fcnsche!",
+        "step1": {
+            "sStep1": "Schritt 1",
+            "ssDesc11": "Um die Chance zu bekommen, die %s zu gewinnen, m\u00fcssen Sie nur Ihr Kontoregistrierungsformular ausf\u00fcllen. Um loszulegen, nehmen Sie einfach mit Ihrer E-Mail-Adresse am Wettbewerb teil."
+        },
+        "step2": {
+            "sStep2": "Schritt 2",
+            "ssDesc21": "Sobald Sie angemeldet sind, haben Sie die M\u00f6glichkeit, zus\u00e4tzliche Eintr\u00e4ge zu erhalten, indem Sie verschiedene Aktionen ausf\u00fchren, einschlie\u00dflich des Besuchs unserer Social-Media-Kan\u00e4le.",
+            "ssDesc22": "Sie k\u00f6nnen so viele Aktionen ausf\u00fchren, wie Sie m\u00f6chten. Jede Aktion bietet eine eindeutige Anzahl von Eintr\u00e4gen und jeder Eintrag ist ein potenzieller Gewinner.",
+            "ssDesc23": "Sie k\u00f6nnen Aktionen auch f\u00fcr nur 1 US-Dollar \u00fcberspringen."
+        },
+        "step3": {
+            "done": "Getan.",
+            "sStep3": "Schritt 3",
+            "ssDesc31": "Getan. Wir werden Sie umgehend kontaktieren, basierend auf dem Kontakt, der zum Zeitpunkt der Registrierung auf unserer Website ausgef\u00fcllt wurde."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Geben Sie %s auf gro\u00dfe Weise weg.",
+        "bDesc3": "Diese Veranstaltung bietet mehr Gewinnpl\u00e4tze als im letzten Jahr. Laden Sie Ihre Freunde und Familie zu noch gr\u00f6\u00dferen M\u00f6glichkeiten ein. <a href='%s' target='_blank'> Jetzt registrieren <\/a>, bevor dieses Ereignis beginnt."
+    },
+    "section4": {
+        "sTitleBefore4": "Ausgew\u00e4hlte Bewertung",
+        "sTitle4": "Gewinner des Gewinnspiels",
+        "sDesc4": "Einige Bewertungen von Gewinnspielgewinnern",
+        "theWinner": {
+            "winner": "GEWINNER",
+            "winner1": "Justin Daniel",
+            "coment1": "Vielen Dank f\u00fcr das Geld, ich hoffe, Ihr Gesch\u00e4ft wird mehr \u00fcberf\u00fcllt sein.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Dies ist wirklich ein ber\u00fchmter GeneralStore-Shop, das Paket war erfolgreich, das ich erhalten habe, das Produkt ist original und ich habe keine Geb\u00fchren bezahlt. Danke.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Zuerst habe ich es nicht geglaubt, aber nachdem ich sie kontaktiert hatte, stellte sich heraus, dass es sich um einen GeneralStore handelte. Vielen Dank an GeneralStore f\u00fcr %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Gott sei Dank, dass du mein Gl\u00fcck erh\u00f6ht hast, danke f\u00fcr das Werbegeschenk, GeneralStore, ich liebe es."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Der reibungslose Ablauf unserer Veranstaltungen und Gesch\u00e4fte",
+        "sTitle5": "Unterst\u00fctzt durch",
+        "sDesc5": "Wir bedanken uns f\u00fcr die volle Unterst\u00fctzung, die uns immer hilft",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikanisches multinationales Technologieunternehmen mit Sitz in Seattle, Washington, das sich auf E-Commerce, Cloud Computing, digitales Streaming und k\u00fcnstliche Intelligenz konzentriert.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikanischer Internet-Einzelh\u00e4ndler, der haupts\u00e4chlich M\u00f6bel mit Hauptsitz in Midvale, Utah, in der N\u00e4he von Salt Lake City verkauft. Patrick M. Byrne gr\u00fcndete Overstock.com 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikanisches multinationales Einzelhandelsunternehmen, das eine Kette von Verbraucherm\u00e4rkten, Discountern und Lebensmittelgesch\u00e4ften aus den USA mit Sitz in Bentonville, Arkansas, betreibt.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikanischer multinationaler Einzelh\u00e4ndler f\u00fcr Unterhaltungselektronik mit Hauptsitz in Richfield, Minnesota. Es wurde urspr\u00fcnglich 1966 von Richard M. Schulze und James Wheeler als Audio-Fachgesch\u00e4ft namens Sound of Music gegr\u00fcndet.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Online-Einzelhandelsdienst mit Sitz in China im Besitz der Alibaba Group. Das 2010 gegr\u00fcndete Unternehmen besteht aus kleinen Unternehmen in China und anderen Standorten wie Singapur, die Produkte f\u00fcr internationale Online-K\u00e4ufer anbieten.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikanisches multinationales E-Commerce-Unternehmen mit Sitz in San Jose, Kalifornien, das \u00fcber seine Website den Verkauf von Verbrauchern an Verbraucher und von Unternehmen an Verbraucher erm\u00f6glicht."
+    },
+    "section6": {
+        "sTitleBefore6": "In Kontakt kommen",
+        "sTitle6": "Kontaktiere uns",
+        "sDesc6": "Wenn Sie Fragen zu einem Produkt oder Informationen haben, z\u00f6gern Sie bitte nicht, uns zu kontaktieren.",
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "subject": "Gegenstand",
+        "email": "Email",
+        "writeyourmessagehere": "Schreibe deine Nachricht hier.",
+        "sendmessage": "Nachricht senden",
+        "sendsuccess": "Nachricht <strong> erfolgreich <\/ strong> gesendet",
+        "sendsuccess1": "Wir werden so schnell wie m\u00f6glich antworten."
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Sonyere Ugbu a",
+        "howtojoin": "Olee ot\u00fa iso?",
+        "giveawaylist": "Ndep\u1ee5ta Onyinye Efu",
+        "review": "Nyocha",
+        "support": "Nkwado",
+        "contact": "Kp\u1ecdt\u1ee5r\u1ee5",
+        "aboutus": "Gbasara Any\u1ecb",
+        "aboutusdesc": "General Store b\u1ee5 \u1ee5l\u1ecd ah\u1ecba nke \u1ee5l\u1ecd ah\u1ecba General Store na-echekwa gburugburu \u1ee5wa na-etinye nd\u1ecb ah\u1ecba p\u1ee5r\u1ee5 iche nke \u1ee5d\u1ecb nd\u1ecb ama ama.",
+        "links": "Njik\u1ecd",
+        "subscribe": "Denye aha",
+        "subscribedesc": "Biko tinye email g\u1ecb ma \u1ecd b\u1ee5r\u1ee5 na \u1ecbch\u1ecdr\u1ecd \u1ecbnata ozi \u1ecdh\u1ee5\u1ee5 n'aka any\u1ecb.",
+        "subscribesend": "Ezigara ar\u1ecbr\u1ecb\u1ecd <strong> nke \u1ecdma <\/strong>",
+        "openregistration": "Mepee Ndebanye aha",
+        "opening": "Mmeghe",
+        "closing": "Na-emechi",
+        "registernow": "Debanye aha Ugbu a",
+        "checkingregistereddata": "Na-enyocha data edebanyere aha",
+        "from": "Site na",
+        "to": "Iji",
+        "viewregistereddata": "Lelee data debara aha",
+        "visitor": "\u1eccb\u1ecba",
+        "copyright": "Nwebisiinka",
+        "allrightsreserved": "Ikike niile echekwabara"
+    },
+    "title": "Nye Wepu %s",
+    "subtitle": "Debanye aha ugbu a maka ohere iji merie %s!",
+    "wordcontinue": "Gaa n'ihu",
+    "section1": {
+        "sTitleBefore1": "Ka any\u1ecb sonyere any\u1ecb",
+        "sTitle1": "Nwee Uru",
+        "sDesc1": "Naan\u1ecb ebe a ka \u1ecb ga - enweta \u1ecdt\u1ee5t\u1ee5 uru, \u1ecd d\u1ecb mfe isonye, \u200b\u200bihe kachas\u1ecb enye ngwaah\u1ecba na \u1ecdt\u1ee5t\u1ee5 uru nd\u1ecb \u1ecdz\u1ecd",
+        "item": {
+            "iconItem1": "akara ngosi-verified_user",
+            "titleItem1": "N\u1ecdr\u1ecd n\u00e1 nchebe",
+            "descItem1": "Meela ya n'ezie n'ezie.",
+            "iconItem2": "akara ngosi-ego",
+            "titleItem2": "Nchekwa Ego",
+            "descItem2": "Anagh\u1ecb akw\u1ee5 \u1ee5gw\u1ecd \u1ecd b\u1ee5la mgbe \u1ecb na-anata ego.",
+            "iconItem3": "akara ngosi-access_alarms",
+            "titleItem3": "Oge Nchekwa",
+            "descItem3": "Inye GiveAway n\u2019ihe na-erugh\u1ecb awa 24!"
+        },
+        "timer": {
+            "timerTitle": "Ntinye ntinye ntinye na-ejedebe na:",
+            "days": ".B\u1ecdch\u1ecb",
+            "hours": "Awa",
+            "minutes": "Nkeji",
+            "seconds": "Sek\u1ecdnd"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Nye Wepu %s",
+        "bDesc1": "\u1ecc b\u1ee5r\u1ee5 na \u1ecb debanyere aha, lelee email g\u1ecb kwa oge iji nweta ozi kachas\u1ecb \u1ecdh\u1ee5r\u1ee5 n'aka any\u1ecb. Any\u1ecb ga-enyekwa ndep\u1ee5ta ego maka \u1ecbz\u1ee5 ah\u1ecba na \u1ee5l\u1ecd ah\u1ecba any\u1ecb n'efu. Kedu ihe \u1ecb na-eche! <a href='%s' target='_blank'> Bido <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Gwa nd\u1ecb enyi g\u1ecb ugbu a",
+        "sTitle2": "Nweta Onyinye niile",
+        "sDesc2": "H\u1ecdr\u1ecd onyinye \u1ecbch\u1ecdr\u1ecd, \u1ecb nwekwara ike isonye na nnabata niile na ndep\u1ee5ta any\u1ecb nyere n'okpuru."
+    },
+    "banner2": {
+        "bTitle2": "Ihe ndi di nfe ma di nfe",
+        "bDesc2": "Naan\u1ecb \u1ecbdenye aha g\u1ecb \u1ecb nwere ike isonye na nnabata any\u1ecb. Kedu ihe \u1ecb na-eche! ka any\u1ecb <a href='%s' target='_blank'> Deba aha <\/a> onwe g\u1ecb ugbu a."
+    },
+    "section3": {
+        "sTitleBefore3": "Nweta ya ugbu a",
+        "sTitle3": "Olee Isonyere?",
+        "sDesc3": "Inweta a free NyeAway na-erugh\u1ecb 24 awa! Echefula ohere a na-ad\u1ecbgh\u1ecb ah\u1ee5kebe, \u1ecd d\u1ecb mfe, d\u1ecb nn\u1ecd\u1ecd denye aha na weeb\u1ee5sa\u1ecbt\u1ecb any\u1ecb ma were nyocha (\u1ecd b\u1ee5r\u1ee5 na \u1ecd b\u1ee5la), \u1ecb gagh\u1ecb akw\u1ee5 \u1ee5gw\u1ecd \u1ecd b\u1ee5la. Ndeewonu!",
+        "step1": {
+            "sStep1": "Kw\u1ee5p\u1ee5 1",
+            "ssDesc11": "Iji nweta ohere iji merie %s, ihe niile \u1ecb ga - eme b\u1ee5 dejup\u1ee5ta akw\u1ee5kw\u1ecd ndebanye aha g\u1ecb. Iji bido, naan\u1ecb tinye as\u1ecdmpi ah\u1ee5 na adrees\u1ecb email g\u1ecb."
+        },
+        "step2": {
+            "sStep2": "Nz\u1ecd\u1ee5kw\u1ee5 2",
+            "ssDesc21": "Ozugbo \u1ecb banyere, \u1ecb ga-enwe ohere \u1ecbnweta ndenye nd\u1ecb \u1ecdz\u1ecd site na \u1ecbmecha \u1ecdt\u1ee5t\u1ee5 omume, g\u1ee5nyere \u1ecbga na \u1ecdwa mgbasa ozi any\u1ecb.",
+            "ssDesc22": "I tozuru oke mezue \u1ecdt\u1ee5t\u1ee5 ihe \u1ecbch\u1ecdr\u1ecd, mmemme \u1ecd b\u1ee5la na-enye \u1ecdn\u1ee5\u1ecdg\u1ee5 p\u1ee5r\u1ee5 iche nke ntinye na ntinye \u1ecd b\u1ee5la nwere ike imeri.",
+            "ssDesc23": "I nwekwara ike ikwu omume maka naan\u1ecb $ 1."
+        },
+        "step3": {
+            "done": "Emela.",
+            "sStep3": "Kw\u1ee5p\u1ee5 3",
+            "ssDesc31": "Emela. Any\u1ecb ga-akp\u1ecdt\u1ee5r\u1ee5 g\u1ecb ozugbo dabere na k\u1ecdntakt\u1ecb ah\u1ee5 e dejup\u1ee5tara n'oge ndebanye aha na sa\u1ecbt\u1ecb any\u1ecb."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Nye Wepu %s na nnukwu \u1ee5z\u1ecd.",
+        "bDesc3": "Ihe omume a na-enye ohere inweta mmeri kar\u1ecba af\u1ecd gara aga. Kp\u1ecd\u1ecd nd\u1ecb enyi g\u1ecb na nd\u1ecb ezina\u1ee5l\u1ecd g\u1ecb ohere ka ukwuu. <a href='%s' target='_blank'> Debanye aha ugbu a <\/a> tupu mmemme a amalite."
+    },
+    "section4": {
+        "sTitleBefore4": "H\u1ecdr\u1ecd ntule",
+        "sTitle4": "Onyinye Efu",
+        "sDesc4": "Reviewsf\u1ecdd\u1ee5 nyocha nke nd\u1ecb mmeri na-enye onyinye",
+        "theWinner": {
+            "winner": "Mmeri",
+            "winner1": "Justin Daniel",
+            "coment1": "Daal\u1ee5 maka ego nk\u1ecbt\u1ecb, enwere m olileanya na \u1ee5l\u1ecd ah\u1ecba g\u1ecb ga-ejup\u1ee5ta ebe niile.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Nke a b\u1ee5 n'ezie \u1ee5l\u1ecd ah\u1ecba GeneralStore a ma ama, ngwugwu ah\u1ee5 gara nke \u1ecdma m nwetara, Ngwaah\u1ecba b\u1ee5 nke izizi, akw\u1ee5gh\u1ecb m \u1ee5gw\u1ecd \u1ecd b\u1ee5la. Daal\u1ee5.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Na mbu ekwetagh\u1ecb m, mana mgbe m kp\u1ecdt\u1ee5r\u1ee5 ha \u1ecd b\u1ecbara b\u1ee5r\u1ee5 na \u1ecd b\u1ee5 GeneralStore. daal\u1ee5 GeneralStore maka %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Daal\u1ee5 Chukwu maka \u1ecbba \u1ee5ba m, daal\u1ee5 maka inye ego, GeneralStore m h\u1ee5r\u1ee5 ya n'anya."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Ihe na-aga were were nke emume any\u1ecb na az\u1ee5maah\u1ecba any\u1ecb",
+        "sTitle5": "Na-akwado ya",
+        "sDesc5": "Daal\u1ee5 maka nkwado zuru oke na-enyere any\u1ecb aka mgbe niile",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Companyl\u1ecd \u1ecdr\u1ee5 tekn\u1ee5z\u1ee5 nke \u1ecdt\u1ee5t\u1ee5 mba America nke dabere na Seattle, Washington, nke lekwas\u1ecbr\u1ecb anya na e-commerce, \u00edgw\u00e9 ojii k\u1ecdwaa, dijital\u1ee5 g\u1ee5gharia, na \u1ecdg\u1ee5g\u1ee5 isi.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Nd\u1ecb na-ere ah\u1ecba ntanet\u1ecb \u1ecbntanet\u1ecb na-ere ihe b\u1ee5 isi nke \u1ee5l\u1ecd \u1ecdr\u1ee5 d\u1ecb na Midvale, Utah, na nso Salt Lake City. Patrick M. Byrne guzobere Overstock.com na 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Americanl\u1ecd \u1ecdr\u1ee5 nd\u1ecb na-ere ah\u1ecba mba d\u1ecb iche iche nke America nke na-ar\u1ee5 \u1ecdr\u1ee5 n'\u1ecdt\u1ee5t\u1ee5 hypermarkets, \u1ee5l\u1ecd ah\u1ecba na-echekwa ego, na \u1ee5l\u1ecd ah\u1ecba nri si United States, nke d\u1ecb na Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Nd\u1ecb na-ere ah\u1ecba igwe elektr\u1ecdnik nke \u1ecdt\u1ee5t\u1ee5 mba America nke d\u1ecb na Richfield, Minnesota. \u1ecc b\u1ee5 Richard M. Schulze na James Wheeler hiwere ya na 1966 d\u1ecbka \u1ee5l\u1ecd ah\u1ecba na-egwu \u1ecdd\u1ecbyo akp\u1ecdr\u1ecd Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "\u1eccr\u1ee5 ire ah\u1ecba d\u1ecb n'\u1ecbntanet\u1ecb nke China nwere nke Alibaba Group. Amalitere na 2010, \u1ecd b\u1ee5 obere az\u1ee5maah\u1ecba na China na ebe nd\u1ecb \u1ecdz\u1ecd, d\u1ecb ka Singapore, na-enye nd\u1ecb na-az\u1ee5 ah\u1ecba \u1ecbntanet\u1ecb mba \u1ee5wa ngwaah\u1ecba.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corpol\u1ecd \u1ecdr\u1ee5 e-commerce nke \u1ecdt\u1ee5t\u1ee5 mba America nke dabeere na San Jose, California, nke na-eme ka nd\u1ecb na-az\u1ee5 ah\u1ecba na nd\u1ecb na-az\u1ee5 ah\u1ecba na-az\u1ee5 ah\u1ecba na ebe nr\u1ee5\u1ecdr\u1ee5 weeb\u1ee5 ya."
+    },
+    "section6": {
+        "sTitleBefore6": "Nweta Na Aka",
+        "sTitle6": "Kp\u1ecdt\u1ee5r\u1ee5 any\u1ecb",
+        "sDesc6": "\u1ecc b\u1ee5r\u1ee5 na \u1ecb nwere aj\u1ee5j\u1ee5 \u1ecd b\u1ee5la gbasara ngwaah\u1ecba, ma \u1ecd b\u1ee5 ozi \u1ecd b\u1ee5la \u1ecbch\u1ecdr\u1ecd, biko egbula \u1ecbkp\u1ecdt\u1ee5r\u1ee5 any\u1ecb.",
+        "firstName": "Aha mb\u1ee5",
+        "lastName": "Aha ikpeaz\u1ee5",
+        "subject": "Isiokwu",
+        "email": "Email",
+        "writeyourmessagehere": "Dee ozi g\u1ecb ebe a.",
+        "sendmessage": "Zipu Ozi",
+        "sendsuccess": "Ozi ezigara <strong> nke \u1ecdma <\/strong>",
+        "sendsuccess1": "Any\u1ecb ga-aza ozugbo enwere ike."
+    }
+}

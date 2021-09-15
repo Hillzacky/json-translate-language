@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Shiga Yanzu",
+        "howtojoin": "Yadda Ake Shiga?",
+        "giveawaylist": "Jerin Bayarwa",
+        "review": "Bita",
+        "support": "Tallafi",
+        "contact": "Saduwa",
+        "aboutus": "Game da Mu",
+        "aboutusdesc": "Janar Store shine shagon shagon duk manyan shagunan General Store a duk fa\u0257in duniya suna cikin masu rarraba kaya na musamman sanannun shahararru.",
+        "links": "Hanyoyin sadarwa",
+        "subscribe": "Biyan ku\u0257i",
+        "subscribedesc": "Da fatan za a shigar da imel \u0257in ku idan kuna son kar\u0253ar sabon labarai daga gare mu.",
+        "subscribesend": "An aika da bu\u0199ata <strong> cikin nasara <\/strong>",
+        "openregistration": "Bude Rijista",
+        "opening": "Ana bu\u0257ewa",
+        "closing": "Rufewa",
+        "registernow": "Yi rijista Yanzu",
+        "checkingregistereddata": "Duba bayanan rijista",
+        "from": "Daga",
+        "to": "Zuwa",
+        "viewregistereddata": "Duba bayanan da aka yi rajista",
+        "visitor": "Ba\u0199o",
+        "copyright": "Hakkin mallaka",
+        "allrightsreserved": "Duk ha\u0199\u0199o\u0199i"
+    },
+    "title": "Bada Away %s",
+    "subtitle": "Yi rajista yanzu don samun damar lashe %s!",
+    "wordcontinue": "Ci gaba",
+    "section1": {
+        "sTitleBefore1": "Mu Kasance Tare damu",
+        "sTitle1": "Ji dadin Amfanin",
+        "sDesc1": "A nan kawai zaku iya samun fa'idodi da yawa, masu sau\u0199in ha\u0257uwa, mafi kyawun kyauta da sauran fa'idodi daban-daban",
+        "item": {
+            "iconItem1": "icon-verified_ mai amfani",
+            "titleItem1": "M",
+            "descItem1": "Tabbatar da Tsaro.",
+            "iconItem2": "icon-kudi",
+            "titleItem2": "Kudi Lafiya",
+            "descItem2": "Baya cajin wasu kudade lokacin karbar kyauta.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Amintaccen Lokaci",
+            "descItem3": "Samu GiveAway a \u0199asa da awanni 24!"
+        },
+        "timer": {
+            "timerTitle": "Kyautar shiga kyauta ta \u0199are a:",
+            "days": "Kwanaki",
+            "hours": "Awanni",
+            "minutes": "Mintuna",
+            "seconds": "Seconds"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Bada Away %s",
+        "bDesc1": "Idan kayi rajista, duba imel dinka lokaci-lokaci don samun sabbin bayanai daga garemu. Hakanan zamu bada baucoci don siyayya a shagonmu kyauta. Me kuke jira! <a href='%s' target='_blank'> Farawa <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Fa\u0257a wa abokanka yanzu",
+        "sTitle2": "Samu Duk Kyauta Kyauta",
+        "sDesc2": "Zabi kyautar da kake so, haka nan zaka iya shiga cikin duk kyauta daga jerin da muka samar a kasa."
+    },
+    "banner2": {
+        "bTitle2": "Bukatun Masu Sau\u0199i da Sau\u0199i",
+        "bDesc2": "Ta hanyar rijistar kanka kawai za ku iya shiga cikin ba mu kyauta. Me kuke jira! bari mu <a href='%s' target='_blank'> Yi rijista <\/a> kanka a yanzu."
+    },
+    "section3": {
+        "sTitleBefore3": "Samu Yanzu",
+        "sTitle3": "Yadda ake Shiga?",
+        "sDesc3": "Samu kyauta kyauta a \u0199asa da awanni 24! Kada ku rasa wannan damar da ba ta da kyau, yana da sau\u0199i, kawai kuyi rijista a gidan yanar gizon mu kuyi binciken (idan akwai), ba lallai ku biya komai ba. Barka da warhaka!",
+        "step1": {
+            "sStep1": "Mataki 1",
+            "ssDesc11": "Don samun damar cin nasarar %s, duk abin da kuke bu\u0199atar yi shi ne cika fom \u0257in rajistar asusunka. Don farawa, kawai shigar da gasa tare da adireshin imel \u0257in ku."
+        },
+        "step2": {
+            "sStep2": "Mataki 2",
+            "ssDesc21": "Da zarar kun shiga, zaku sami damar samun \u0199arin shigarwar ta hanyar kammala ayyuka daban-daban, gami da ziyartar tashoshin yanar gizon mu.",
+            "ssDesc22": "Kuna da damar kammala yawancin ayyuka kamar yadda kuke so, kowane aiki yana ba da adadin shigarwa na musamman kuma kowace shigarwa mai nasara ce.",
+            "ssDesc23": "Hakanan zaka iya tsallake ayyuka don $ 1 kawai."
+        },
+        "step3": {
+            "done": "Anyi",
+            "sStep3": "Mataki 3",
+            "ssDesc31": "Anyi Nan da nan zamu tuntube ku bisa lambar da aka cika a lokacin rajista akan rukunin yanar gizon mu."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Bada Away %s a cikin Babbar hanya.",
+        "bDesc3": "Wannan taron yana samar da wuraren samun nasara fiye da bara. Gayyaci abokai da dangi don manyan damammaki. <a href='%s' target='_blank'> Yi rijista yanzu <\/a> kafin wannan taron ya fara."
+    },
+    "section4": {
+        "sTitleBefore4": "Zabin tantancewa",
+        "sTitle4": "Kyautar Kyauta",
+        "sDesc4": "Wasu sake dubawa na wa\u0257anda suka samu kyauta",
+        "theWinner": {
+            "winner": "LASHE",
+            "winner1": "Justin Daniel",
+            "coment1": "Na gode da Kudin, Ina fatan shagonku zai kasance mai yawan jama'a.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Gaskiya wannan sanannen shagon GeneralStore ne, kunshin ya ci nasara Na kar\u0253a, Samfur asali ne, kuma ban biya ku\u0257i ba. Na gode.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Da farko ban yi imani da shi ba, amma bayan na tuntube su sai ya zama JanarStore ne. na gode GeneralStore na %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Godiya ga allah da ya kara sa'a na, na gode da kyauta, GeneralStore ina son shi."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Gudanar da al'amuranmu da kasuwanci",
+        "sTitle5": "Goyan bayan",
+        "sDesc5": "Godiya ga cikakken goyon baya da ke taimaka mana koyaushe",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Kamfanin fasaha na kasa da kasa na Amurka wanda ke zaune a Seattle, Washington, wanda ke mai da hankali kan kasuwancin e-e-komputa, sarrafa kwamfuta, watsa shirye-shiryen dijital, da kuma fasahar kere kere.",
+        "tSupport2": "Yanar Gizo.com",
+        "dSupport2": "Kamfanin dillalan intanet na Amurka da ke sayar da kayan daki na farko wanda ke da hedkwata a Midvale, Utah, kusa da Salt Lake City. Patrick M. Byrne ya kafa Overstock.com a cikin 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Babban kamfanin sayar da kayayyaki na Amurka da ke gudanar da manyan kasuwanni, manyan shagunan ragi, da shagunan kayan abinci daga Amurka, wanda ke da hedkwata a Bentonville, Arkansas.",
+        "tSupport4": "MafiByy.com",
+        "dSupport4": "Ba'amurke mai sayar da kayayyakin lantarki na manyan kasashen duniya mai hedkwata a Richfield, Minnesota. Richard M. Schulze da James Wheeler ne suka kirkire shi a 1966 a matsayin shagon ke\u0253a\u0253\u0253en shago mai suna Sautin Ki\u0257a.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Sabis na tallace-tallace na kan layi wanda yake a China mallakar Groupungiyar Alibaba. An \u0199addamar da shi a cikin 2010, ya \u0199unshi \u0199ananan kamfanoni a China da sauran wurare, irin su Singapore, wa\u0257anda ke ba da samfuran ga masu siye da layi ta duniya.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Eungiyar cinikayyar kasuwancin e-commerce ta Amurka da ke San Jose, Kalifoniya, wacce ke ba da damar siyar da mabukaci da kuma kasuwancin-zuwa-mabukaci ta hanyar gidan yanar gizon ta."
+    },
+    "section6": {
+        "sTitleBefore6": "Samu A Tattaunawa",
+        "sTitle6": "Saduwa da Mu",
+        "sDesc6": "Idan kana da wasu tambayoyi game da samfur, ko kowane bayani da kake bu\u0199ata, da fatan za a yi jinkiri a tuntube mu.",
+        "firstName": "Sunan rana",
+        "lastName": "Sunan mahaifa",
+        "subject": "Maudu'i",
+        "email": "Imel",
+        "writeyourmessagehere": "Rubuta sakonka anan.",
+        "sendmessage": "Aika Sa\u0199o",
+        "sendsuccess": "An aika sako cikin nasara <\/strong>",
+        "sendsuccess1": "Za mu amsa da wuri-wuri."
+    }
+}

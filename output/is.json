@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Taktu \u00fe\u00e1tt n\u00fana",
+        "howtojoin": "Hvernig \u00e1 a\u00f0 taka \u00fe\u00e1tt?",
+        "giveawaylist": "Uppgjafalisti",
+        "review": "Yfirfer\u00f0",
+        "support": "Stu\u00f0ningur",
+        "contact": "Haf\u00f0u samband",
+        "aboutus": "Um okkur",
+        "aboutusdesc": "General Store er verslunarmi\u00f0st\u00f6\u00f0 allra \u00fatib\u00faa General Store um allan heim sem stunda s\u00e9rstaka dreifingara\u00f0ila \u00feekktra v\u00f6rumerkja.",
+        "links": "Kr\u00e6kjur",
+        "subscribe": "Gerast \u00e1skrifandi",
+        "subscribedesc": "Vinsamlegast sl\u00e1\u00f0u inn netfangi\u00f0 \u00feitt ef \u00fe\u00fa vilt f\u00e1 n\u00fdjustu fr\u00e9ttir fr\u00e1 okkur.",
+        "subscribesend": "Bei\u00f0ni send <strong> me\u00f0 g\u00f3\u00f0um \u00e1rangri <\/strong>",
+        "openregistration": "Opin skr\u00e1ning",
+        "opening": "Opnun",
+        "closing": "Lokun",
+        "registernow": "Skr\u00e1\u00f0u \u00feig n\u00fana",
+        "checkingregistereddata": "Athuga\u00f0 skr\u00e1\u00f0 g\u00f6gn",
+        "from": "Fr\u00e1",
+        "to": "Til",
+        "viewregistereddata": "Sko\u00f0a skr\u00e1\u00f0 g\u00f6gn",
+        "visitor": "Gestur",
+        "copyright": "H\u00f6fundarr\u00e9ttur",
+        "allrightsreserved": "Allur r\u00e9ttur \u00e1skilinn"
+    },
+    "title": "Gef\u00f0u burt %s",
+    "subtitle": "Skr\u00e1\u00f0u \u00feig n\u00fana til a\u00f0 f\u00e1 t\u00e6kif\u00e6ri til a\u00f0 vinna %s!",
+    "wordcontinue": "Haltu \u00e1fram",
+    "section1": {
+        "sTitleBefore1": "T\u00f6kum \u00fe\u00e1tt \u00ed okkur",
+        "sTitle1": "Nj\u00f3ttu fr\u00ed\u00f0indanna",
+        "sDesc1": "A\u00f0eins h\u00e9r er h\u00e6gt a\u00f0 f\u00e1 marga fr\u00ed\u00f0indi, au\u00f0velt a\u00f0 taka \u00fe\u00e1tt, bestu gefa v\u00f6rur og \u00fdmsa a\u00f0ra kosti",
+        "item": {
+            "iconItem1": "icon-sta\u00f0fest_user",
+            "titleItem1": "\u00d6ruggt",
+            "descItem1": "Tryggt \u00f6ryggi.",
+            "iconItem2": "icon-peningar",
+            "titleItem2": "\u00d6ruggir peningar",
+            "descItem2": "Innheimtir engin gj\u00f6ld \u00feegar \u00fe\u00fa f\u00e6r\u00f0 upplj\u00f3strun.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "\u00d6ruggur t\u00edmi",
+            "descItem3": "F\u00e1\u00f0u GiveAway \u00e1 innan vi\u00f0 24 klukkustundum!"
+        },
+        "timer": {
+            "timerTitle": "\u00d3keypis a\u00f0gangsuppb\u00f3t endar \u00e1:",
+            "days": "Dagar",
+            "hours": "Klukkut\u00edmar",
+            "minutes": "Fundarger\u00f0",
+            "seconds": "Sek\u00fandur"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Gef\u00f0u burt %s",
+        "bDesc1": "Ef \u00fe\u00fa hefur skr\u00e1\u00f0 \u00feig, sko\u00f0a\u00f0u t\u00f6lvup\u00f3stinn \u00feinn reglulega til a\u00f0 f\u00e1 n\u00fdjustu uppl\u00fdsingar fr\u00e1 okkur. Vi\u00f0 munum einnig gefa \u00fat sk\u00edrteini til a\u00f0 versla \u00ed verslun okkar \u00f3keypis. Eftir hverju ertu a\u00f0 b\u00ed\u00f0a! <a href='%s' target='_blank'> Byrja\u00f0u <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Seg\u00f0u vinum \u00fe\u00ednum fr\u00e1 \u00fev\u00ed strax",
+        "sTitle2": "F\u00e1\u00f0u allt \u00f3keypis GiveAway",
+        "sDesc2": "Veldu gj\u00f6fina sem \u00fe\u00fa vilt, \u00fe\u00fa getur l\u00edka teki\u00f0 \u00fe\u00e1tt \u00ed \u00f6llum upplj\u00f3strunum af listanum sem vi\u00f0 bj\u00f3\u00f0um upp \u00e1 h\u00e9r a\u00f0 ne\u00f0an."
+    },
+    "banner2": {
+        "bTitle2": "Au\u00f0veldar og einfaldar kr\u00f6fur",
+        "bDesc2": "A\u00f0eins me\u00f0 \u00fev\u00ed a\u00f0 skr\u00e1 \u00feig getur\u00f0u teki\u00f0 \u00fe\u00e1tt \u00ed upplj\u00f3strun okkar. Eftir hverju ertu a\u00f0 b\u00ed\u00f0a! skulum <a href='%s' target='_blank'> skr\u00e1 \u00feig <\/a> sj\u00e1lf strax."
+    },
+    "section3": {
+        "sTitleBefore3": "N\u00e1\u00f0u \u00ed \u00fea\u00f0 n\u00fana",
+        "sTitle3": "Hvernig \u00e1 a\u00f0 vera me\u00f0?",
+        "sDesc3": "F\u00e1\u00f0u \u00f3keypis GiveAway \u00e1 innan vi\u00f0 24 klukkustundum! Ekki missa af \u00feessu sjaldg\u00e6fa t\u00e6kif\u00e6ri, \u00fea\u00f0 er mj\u00f6g au\u00f0velt, skr\u00e1\u00f0u \u00feig bara \u00e1 heimas\u00ed\u00f0u okkar og taktu k\u00f6nnunina (ef einhver er), \u00fe\u00fa \u00fearft ekki a\u00f0 borga neitt. Til hamingju!",
+        "step1": {
+            "sStep1": "Skref 1",
+            "ssDesc11": "Til a\u00f0 f\u00e1 t\u00e6kif\u00e6ri til a\u00f0 vinna %s \u00fearftu ekki anna\u00f0 en a\u00f0 fylla \u00fat reikningsskr\u00e1ningarformi\u00f0. Til a\u00f0 hefjast handa skaltu bara taka \u00fe\u00e1tt \u00ed keppninni me\u00f0 netfanginu \u00fe\u00ednu."
+        },
+        "step2": {
+            "sStep2": "2. skref",
+            "ssDesc21": "\u00deegar \u00fe\u00fa hefur skr\u00e1\u00f0 \u00feig inn muntu hafa t\u00e6kif\u00e6ri til a\u00f0 f\u00e1 fleiri f\u00e6rslur me\u00f0 \u00fev\u00ed a\u00f0 kl\u00e1ra \u00fdmsar a\u00f0ger\u00f0ir, \u00fear \u00e1 me\u00f0al a\u00f0 fara \u00e1 r\u00e1sir okkar \u00e1 samf\u00e9lagsmi\u00f0linum.",
+            "ssDesc22": "\u00de\u00fa hefur r\u00e9tt til a\u00f0 lj\u00faka eins m\u00f6rgum a\u00f0ger\u00f0um og \u00fe\u00fa vilt, hver a\u00f0ger\u00f0 b\u00fd\u00f0ur upp \u00e1 einstakan fj\u00f6lda f\u00e6rslna og hver f\u00e6rsla er m\u00f6gulegur sigurvegari.",
+            "ssDesc23": "\u00de\u00fa getur l\u00edka sleppt a\u00f0ger\u00f0um fyrir a\u00f0eins $ 1."
+        },
+        "step3": {
+            "done": "Gj\u00f6rt.",
+            "sStep3": "3. skref",
+            "ssDesc31": "Gj\u00f6rt. Vi\u00f0 munum strax hafa samband vi\u00f0 \u00feig mi\u00f0a\u00f0 vi\u00f0 tengili\u00f0inn sem var fyllt \u00fat vi\u00f0 skr\u00e1ningu \u00e1 s\u00ed\u00f0una okkar."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Gef\u00f0u Burt %s \u00e1 st\u00f3ran h\u00e1tt.",
+        "bDesc3": "\u00deessi vi\u00f0bur\u00f0ur veitir fleiri vinningsrifa en \u00ed fyrra. Bj\u00f3ddu vinum \u00fe\u00ednum og fj\u00f6lskyldu til a\u00f0 f\u00e1 enn meiri t\u00e6kif\u00e6ri. <a href='%s' target='_blank'> Skr\u00e1\u00f0u \u00feig n\u00fana <\/a> \u00e1\u00f0ur en \u00feessi vi\u00f0bur\u00f0ur hefst."
+    },
+    "section4": {
+        "sTitleBefore4": "Vali\u00f0 mat",
+        "sTitle4": "\u00datgefandi Sigurvegarinn",
+        "sDesc4": "Nokkrar umsagnir um upplj\u00f3strara",
+        "theWinner": {
+            "winner": "SIGURVEGARI",
+            "winner1": "Justin Daniel",
+            "coment1": "\u00deakka \u00fe\u00e9r fyrir Cash, \u00e9g vona a\u00f0 verslunin \u00fe\u00edn ver\u00f0i fj\u00f6lmennari.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "\u00deetta er virkilega fr\u00e6g GeneralStore b\u00fa\u00f0, pakkinn t\u00f3kst vel, \u00e9g f\u00e9kk v\u00f6runa og \u00e9g greiddi engin gj\u00f6ld. \u00deakka \u00fe\u00e9r fyrir.",
+            "winner3": "Matthew Davidson",
+            "coment3": "\u00cd fyrstu tr\u00fa\u00f0i \u00e9g \u00fev\u00ed ekki, en eftir a\u00f0 \u00e9g haf\u00f0i samband vi\u00f0 \u00fe\u00e1 kom \u00ed lj\u00f3s a\u00f0 \u00feetta var GeneralStore. \u00feakka \u00fe\u00e9r GeneralStore fyrir %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "\u00deakka gu\u00f0i fyrir a\u00f0 auka heppni m\u00edna, takk fyrir upplj\u00f3strunina, GeneralStore \u00e9g elska \u00fea\u00f0."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Sl\u00e9ttur gangur \u00e1 vi\u00f0bur\u00f0um okkar og vi\u00f0skiptum",
+        "sTitle5": "Stutt af",
+        "sDesc5": "\u00deakkir okkar fyrir allan stu\u00f0ninginn sem hj\u00e1lpar okkur alltaf",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Bandar\u00edskt fj\u00f6l\u00fej\u00f3\u00f0legt t\u00e6knifyrirt\u00e6ki me\u00f0 a\u00f0setur \u00ed Seattle, Washington, sem leggur \u00e1herslu \u00e1 rafr\u00e6n vi\u00f0skipti, t\u00f6lvusk\u00fd, stafr\u00e6na streymi og gervigreind.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Bandar\u00edskur internetverslun selur a\u00f0allega h\u00fasg\u00f6gn me\u00f0 h\u00f6fu\u00f0st\u00f6\u00f0var \u00ed Midvale, Utah, n\u00e1l\u00e6gt Salt Lake City. Patrick M. Byrne stofna\u00f0i Overstock.com \u00e1ri\u00f0 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Bandar\u00edskt fj\u00f6l\u00fej\u00f3\u00f0legt sm\u00e1s\u00f6lufyrirt\u00e6ki sem rekur ke\u00f0ju st\u00f3rmarka\u00f0a, l\u00e1gv\u00f6ruver\u00f0sverslana og matv\u00f6ruverslana fr\u00e1 Bandar\u00edkjunum, me\u00f0 h\u00f6fu\u00f0st\u00f6\u00f0var \u00ed Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Bandar\u00edsk fj\u00f6l\u00fej\u00f3\u00f0leg raft\u00e6kjasala me\u00f0 h\u00f6fu\u00f0st\u00f6\u00f0var \u00ed Richfield, Minnesota. \u00dea\u00f0 var upphaflega stofna\u00f0 af Richard M. Schulze og James Wheeler \u00e1ri\u00f0 1966 sem hlj\u00f3\u00f0verslun sem heitir Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Netverslunar\u00fej\u00f3nusta me\u00f0 a\u00f0setur \u00ed K\u00edna \u00ed eigu Alibaba Group. Hleypt af stokkunum \u00e1ri\u00f0 2010, \u00fea\u00f0 samanstendur af litlum fyrirt\u00e6kjum \u00ed K\u00edna og \u00f6\u00f0rum st\u00f6\u00f0um, svo sem Singapore, sem bj\u00f3\u00f0a v\u00f6rur til al\u00fej\u00f3\u00f0legra kaupenda \u00e1 netinu.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Bandar\u00edskt fj\u00f6l\u00fej\u00f3\u00f0legt rafr\u00e6nt verslunarfyrirt\u00e6ki me\u00f0 a\u00f0setur \u00ed San Jose, Kaliforn\u00edu, sem au\u00f0veldar s\u00f6lu neytenda til neytenda og vi\u00f0skipta til neytenda \u00ed gegnum vefs\u00ed\u00f0u s\u00edna."
+    },
+    "section6": {
+        "sTitleBefore6": "Komast \u00ed samband",
+        "sTitle6": "Haf\u00f0u samband vi\u00f0 okkur",
+        "sDesc6": "Ef \u00fe\u00fa hefur einhverjar spurningar var\u00f0andi v\u00f6ru e\u00f0a einhverjar uppl\u00fdsingar sem \u00fe\u00fa \u00fearft, ekki hika vi\u00f0 a\u00f0 hafa samband vi\u00f0 okkur.",
+        "firstName": "Fyrsta nafn",
+        "lastName": "Eftirnafn",
+        "subject": "Efni",
+        "email": "T\u00f6lvup\u00f3stur",
+        "writeyourmessagehere": "Skrifa\u00f0u skilabo\u00f0in \u00fe\u00edn h\u00e9r.",
+        "sendmessage": "Senda skilabo\u00f0",
+        "sendsuccess": "Skilabo\u00f0 send <strong> me\u00f0 g\u00f3\u00f0um \u00e1rangri <\/strong>",
+        "sendsuccess1": "Vi\u00f0 munum svara eins flj\u00f3tt og au\u00f0i\u00f0 er."
+    }
+}

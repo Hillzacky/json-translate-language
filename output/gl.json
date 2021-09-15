@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Unirse agora",
+        "howtojoin": "Como unirse?",
+        "giveawaylist": "Lista de agasallos",
+        "review": "Revisi\u00f3n",
+        "support": "Apoiar",
+        "contact": "Contacto",
+        "aboutus": "Sobre n\u00f3s",
+        "aboutusdesc": "General Store \u00e9 o centro de tendas de todas as sucursais de General Store de todo o mundo dedicadas a distribuidores especiais de marcas co\u00f1ecidas.",
+        "links": "Ligaz\u00f3ns",
+        "subscribe": "Subscribirse",
+        "subscribedesc": "Por favor, introduce o teu correo electr\u00f3nico se queres recibir as \u00faltimas novas.",
+        "subscribesend": "A solicitude enviouse <strong> correctamente <\/strong>",
+        "openregistration": "Inscrici\u00f3n aberta",
+        "opening": "Apertura",
+        "closing": "Peche",
+        "registernow": "Rexistrarse agora",
+        "checkingregistereddata": "Comprobaci\u00f3n dos datos rexistrados",
+        "from": "Desde",
+        "to": "Para",
+        "viewregistereddata": "Ver datos rexistrados",
+        "visitor": "Visitante",
+        "copyright": "Dereitos de autor",
+        "allrightsreserved": "Todos os dereitos reservados"
+    },
+    "title": "Regala %s",
+    "subtitle": "Rex\u00edstrate agora para ter a oportunidade de ga\u00f1ar %s.",
+    "wordcontinue": "Continuar",
+    "section1": {
+        "sTitleBefore1": "\u00danase a n\u00f3s",
+        "sTitle1": "Aproveita os beneficios",
+        "sDesc1": "S\u00f3 aqu\u00ed podes obter moitos beneficios para regalar, f\u00e1ciles de unir, os mellores produtos para regalar e outros beneficios",
+        "item": {
+            "iconItem1": "usuario-verificado-icona",
+            "titleItem1": "Seguro",
+            "descItem1": "Seguridade garantida.",
+            "iconItem2": "icona-di\u00f1eiro",
+            "titleItem2": "Di\u00f1eiro seguro",
+            "descItem2": "Non cobra ningunha taxa ao recibir un agasallo.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Tempo seguro",
+            "descItem3": "Obt\u00e9n o GiveAway en menos de 24 horas."
+        },
+        "timer": {
+            "timerTitle": "A bonificaci\u00f3n de entrada gratu\u00edta remata en:",
+            "days": "D\u00edas",
+            "hours": "Horas",
+            "minutes": "Actas",
+            "seconds": "Segundos"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Regala %s",
+        "bDesc1": "Se se rexistrou, comprobe o seu correo electr\u00f3nico peri\u00f3dicamente para obter a informaci\u00f3n m\u00e1is recente de n\u00f3s. Tam\u00e9n entregaremos vales para mercar na nosa tenda de balde. A que esperas! <a href='%s' target='_blank'> Comezar <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Dillo aos teus amigos agora mesmo",
+        "sTitle2": "Obt\u00e9n todo un regalo gratu\u00edto",
+        "sDesc2": "Escolle o agasallo que che gusta, tam\u00e9n podes participar en todos os agasallos da lista que ofrecemos a continuaci\u00f3n."
+    },
+    "banner2": {
+        "bTitle2": "Requisitos sinxelos e sinxelos",
+        "bDesc2": "S\u00f3 rexistr\u00e1ndose podes participar no noso agasallo. A que esperas! <a href='%s' target='_blank'> Rex\u00edstrese <\/a> agora mesmo."
+    },
+    "section3": {
+        "sTitleBefore3": "Recibe agora",
+        "sTitle3": "Como unirse?",
+        "sDesc3": "Obt\u00e9n un regalo gratu\u00edto en menos de 24 horas. Non perdas esta rara oportunidade, \u00e9 moi sinxela, s\u00f3 tes que rexistrarte na nosa p\u00e1xina web e realizar a enquisa (se hai), non tes que pagar nada. Parab\u00e9ns!",
+        "step1": {
+            "sStep1": "Paso 1",
+            "ssDesc11": "Para ter a oportunidade de ga\u00f1ar o %s, todo o que tes que facer \u00e9 cubrir o formulario de rexistro da t\u00faa conta. Para comezar, s\u00f3 tes que participar no concurso co teu enderezo de correo electr\u00f3nico."
+        },
+        "step2": {
+            "sStep2": "Paso 2",
+            "ssDesc21": "Unha vez que inicies sesi\u00f3n, ter\u00e1s a oportunidade de obter entradas adicionais completando varias acci\u00f3ns, inclu\u00edda a visita \u00e1s nosas canles de redes sociais.",
+            "ssDesc22": "Tes dereito a completar cantas acci\u00f3ns queiras, cada acci\u00f3n ofrece un n\u00famero \u00fanico de entradas e cada entrada \u00e9 un ga\u00f1ador potencial.",
+            "ssDesc23": "Tam\u00e9n podes saltar acci\u00f3ns por s\u00f3 $ 1."
+        },
+        "step3": {
+            "done": "Feito.",
+            "sStep3": "Paso 3",
+            "ssDesc31": "Feito. Contactaremos inmediatamente con vostede en funci\u00f3n do contacto que se completou no momento do rexistro no noso sitio."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Regala %s dun xeito grande.",
+        "bDesc3": "Este evento ofrece m\u00e1is slots ga\u00f1adores que o ano pasado. Invita aos teus amigos e familiares a ter maiores oportunidades. <a href='%s' target='_blank'> Rex\u00edstrese agora <\/a> antes de que comece este evento."
+    },
+    "section4": {
+        "sTitleBefore4": "Avaliaci\u00f3n seleccionada",
+        "sTitle4": "Ga\u00f1ador de agasallos",
+        "sDesc4": "Algunhas cr\u00edticas dos ga\u00f1adores de agasallos",
+        "theWinner": {
+            "winner": "GA\u00d1ADOR",
+            "winner1": "Justin Daniel",
+            "coment1": "Grazas polo di\u00f1eiro, espero que a t\u00faa tenda estea m\u00e1is chea.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Esta \u00e9 realmente unha famosa tenda de GeneralStore, recib\u00edn o paquete con \u00e9xito, o produto \u00e9 orixinal e non paguei ningunha taxa. Grazas.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Ao principio non o cr\u00eda, pero despois de contactar con eles resultou que era unha tenda xeral. grazas GeneralStore por %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Grazas a Deus por aumentar a mi\u00f1a sorte, grazas polo agasallo, a GeneralStore enc\u00e1ntame."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "O bo funcionamento dos nosos eventos e negocios",
+        "sTitle5": "Apoiado por",
+        "sDesc5": "O noso agradecemento polo apoio que sempre nos axuda",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Empresa tecnol\u00f3xica multinacional estadounidense con sede en Seattle, Washington, que se centra no comercio electr\u00f3nico, computaci\u00f3n na nube, transmisi\u00f3n dixital e intelixencia artificial.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Venda polo mi\u00fado de internet estadounidense que vende principalmente mobles con sede en Midvale, Utah, preto de Salt Lake City. Patrick M. Byrne fundou Overstock.com en 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Corporaci\u00f3n multinacional estadounidense de venda polo mi\u00fado que opera unha cadea de hipermercados, grandes almac\u00e9ns de desconto e supermercados dos Estados Unidos, con sede en Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Venda polo mi\u00fado multinacional estadounidense de produtos electr\u00f3nicos de consumo con sede en Richfield, Minnesota. Foi fundada orixinalmente por Richard M. Schulze e James Wheeler en 1966 como unha tenda especializada en audio chamada Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Servizo de venda polo mi\u00fado en li\u00f1a con sede en China propiedade do grupo Alibaba. Lanzado en 2010, est\u00e1 composto por pequenas empresas en China e noutros lugares, como Singapur, que ofrecen produtos a compradores internacionais en li\u00f1a.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corporaci\u00f3n multinacional estadounidense de comercio electr\u00f3nico con sede en San Jose, California, que facilita as vendas entre consumidores e empresas a trav\u00e9s do seu sitio web."
+    },
+    "section6": {
+        "sTitleBefore6": "Manterse en contacto",
+        "sTitle6": "P\u00f3\u00f1ase en contacto connosco",
+        "sDesc6": "Se ten algunha d\u00fabida sobre alg\u00fan produto ou calquera informaci\u00f3n que precise, non dubide en contactar connosco.",
+        "firstName": "Nome",
+        "lastName": "Apelido",
+        "subject": "Asunto",
+        "email": "Correo electr\u00f3nico",
+        "writeyourmessagehere": "Escribe aqu\u00ed a t\u00faa mensaxe.",
+        "sendmessage": "Enviar mensaxe",
+        "sendsuccess": "Mensaxe enviada <strong> correctamente <\/strong>",
+        "sendsuccess1": "Responderemos canto antes."
+    }
+}

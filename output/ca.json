@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Unir-se ara",
+        "howtojoin": "Com unir-se?",
+        "giveawaylist": "Llista de regals",
+        "review": "Revisi\u00f3",
+        "support": "Suport",
+        "contact": "Contacte",
+        "aboutus": "Sobre nosaltres",
+        "aboutusdesc": "General Store \u00e9s el centre comercial de totes les botigues de sucursals General Store de tot el m\u00f3n dedicades a distribu\u00efdors especials de marques conegudes.",
+        "links": "Enlla\u00e7os",
+        "subscribe": "Subscriu-te",
+        "subscribedesc": "Introdu\u00efu el vostre correu electr\u00f2nic si voleu rebre les darreres novetats de nosaltres.",
+        "subscribesend": "La sol\u00b7licitud s'ha enviat <strong> correctament <\/strong>",
+        "openregistration": "Inscripci\u00f3 oberta",
+        "opening": "Inauguraci\u00f3",
+        "closing": "Tancament",
+        "registernow": "Registra't ara",
+        "checkingregistereddata": "Comprovaci\u00f3 de dades registrades",
+        "from": "Des de",
+        "to": "Per a",
+        "viewregistereddata": "Veure dades registrades",
+        "visitor": "Visitant",
+        "copyright": "Copyright",
+        "allrightsreserved": "Tots els drets reservats"
+    },
+    "title": "Regala %s",
+    "subtitle": "Inscriviu-vos ara per tenir l'oportunitat de guanyar %s.",
+    "wordcontinue": "Continua",
+    "section1": {
+        "sTitleBefore1": "Unim-nos a nosaltres",
+        "sTitle1": "Gaudeix dels avantatges",
+        "sDesc1": "Nom\u00e9s aqu\u00ed podeu obtenir molts avantatges de regal, f\u00e0cils d\u2019afegir, els millors productes de regal i altres avantatges",
+        "item": {
+            "iconItem1": "icona-verificat_usuari",
+            "titleItem1": "Segur",
+            "descItem1": "Seguretat garantida.",
+            "iconItem2": "icona-diners",
+            "titleItem2": "Diners segurs",
+            "descItem2": "No cobra cap taxa en rebre un regal.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Temps segur",
+            "descItem3": "Obtingueu GiveAway en menys de 24 hores."
+        },
+        "timer": {
+            "timerTitle": "La bonificaci\u00f3 d\u2019entrada gratu\u00efta finalitza a:",
+            "days": "Dies",
+            "hours": "Hores",
+            "minutes": "Minuts",
+            "seconds": "Segons"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Regala %s",
+        "bDesc1": "Si us heu registrat, consulteu el vostre correu electr\u00f2nic peri\u00f2dicament per obtenir la informaci\u00f3 m\u00e9s recent de nosaltres. Tamb\u00e9 repartirem vals de compra gratu\u00efts a la nostra botiga. A qu\u00e8 estas esperant! <a href='%s' target='_blank'> Introducci\u00f3 <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Digueu-ho als vostres amics ara mateix",
+        "sTitle2": "Obteniu tot el regal gratu\u00eft",
+        "sDesc2": "Trieu el regal que vulgueu, tamb\u00e9 podeu participar a tots els regals de la llista que us proporcionem a continuaci\u00f3."
+    },
+    "banner2": {
+        "bTitle2": "Requisits senzills i senzills",
+        "bDesc2": "Nom\u00e9s registrant-vos, podeu participar en el nostre obsequi. A qu\u00e8 estas esperant! <a href='%s' target='_blank'> Registra't <\/a> ara mateix."
+    },
+    "section3": {
+        "sTitleBefore3": "Agafa-ho ara",
+        "sTitle3": "Com unir-se?",
+        "sDesc3": "Obteniu un regal gratu\u00eft en menys de 24 hores. No deixeu passar aquesta rara oportunitat, \u00e9s molt f\u00e0cil, nom\u00e9s cal que us registreu al nostre lloc web i realitzeu l\u2019enquesta (si n\u2019hi ha), no heu de pagar res. Enhorabona!",
+        "step1": {
+            "sStep1": "Pas 1",
+            "ssDesc11": "Per tenir l'oportunitat de guanyar el %s, nom\u00e9s cal que empleneu el formulari de registre del compte. Per comen\u00e7ar, nom\u00e9s cal que participeu al concurs amb la vostra adre\u00e7a de correu electr\u00f2nic."
+        },
+        "step2": {
+            "sStep2": "Pas 2",
+            "ssDesc21": "Un cop h\u00e0giu iniciat la sessi\u00f3, tindreu l'oportunitat d'obtenir entrades addicionals mitjan\u00e7ant diverses accions, inclosa la visita als nostres canals de xarxes socials.",
+            "ssDesc22": "Teniu dret a completar tantes accions com vulgueu, cada acci\u00f3 ofereix un nombre \u00fanic d\u2019entrades i cada entrada \u00e9s un guanyador potencial.",
+            "ssDesc23": "Tamb\u00e9 podeu ometre accions per nom\u00e9s $ 1."
+        },
+        "step3": {
+            "done": "Fet.",
+            "sStep3": "Pas 3",
+            "ssDesc31": "Fet. Ens posarem en contacte immediatament amb vosaltres en funci\u00f3 del contacte que es va omplir en el moment del registre al nostre lloc."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Regala %s de manera gran.",
+        "bDesc3": "Aquest esdeveniment proporciona m\u00e9s espais guanyadors que l'any passat. Convideu els vostres amics i familiars per obtenir oportunitats encara m\u00e9s grans. <a href='%s' target='_blank'> Registra't ara <\/a> abans que comenci aquest esdeveniment."
+    },
+    "section4": {
+        "sTitleBefore4": "Avaluaci\u00f3 seleccionada",
+        "sTitle4": "Guanyador de regals",
+        "sDesc4": "Algunes ressenyes dels guanyadors de regals",
+        "theWinner": {
+            "winner": "GUANYADOR",
+            "winner1": "Justin Daniel",
+            "coment1": "Gr\u00e0cies pels diners en efectiu, espero que la vostra botiga estigui m\u00e9s concorreguda.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Aquesta \u00e9s realment una botiga famosa de GeneralStore, he rebut el paquet amb \u00e8xit, el producte \u00e9s original i no he pagat cap comissi\u00f3. Gr\u00e0cies.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Al principi no m\u2019ho creia, per\u00f2 despr\u00e9s de contactar amb ells va resultar que es tractava d\u2019una botiga general. gr\u00e0cies GeneralStore per %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Gr\u00e0cies a D\u00e9u per augmentar la meva sort, gr\u00e0cies per l\u2019obsequi, a GeneralStore m\u2019encanta."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "El bon funcionament dels nostres esdeveniments i negocis",
+        "sTitle5": "Recolzat per",
+        "sDesc5": "El nostre agra\u00efment pel suport total que sempre ens ajuda",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Empresa multinacional de tecnologia nord-americana amb seu a Seattle, Washington, que se centra en el comer\u00e7 electr\u00f2nic, la computaci\u00f3 en n\u00favol, la transmissi\u00f3 digital i la intel\u00b7lig\u00e8ncia artificial.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Distribu\u00efdor nord-americ\u00e0 d'Internet que ven principalment mobles amb seu a Midvale, Utah, a prop de Salt Lake City. Patrick M. Byrne va fundar Overstock.com el 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Corporaci\u00f3 multinacional nord-americana minorista que opera una cadena d\u2019hipermercats, grans magatzems amb descompte i botigues de queviures dels Estats Units, amb seu a Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Distribu\u00efdor multinacional nord-americ\u00e0 d\u2019electr\u00f2nica de consum amb seu a Richfield, Minnesota. Va ser fundada originalment per Richard M. Schulze i James Wheeler el 1966 com una botiga especialitzada en \u00e0udio anomenada Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Servei de venda al detall en l\u00ednia amb seu a la Xina, propietat del grup Alibaba. Llan\u00e7at el 2010, est\u00e0 format per petites empreses a la Xina i altres ubicacions, com Singapur, que ofereixen productes a compradors internacionals en l\u00ednia.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corporaci\u00f3 multinacional nord-americana de comer\u00e7 electr\u00f2nic amb seu a San Jose, Calif\u00f2rnia, que facilita les vendes de consumidors a consumidors a trav\u00e9s del seu lloc web."
+    },
+    "section6": {
+        "sTitleBefore6": "Posar-se en contacte",
+        "sTitle6": "Poseu-vos en contacte amb nosaltres",
+        "sDesc6": "Si teniu cap pregunta sobre un producte o qualsevol informaci\u00f3 que necessiteu, no dubteu en posar-vos en contacte amb nosaltres.",
+        "firstName": "Nom",
+        "lastName": "Cognom",
+        "subject": "Assignatura",
+        "email": "Correu electr\u00f2nic",
+        "writeyourmessagehere": "Escriviu aqu\u00ed el vostre missatge.",
+        "sendmessage": "Enviar missatge",
+        "sendsuccess": "El missatge s'ha enviat <strong> correctament <\/strong>",
+        "sendsuccess1": "Respondrem el m\u00e9s aviat possible."
+    }
+}

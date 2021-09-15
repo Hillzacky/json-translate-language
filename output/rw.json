@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Injira nonaha",
+        "howtojoin": "Nigute Twokwinjira?",
+        "giveawaylist": "Urutonde rwo gutanga",
+        "review": "Isubiramo",
+        "support": "Inkunga",
+        "contact": "Twandikire",
+        "aboutus": "Ibyerekeye Twebwe",
+        "aboutusdesc": "Ububiko rusange nububiko bwububiko rusange bwamashami yububiko bwisi yose bukora ibicuruzwa bidasanzwe byamamaye azwi.",
+        "links": "Ihuza",
+        "subscribe": "Iyandikishe",
+        "subscribedesc": "Nyamuneka andika imeri yawe niba ushaka kwakira amakuru agezweho muri twe.",
+        "subscribesend": "Gusaba kohereza <strong> gutsinda <\/strong>",
+        "openregistration": "Gufungura kwiyandikisha",
+        "opening": "Gufungura",
+        "closing": "Gufunga",
+        "registernow": "Iyandikishe nonaha",
+        "checkingregistereddata": "Kugenzura amakuru yanditse",
+        "from": "Kuva",
+        "to": "Kuri",
+        "viewregistereddata": "Reba amakuru yanditse",
+        "visitor": "Umushyitsi",
+        "copyright": "Uburenganzira",
+        "allrightsreserved": "Uburenganzira bwose burabitswe"
+    },
+    "title": "Tanga %s",
+    "subtitle": "Iyandikishe nonaha amahirwe yo gutsinda %s!",
+    "wordcontinue": "Komeza",
+    "section1": {
+        "sTitleBefore1": "Reka Twifatanye natwe",
+        "sTitle1": "Ishimire Inyungu",
+        "sDesc1": "Gusa hano urashobora kubona benshi batanga inyungu, byoroshye kwinjiramo, ibyiza bitanga ibicuruzwa nibindi byiza bitandukanye",
+        "item": {
+            "iconItem1": "agashusho-kagenzuwe_umukoresha",
+            "titleItem1": "Umutekano",
+            "descItem1": "Umutekano wishingiwe.",
+            "iconItem2": "agashusho-amafaranga",
+            "titleItem2": "Amafaranga Yizewe",
+            "descItem2": "Ntabwo yishyuza amafaranga iyo yakiriye impano.",
+            "iconItem3": "agashusho-kwinjira_ibimenyetso",
+            "titleItem3": "Igihe cyizewe",
+            "descItem3": "Fata Gutanga mu masaha atarenze 24!"
+        },
+        "timer": {
+            "timerTitle": "Agahimbazamusyi k'ubuntu karangirira kuri:",
+            "days": "Iminsi",
+            "hours": "Amasaha",
+            "minutes": "Iminota",
+            "seconds": "Amasegonda"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Tanga %s",
+        "bDesc1": "Niba wiyandikishije, reba imeri yawe buri gihe kugirango ubone amakuru yanyuma muri twe. Tuzatanga kandi inyemezabuguzi zo guhaha kububiko bwacu kubuntu. Utegereje iki! <a href='%s' target='_blank'> Tangira <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Bwira inshuti zawe nonaha",
+        "sTitle2": "Kubona Byose Kubuntu",
+        "sDesc2": "Hitamo impano ukunda, urashobora kandi kwitabira gutanga byose uhereye kurutonde dutanga hepfo."
+    },
+    "banner2": {
+        "bTitle2": "Ibisabwa byoroshye kandi byoroshye",
+        "bDesc2": "Gusa nukwiyandikisha wenyine ushobora kwitabira gutanga. Utegereje iki! reka <a href='%s' target='_blank'> Iyandikishe <\/a> wowe ubwawe."
+    },
+    "section3": {
+        "sTitleBefore3": "Kubona Noneho",
+        "sTitle3": "Nigute Twokwinjira?",
+        "sDesc3": "Kubona Gutanga kubuntu mumasaha atarenze 24! Ntucikwe naya mahirwe adasanzwe, biroroshye cyane, iyandikishe kurubuga rwacu hanyuma ukore ubushakashatsi (niba bihari), ntacyo ugomba kwishyura. Twishimiye!",
+        "step1": {
+            "sStep1": "Intambwe ya 1",
+            "ssDesc11": "Kugirango ubone amahirwe yo gutsinda %s, icyo ukeneye gukora nukuzuza urupapuro rwabigenewe. Kugirango utangire, andika amarushanwa hamwe na imeri yawe."
+        },
+        "step2": {
+            "sStep2": "Intambwe ya 2",
+            "ssDesc21": "Umaze kwinjira, uzagira amahirwe yo kubona izindi nyandiko wuzuza ibikorwa bitandukanye, harimo no gusura imbuga nkoranyambaga.",
+            "ssDesc22": "Ufite uburenganzira bwo kurangiza ibikorwa byinshi nkuko ubishaka, buri gikorwa gitanga umubare wihariye wibyanditswe kandi buri cyinjira gishobora gutsinda.",
+            "ssDesc23": "Urashobora kandi gusimbuka ibikorwa kumadorari 1 gusa."
+        },
+        "step3": {
+            "done": "Byakozwe.",
+            "sStep3": "Intambwe ya 3",
+            "ssDesc31": "Byakozwe. Tuzahita tuvugana dushingiye kuri contact zujujwe mugihe cyo kwiyandikisha kurubuga rwacu."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Tanga A %% muburyo bunini.",
+        "bDesc3": "Ibi birori bitanga amanota menshi kurusha umwaka ushize. Saba inshuti zawe n'umuryango wawe amahirwe menshi. <a href='%s' target='_blank'> Iyandikishe nonaha <\/a> mbere yuko iki gikorwa gitangira."
+    },
+    "section4": {
+        "sTitleBefore4": "Isuzuma ryatoranijwe",
+        "sTitle4": "Uwatsinze",
+        "sDesc4": "Bimwe mubisubiramo kubatsinze",
+        "theWinner": {
+            "winner": "WINNER",
+            "winner1": "Justin Daniel",
+            "coment1": "Urakoze kuri Cash, nizere ko ububiko bwawe buzaba bwuzuye.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Nukuri ni iduka rizwi cyane rya GeneralStore, paki yagenze neza nakiriye, Igicuruzwa numwimerere, kandi ntabwo nishyuye. Murakoze.",
+            "winner3": "Matayo Davidson",
+            "coment3": "Ubwa mbere ntabwo nabyizeraga, ariko nyuma yo kubaganiriza byagaragaye ko ari GeneralStore. urakoze GeneralStore kuri %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Imana ishimwe ko yongereye amahirwe, urakoze gutanga, GeneralStore ndabikunda."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Gukora neza ibyabaye & ubucuruzi",
+        "sTitle5": "Bishyigikiwe na",
+        "sDesc5": "Turashimira inkunga yuzuye idufasha buri gihe",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Isosiyete ikora ibijyanye n\u2019ikoranabuhanga muri Amerika ifite icyicaro i Seattle, i Washington, yibanda kuri e-ubucuruzi, kubara ibicu, gukwirakwiza amakuru, hamwe n\u2019ubwenge bw\u2019ubukorikori.",
+        "tSupport2": "Kurenza.com",
+        "dSupport2": "Umucuruzi wa interineti wabanyamerika ugurisha cyane cyane ibikoresho bikuru bifite icyicaro i Midvale, Utah, hafi yumujyi wa Salt Lake City. Patrick M. Byrne yashinze Overstock.com mu 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Isosiyete y'Abanyamerika icuruza ibihugu byinshi ikora urunigi rwa hypermarket, amaduka agabanijwe, hamwe n'amaduka y'ibiribwa aturuka muri Amerika, afite icyicaro i Bentonville, muri Arkansas.",
+        "tSupport4": "Yamamoto.com",
+        "dSupport4": "Abacuruzi bo muri Amerika mu mahanga bagurisha ibikoresho bya elegitoroniki bafite icyicaro i Richfield, muri Leta ya Minnesota. Yashinzwe bwa mbere na Richard M. Schulze na James Wheeler mu 1966 nkububiko bwihariye bwamajwi bwitwa Ijwi ryumuziki.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Serivise yo kugurisha kumurongo ikorera mubushinwa ifitwe nitsinda rya Alibaba. Yatangijwe mu mwaka wa 2010, igizwe n\u2019ubucuruzi buciriritse mu Bushinwa n\u2019ahandi, nka Singapore, butanga ibicuruzwa ku baguzi mpuzamahanga kuri interineti.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Isosiyete ikora ibijyanye n\u2019ubucuruzi bw\u2019ibihugu by\u2019Abanyamerika ifite icyicaro i San Jose, muri Kaliforuniya, yorohereza abaguzi-ku-baguzi n\u2019ubucuruzi-ku baguzi binyuze ku rubuga rwayo."
+    },
+    "section6": {
+        "sTitleBefore6": "Menyesha",
+        "sTitle6": "Twandikire",
+        "sDesc6": "Niba ufite ikibazo kijyanye nigicuruzwa, cyangwa amakuru yose ukeneye, nyamuneka ntutindiganye kutwandikira.",
+        "firstName": "Izina",
+        "lastName": "Izina ryanyuma",
+        "subject": "Ingingo",
+        "email": "Imeri",
+        "writeyourmessagehere": "Andika ubutumwa bwawe hano.",
+        "sendmessage": "Kohereza Ubutumwa",
+        "sendsuccess": "Ubutumwa bwoherejwe <strong> gutsinda <\/strong>",
+        "sendsuccess1": "Tuzasubiza vuba bishoboka."
+    }
+}

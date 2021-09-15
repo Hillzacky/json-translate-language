@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Apil na",
+        "howtojoin": "Unsaon Pag-apil?",
+        "giveawaylist": "Lista sa Paghatag",
+        "review": "Repasuha",
+        "support": "Pagsuporta",
+        "contact": "Kontaka",
+        "aboutus": "Bahin Kanato",
+        "aboutusdesc": "Ang General Store mao ang sentro sa tindahan sa tanan nga mga tindahan sa sangay sa General Store sa tibuuk kalibutan nga ning-apil sa mga espesyal nga tigpanghatag mga inila nga tatak.",
+        "links": "Mga link",
+        "subscribe": "Pag-subscribe",
+        "subscribedesc": "Palihug ipasok ang imong email kung gusto nimo madawat ang labing bag-ong balita gikan kanamo.",
+        "subscribesend": "Gipadala ang paghangyo <strong> malampuson <\/strong>",
+        "openregistration": "Ablihan ang Pagrehistro",
+        "opening": "Pag-abli",
+        "closing": "Pagsira",
+        "registernow": "Pagrehistro Karon",
+        "checkingregistereddata": "Pagsusi sa narehistro nga datos",
+        "from": "Gikan sa",
+        "to": "Sa",
+        "viewregistereddata": "Tan-awa ang narehistro nga datos",
+        "visitor": "Bisita",
+        "copyright": "Katungod sa copyright",
+        "allrightsreserved": "Ang tanan nga mga katungod gigahin"
+    },
+    "title": "Hatagan %s",
+    "subtitle": "Pag-sign up karon alang sa usa ka higayon nga makadaog sa %s!",
+    "wordcontinue": "Padayon",
+    "section1": {
+        "sTitleBefore1": "Apil Kami",
+        "sTitle1": "Malipay Sa Mga Kaayohan",
+        "sDesc1": "Dinhi ka lang makakuha daghang mga benepisyo nga mahatag, dali moapil, labing kaayo nga naghatag mga produkto ug lainlaing mga benepisyo",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Luwas",
+            "descItem1": "Gipasalig ang Seguridad.",
+            "iconItem2": "icon-money",
+            "titleItem2": "Luwas nga Salapi",
+            "descItem2": "Dili maningil sa bisan unsang bayranan kung makadawat giveaway.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Luwas nga Oras",
+            "descItem3": "Kuhaa ang GiveAway nga mas mubu sa 24 oras!"
+        },
+        "timer": {
+            "timerTitle": "Ang libre nga entry bonus matapos sa:",
+            "days": "Mga adlaw",
+            "hours": "Mga oras",
+            "minutes": "Mga minuto",
+            "seconds": "Mga segundo"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Hatagan %s",
+        "bDesc1": "Kung nagparehistro ka, susihon kanunay ang imong email aron makuha ang pinakabag-ong kasayuran gikan kanamo. Hatagan usab namon ang mga voucher alang sa pagpamalit sa among tindahan nga libre. Unsa pa ang imong gihulat! <a href='%s' target='_blank'> Pagsugod <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Sultihi ang imong mga higala karon",
+        "sTitle2": "Kuhaa ang Tanan nga Libre GiveAway",
+        "sDesc2": "Pilia ang regalo nga gusto nimo, mahimo ka usab nga moapil sa tanan nga paghatag gikan sa lista nga among gihatag sa ubus."
+    },
+    "banner2": {
+        "bTitle2": "Sayon ug Yano nga mga Kinahanglanon",
+        "bDesc2": "Pinaagi ra sa pagparehistro sa imong kaugalingon mahimo ka makaapil sa among paghatag. Unsa pa ang imong gihulat! <a href='%s' target='_blank'> Magrehistro <\/a> sa imong kaugalingon karon usab."
+    },
+    "section3": {
+        "sTitleBefore3": "Kuhaa Kini Karon",
+        "sTitle3": "Giunsa ang Pag-apil?",
+        "sDesc3": "Pagkuha usa ka libre nga GiveAway nga mas mubu sa 24 oras! Ayaw palabya \u200b\u200bkining talagsa nga higayon, dali ra kaayo, magparehistro ra sa among website ug surbi ang survey (kung naa man), wala ka\u2019y bayad. Pahalipay!",
+        "step1": {
+            "sStep1": "Lakang 1",
+            "ssDesc11": "Aron makakuha higayon nga maangkon ang %s, ang kinahanglan ra nimo buhaton mao ang pagpuno sa imong form sa pagrehistro sa account. Aron makasugod, isulud ra ang indigay gamit ang imong email address."
+        },
+        "step2": {
+            "sStep2": "Lakang 2",
+            "ssDesc21": "Sa higayon nga mag-log in ka, adunay higayon nga makakuha dugang nga mga entry pinaagi sa pagkompleto sa lainlaing mga aksyon, lakip ang pagbisita sa among mga social media channel.",
+            "ssDesc22": "Adunay ka katungod nga makumpleto ang daghang mga aksyon nga gusto nimo, ang matag aksyon nagtanyag us aka talagsaon nga ihap sa mga entry ug ang matag entry usa ka potensyal nga mananaog.",
+            "ssDesc23": "Mahimo usab nimo laktawan ang mga aksyon sa $ 1 ra."
+        },
+        "step3": {
+            "done": "Nahimo.",
+            "sStep3": "Lakang 3",
+            "ssDesc31": "Nahimo. Makikontak dayon kami kanimo base sa kontak nga napuno sa oras sa pagrehistro sa among site."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Hatagan ang %s sa usa ka Daghang paagi.",
+        "bDesc3": "Ang kini nga kalihokan naghatag labi ka daghang mga daog kaysa sa miaging tuig. Imbitaha ang imong mga higala ug pamilya alang sa labi ka daghang mga oportunidad. <a href='%s' target='_blank'> Pagrehistro karon <\/a> sa wala pa magsugod kini nga kalihokan."
+    },
+    "section4": {
+        "sTitleBefore4": "Napili nga pagsusi",
+        "sTitle4": "Nagdaog sa Giveaway",
+        "sDesc4": "Ang pila ka pagribyu sa mga nagdaog sa giveaway",
+        "theWinner": {
+            "winner": "Nagdaog",
+            "winner1": "Justin Daniel",
+            "coment1": "Salamat sa Cash, hinaut nga mas daghan ang imong tindahan.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Kini usa gyud ka bantog nga tindahan sa GeneralStore, malampuson ang putos nga akong nadawat, orihinal ang produkto, ug wala ako magbayad bisan unsang bayranan. Salamat.",
+            "winner3": "Mateo Davidson",
+            "coment3": "Sa una wala ako nagtuo niini, apan pagkahuman nga nakontak nako sila kini usa ka GeneralStore. salamat sa GeneralStore alang sa %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Salamat sa diyos alang sa pagdugang sa akong swerte, salamat sa paghatag, GeneralStore ganahan ako niini."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Ang hapsay nga pagpadagan sa among mga kalihokan ug negosyo",
+        "sTitle5": "Gisuportahan ni",
+        "sDesc5": "Ang among pasalamat alang sa bug-os nga suporta nga kanunay makatabang kanamo",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Ang kompanya sa teknolohiya nga multinasyunal nga Amerikano nga nakabase sa Seattle, Washington, nga nagpunting sa e-commerce, cloud computing, digital streaming, ug artipisyal nga salabutan.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Ang namaligya sa internet sa Amerika nga namaligya labi na ang mga kasangkapan nga puno sa opisina sa Midvale, Utah, duol sa Siyudad sa Salt Lake. Patrick M. Byrne gitukod ang Overstock.com kaniadtong 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ang American multinational retail corporation nga nagpadagan usa ka kadena nga hypermarket, mga department store nga adunay diskwento, ug mga grocery store gikan sa Estados Unidos, ang punoang opisina sa Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Ang tigpamaligya sa elektronik nga multinasyunal nga Amerikano nga adunay punoan nga opisina sa Richfield, Minnesota. Kini orihinal nga gitukod ni Richard M. Schulze ug James Wheeler kaniadtong 1966 isip usa ka audio specialty store nga gitawag og Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Ang serbisyo sa pamaligya sa online nga nakabase sa Tsina nga tag-iya sa Alibaba Group. Gilansad kaniadtong 2010, kini gilangkuban sa gagmay nga mga negosyo sa Tsina ug uban pang mga lokasyon, sama sa Singapore, nga nagtanyag mga produkto sa mga internasyonal nga pumapalit sa online.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Ang Amerikanong multinasyunal nga korporasyon sa e-commerce nga nakabase sa San Jose, California, nga nagpahigayun sa mga consumer-to-consumer ug negosyo-to-consumer sales pinaagi sa website niini."
+    },
+    "section6": {
+        "sTitleBefore6": "Pakigsulti",
+        "sTitle6": "Kontaka Kami",
+        "sDesc6": "Kung adunay ka mga pangutana bahin sa usa ka produkto, o bisan unsang kasayuran nga imong gikinahanglan, palihug ayaw pagpanuko sa pagkontak kanamo.",
+        "firstName": "Unang Ngalan",
+        "lastName": "Katapusan nga Ngalan",
+        "subject": "Hilisgutan",
+        "email": "Email",
+        "writeyourmessagehere": "Isulat dinhi ang imong mensahe.",
+        "sendmessage": "Magpadala Mensahe",
+        "sendsuccess": "Malampuson nga gipadala ang mensahe <\/strong>",
+        "sendsuccess1": "Motubag kami sa labing dali nga panahon."
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Ali\u011du nun",
+        "howtojoin": "Kiel Ali\u011di?",
+        "giveawaylist": "Donaclisto",
+        "review": "Recenzo",
+        "support": "Subteno",
+        "contact": "Kontakto",
+        "aboutus": "Pri ni",
+        "aboutusdesc": "\u011cenerala Butiko estas la butika centro de \u0109iuj filiaj butikoj de \u011cenerala Butiko tra la mondo, kiuj okupi\u011das pri specialaj distribuistoj de konataj markoj.",
+        "links": "Ligiloj",
+        "subscribe": "Aboni",
+        "subscribedesc": "Bonvolu enigi vian retpo\u015dton se vi volas ricevi la plej novajn nova\u0135ojn de ni.",
+        "subscribesend": "Peto sendita <strong> sukcese <\/strong>",
+        "openregistration": "Malferma Registrado",
+        "opening": "Malfermo",
+        "closing": "Fermo",
+        "registernow": "Registri\u011du Nun",
+        "checkingregistereddata": "Kontrolante registritajn datumojn",
+        "from": "De",
+        "to": "Al",
+        "viewregistereddata": "Rigardi registritajn datumojn",
+        "visitor": "Vizitanto",
+        "copyright": "Kopirajto",
+        "allrightsreserved": "\u0108iuj rajtoj rezervitaj"
+    },
+    "title": "Fordonu %s",
+    "subtitle": "Registri\u011du nun por \u015danco gajni %s!",
+    "wordcontinue": "Da\u016drigu",
+    "section1": {
+        "sTitleBefore1": "Ni Ali\u011du Al Ni",
+        "sTitle1": "\u011cuu La Avanta\u011dojn",
+        "sDesc1": "Nur \u0109i tie vi povas ricevi multajn donacajn avanta\u011dojn, facilajn kunigojn, la plej bonajn donacajn produktojn kaj diversajn aliajn avanta\u011dojn",
+        "item": {
+            "iconItem1": "ikono-kontrolita_uzanto",
+            "titleItem1": "Sekura",
+            "descItem1": "Garantiita Sekureco.",
+            "iconItem2": "ikono-mono",
+            "titleItem2": "Sekura Mono",
+            "descItem2": "Ne postulas kotizojn ricevante donacon.",
+            "iconItem3": "ikono-aliro_alarmoj",
+            "titleItem3": "Sekura Tempo",
+            "descItem3": "Akiru Donacon en malpli ol 24 horoj!"
+        },
+        "timer": {
+            "timerTitle": "Senpaga enira gratifiko fini\u011das \u0109e:",
+            "days": "Tagoj",
+            "hours": "Horoj",
+            "minutes": "Minutoj",
+            "seconds": "Sekundoj"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Fordonu %s",
+        "bDesc1": "Se vi registri\u011dis, kontrolu vian retpo\u015dton periode por ricevi la plej novajn informojn de ni. Ni anka\u016d donos kuponojn por a\u0109etado \u0109e nia butiko senpage. Kion vi atendas! <a href='%s' target='_blank'> Komenci <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Diru al viaj amikoj nun",
+        "sTitle2": "Akiru \u0108iujn Senpagajn Donacojn",
+        "sDesc2": "Elektu la donacon, kiun vi \u015datas, vi anka\u016d povas partopreni \u0109iujn donacojn el la listo, kiun ni donas sube."
+    },
+    "banner2": {
+        "bTitle2": "Facilaj kaj Simplaj Postuloj",
+        "bDesc2": "Nur registri\u011dante mem vi povas partopreni en nia donaco. Kion vi atendas! ni <a href='%s' target='_blank'> registri\u011du <\/a> mem nun."
+    },
+    "section3": {
+        "sTitleBefore3": "Akiru \u011cin Nun",
+        "sTitle3": "Kiel Ali\u011di?",
+        "sDesc3": "Akiru senpagan donacon en malpli ol 24 horoj! Ne maltrafu \u0109i tiun maloftan \u015dancon, \u011di estas tre facila, simple registri\u011du en nia retejo kaj partoprenu la enketon (se ekzistas), vi ne devas pagi ion ajn. Gratulon!",
+        "step1": {
+            "sStep1": "Pa\u015do 1",
+            "ssDesc11": "Por akiri \u015dancon gajni la %s, vi nur bezonas plenigi vian registran formularon. Por komenci, simple eniru la konkurson kun via retpo\u015dta adreso."
+        },
+        "step2": {
+            "sStep2": "Pa\u015do 2",
+            "ssDesc21": "Post kiam vi ensalutis, vi havos la \u015dancon akiri aldonajn kontribuojn per diversaj agoj, inkluzive viziti niajn sociajn retojn.",
+            "ssDesc22": "Vi rajtas plenumi tiom multajn agojn kiom vi volas, \u0109iu ago ofertas unikan nombron da eniroj kaj \u0109iu eniro estas ebla gajninto.",
+            "ssDesc23": "Vi anka\u016d povas preterpasi agojn kontra\u016d nur $ 1."
+        },
+        "step3": {
+            "done": "Farita.",
+            "sStep3": "Pa\u015do 3",
+            "ssDesc31": "Farita. Ni tuj kontaktos vin surbaze de la kontakto plenigita en la momento de registri\u011do en nia retejo."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Fordonu %s la\u016d granda maniero.",
+        "bDesc3": "\u0108i tiu evento provizas pli da gajnaj fendoj ol pasintjare. Invitu viajn amikojn kaj familion por e\u0109 pli grandaj \u015dancoj. <a href='%s' target='_blank'> Registru nun <\/a> anta\u016d ol \u0109i tiu evento komenci\u011dos."
+    },
+    "section4": {
+        "sTitleBefore4": "Elektita takso",
+        "sTitle4": "Giveaway Gajnanto",
+        "sDesc4": "Iuj recenzoj pri donacaj gajnintoj",
+        "theWinner": {
+            "winner": "GAJNINTO",
+            "winner1": "Justin Daniel",
+            "coment1": "Dankon pro la Mono, mi esperas, ke via butiko estos pli plena.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "\u0108i tio vere estas fama butiko GeneralStore, la paka\u0135o sukcesis, kiun mi ricevis, produkto estas originala, kaj mi ne pagis kotizojn. Dankon.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Unue mi ne kredis \u011din, sed post kiam mi kontaktis ilin, rezultis, ke \u011di estas \u011cenerala Butiko. dankon GeneralStore por %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Dankon al Dio pro pliigi mian sorton, dankon pro donaco, \u011cenerala Butiko mi amas \u011din."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "La glata funkciado de niaj eventoj kaj komerco",
+        "sTitle5": "Subtenita de",
+        "sDesc5": "Nian dankon pro la plena subteno, kiu \u0109iam helpas nin",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Usona plurnacia te companynika kompanio kun sidejo en Seatlo, Va\u015dingtono, kiu fokusi\u011das al e-komerco, nuba komputado, cifereca streaming kaj artefarita inteligenteco.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Usona interreta podetalisto vendanta \u0109efe meblojn \u0109efsidejitajn en Midvale, Utaho, proksime de Sallagurbo. Patrick M. Byrne fondis Overstock.com en 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Usona multnacia podetala kompanio, kiu administras \u0109enon de superbazaroj, rabataj grandmagazenoj kaj nutra\u0135vendejoj de Usono, kies \u0109efsidejo estas en Bentonville, Arkansaso.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Usona multnacia konsumelektronika podetalisto \u0109efsidejis en Richfield, Minesoto. \u011ci estis origine fondita de Richard M. Schulze kaj James Wheeler en 1966 kiel audio-speciala butiko nomata Sono de Muziko.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Reta podetala servo bazita en \u0108inio posedata de la grupo Alibaba. Lan\u0109ita en 2010, \u011di konsistas el malgrandaj entreprenoj en \u0108inio kaj aliaj lokoj, kiel Singapuro, kiuj ofertas produktojn al internaciaj interretaj a\u0109etantoj.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Usona multnacia e-komerca kompanio kun sidejo en San Jose, Kalifornio, kiu faciligas konsumojn al konsumantoj kaj entreprenoj per sia retejo."
+    },
+    "section6": {
+        "sTitleBefore6": "Kontaktu",
+        "sTitle6": "Kontaktu Nin",
+        "sDesc6": "Se vi havas demandojn pri produkto, a\u016d iujn informojn, kiujn vi bezonas, bonvolu ne heziti kontakti nin.",
+        "firstName": "Anta\u016dnomo",
+        "lastName": "Familia nomo",
+        "subject": "Subjekto",
+        "email": "Retpo\u015dto",
+        "writeyourmessagehere": "Skribu vian mesa\u011don \u0109i tie.",
+        "sendmessage": "Sendi mesa\u011don",
+        "sendsuccess": "Mesa\u011do sendita <strong> sukcese <\/strong>",
+        "sendsuccess1": "Ni respondos kiel eble plej balda\u016d."
+    }
+}

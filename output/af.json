@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Sluit nou aan",
+        "howtojoin": "Hoe om aan te sluit?",
+        "giveawaylist": "Weggee-lys",
+        "review": "Resensie",
+        "support": "Ondersteuning",
+        "contact": "Kontak",
+        "aboutus": "Oor ons",
+        "aboutusdesc": "General Store is die winkelsentrum van alle takwinkels van General Store regoor die w\u00eareld wat betrokke is by spesiale verspreiders van bekende handelsmerke.",
+        "links": "Skakels",
+        "subscribe": "Teken in",
+        "subscribedesc": "Voer asseblief u e-posadres in indien u die nuutste nuus van ons wil ontvang.",
+        "subscribesend": "Versoek is <strong> suksesvol <\/strong> gestuur",
+        "openregistration": "Oop registrasie",
+        "opening": "Opening",
+        "closing": "Sluiting",
+        "registernow": "Registreer nou",
+        "checkingregistereddata": "Kontroleer geregistreerde data",
+        "from": "Van",
+        "to": "Aan",
+        "viewregistereddata": "Kyk na geregistreerde data",
+        "visitor": "Besoeker",
+        "copyright": "Kopiereg",
+        "allrightsreserved": "Alle regte voorbehou"
+    },
+    "title": "Gee %s weg",
+    "subtitle": "Sluit nou aan vir 'n kans om %s te wen!",
+    "wordcontinue": "Aanhou",
+    "section1": {
+        "sTitleBefore1": "Kom ons sluit aan by ons",
+        "sTitle1": "Geniet die voordele",
+        "sDesc1": "Net hier kan u baie weggee-voordele kry, maklik om aan te sluit, die beste weggee-produkte en verskeie ander voordele",
+        "item": {
+            "iconItem1": "ikoon-geverifieerde_gebruiker",
+            "titleItem1": "Veilig",
+            "descItem1": "Gewaarborgde sekuriteit.",
+            "iconItem2": "ikoon-geld",
+            "titleItem2": "Veilige geld",
+            "descItem2": "Geen fooie hef as u 'n weggee ontvang nie.",
+            "iconItem3": "ikoon-toegang_alarms",
+            "titleItem3": "Veilige tyd",
+            "descItem3": "Kry GiveAway binne minder as 24 uur!"
+        },
+        "timer": {
+            "timerTitle": "Gratis toegangsbonus eindig by:",
+            "days": "Dae",
+            "hours": "Ure",
+            "minutes": "Minute",
+            "seconds": "Sekondes"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Gee %s weg",
+        "bDesc1": "As u geregistreer het, gaan u e-pos gereeld na om die nuutste inligting van ons te kry. Ons sal ook gratis koopbewyse uitdeel in ons winkel. Waarvoor wag jy! <a href='%s' target='_blank'> Aan die slag <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Vertel jou vriende dadelik",
+        "sTitle2": "Kry alles gratis weggee",
+        "sDesc2": "Kies die geskenk waarvan u hou, u kan ook deelneem aan al die geskenke uit die onderstaande lys."
+    },
+    "banner2": {
+        "bTitle2": "Maklike en eenvoudige vereistes",
+        "bDesc2": "U kan slegs deelneem aan ons geskenk deur uself te registreer. Waarvoor wag jy! kom ons <a href='%s' target='_blank'> Registreer <\/a> self nou."
+    },
+    "section3": {
+        "sTitleBefore3": "Kry dit nou",
+        "sTitle3": "Hoe om aan te sluit?",
+        "sDesc3": "Kry 'n gratis GiveAway in minder as 24 uur! Moenie hierdie seldsame geleentheid misloop nie; dit is baie maklik; registreer net op ons webwerf en neem die opname (indien enige), u hoef niks te betaal nie. Baie geluk!",
+        "step1": {
+            "sStep1": "Stap 1",
+            "ssDesc11": "Om u kans te kry om die %s te wen, hoef u slegs u registrasievorm in te vul. Om mee te begin, moet u net u e-posadres aan die wedstryd deelneem."
+        },
+        "step2": {
+            "sStep2": "Stap 2",
+            "ssDesc21": "Sodra u aangemeld is, het u die geleentheid om addisionele inskrywings te kry deur verskillende aksies uit te voer, insluitend ons sosiale mediakanale.",
+            "ssDesc22": "U het die reg om soveel aksies te voltooi as wat u wil, elke aksie bied 'n unieke aantal inskrywings en elke inskrywing is 'n potensi\u00eble wenner.",
+            "ssDesc23": "U kan ook aksies vir slegs $1 oorslaan."
+        },
+        "step3": {
+            "done": "Klaar.",
+            "sStep3": "Stap 3",
+            "ssDesc31": "Klaar. Ons sal u onmiddellik kontak op grond van die kontak wat ingevul is tydens registrasie op ons webwerf."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Gee %s weg op 'n groot manier.",
+        "bDesc3": "Hierdie geleentheid bied meer wen slots as verlede jaar. Nooi u vriende en familie vir nog groter geleenthede. <a href='%s' target='_blank'> Registreer nou <\/a> voordat hierdie geleentheid begin."
+    },
+    "section4": {
+        "sTitleBefore4": "Geselekteerde assessering",
+        "sTitle4": "Weggee-wenner",
+        "sDesc4": "Sommige resensies van weggee-wenners",
+        "theWinner": {
+            "winner": "WENNER",
+            "winner1": "Justin Daniel",
+            "coment1": "Dankie vir die kontant, ek hoop dat u winkel meer druk sal wees.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Dit is regtig 'n bekende GeneralStore-winkel, die pakket is suksesvol wat ek ontvang het, die produk is oorspronklik en ek het geen fooie betaal nie. Dankie.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Aanvanklik het ek dit nie geglo nie, maar nadat ek hulle gekontak het, blyk dit dat dit 'n GeneralStore is. dankie GeneralStore vir %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Dankie God dat u my geluk vergroot het, dankie vir die weggee, GeneralStore, ek is mal daaroor."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Die vlot verloop van ons geleenthede en sake",
+        "sTitle5": "Ondersteun deur",
+        "sDesc5": "Ons dank vir die volle ondersteuning wat ons altyd help",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikaanse multinasionale tegnologie-onderneming in Seattle, Washington, wat fokus op e-handel, wolkrekenaars, digitale streaming en kunsmatige intelligensie.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikaanse internetkleinhandelaar wat hoofsaaklik meubels verkoop in Midvale, Utah, naby Salt Lake City. Patrick M. Byrne het Overstock.com in 1999 gestig.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikaanse multinasionale kleinhandelonderneming wat 'n ketting hipermarkte, afslagwinkels en kruidenierswinkels uit die Verenigde State bedryf, met sy hoofkwartier in Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikaanse multinasionale kleinhandelaar vir verbruikerselektronika met sy hoofkwartier in Richfield, Minnesota. Dit is oorspronklik in 1966 deur Richard M. Schulze en James Wheeler gestig as 'n klankwinkel met die naam Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Aanlyn-kleinhandeldiens gebaseer in China wat deur die Alibaba-groep besit word. Dit is in 2010 van stapel gestuur en bestaan \u200b\u200buit klein ondernemings in China en ander plekke, soos Singapoer, wat produkte aan internasionale aanlynkopers bied.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikaanse multinasionale e-handelsonderneming in San Jose, Kaliforni\u00eb, wat die verkope van verbruikers tot verbruikers en ondernemings tot verbruikers via sy webwerf vergemaklik."
+    },
+    "section6": {
+        "sTitleBefore6": "Kontak my",
+        "sTitle6": "Kontak Ons",
+        "sDesc6": "As u enige vrae het rakende 'n produk of enige inligting wat u benodig, moet u asseblief nie kontak met ons maak nie.",
+        "firstName": "Eerste naam",
+        "lastName": "Van",
+        "subject": "Vak",
+        "email": "E-pos",
+        "writeyourmessagehere": "Skryf u boodskap hier.",
+        "sendmessage": "Stuur boodskap",
+        "sendsuccess": "Boodskap is <strong> suksesvol <\/strong> gestuur",
+        "sendsuccess1": "Ons sal so spoedig moontlik reageer."
+    }
+}

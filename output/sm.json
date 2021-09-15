@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Auai Nei",
+        "howtojoin": "Fa\u02bbafefea Ona Auai?",
+        "giveawaylist": "Lisi o Meaalofa",
+        "review": "Iloiloga",
+        "support": "Lagolago",
+        "contact": "Fa\u02bbafeso\u02bbota\u02bbi",
+        "aboutus": "Faatatau ia tatou",
+        "aboutusdesc": "O le General Store o le faleoloa autu o faleoloa uma a le General Store i le salafa o le lalolagi, o lo\u02bbo faia fa\u02bbapitoa i tufatufaina atu o ituaiga lauiloa.",
+        "links": "So\u02bbotaga",
+        "subscribe": "Lesitala",
+        "subscribedesc": "Fa\u02bbamolemole fa\u02bbaulu lau imeli pe a fai e te fia mauaina le tala fou mai ia matou.",
+        "subscribesend": "Talosaga lafoina <strong> manuia <\/strong>",
+        "openregistration": "Tatala Resitala",
+        "opening": "Tatalaina",
+        "closing": "Tapunia",
+        "registernow": "Tusi Resitala Nei",
+        "checkingregistereddata": "Siakiina o fa\u02bbamaumauga fa\u02bbamaumauina",
+        "from": "Mai",
+        "to": "Ia",
+        "viewregistereddata": "Va\u02bbai fa\u02bbamaumauga fa\u02bbamaumau",
+        "visitor": "Tagata asiasi",
+        "copyright": "Pule tau fatuga",
+        "allrightsreserved": "Ua taofia aia tatau uma"
+    },
+    "title": "Tu\u02bbu Ese %s",
+    "subtitle": "Saini i luga nei mo se avanoa e manumalo ai %s!",
+    "wordcontinue": "Faaauau",
+    "section1": {
+        "sTitleBefore1": "Tatou Auai ma Matou",
+        "sTitle1": "Olioli i Faamanuiaga",
+        "sDesc1": "Na\u02bbo iinei e mafai ona e maua ai le tele foa\u02bbi penefiti, faigofie e auai, o le sili tu\u02bbuina atu oloa ma eseese fa\u02bbamanuiaga",
+        "item": {
+            "iconItem1": "fa-verified_user",
+            "titleItem1": "Saogalemu",
+            "descItem1": "Puipuiga mautinoa.",
+            "iconItem2": "aikona-tupe",
+            "titleItem2": "Tupe saogalemu",
+            "descItem2": "E le totogia ni pili pe a mauaina se meaalofa.",
+            "iconItem3": "fa-access_alarms",
+            "titleItem3": "Taimi saogalemu",
+            "descItem3": "Maua GiveAway i lalo ifo o le 24 itula!"
+        },
+        "timer": {
+            "timerTitle": "O le ponesi ulufale fua e fa\u02bbamuta i le:",
+            "days": "Aso",
+            "hours": "Itula",
+            "minutes": "Minute",
+            "seconds": "Sekone"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Tu\u02bbu Ese %s",
+        "bDesc1": "Afai na e lesitala, siaki lau imeli taimi e maua ai le lata mai fa\u02bbamatalaga mai ia matou. O le a matou tu\u02bbuina atu fo\u02bbi fa\u02bbailoga mo fa\u02bbatauga i le matou faleoloa e leai se tau. O le a le mea o lo\u02bbo e fa\u02bbatali mo! <a href='%s' target='_blank'> Amata <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Ta\u02bbu nei i au uo i le taimi nei",
+        "sTitle2": "Maua Uma Foa\u02bbi Foa\u02bbi Atu",
+        "sDesc2": "Filifili le meaalofa e te mana\u02bbo ai, e mafai foi ona e auai i foa\u02bbi uma mai le lisi matou te tu\u02bbuina atu i lalo."
+    },
+    "banner2": {
+        "bTitle2": "Faigofie ma Faigofie Mana\u02bboga",
+        "bDesc2": "Na\u02bbo le lesitalaina oe lava oe mafai ona auai i la matou foa\u02bbi. O le a le mea o lo\u02bbo e fa\u02bbatali mo! tatou <a href='%s' target='_blank'> Tusi Resitala <\/a> oe lava i le taimi nei."
+    },
+    "section3": {
+        "sTitleBefore3": "Maua Nei",
+        "sTitle3": "Fa\u02bbafefea ona Auai?",
+        "sDesc3": "Maua se GiveAway fua i lalo ifo o le 24 itula! Aua ne\u02bbi misia lenei avanoa seasea, e faigofie lava, na\u02bbo le lesitala i luga o la matou 'upega tafa\u02bbilagi ma fai le su\u02bbesu\u02bbega (pe a fai e iai), e te le tau totogia se mea. Manuia!",
+        "step1": {
+            "sStep1": "Laasaga 1",
+            "ssDesc11": "Ina ia maua se avanoa e manumalo ai i le %s, pau lau mea e fai o le fa\u02bbatumu o lau teugatupe lesitala pepa. Ina ia amata, na o le ulufale i le tauvaga ma lau imeli tuatusi."
+        },
+        "step2": {
+            "sStep2": "Laasaga 2",
+            "ssDesc21": "O le taimi lava e te ulufale ai i totonu, o le a e maua le avanoa e maua ai ni fa\u02bbaopopoga fa\u02bbaopopoga e ala i le fa\u02bbamae\u02bbaina o gaioiga eseese, e aofia ai le asiasi ia matou ala o fa\u02bbasalalauga lautele.",
+            "ssDesc22": "Oe e agavaa e fa\u02bbamae\u02bbaina le tele o gaioiga e te mana\u02bbo ai, o gaioiga ta\u02bbitasi e ofoina mai se tulaga ese numera o fa\u02bbamatalaga ma o mea uma e ulufale o se ono ono manumalo.",
+            "ssDesc23": "E mafai foi ona e lafoa\u02bbi gaioiga na\u02bbo le $ 1."
+        },
+        "step3": {
+            "done": "Faia.",
+            "sStep3": "Laasaga 3",
+            "ssDesc31": "Faia. Matou te vave fa\u02bbafeso\u02bbota\u02bbia oe fa\u02bbavae luga o le fa\u02bbafeso\u02bbota\u02bbiga na fa\u02bbatumuina i le taimi o le lesitalaina i luga o la matou 'upega tafa\u02bbilagi."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Tu\u02bbu Ese %s i se auala Tetele.",
+        "bDesc3": "Lenei mea na tupu maua sili manumalo slots nai lo le tausaga talu ai. Valaaulia au uo ma aiga mo sili atu avanoa. <a href='%s' target='_blank'> Tusi nei loa <\/a> ae le\u02bbi amataina lenei mea na tupu."
+    },
+    "section4": {
+        "sTitleBefore4": "Su\u02bbesu\u02bbega filifilia",
+        "sTitle4": "Tagata manumalo",
+        "sDesc4": "Nisi iloiloga o tagata foa\u02bbi manumalo",
+        "theWinner": {
+            "winner": "Manumalo",
+            "winner1": "Justin Daniel",
+            "coment1": "Fa\u02bbafetai mo le Tinoitupe, talosia o le a atili tumutumu lou faleoloa.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "O se faleoloa ta\u02bbuta\u02bbua a le GeneralStore, o le afifi na manuia na ou mauaina, O oloa e muamua, ma ou te le\u02bbi totogia ni pili. Faafetai.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Muamua ou te le\u02bbi talitonu iai, ae ina ua uma ona ou fa\u02bbafeso\u02bbota\u02bbia i latou na fa\u02bbapea o le GeneralStore. faafetai GeneralStore mo %s.",
+            "winner4": "Vanesa Welhein",
+            "coment4": "Fa\u02bbafetai i le Atua mo le fa\u02bbateleina o lo\u02bbu laki, fa\u02bbafetai mo le foa\u02bbi, GeneralStore ou te fiafia iai."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Le sologa lelei o a matou mea na fai & pisinisi",
+        "sTitle5": "Lagolagoina e",
+        "sDesc5": "La matou fa\u02bbafetai mo le lagolago atoa e fesoasoani pea ia matou",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "American multinational tekonolosi kamupani fa\u02bbavae i Seattle, Uosigitone, lea e taula\u02bbi atu i le i-fefaatauaiga, ao computing, faafuainumera tafe, ma faafoliga atamai.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "O faleoloa i luga ole initaneti a Amerika o lo\u02bbo fa\u02bbatau atu meafale e tu\u02bbu i Midvale, Iuta e latalata ile Aai o Sate Leki. Patrick M. Byrne na faavaeina le Overstock.com i le 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "American multinational retail corporation o lo\u02bbo fa\u02bbatautaia le filifili o hypermarkets, faleoloa o lo\u02bbo fa\u02bbaititia le tau, ma faleoloa i Amerika mai le ofisa tutotonu i Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "O le au fa\u02bbatau oloa fa\u02bbaeletonika Amerika tele o lo\u02bbo fa\u02bbauluulu i Richfield, Minnesota. Na fa\u02bbavaeina e Richard M. Schulze ma James Wheeler i le 1966 o se faleoloa fa\u02bbapitoa leo e fa\u02bbaigoa Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Auaunaga i luga ole laiga e fa\u02bbavae i totonu o Saina e le Alibaba Group. Fa\u02bbalauiloa i le 2010, e aofia ai pisinisi laiti i Saina ma isi nofoaga, pei o Singapore, o lo\u02bbo ofaina oloa i fa\u02bbavaomalo tagata fa\u02bbatau i le initoneti.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "American multinational e-commerce corporation fa\u02bbavae i San Jose, Kalefonia, e fa\u02bbafaigofieina tagata fa\u02bbatau-i-tagata fa\u02bbatau ma pisinisi-i-tagata fa\u02bbatau fa\u02bbatau atu e ala i lana 'upega tafa\u02bbilagi."
+    },
+    "section6": {
+        "sTitleBefore6": "Ia feso\u02bbota\u02bbi",
+        "sTitle6": "Faafesootai matou",
+        "sDesc6": "A iai ni au fesili e uiga i se oloa, po\u02bbo ni fa\u02bbamatalaga e te mana\u02bbomia, fa\u02bbamolemole aua le fa\u02bbatuai ona fa\u02bbafeso\u02bbota\u02bbi mai matou.",
+        "firstName": "Igoa muamua",
+        "lastName": "Fa\u02bbaiu",
+        "subject": "Mataupu",
+        "email": "Imeli",
+        "writeyourmessagehere": "Tusi lau savali iinei.",
+        "sendmessage": "Lafo le Feau",
+        "sendsuccess": "Lafo le feau <strong> manuia <\/strong>",
+        "sendsuccess1": "Matou te tali atu i se taimi vave e mafai ai."
+    }
+}

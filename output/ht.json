@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Join kounye a",
+        "howtojoin": "Kijan Pou Rantre?",
+        "giveawaylist": "Lis kado",
+        "review": "Revize",
+        "support": "Sip\u00f2",
+        "contact": "Kontakte",
+        "aboutus": "Sou nou",
+        "aboutusdesc": "Jeneral Store se sant magazen tout magazen branch magazen Jeneral atrav\u00e8 mond lan angaje nan distribit\u00e8 espesyal nan mak byen li te ye.",
+        "links": "Lyen",
+        "subscribe": "Ab\u00f2nman",
+        "subscribedesc": "Tanpri antre im\u00e8l ou si ou vle resevwa d\u00e8nye nouv\u00e8l la nan men nou.",
+        "subscribesend": "Demann voye <strong> av\u00e8k siks\u00e8 <\/strong>",
+        "openregistration": "Open Enskripsyon",
+        "opening": "Ouv\u00e8ti",
+        "closing": "F\u00e8men",
+        "registernow": "Enskri Kounye a",
+        "checkingregistereddata": "Tcheke done ki anrejistre",
+        "from": "Soti nan",
+        "to": "Pou",
+        "viewregistereddata": "Gade done ki anrejistre",
+        "visitor": "Vizit\u00e8",
+        "copyright": "Copyright",
+        "allrightsreserved": "Tout dwa rez\u00e8ve"
+    },
+    "title": "Bay Touye %s",
+    "subtitle": "Enskri kounye a pou yon chans pou pou genyen %s!",
+    "wordcontinue": "Kontinye",
+    "section1": {
+        "sTitleBefore1": "Ann Jwenn Nou",
+        "sTitle1": "Jwi Benefis yo",
+        "sDesc1": "Se s\u00e8lman isit la ou ka jwenn anpil bay lwen benefis, fasil rantre nan, pi bon an bay lwen pwodwi ak div\u00e8s kalite l\u00f2t benefis",
+        "item": {
+            "iconItem1": "icon-Verified_user",
+            "titleItem1": "Tache",
+            "descItem1": "Sekirite garanti.",
+            "iconItem2": "icon-lajan",
+            "titleItem2": "Lajan ki an sekirite",
+            "descItem2": "Pa chaje okenn fr\u00e8 l\u00e8 w ap resevwa yon kado.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Tan san danje",
+            "descItem3": "Jwenn GiveAway nan mwens pase 24 \u00e8dtan!"
+        },
+        "timer": {
+            "timerTitle": "Bonis antre gratis fini nan:",
+            "days": "Jou",
+            "hours": "Or\u00e8",
+            "minutes": "Minit",
+            "seconds": "Segond"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Bay Touye %s",
+        "bDesc1": "Si ou te anrejistre, tcheke im\u00e8l ou detanzantan pou jwenn d\u00e8nye enf\u00f2masyon nan men nou. Nou pral tou bay bon pou f\u00e8 mak\u00e8t nan magazen nou an pou gratis. Kisa wap tann! <a href='%s' target='_blank'> K\u00f2manse <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Di zanmi ou yo kounye a",
+        "sTitle2": "Jwenn Tout GiveAway gratis",
+        "sDesc2": "Chwazi kado ou renmen an, ou ka patisipe tou nan tout kado ki nan lis ke nou bay anba a."
+    },
+    "banner2": {
+        "bTitle2": "Kondisyon fasil ak senp",
+        "bDesc2": "Se s\u00e8lman nan enskri t\u00e8t ou ou ka patisipe nan kado nou an. Kisa wap tann! ann <a href='%s' target='_blank'> enskri <\/a> t\u00e8t ou kounye a."
+    },
+    "section3": {
+        "sTitleBefore3": "Jwenn li kounye a",
+        "sTitle3": "Ki jan yo rantre nan?",
+        "sDesc3": "Jwenn yon GiftAway gratis nan mwens pase 24 \u00e8dtan! Pa rate op\u00f2tinite sa a ra, li tr\u00e8 fasil, jis enskri sou sit ent\u00e8n\u00e8t nou an epi pran sondaj la (si genyen), ou pa bezwen peye anyen. Konpliman!",
+        "step1": {
+            "sStep1": "Etap 1",
+            "ssDesc11": "Pou jwenn yon chans pou pou genyen %s la, tout sa ou bezwen f\u00e8 se ranpli f\u00f2m enskripsyon kont ou. Pou k\u00f2manse, jis antre nan konkou a ak adr\u00e8s imel ou."
+        },
+        "step2": {
+            "sStep2": "Etap 2",
+            "ssDesc21": "Yon fwa ou louvri sesyon an, ou pral gen op\u00f2tinite pou jwenn antre adisyon\u00e8l nan ranpli aksyon div\u00e8s kalite, ki gen ladan vizite chan\u00e8l medya sosyal nou an.",
+            "ssDesc22": "Ou gen dwa ranpli aksyon k\u00f2m anpil jan ou renmen, chak aksyon ofri yon nimewo inik nan antre ak chak antre se yon gayan potansy\u00e8l yo.",
+            "ssDesc23": "Ou kapab tou sote aksyon pou jis $ 1."
+        },
+        "step3": {
+            "done": "F\u00e8.",
+            "sStep3": "Etap 3",
+            "ssDesc31": "F\u00e8. Nou pral imedyatman kontakte ou ki baze sou kontak la ki te ranpli nan nan moman enskripsyon sou sit nou an."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Bay Touye %s nan yon fason Big.",
+        "bDesc3": "Ev\u00e8nman sa a bay plis fant genyen pase ane pase. Envite zanmi w ak fanmi w pou menm pi gwo op\u00f2tinite. <a href='%s' target='_blank'> Enskri kounye a <\/a> anvan ev\u00e8nman sa a k\u00f2manse."
+    },
+    "section4": {
+        "sTitleBefore4": "Chwazi evalyasyon",
+        "sTitle4": "Kado gayan",
+        "sDesc4": "Gen k\u00e8k revizyon nan ganyan kado",
+        "theWinner": {
+            "winner": "Gayan",
+            "winner1": "Justin Daniel",
+            "coment1": "M\u00e8si pou Lajan Kach la, mwen espere magazen ou ap gen plis moun.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Sa a se rey\u00e8lman yon boutik pi popil\u00e8 GeneralStore, pake a te reyisi mwen te resevwa, pwodwi se orijinal, epi mwen pa t 'peye nenp\u00f2t fr\u00e8. M\u00e8si.",
+            "winner3": "Matye Davidson",
+            "coment3": "Nan premye fwa mwen pa t 'kw\u00e8 li, men apre mwen fin kontakte yo li te tounen soti ke li te yon GeneralStore. m\u00e8si GeneralStore pou %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "M\u00e8si Bondye pou ogmante chans mwen, m\u00e8si pou kado, GeneralStore mwen renmen li."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Bon kouri nan ev\u00e8nman nou yo & biznis",
+        "sTitle5": "Sip\u00f2te pa",
+        "sDesc5": "M\u00e8si nou pou sip\u00f2 konpl\u00e8 ki toujou ede nou",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Konpayi teknoloji miltinasyonal Ameriken ki baze nan Seattle, Washington, ki konsantre sou e-commerce, nwaj informatique, difizyon dijital, ak ent\u00e8lijans atifisy\u00e8l.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Revand\u00e8 ent\u00e8n\u00e8t Ameriken vann prensipalman m\u00e8b ki gen biwo santral li nan Midvale, Utah, toupre Salt Lake City. Patrick M. Byrne te fonde Overstock.com an 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ameriken miltinasyonal sosyete Yo Vann an Detay ki opere yon ch\u00e8n nan hypermarch\u00e9, rab\u00e8 magazen depatman, ak mak\u00e8t soti nan Etazini yo, ki gen biwo santral li nan Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Ameriken miltinasyonal konsomat\u00e8 elektwonik revand\u00e8 biwo santral li nan Richfield, Minnesota. Li te orijin\u00e8lman te fonde pa Richard M. Schulze ak James Wheeler nan 1966 k\u00f2m yon magazen espesyalite odyo rele Son nan Klas Mizik.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Sou ent\u00e8n\u00e8t s\u00e8vis Yo Vann an Detay ki baze nan Lachin posede pa Gwoup la Alibaba. Lanse nan 2010, li se te f\u00e8 leve nan ti biznis nan Lachin ak l\u00f2t kote, tankou Singapore, ki ofri pwodwi acht\u00e8 ent\u00e8nasyonal sou ent\u00e8n\u00e8t.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Ameriken miltinasyonal sosyete e-commerce ki baze nan San Jose, Kalif\u00f2ni, ki fasilite konsomat\u00e8-a-konsomat\u00e8 ak lavant biznis-a-konsomat\u00e8 nan sit ent\u00e8n\u00e8t li yo."
+    },
+    "section6": {
+        "sTitleBefore6": "Pran kontak",
+        "sTitle6": "Kontakte nou",
+        "sDesc6": "Si ou gen nenp\u00f2t kesyon kons\u00e8nan yon pwodwi, oswa nenp\u00f2t enf\u00f2masyon ou bezwen, tanpri pa ezite kontakte nou.",
+        "firstName": "Premye Non",
+        "lastName": "Siyati",
+        "subject": "Sij\u00e8",
+        "email": "Im\u00e8l",
+        "writeyourmessagehere": "Ekri mesaj ou a isit la.",
+        "sendmessage": "Voye mesaj",
+        "sendsuccess": "Mesaj voye <strong> av\u00e8k siks\u00e8 <\/strong>",
+        "sendsuccess1": "Nou pral reponn pi vit ke posib."
+    }
+}

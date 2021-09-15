@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Doch no mei",
+        "howtojoin": "Hoe kin ik meidwaan?",
+        "giveawaylist": "Giveaway List",
+        "review": "Resinsje",
+        "support": "Stypje",
+        "contact": "Kontakt",
+        "aboutus": "Oer \u00fas",
+        "aboutusdesc": "General Store is it winkelsintrum fan alle filiaalwinkels fan General Store oer de heule wr\u00e2ld dwaande mei spesjale distributeurs fan bekende merken.",
+        "links": "Keppelings",
+        "subscribe": "Ynskriuwe",
+        "subscribedesc": "Fier jo e-post yn as jo it l\u00easte nijs fan \u00fas wolle \u00fbntfange.",
+        "subscribesend": "Fersyk ferstjoerd <strong> suksesfol <\/strong>",
+        "openregistration": "Iepen registraasje",
+        "opening": "Iepening",
+        "closing": "Ofsluting",
+        "registernow": "Skriuw No yn",
+        "checkingregistereddata": "Kontrolearje registrearre gegevens",
+        "from": "Fan",
+        "to": "Nei",
+        "viewregistereddata": "Besjoch registrearre gegevens",
+        "visitor": "Besiker",
+        "copyright": "Auteursrjocht",
+        "allrightsreserved": "Alle rjochten foarbeh\u00e2lden"
+    },
+    "title": "Jou %s fuort",
+    "subtitle": "Meld jo no oan foar in k\u00e2ns om %s te winnen!",
+    "wordcontinue": "Trochgean",
+    "section1": {
+        "sTitleBefore1": "Litte wy mei \u00fas meidwaan",
+        "sTitle1": "Genietsje fan de foardielen",
+        "sDesc1": "Allinich hjir kinne jo in protte foardielen krije, maklik meidwaan, de b\u00easte produkten fuortjaan en ferskate oare foardielen",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Feilich",
+            "descItem1": "Garandearre feiligens.",
+            "iconItem2": "icon-jild",
+            "titleItem2": "Feilich jild",
+            "descItem2": "Hat gjin fergoedingen yn rekken by it \u00fbntfangen fan in kado.",
+            "iconItem3": "icon-tagong_alarmen",
+            "titleItem3": "Feilige tiid",
+            "descItem3": "Krij GiveAway yn minder dan 24 oeren!"
+        },
+        "timer": {
+            "timerTitle": "Fergees yngongsbonus einiget by:",
+            "days": "Dagen",
+            "hours": "Oeren",
+            "minutes": "Minuten",
+            "seconds": "Sekonden"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Jou %s fuort",
+        "bDesc1": "As jo \u200b\u200bhawwe registrearre, kontrolearje jo e-post periodyk om de l\u00easte ynformaasje fan \u00fas te krijen. Wy sille ek bonnen fergees jaan foar winkelje by \u00fas winkel. W\u00ear wachtest op! <a href='%s' target='_blank'> Begjin <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Fertel jo freonen no direkt",
+        "sTitle2": "Krij allegear fergees GiveAway",
+        "sDesc2": "Kies it kado dat jo leuk fine, jo kinne ek meidwaan oan alle kado's \u00fat 'e list dy't wy hjir\u00fbnder leverje."
+    },
+    "banner2": {
+        "bTitle2": "Maklike en ienf\u00e2ldige easken",
+        "bDesc2": "Allinich troch josels te registrearjen kinne jo meidwaan oan \u00fas kado. W\u00ear wachtest op! lit \u00fas <a href='%s' target='_blank'> Registrearje <\/a> josels no direkt."
+    },
+    "section3": {
+        "sTitleBefore3": "Krij it no",
+        "sTitle3": "Hoe kin ik meidwaan?",
+        "sDesc3": "Krij in fergese GiveAway yn minder dan 24 oeren! Mis dizze seldsume k\u00e2ns net, it is heul maklik, registrearje jo gewoan op \u00fas webside en nim de enk\u00eate (as ien), jo hoege neat te beteljen. Lokwinske!",
+        "step1": {
+            "sStep1": "Stap 1",
+            "ssDesc11": "Om in k\u00e2ns te krijen om de %s te winnen, is alles wat jo nedich binne te dwaan jo registraasjeformulier yn te foljen. Om te begjinnen, folje gewoan de wedstryd yn mei jo e-postadres."
+        },
+        "step2": {
+            "sStep2": "Stap 2",
+            "ssDesc21": "As jo \u200b\u200bienris binne oanmeld, sille jo de k\u00e2ns hawwe om ekstra ynstjoeringen te krijen troch ferskate aksjes te folt\u00f4gjen, ynklusyf it besykjen fan \u00fas kanalen foar sosjale media.",
+            "ssDesc22": "Jo hawwe it rjocht om safolle aksjes te folt\u00f4gjen as jo wolle, elke aksje biedt in unyk oantal ynstjoerings en elke yngong is in potensjele winner.",
+            "ssDesc23": "Jo kinne ek aksjes oerslaan foar mar $ 1."
+        },
+        "step3": {
+            "done": "Klear.",
+            "sStep3": "Stap 3",
+            "ssDesc31": "Klear. Wy sille direkt kontakt mei jo opnimme op basis fan it kontakt dat ynfolde waard op it momint fan registraasje op \u00fas side."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Jou %s op in grutte manier fuort.",
+        "bDesc3": "Dit barren leveret mear winnende slots dan ferline jier. Noegje jo freonen en famylje \u00fat foar noch gruttere k\u00e2nsen. <a href='%s' target='_blank'> Registrearje no <\/a> foardat dit barren begjint."
+    },
+    "section4": {
+        "sTitleBefore4": "Selekteare beoardieling",
+        "sTitle4": "Giveaway Winner",
+        "sDesc4": "Guon resinsjes fan kadowinners",
+        "theWinner": {
+            "winner": "WINNER",
+            "winner1": "Justin Daniel",
+            "coment1": "Tankewol foar de Cash, ik hoopje dat jo winkel folder sil w\u00eaze.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Dit is echt in ferneamde GeneralStore-winkel, it pakket wie suksesfol dat ik krige, Produkt is orizjineel, en ik betelle gjin fergoedingen. Tanke.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Earst leaude ik it net, mar nei't ik kontakt mei har die die bliken dat it in GeneralStore wie. tank GeneralStore foar %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Godtank foar it ferheegjen fan myn gelok, tank foar it jaan, GeneralStore, ik h\u00e2ld derfan."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "De soepele rin fan \u00fas eveneminten en bedriuw",
+        "sTitle5": "Stipe troch",
+        "sDesc5": "Us tank foar de folsleine stipe dy't \u00fas altyd helpt",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikaansk multynasjonaal technologybedriuw basearre yn Seattle, Washington, dat him rjochtet op e-commerce, cloud computing, digitale streaming en keunstmjittige yntelliginsje.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikaanske ynternethanneler dy't prim\u00ear meubels ferkeapet mei haadkantoar yn Midvale, Utah, by Salt Lake City. Patrick M. Byrne stifte Overstock.com yn 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikaanske multynasjonale retailkorporaasje dy't in keatling eksploiteart fan hypermerken, koartingswarenwinkels en kruidenierswinkels \u00fat 'e Feriene Steaten, mei it haadkantoar yn Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikaanske multynasjonale retailer foar konsumintelektronika mei it haadkantoar yn Richfield, Minnesota. It waard oarspronklik oprjochte troch Richard M. Schulze en James Wheeler yn 1966 as in audio-spesjaliteitswinkel mei de namme Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Online retail tsjinst basearre yn Sina eigendom fan de Alibaba Group. Lansearre yn 2010 bestiet it \u00fat lytse bedriuwen yn Sina en oare lokaasjes, lykas Singapore, dy't produkten oanbiede oan ynternasjonale online keapers.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikaanske multinasjonale e-commerce-korporaasje basearre yn San Jose, Kalifornje, dy't konsumint-oan-konsumint en saak-oan-konsumint ferkeap makket fia syn webside."
+    },
+    "section6": {
+        "sTitleBefore6": "Yn kontakt komme",
+        "sTitle6": "Kontakt mei \u00fas opnimme",
+        "sDesc6": "As jo \u200b\u200bfragen hawwe oer in produkt, as alle ynformaasje dy't jo nedich binne, nim dan ger\u00east kontakt mei \u00fas op.",
+        "firstName": "Foarnamme",
+        "lastName": "Achternamme",
+        "subject": "\u00dbnderwerp",
+        "email": "E-post",
+        "writeyourmessagehere": "Skriuw jo berjocht hjir.",
+        "sendmessage": "Stjoer berjocht",
+        "sendsuccess": "Berjocht is <strong> suksesfol <\/strong> ferstjoerd",
+        "sendsuccess1": "Wy sille sa gau mooglik reagearje."
+    }
+}

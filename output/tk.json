@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "\u015eu wagt go\u015ful",
+        "howtojoin": "N\u00e4dip go\u015fulmaly?",
+        "giveawaylist": "Beril\u00fd\u00e4n sanaw",
+        "review": "Syn",
+        "support": "Goldaw",
+        "contact": "Habarla\u015fy\u0148",
+        "aboutus": "Biz hakda",
+        "aboutusdesc": "\u201cGeneral Store\u201d d\u00fcn\u00fd\u00e4d\u00e4ki me\u015fhur markalary\u0148 \u00fd\u00f6rite pa\u00fdla\u00fdjylary bilen me\u015fgullan\u00fdan d\u00fcn\u00fd\u00e4d\u00e4ki \u201cGeneral Store\u201d \u015faham\u00e7alaryny\u0148 d\u00fckanlaryny\u0148 merkezidir.",
+        "links": "Salgylar",
+        "subscribe": "Abuna \u00fdazyly\u0148",
+        "subscribedesc": "Bizden i\u0148 t\u00e4ze habarlary almak islese\u0148iz e-po\u00e7ta\u0148yzy girizi\u0148.",
+        "subscribesend": "Talap <strong> \u00fcst\u00fcnlikli <\/strong> iberildi",
+        "openregistration": "A\u00e7yk hasaba aly\u015f",
+        "opening": "A\u00e7mak",
+        "closing": "Osingapyl\u00fdar",
+        "registernow": "Indi hasaba aly\u0148",
+        "checkingregistereddata": "Hasaba alnan maglumatlary barlamak",
+        "from": "Kimden",
+        "to": "To",
+        "viewregistereddata": "Hasaba alnan maglumatlary g\u00f6r\u00fc\u0148",
+        "visitor": "Myhman",
+        "copyright": "Awtorlyk hukugy",
+        "allrightsreserved": "Rightshli hukuklar goralandyr"
+    },
+    "title": "Away %s beri\u0148",
+    "subtitle": " %s gazanmak \u00fc\u00e7in h\u00e4zir \u00fdazyly\u0148!",
+    "wordcontinue": "Dowam et",
+    "section1": {
+        "sTitleBefore1": "Geli\u0148, bize go\u015fulaly\u0148",
+        "sTitle1": "Pe\u00fddalaryndan lezzet aly\u0148",
+        "sDesc1": "Di\u0148e \u015fu \u00fderde k\u00f6pler \u00fde\u0148illikleri berip biler, go\u015fulmak a\u0148sat, i\u0148 gowulary \u00f6n\u00fcmleri we ba\u015fga-da k\u00f6p zatlary berip bilersi\u0148iz",
+        "item": {
+            "iconItem1": "ny\u015fan-tassyklanan_user",
+            "titleItem1": "Howpsuz",
+            "descItem1": "Kepillendirilen howpsuzlyk.",
+            "iconItem2": "ny\u015fan-pul",
+            "titleItem2": "Ygtybarly pul",
+            "descItem2": "Ba\u00fdrak alany\u0148yzda hi\u00e7 hili t\u00f6leg alynma\u00fdar.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Ygtybarly wagt",
+            "descItem3": "24 sagatdan az wagty\u0148 i\u00e7inde GiveAway aly\u0148!"
+        },
+        "timer": {
+            "timerTitle": "Mugt giri\u015f bonusy:",
+            "days": "G\u00fcnler",
+            "hours": "Sagatlar",
+            "minutes": "Minutlar",
+            "seconds": "Sekunt"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Away %s beri\u0148",
+        "bDesc1": "Hasaba alnan bolsa\u0148yz, bizden i\u0148 t\u00e4ze maglumatlary almak \u00fc\u00e7in e-po\u00e7ta\u0148yzy wagtal-wagtal barla\u0148. \u015ee\u00fdle hem d\u00fckanymyzda s\u00f6wda etmek \u00fc\u00e7in talonlary mugt bereris. N\u00e4m\u00e4 gara\u015f\u00fdarsy\u0148? <a href='%s' target='_blank'> Ba\u015fla <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Dostlary\u0148yza \u015fu wagt a\u00fddy\u0148",
+        "sTitle2": "Freehli mugt sowgat beri\u0148",
+        "sDesc2": "Hala\u00fdan sowgady\u0148yzy sa\u00fdla\u0148, a\u015fakda h\u00f6d\u00fcrle\u00fd\u00e4n sanawymyzdan \u00e4hli sowgatlara gatna\u015fyp bilersi\u0148iz."
+    },
+    "banner2": {
+        "bTitle2": "A\u0148sat we \u00fd\u00f6neke\u00fd talaplar",
+        "bDesc2": "Di\u0148e \u00f6z\u00fc\u0148izi hasaba almak bilen bizi\u0148 sowgatlarymyza gatna\u015fyp bilersi\u0148iz. N\u00e4m\u00e4 gara\u015f\u00fdarsy\u0148? geli\u0148 \u015fu wagt <a href='%s' target='_blank'> hasaba aly\u0148 <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "\u015eu wagt al",
+        "sTitle3": "N\u00e4dip go\u015fulmaly?",
+        "sDesc3": "24 sagady\u0148 i\u00e7inde mugt sowgat beri\u0148! Bu se\u00fdrek m\u00fcmkin\u00e7iligi elden gidirm\u00e4\u0148, bu gaty a\u0148sat, di\u0148e web sahypamyzda hasaba aly\u0148 we anketany ge\u00e7iri\u0148 (bar bolsa), hi\u00e7 zat t\u00f6lemeli d\u00e4l. Gutla\u00fdarys!",
+        "step1": {
+            "sStep1": "1-nji \u00e4dim",
+            "ssDesc11": " %s gazanmak m\u00fcmkin\u00e7iligini almak \u00fc\u00e7in di\u0148e hasaby\u0148yzy hasaba aly\u015f blankasyny doldurmaly. Ba\u015flamak \u00fc\u00e7in di\u0148e e-po\u00e7ta salgy\u0148yz bilen b\u00e4sle\u015fige giri\u0148."
+        },
+        "step2": {
+            "sStep2": "2-nji \u00e4dim",
+            "ssDesc21": "Sessi\u00fda a\u00e7any\u0148yzdan so\u0148, d\u00fcrli hereketleri, \u015fol sanda sosial media kanallarymyza girip, go\u015fma\u00e7a \u00fdazgylary almaga m\u00fcmkin\u00e7ilik alarsy\u0148yz.",
+            "ssDesc22": "Isle\u00fd\u015fi\u0148iz \u00fdaly k\u00f6p i\u015fi \u00fderine \u00fdetirm\u00e4ge haky\u0148yz bar, her bir hereket \u00f6zbolu\u015fly mukdarda \u00fdazgy h\u00f6d\u00fcrle\u00fd\u00e4r we her \u00fdazgy potensial \u00fde\u0148iji bolup biler.",
+            "ssDesc23": "\u015ee\u00fdle hem hereketleri bary-\u00fdogy 1 dollara ge\u00e7irip bilersi\u0148iz."
+        },
+        "step3": {
+            "done": "Boldy.",
+            "sStep3": "3-nji \u00e4dim",
+            "ssDesc31": "Boldy. Sahypamyzda hasaba alnanda doldurylan aragatna\u015fyk esasynda derrew sizi\u0148 bilen habarla\u015farys."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Away %s-i uly g\u00f6rn\u00fc\u015fde beri\u0148.",
+        "bDesc3": "Bu waka ge\u00e7en \u00fdyl bilen de\u0148e\u015fdirilende has k\u00f6p \u00fde\u0148i\u015f gazandy. Dostlary\u0148yzy we ma\u015fgala\u0148yzy has uly m\u00fcmkin\u00e7ilikler \u00fc\u00e7in \u00e7agyry\u0148. Bu waka ba\u015flamazdan \u00f6\u0148 <a href='%s' target='_blank'> H\u00e4zir hasaba aly\u0148 <\/a>."
+    },
+    "section4": {
+        "sTitleBefore4": "Sa\u00fdlanan baha",
+        "sTitle4": "Ba\u00fdrak beriji",
+        "sDesc4": "Ba\u00fdrak gazananlary\u0148 k\u00e4bir synlary",
+        "theWinner": {
+            "winner": "INe\u0148iji",
+            "winner1": "Justin Daniel",
+            "coment1": "Nagt pul \u00fc\u00e7in sag bolu\u0148, d\u00fckany\u0148yz has k\u00f6p bolar di\u00fdip umyt ed\u00fd\u00e4rin.",
+            "winner2": "Jessika Vanheln",
+            "coment2": "Bu hakykatdanam me\u015fhur \u201cGeneralStore\u201d d\u00fckany, bukjany \u00fcst\u00fcnlikli aldym, \u00d6n\u00fcm asyl, men hi\u00e7 hili t\u00f6leg t\u00f6lemedim. Sagbol.",
+            "winner3": "Mat\u00fdu Davidson",
+            "coment3": "Ilki ynanmadym, \u00fd\u00f6ne olar bilen habarla\u015fanymdan so\u0148, onu\u0148 GeneralStoredygy \u00fd\u00fcze \u00e7ykdy.  %s \u00fc\u00e7in GeneralStore-a sag bolsun a\u00fdd\u00fdaryn.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Bagtymy artdyrany \u00fc\u00e7in huda\u00fda \u015f\u00fck\u00fcr, bereni\u0148 \u00fc\u00e7in sag bol, GeneralStore haladym."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "\u00c7\u00e4relerimizi\u0148 we i\u015fimizi\u0148 g\u00f6wneja\u00fd i\u015flemegi",
+        "sTitle5": "Golda\u00fdan",
+        "sDesc5": "Elmydama bize k\u00f6mek ed\u00fd\u00e4n doly goldaw \u00fc\u00e7in minnetdarlygymyzy bildir\u00fd\u00e4ris",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Elektron s\u00f6wda, bulut hasaplamasy, sanly akym we emeli intellekt bilen me\u015fgullan\u00fdan Wa\u015fingtony\u0148 Sietl \u015f\u00e4herinde \u00fderle\u015f\u00fd\u00e4n Amerikan k\u00f6pmilletli tehnologi\u00fda kompani\u00fdasy.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikan internet satyjysy, esasan, Solt Le\u00fdk-Siti \u015f\u00e4herini\u0148 gola\u00fdyndaky ahuta \u015ftatyny\u0148 Midwale \u015f\u00e4herinde \u00fderle\u015f\u00fd\u00e4r. Patrik M. Byrne 1999-njy \u00fdylda \u201cOverstock.com\u201d -ny esaslandyrdy.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Gipermarketleri\u0148, arzanlady\u015f d\u00fckanlaryny\u0148 we azyk d\u00fckanlaryny\u0148 zynjyryny dolandyr\u00fdan Amerikany\u0148 k\u00f6pmilletli b\u00f6lek satuw korporasi\u00fdasy, merkezi Arkanzas \u015ftatyny\u0148 Bentonwil \u015f\u00e4herinde \u00fderle\u015f\u00fd\u00e4r.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikany\u0148 k\u00f6pmilletli sarp ediji elektronika satyjysy, merkezi Minnesota \u015ftatyny\u0148 Ri\u00e7fild \u015f\u00e4herinde \u00fderle\u015f\u00fd\u00e4r. Ilkiba\u015fda Ri\u00e7ard M. \u015eulze we Je\u00fdms Wheeler tarapyndan 1966-njy \u00fdylda \u201cSesi\u0148 sesi\u201d atly ses \u00fd\u00f6rite d\u00fckany h\u00f6km\u00fcnde esaslandyryldy.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Alibaba toparyna degi\u015fli Hyta\u00fdda \u00fderle\u015f\u00fd\u00e4n onla\u00fdn b\u00f6lekle\u00fdin hyzmat. 2010-njy \u00fdylda i\u015fe girizilen Hyta\u00fdda we Singapur \u00fdaly be\u00fdleki \u00fderlerde halkara onla\u00fdn alyjylara \u00f6n\u00fcm h\u00f6d\u00fcrle\u00fd\u00e4n ki\u00e7i k\u00e4rhanalardan dur\u00fdar.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Kaliforni\u00fdany\u0148 San-Hose \u015f\u00e4herinde \u00fderle\u015f\u00fd\u00e4n Amerikan k\u00f6pmilletli elektron s\u00f6wda korporasi\u00fdasy, web sahypasy arkaly sarp edij\u00e4 we sarp edij\u00e4 satuwy \u00fde\u0148ille\u015fdir\u00fd\u00e4r."
+    },
+    "section6": {
+        "sTitleBefore6": "Habarla\u015fyp dur",
+        "sTitle6": "Biz bilen habarla\u015fy\u0148",
+        "sDesc6": "\u00d6n\u00fcm bilen baglany\u015fykly soraglary\u0148yz \u00fda-da zerur maglumatlary\u0148yz bar bolsa, bizi\u0148 bilen habarla\u015fmakdan \u00e7ekinm\u00e4\u0148.",
+        "firstName": "Ady",
+        "lastName": "Famili\u00fdasy",
+        "subject": "Mowzuk",
+        "email": "E-po\u00e7ta iberi\u0148",
+        "writeyourmessagehere": "Habary\u0148yzy \u015fu \u00fdere \u00fdazy\u0148.",
+        "sendmessage": "Habar iber",
+        "sendsuccess": "Habar <strong> \u00fcst\u00fcnlikli <\/strong> iberildi",
+        "sendsuccess1": "Biz m\u00fcmkin boldugy\u00e7a gysga wagtda jogap bereris."
+    }
+}

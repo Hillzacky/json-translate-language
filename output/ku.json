@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Join Now",
+        "howtojoin": "Meriv \u00c7awa Tevl\u00ea dibe?",
+        "giveawaylist": "Giveaway List",
+        "review": "Axaftin",
+        "support": "Al\u00eekar\u00ee",
+        "contact": "T\u00eakel\u00ee",
+        "aboutus": "\u00c7\u00fbna nava",
+        "aboutusdesc": "General Store navenda firotan\u00ea ya hem\u00ee firotgeh\u00ean \u015fax\u00ean General Store-\u00ea li seranser\u00ea c\u00eehan\u00ea ye ku bi belavkar\u00ean taybet\u00ee y\u00ean marqey\u00ean navdar ve mij\u00fbl dibin.",
+        "links": "Zenc\u00eere",
+        "subscribe": "Bibin abone",
+        "subscribedesc": "Heke h\u00fbn dixwazin n\u00fb\u00e7ey\u00ean her\u00ee daw\u00ee ji me bist\u00eenin ji kerema xwe e-nameya xwe biniv\u00eesin.",
+        "subscribesend": "Daxwaz \u015fand <strong> bi serfiraz\u00ee <\/strong>",
+        "openregistration": "Qeydkirina Vekir\u00ee",
+        "opening": "Dergeh",
+        "closing": "Girtin",
+        "registernow": "Naha Tomar Bikin",
+        "checkingregistereddata": "Daney\u00ean tomarkir\u00ee kontrol dikin",
+        "from": "Ji",
+        "to": "Ber",
+        "viewregistereddata": "Daney\u00ean tomarkir\u00ee bib\u00eenin",
+        "visitor": "Serda",
+        "copyright": "Copyright",
+        "allrightsreserved": "Hem\u00fb maf parast\u00ee ne"
+    },
+    "title": "Bide %s",
+    "subtitle": "Naha ji bo \u015fansek ji bo bi dest xistina %s xwe qeyd bikin!",
+    "wordcontinue": "Berdewamkirin",
+    "section1": {
+        "sTitleBefore1": "Ka werin me bibin endam",
+        "sTitle1": "K\u00eaf\u00ean Xwe Bikin",
+        "sDesc1": "Ten\u00ea li vir h\u00fbn dikarin gelek feydey\u00ean bidin hev, tevl\u00eeb\u00fbna wan h\u00easan e, ya her\u00ee \u00e7\u00eatir\u00een hilber\u00ean hilber \u00fb celeb\u00ean din \u00ean c\u00fbda didin",
+        "item": {
+            "iconItem1": "icon-pi\u015ftrastkir\u00ee-bikarh\u00eaner",
+            "titleItem1": "Bic\u00ee",
+            "descItem1": "Ewlekariya Garant\u00eekir\u00ee.",
+            "iconItem2": "icon-drav",
+            "titleItem2": "Drav\u00ea Ewle",
+            "descItem2": "Gava ku h\u00fbn diyariyek bist\u00eenin ti m\u00fb\u00e7eyek nagire.",
+            "iconItem3": "\u00eekon-gih\u00ee\u015ftina_hi\u015fyariyan",
+            "titleItem3": "Dema Ewle",
+            "descItem3": "Di bin 24 demjim\u00earan de GiveAway bigirin!"
+        },
+        "timer": {
+            "timerTitle": "Bon\u00fbsa ketina bela\u015f li:",
+            "days": "Rojan",
+            "hours": "Demjim\u00ear",
+            "minutes": "Deq\u00eeqe",
+            "seconds": "Seconds"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Bide %s",
+        "bDesc1": "Heke we xwe tomar kiribe, e-nameya xwe bi periyod\u00eek kontrol bikin da ku agahdariya her\u00ee daw\u00ee ji me bist\u00eenin. Her weha em \u00ea qertaf\u00ean kir\u00eena li firo\u015fgeha xwe bela\u015f bidin. H\u00fbn li benda \u00e7i ne! <a href='%s' target='_blank'> Destp\u00eak <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "V\u00eaga ji heval\u00ean xwe re veb\u00eajin",
+        "sTitle2": "Give All Free GiveAway",
+        "sDesc2": "Diyariya ku h\u00fbn j\u00ea hez dikin hilbij\u00earin, h\u00fbn j\u00ee dikarin ji navn\u00ee\u015fa ku em li j\u00ear p\u00ea\u015fk\u00ea\u015f dikin be\u015fdar\u00ee hem\u00ee diyariyan bibin."
+    },
+    "banner2": {
+        "bTitle2": "P\u00eadiviy\u00ean H\u00easan \u00fb Sade",
+        "bDesc2": "Ten\u00ea bi tomarkirina xwe h\u00fbn dikarin be\u015fdar\u00ee diyariya me bibin. H\u00fbn li benda \u00e7i ne! ka em niha xwe <a href='%s' target='_blank'> Tomar bikin <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "V\u00ea gav\u00ea bist\u00eenin",
+        "sTitle3": "Meriv \u00e7awa Tevl\u00ea dibe?",
+        "sDesc3": "GiveAwayek bela\u015f di bin 24 demjim\u00earan de bist\u00eenin! V\u00ea fersenda k\u00eam\u00een ji dest xwe bernedin, ew pir h\u00easan e, ten\u00ea li ser malpera me xwe qeyd bikin \u00fb rapirsiy\u00ea bikin (heke hebe), h\u00fbn ne hewce ne ku ti\u015ftek bidin. P\u00eerozbah\u00ee!",
+        "step1": {
+            "sStep1": "Gava 1\u00ea",
+            "ssDesc11": "Ji bo ku h\u00fbn \u015fans\u00ea bidestxistina %s bist\u00eenin, ya ku h\u00fbn hewce ne bikin ev e ku h\u00fbn forma tomara hesab\u00ea xwe dagirin. Ji bo destp\u00eakirin\u00ea, ten\u00ea bi navn\u00ee\u015fana e-nameya xwe t\u00eakevin p\u00ea\u015fbaziy\u00ea."
+        },
+        "step2": {
+            "sStep2": "Gav 2",
+            "ssDesc21": "Gava ku h\u00fbn t\u00eakevin hundur, we d\u00ea derfet hebe ku h\u00fbn bi temamkirina \u00e7alakiy\u00ean c\u00fbrbec\u00fbr, tevl\u00ee serdana kanal\u00ean mey\u00ean medyaya civak\u00ee, navn\u00ee\u015f\u00ean din j\u00ee bist\u00eenin.",
+            "ssDesc22": "Maf\u00ea we heye ku h\u00fbn \u00e7end \u00e7alakiyan bixwazin biqed\u00eenin, her \u00e7alak\u00ee hejmarek b\u00eahempa y\u00ean navn\u00ee\u015fan p\u00ea\u015fk\u00ea\u015f dike \u00fb her navn\u00ee\u015fek serketinek potansiyel e.",
+            "ssDesc23": "Di heman dem\u00ea de h\u00fbn ten\u00ea ji $ 1-an j\u00ee dikarin \u00e7alakiyan derbas bikin."
+        },
+        "step3": {
+            "done": "Kir\u00ee.",
+            "sStep3": "Gav 3",
+            "ssDesc31": "Kir\u00ee. Em \u00ea yekser li ser bingeha t\u00eakiliya ku di dema tomarkirin\u00ea de li ser malpera me hat\u00ee dagirtin bi we re t\u00eakiliy\u00ea daynin."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Bi awayek Mezin Bide %s.",
+        "bDesc3": "Ev b\u00fbyer ji sala bor\u00ee b\u00eatir slots serfiraz peyda dike. Ji bo derfet\u00ean h\u00een mezintir heval \u00fb malbata xwe vexwendin. <a href='%s' target='_blank'> Ber\u00ee ku ev b\u00fbyer dest p\u00ea bike niha xwe qeyd bike <\/a>."
+    },
+    "section4": {
+        "sTitleBefore4": "Nirxandina hilbijart\u00ee",
+        "sTitle4": "Giveaway Winner",
+        "sDesc4": "Hin nirxandin\u00ean serketiy\u00ean diyariy\u00ea",
+        "theWinner": {
+            "winner": "SERKET\u00ce",
+            "winner1": "Justin Daniel",
+            "coment1": "Ji kerema xwe re spas dikim, ez h\u00eav\u00ee dikim dikana we b\u00eatir qelebalix be.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Ev bi rast\u00ee firo\u015fgehek navdar a GeneralStore e, pak\u00eat ez serfiraz b\u00fbm, Berhem or\u00eej\u00eenal e, \u00fb min tu xerc nedaye. Spas dikim.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Di destp\u00eak\u00ea de min ji w\u00ea bawer nedikir, l\u00ea pi\u015ft\u00ee ku min bi wan re t\u00eakil\u00ee dan derket ku ew GeneralStore e. spasiya GeneralStore ji bo %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Ji xwed\u00ea re \u015fikir dikim ku bext\u00ea min z\u00eade kir, spas ji bo diyariy\u00ea, GeneralStore ez j\u00ea hez dikim."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Bi r\u00eave birina b\u00fbyer \u00fb karsaziya me",
+        "sTitle5": "Ji h\u00eala pi\u015ftgir\u00ee kirin",
+        "sDesc5": "Spasiya me ji bo pi\u015ftgiriya tam ku her gav al\u00eekariya me dike",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Parg\u00eedaniya teknolojiya pirnetewey\u00ee ya Amer\u00eek\u00ee ku li Seattle, Washington e, ku li ser e-bazirgan\u00ee, computing ewr, we\u015fana d\u00eej\u00eetal, \u00fb z\u00eerekiya \u00e7\u00eakir\u00ee disekine.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Firo\u015fyar\u00ea \u00eenternet\u00ea y\u00ea Amer\u00eek\u00ee di ser\u00ee de mob\u00eelya ku navenda w\u00ea li Midvale, Utah, li n\u00eaz\u00eek\u00ea Salt Lake City e, difro\u015fe. Patrick M. Byrne di 1999-an de Overstock.com ava kir.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Parg\u00eedaniya firotan\u00ea ya pirnetewey\u00ee ya Amer\u00eek\u00ee ku zinc\u00eereyek h\u00eepermarket, dikan\u00ean be\u015fa daxistin\u00ea, \u00fb firo\u015fgeh\u00ean firotan\u00ea y\u00ean ji Dewlet\u00ean Yekb\u00fby\u00ee, ku navenda w\u00ea li Bentonville, Arkansas e, kar dike.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Firo\u015fyar\u00ea elektron\u00eek\u00eeya xer\u00eedar ya pirnetewey\u00ee ya Amer\u00eek\u00ee ku navenda w\u00ea li Richfield, Minnesota ye. Ew di destp\u00eak\u00ea de ji h\u00eala Richard M. Schulze \u00fb James Wheeler di 1966 de wek\u00ee firotgehek taybetmendiya bih\u00eestwer\u00ea ya bi nav\u00ea Sound of Music hate damezrandin.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Kar\u00fbbar\u00ea firotan\u00ea ya serh\u00eal ku li \u00c7\u00een\u00ea xwedan Koma Alibaba ye. Di 2010-an de hate destp\u00eakirin, ew ji karsaziy\u00ean pi\u00e7\u00fbk \u00ean li \u00c7\u00een \u00fb dever\u00ean din, wek\u00ee Singapore, ku hilber\u00ean kirr\u00fbbirr\u00ean serh\u00eal \u00ean navnetewey\u00ee p\u00ea\u015fk\u00ea\u015f dikin, p\u00eak t\u00ea.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Parg\u00eedaniya e-bazirganiya pirnetewey\u00ee ya Amer\u00eek\u00ee ku li San Jose, California ye, ku bi navg\u00eeniya malpera xwe firotina xer\u00eedar-xer\u00eedar \u00fb karsaz\u00ee-xer\u00eedar h\u00easan dike."
+    },
+    "section6": {
+        "sTitleBefore6": "T\u00eakil\u00ee Bibe",
+        "sTitle6": "Paqij b\u00fbn",
+        "sDesc6": "Di derbar\u00ea hilberek, an agahdariya ku h\u00fbn hewce ne de pirs\u00ean we hene, ji kerema xwe h\u00fbn bi me re t\u00eakiliy\u00ea nekin.",
+        "firstName": "Nav",
+        "lastName": "Pa\u015fnav",
+        "subject": "Mijar",
+        "email": "E-namey\u00ea bi\u015f\u00eenin",
+        "writeyourmessagehere": "Peyama xwe li vir biniv\u00eesin.",
+        "sendmessage": "Peyam bi\u015f\u00eenin",
+        "sendsuccess": "Peyam <strong> bi serfiraz\u00ee <\/strong> hat \u015fandin",
+        "sendsuccess1": "Em \u00ea di z\u00fbtir\u00een dem de bersiv\u00ea bidin."
+    }
+}

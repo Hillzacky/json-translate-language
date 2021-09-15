@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Pridru\u017ei se zdaj",
+        "howtojoin": "Kako se pridru\u017eiti?",
+        "giveawaylist": "Seznam daril",
+        "review": "Pregled",
+        "support": "Podpora",
+        "contact": "Kontakt",
+        "aboutus": "O nas",
+        "aboutusdesc": "General Store je sredi\u0161\u010de vseh podru\u017enic General Store po vsem svetu, ki se ukvarja s posebnimi distributerji znanih blagovnih znamk.",
+        "links": "Povezave",
+        "subscribe": "Naro\u010dite se",
+        "subscribedesc": "Vnesite svoj e-po\u0161tni naslov, \u010de \u017eelite prejemati najnovej\u0161e novice od nas.",
+        "subscribesend": "Zahteva je bila poslana <strong> uspe\u0161no <\/strong>",
+        "openregistration": "Odprite registracijo",
+        "opening": "Odpiranje",
+        "closing": "Zapiranje",
+        "registernow": "Registriraj se zdaj",
+        "checkingregistereddata": "Preverjanje registriranih podatkov",
+        "from": "Od",
+        "to": "Za",
+        "viewregistereddata": "Oglejte si registrirane podatke",
+        "visitor": "Obiskovalec",
+        "copyright": "avtorske pravice",
+        "allrightsreserved": "Vse pravice pridr\u017eane"
+    },
+    "title": "Daj stran %s",
+    "subtitle": "Prijavite se zdaj za prilo\u017enost za zmago %s!",
+    "wordcontinue": "Nadaljujte",
+    "section1": {
+        "sTitleBefore1": "Pridru\u017eimo se nam",
+        "sTitle1": "U\u017eivajte v prednostih",
+        "sDesc1": "Samo tukaj lahko dobite \u0161tevilne ugodnosti za podaritev, enostavno pridru\u017eitev, najbolj\u0161e izdelke za podaritev in razli\u010dne druge ugodnosti",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Varno",
+            "descItem1": "Zajam\u010dena varnost.",
+            "iconItem2": "ikona-denar",
+            "titleItem2": "Varni denar",
+            "descItem2": "Ob prejemu nagrad ne zara\u010duna nobene provizije.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Varni \u010das",
+            "descItem3": "Pridobite GiveAway v manj kot 24 urah!"
+        },
+        "timer": {
+            "timerTitle": "Brezpla\u010dni vstopni bonus se kon\u010da ob:",
+            "days": "Dnevi",
+            "hours": "Ure",
+            "minutes": "Zapisnik",
+            "seconds": "Sekunde"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Daj stran %s",
+        "bDesc1": "\u010ce ste se registrirali, redno preverjajte svoj e-po\u0161tni naslov, da dobite najnovej\u0161e informacije od nas. Brezpla\u010dno bomo podelili tudi kupone za nakupovanje v na\u0161i trgovini. Kaj \u010daka\u0161! <a href='%s' target='_blank'> Za\u010dnite <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Povejte prijateljem takoj",
+        "sTitle2": "Pridobite vse brezpla\u010dne obdaritve",
+        "sDesc2": "Izberite darilo, ki vam je v\u0161e\u010d, lahko pa tudi sodelujete v vseh obdarovanjih s seznama, ki ga ponujamo spodaj."
+    },
+    "banner2": {
+        "bTitle2": "Preproste in enostavne zahteve",
+        "bDesc2": "Samo s svojo registracijo lahko sodelujete v na\u0161em obdarovanju. Kaj \u010daka\u0161! <a href='%s' target='_blank'> Registriraj se <\/a> zdaj."
+    },
+    "section3": {
+        "sTitleBefore3": "Pridi zdaj",
+        "sTitle3": "Kako se pridru\u017eiti?",
+        "sDesc3": "Pridobite brezpla\u010dno oddajo v manj kot 24 urah! Ne zamudite te redke prilo\u017enosti, zelo enostavno je, samo registrirajte se na na\u0161i spletni strani in izpolnite anketo (\u010de sploh), ni vam treba ni\u010d pla\u010dati. \u010cestitamo!",
+        "step1": {
+            "sStep1": "Korak 1",
+            "ssDesc11": "\u010ce \u017eelite dobiti prilo\u017enost za %s, morate samo izpolniti obrazec za registracijo ra\u010duna. Za za\u010detek se prijavite s svojim e-po\u0161tnim naslovom."
+        },
+        "step2": {
+            "sStep2": "2. korak",
+            "ssDesc21": "Ko ste prijavljeni, boste imeli prilo\u017enost, da z dodatnimi vpisi izvedete razli\u010dne akcije, vklju\u010dno z obiskom na\u0161ih kanalov v dru\u017eabnih omre\u017ejih.",
+            "ssDesc22": "Upravi\u010deni ste do zaklju\u010dka poljubnega \u0161tevila dejanj, vsako dejanje ponuja edinstveno \u0161tevilo vnosov in vsak vnos je potencialni zmagovalec.",
+            "ssDesc23": "Dejanja lahko tudi presko\u010dite za samo 1 USD."
+        },
+        "step3": {
+            "done": "Kon\u010dano.",
+            "sStep3": "3. korak",
+            "ssDesc31": "Kon\u010dano. Takoj vas bomo kontaktirali glede na kontakt, ki je bil izpolnjen ob registraciji na na\u0161i spletni strani."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Dajte stran %s v velik na\u010din.",
+        "bDesc3": "Ta dogodek ponuja ve\u010d zmagovalnih igralnih avtomatov kot lani. Povabite svoje prijatelje in dru\u017eino za \u0161e ve\u010dje prilo\u017enosti. <a href='%s' target='_blank'> Registrirajte se <\/a>, preden se dogodek za\u010dne."
+    },
+    "section4": {
+        "sTitleBefore4": "Izbrana ocena",
+        "sTitle4": "Zmagovalec nagrad",
+        "sDesc4": "Nekaj \u200b\u200bpregledov zmagovalcev",
+        "theWinner": {
+            "winner": "ZMAGOVALEC",
+            "winner1": "Justin Daniel",
+            "coment1": "Hvala za gotovino, upam, da bo va\u0161a trgovina bolj gne\u010da.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "To je res znana trgovina GeneralStore, paket mi je uspel, izdelek je izviren in nisem pla\u010dal nobene provizije. Hvala vam.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Sprva nisem verjel, potem pa, ko sem stopil v stik z njimi, se je izkazalo, da gre za GeneralStore. hvala GeneralStore za %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Hvala bogu za pove\u010danje moje sre\u010de, hvala za darila, GeneralStore v\u0161e\u010d mi je."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Brezhibno delovanje na\u0161ih dogodkov in poslovanja",
+        "sTitle5": "Podprl",
+        "sDesc5": "Zahvaljujemo se vam za popolno podporo, ki nam vedno pomaga",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Ameri\u0161ko multinacionalno tehnolo\u0161ko podjetje s sede\u017eem v Seattlu v Washingtonu, ki se osredoto\u010da na e-poslovanje, ra\u010dunalni\u0161tvo v oblaku, digitalno pretakanje in umetno inteligenco.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Ameri\u0161ki internetni prodajalec prodaja predvsem pohi\u0161tvo s sede\u017eem v Midvaleu, Utah, blizu Salt Lake Cityja. Patrick M. Byrne je leta 1999 ustanovil Overstock.com.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ameri\u0161ka ve\u010dnacionalna maloprodajna korporacija, ki upravlja verigo hipermarketov, veleblagovnic z diskonti in trgovin z \u017eivili iz ZDA s sede\u017eem v Bentonvilleu v Arkansasu.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Ameri\u0161ki ve\u010dnacionalni prodajalec potro\u0161ni\u0161ke elektronike s sede\u017eem v Richfieldu v Minnesoti. Prvotno sta jo leta 1966 ustanovila Richard M. Schulze in James Wheeler kot specializirana avdio trgovina z imenom Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Spletna maloprodajna storitev s sede\u017eem na Kitajskem v lasti skupine Alibaba. Ustanovljeno leta 2010, ga sestavljajo mala podjetja na Kitajskem in drugih lokacijah, kot je Singapur, ki ponujajo izdelke mednarodnim spletnim kupcem.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Ameri\u0161ka ve\u010dnacionalna korporacija za e-poslovanje s sede\u017eem v San Joseju v Kaliforniji, ki prek svoje spletne strani omogo\u010da prodajo od potro\u0161nika do potro\u0161nika in od podjetja do potro\u0161nika."
+    },
+    "section6": {
+        "sTitleBefore6": "Stopite v stik",
+        "sTitle6": "Kontaktiraj nas",
+        "sDesc6": "\u010ce imate kakr\u0161na koli vpra\u0161anja glede izdelka ali kakr\u0161ne koli informacije, ki jih potrebujete, nas prosimo kontaktirajte.",
+        "firstName": "Ime",
+        "lastName": "Priimek",
+        "subject": "Predmet",
+        "email": "E-naslov",
+        "writeyourmessagehere": "Napi\u0161ite svoje sporo\u010dilo tukaj.",
+        "sendmessage": "Po\u0161lji sporo\u010dilo",
+        "sendsuccess": "Sporo\u010dilo je poslano <strong> uspe\u0161no <\/strong>",
+        "sendsuccess1": "Odzvali se bomo v najkraj\u0161em mo\u017enem \u010dasu."
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Joyina Manje",
+        "howtojoin": "Ungajoyina Kanjani?",
+        "giveawaylist": "Uhlu lokunikezwa",
+        "review": "Buyekeza",
+        "support": "Ukusekela",
+        "contact": "Imininingwane",
+        "aboutus": "Mayelana NATHI",
+        "aboutusdesc": "IGeneral Store iyisikhungo sesitolo sazo zonke izitolo zeGeneral Store emhlabeni jikelele ezibandakanya abasabalalisi abakhethekile bemikhiqizo eyaziwayo.",
+        "links": "Izixhumanisi",
+        "subscribe": "Bhalisa",
+        "subscribedesc": "Sicela ufake i-imeyili yakho uma ufuna ukuthola izindaba zakamuva ezivela kithi.",
+        "subscribesend": "Isicelo sithunyelwe <strong> ngempumelelo <\/strong>",
+        "openregistration": "Vula Ukubhalisa",
+        "opening": "Iyavula",
+        "closing": "Ukuvala",
+        "registernow": "Bhalisa Manje",
+        "checkingregistereddata": "Ukuhlola idatha ebhalisiwe",
+        "from": "Kusuka ku-",
+        "to": "Ku",
+        "viewregistereddata": "Buka idatha ebhalisiwe",
+        "visitor": "Isivakashi",
+        "copyright": "Imininingwane",
+        "allrightsreserved": "Wonke Amalungelo Agodliwe"
+    },
+    "title": "Nikeza kude %s",
+    "subtitle": "Bhalisela manje ithuba lokuwina i- %s!",
+    "wordcontinue": "Qhubeka",
+    "section1": {
+        "sTitleBefore1": "Ake Sijoyine",
+        "sTitle1": "Jabulela Izinzuzo",
+        "sDesc1": "Lapha kuphela lapho ungathola khona izinzuzo eziningi, okulula ukujoyina, okungcono kakhulu kokunikezela ngemikhiqizo nezinye izinzuzo ezahlukahlukene",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Kuphephile",
+            "descItem1": "Ukuphepha okuqinisekisiwe.",
+            "iconItem2": "isithonjana-imali",
+            "titleItem2": "Imali Ephephile",
+            "descItem2": "Ayikhokhisi noma yiziphi izimali lapho uthola isipho.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Isikhathi Esiphephile",
+            "descItem3": "Thola i-GiveAway ngaphansi kwamahora angama-24!"
+        },
+        "timer": {
+            "timerTitle": "Ibhonasi yokungena yamahhala iphela ngo:",
+            "days": "Izinsuku",
+            "hours": "Amahora",
+            "minutes": "Amaminithi",
+            "seconds": "Imizuzwana"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Nikeza kude %s",
+        "bDesc1": "Uma ubhalisile, hlola i-imeyili yakho ngezikhathi ezithile ukuthola imininingwane yakamuva evela kithi. Sizokhipha nezaphulelo zokuthenga esitolo sethu mahhala. Ulindeni! <a href='%s' target='_blank'> Qalisa <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Tshela abangane bakho njengamanje",
+        "sTitle2": "Thola Konke Ukunikezwa kwamahhala",
+        "sDesc2": "Khetha isipho osithandayo, futhi ungabamba iqhaza kukho konke ukunikezwa ohlwini esikuhlinzeka ngezansi."
+    },
+    "banner2": {
+        "bTitle2": "Izidingo Ezilula Nezilula",
+        "bDesc2": "Ngokuzibhalisa kuphela lapho ungabamba iqhaza ekunikezelweni kwethu. Ulindeni! ake <a href='%s' target='_blank'> Sizibhalise <\/a> manje."
+    },
+    "section3": {
+        "sTitleBefore3": "Ithole manje",
+        "sTitle3": "Ungajoyina Kanjani?",
+        "sDesc3": "Thola i-GiveAway yamahhala ngamahora angaphansi kwama-24! Ungaphuthelwa yileli thuba elingandile, kulula kakhulu, vele ubhalise kuwebhusayithi yethu bese wenza inhlolovo (uma ikhona), awudingi ukukhokha noma yini. Halala!",
+        "step1": {
+            "sStep1": "Isinyathelo 1",
+            "ssDesc11": "Ukuze uthole ithuba lokuwina i- %s, okudingeka ukwenze ukugcwalisa ifomu lokubhalisa le-akhawunti yakho. Ukuze uqalise, vele ufake umncintiswano ngekheli lakho le-imeyili."
+        },
+        "step2": {
+            "sStep2": "Isinyathelo 2",
+            "ssDesc21": "Uma usungenile ngemvume, uzoba nethuba lokuthola okunye okufakiwe ngokugcwalisa izenzo ezahlukahlukene, kufaka phakathi ukuvakashela iziteshi zethu zokuxhumana.",
+            "ssDesc22": "Unelungelo lokuqedela izenzo eziningi ngendlela othanda ngayo, isenzo ngasinye sinikeza inani elihlukile lokufakiwe futhi okufakwayo ngakunye kungaphumelela.",
+            "ssDesc23": "Futhi ungeqa izenzo nge $ 1 nje."
+        },
+        "step3": {
+            "done": "Kwenziwe.",
+            "sStep3": "Isinyathelo 3",
+            "ssDesc31": "Kwenziwe. Sizokuthinta ngokushesha ngokuya ngothintana naye ogcwaliswe ngesikhathi sokubhaliswa kusayithi lethu."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Nikeza i- %s ngendlela ebanzi.",
+        "bDesc3": "Lo mcimbi unikeza izindawo zokuwina eziningi kunangonyaka odlule. Mema abangani bakho nomndeni wakho ngamathuba amakhulu nakakhulu. <a href='%s' target='_blank'> Bhalisa manje <\/a> ngaphambi kokuqala kwalo mcimbi."
+    },
+    "section4": {
+        "sTitleBefore4": "Ukuhlola okukhethiwe",
+        "sTitle4": "Owinile Onqobile",
+        "sDesc4": "Ezinye izibuyekezo zabaphumelele ekunikezelweni",
+        "theWinner": {
+            "winner": "UMNQOBI",
+            "winner1": "UJustin Daniel",
+            "coment1": "Ngiyabonga ngeCash, ngiyethemba isitolo sakho sizogcwala kakhulu.",
+            "winner2": "UJessica Vanheln",
+            "coment2": "Lesi ngempela isitolo esidumile seGeneralStore, iphakethe liphumelele engilitholile, uMkhiqizo ungowokuqala, futhi angizange ngikhokhe mali. Ngiyabonga.",
+            "winner3": "UMatthew Davidson",
+            "coment3": "Ekuqaleni angizange ngikholwe, kepha ngemuva kokuthi ngibathintile kwavela ukuthi yiGeneralStore. ngiyabonga iGeneralStore nge %s.",
+            "winner4": "UVanessa Welhein",
+            "coment4": "Ngiyabonga unkulunkulu ngokukhulisa inhlanhla yami, ngiyabonga ngokunikela, iGeneralStore ngiyayithanda."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Ukusebenza ngokushelela kwemicimbi yethu nebhizinisi",
+        "sTitle5": "Kusekelwa yi",
+        "sDesc5": "Sibonga ukwesekwa okugcwele okusisiza njalo",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Inkampani yezobuchwepheshe yamazwe omhlaba yaseMelika ezinze eSeattle, eWashington, egxile ku-e-commerce, cloud computing, digital streaming, and intelligence intelligence.",
+        "tSupport2": "I-Overstock.com",
+        "dSupport2": "Umthengisi we-inthanethi waseMelika othengisa ikakhulukazi ifenisha ekomkhulu lakhe eMidvale, e-Utah, ngaseSalt Lake City. UPatrick M. Byrne wasungula i-Overstock.com ngo-1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Inkampani yamazwe omhlaba yaseMelika ehweba ngamaketanga, izitolo zezaphulelo, nezitolo ezidayisa ukudla ezivela e-United States, ezinendlunkulu eBentonville, e-Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Umthengisi wamakhompiyutha omhlaba wonke waseMelika osendlunkulu eRichfield, eMinnesota. Ekuqaleni yasungulwa nguRichard M. Schulze noJames Wheeler e1966 njengesitolo esikhethekile somsindo esibizwa ngeSound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Insizakalo yokuthengisa eku-inthanethi ezinze eChina ephethwe yi-Alibaba Group. Yethulwe ngo-2010, yakhiwa ngamabhizinisi amancane eChina nakwezinye izindawo, njengeSingapore, enikeza imikhiqizo kubathengi bamazwe aphesheya online.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Inhlangano yezentengiselwano yamazwe omhlaba yaseMelika ezinze eSan Jose, eCalifornia, eyenza ukuthengiswa komthengi nomthengi nokuthengiswa kwebhizinisi nomthengi ngokusebenzisa iwebhusayithi yayo."
+    },
+    "section6": {
+        "sTitleBefore6": "Thola Ukuxhumana",
+        "sTitle6": "Xhumana nathi",
+        "sDesc6": "Uma unanoma yimiphi imibuzo mayelana nomkhiqizo, noma olunye ulwazi oludingayo, sicela ungangabazi ukuxhumana nathi.",
+        "firstName": "Igama",
+        "lastName": "Isibongo",
+        "subject": "Isihloko",
+        "email": "Imeyili",
+        "writeyourmessagehere": "Bhala umyalezo wakho lapha.",
+        "sendmessage": "Thumela Umlayezo",
+        "sendsuccess": "Umlayezo uthunyelwe <strong> ngempumelelo <\/strong>",
+        "sendsuccess1": "Sizophendula ngokushesha okukhulu."
+    }
+}

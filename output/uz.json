@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Hoziroq qo'shil",
+        "howtojoin": "Qanday qo'shilish kerak?",
+        "giveawaylist": "Sovg'alar ro'yxati",
+        "review": "Ko'rib chiqish",
+        "support": "Qo'llab-quvvatlash",
+        "contact": "Aloqa",
+        "aboutus": "Biz haqimizda",
+        "aboutusdesc": "General Store - taniqli brendlarning maxsus distribyutorlari bilan shug'ullanadigan dunyodagi barcha General Store filial do'konlarining do'kon markazi.",
+        "links": "Havolalar",
+        "subscribe": "Obuna bo'lish",
+        "subscribedesc": "Bizdan so'nggi yangiliklarni olishni istasangiz, iltimos, elektron pochtangizni kiriting.",
+        "subscribesend": "So'rov <strong> muvaffaqiyatli yuborildi <\/strong>",
+        "openregistration": "Ro'yxatdan o'tishni oching",
+        "opening": "Ochilish",
+        "closing": "Yopish",
+        "registernow": "Hozir ro'yxatdan o'ting",
+        "checkingregistereddata": "Ro'yxatdan o'tgan ma'lumotlarni tekshirish",
+        "from": "Kimdan",
+        "to": "Kimga",
+        "viewregistereddata": "Ro'yxatdan o'tgan ma'lumotlarni ko'rish",
+        "visitor": "Mehmon",
+        "copyright": "Mualliflik huquqi",
+        "allrightsreserved": "Barcha huquqlar himoyalangan"
+    },
+    "title": "Yo'q qiling %s",
+    "subtitle": " %s yutish uchun hoziroq ro'yxatdan o'ting!",
+    "wordcontinue": "Davom eting",
+    "section1": {
+        "sTitleBefore1": "Kelinglar, bizga qo'shiling",
+        "sTitle1": "Afzalliklardan rohatlaning",
+        "sDesc1": "Faqat shu erda siz ko'pchilik imtiyozlarni, oson qo'shilish, eng yaxshi mahsulotlarni va boshqa turli xil imtiyozlarni olishingiz mumkin",
+        "item": {
+            "iconItem1": "belgisi bilan tasdiqlangan_user",
+            "titleItem1": "Xavfsiz",
+            "descItem1": "Kafolatlangan xavfsizlik.",
+            "iconItem2": "ikonka-pul",
+            "titleItem2": "Xavfsiz pul",
+            "descItem2": "Sovg'a olayotganda hech qanday to'lov talab qilinmaydi.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Xavfsiz vaqt",
+            "descItem3": "GiveAway-ni 24 soatdan kamroq vaqt ichida oling!"
+        },
+        "timer": {
+            "timerTitle": "Bepul kirish bonusi:",
+            "days": "Kunlar",
+            "hours": "Soatlar",
+            "minutes": "Daqiqalar",
+            "seconds": "Soniyalar"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Yo'q qiling %s",
+        "bDesc1": "Agar siz ro'yxatdan o'tgan bo'lsangiz, bizdan so'nggi ma'lumotlarni olish uchun elektron pochtangizni vaqti-vaqti bilan tekshirib turing. Shuningdek, do'konimizda xarid qilish uchun vaucherlarni bepul beramiz. Siz nima kutmoqdasiz! <a href='%s' target='_blank'> Boshlash <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Do'stlaringizga hoziroq ayting",
+        "sTitle2": "Barcha bepul GiveAway-ni oling",
+        "sDesc2": "O'zingizga yoqadigan sovg'ani tanlang, shuningdek quyida keltirilgan ro'yxatdagi barcha sovg'alarda ishtirok etishingiz mumkin."
+    },
+    "banner2": {
+        "bTitle2": "Oson va sodda talablar",
+        "bDesc2": "Faqat o'zingizni ro'yxatdan o'tkazish orqali siz bizning sovg'amizda ishtirok etishingiz mumkin. Siz nima kutmoqdasiz! hozir <a href='%s' target='_blank'> Ro'yxatdan o'ting <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "Hoziroq ol",
+        "sTitle3": "Qanday qo'shilish kerak?",
+        "sDesc3": "24 soatdan kamroq vaqt ichida GiveAway-dan bepul foydalaning! Ushbu noyob imkoniyatni boy bermang, bu juda oson, bizning veb-saytimizda ro'yxatdan o'ting va so'rovnomada ishtirok eting (agar mavjud bo'lsa), siz hech narsa to'lamaysiz. Tabriklaymiz!",
+        "step1": {
+            "sStep1": "1-qadam",
+            "ssDesc11": " %s-ni yutib olish uchun faqat hisob qaydnomangizni to'ldirishingiz kerak. Boshlash uchun tanlovga elektron pochta manzilingizni kiriting."
+        },
+        "step2": {
+            "sStep2": "2-qadam",
+            "ssDesc21": "Tizimga kirganingizdan so'ng, siz turli xil tadbirlarni, shu jumladan bizning ijtimoiy media kanallarimizga tashrif buyurib, qo'shimcha yozuvlarni olish imkoniyatiga ega bo'lasiz.",
+            "ssDesc22": "Siz xohlagancha harakatlarni bajarishga haqlisiz, har bir aksiya noyob sonli yozuvlarni taqdim etadi va har bir tanlov potentsial g'olib hisoblanadi.",
+            "ssDesc23": "Shuningdek, harakatlarni atigi $ 1 evaziga o'tkazib yuborishingiz mumkin."
+        },
+        "step3": {
+            "done": "Bajarildi",
+            "sStep3": "3-qadam",
+            "ssDesc31": "Bajarildi Bizning saytimizda ro'yxatdan o'tish paytida to'ldirilgan aloqa asosida darhol siz bilan bog'lanamiz."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Katta miqdorda %s bering.",
+        "bDesc3": "Ushbu tadbir o'tgan yilga qaraganda ko'proq yutuqli uyalarni taqdim etadi. Do'stlaringiz va oilangizni yanada katta imkoniyatlar uchun taklif qiling. Ushbu tadbir boshlanishidan oldin <a href='%s' target='_blank'> hoziroq ro'yxatdan o'ting <\/a>."
+    },
+    "section4": {
+        "sTitleBefore4": "Tanlangan baho",
+        "sTitle4": "Sovg'alar sovrindori",
+        "sDesc4": "Sovg'alar sovrindorlarining ba'zi sharhlari",
+        "theWinner": {
+            "winner": "G'ALABA",
+            "winner1": "Justin Daniel",
+            "coment1": "Naqd pul uchun tashakkur, umid qilamanki, sizning do'koningiz yanada gavjum bo'ladi.",
+            "winner2": "Jessika Vanxeln",
+            "coment2": "Bu haqiqatan ham taniqli GeneralStore do'koni, men muvaffaqiyatli qabul qildim, mahsulot asl nusxada va men hech qanday to'lovlarni to'lamadim. Rahmat.",
+            "winner3": "Metyu Devidson",
+            "coment3": "Avvaliga ishonmadim, lekin ular bilan bog'langanimdan so'ng, bu GeneralStore ekan.  %s uchun GeneralStore-ga rahmat.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Xudoga shukurki, mening omadimni oshirganingiz uchun, sovg'alar uchun rahmat, GeneralStore buni yaxshi ko'raman."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Bizning tadbirlarimiz va biznesimizning uzluksiz ishlashi",
+        "sTitle5": "Tomonidan qo'llab-quvvatlanadi",
+        "sDesc5": "Har doim bizga yordam beradigan to'liq qo'llab-quvvatlash uchun minnatdormiz",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Sietlda joylashgan Vashington shtatidagi elektron transmilliy savdo, bulutli hisoblash, raqamli oqim va sun'iy intellektga e'tibor qaratadigan Amerikaning ko'p millatli texnologik kompaniyasi.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Bosh ofisi Salt-Leyk-Siti yaqinidagi Yuta shtatidagi Midvale shahrida joylashgan asosan mebel sotadigan amerikalik internet-chakana sotuvchi. Patrik M. Bayr 1999 yilda Overstock.com saytiga asos solgan.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Bosh ofisi Arkanzas shtatining Bentonvill shahrida joylashgan Amerika Qo'shma Shtatlaridan gipermarketlar, chegirmali do'konlar va oziq-ovqat do'konlari tarmog'ini boshqaradigan Amerika ko'p millatli chakana korporatsiyasi.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Bosh ofisi MINNESOTA, Richfield shahrida joylashgan amerikalik ko'p millatli maishiy elektronika sotuvchisi. Dastlab Richard M. Shulze va Jeyms Uiler tomonidan 1966 yilda Sound of Music deb nomlangan audio ixtisoslashtirilgan do'kon sifatida tashkil etilgan.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Alibaba Group-ga tegishli Xitoyda joylashgan onlayn chakana xizmat. 2010 yilda ishga tushirilgan bu xitoylik va Singapur kabi boshqa joylardagi xalqaro onlayn xaridorlarga mahsulot taklif qiladigan kichik korxonalardan iborat.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Kaliforniya shtatining San-Xose shahrida joylashgan Amerikaning ko'p millatli elektron tijorat korporatsiyasi o'z veb-sayti orqali iste'molchidan iste'molchiga va biznesdan iste'molchiga sotishni osonlashtiradi."
+    },
+    "section6": {
+        "sTitleBefore6": "Aloqa qiling",
+        "sTitle6": "Biz bilan bog'lanish",
+        "sDesc6": "Agar sizda mahsulotga oid biron bir savol yoki sizga kerak bo'lgan ma'lumotlar bo'lsa, iltimos biz bilan bog'laning.",
+        "firstName": "Ism",
+        "lastName": "Familiya",
+        "subject": "Mavzu",
+        "email": "Elektron pochta",
+        "writeyourmessagehere": "Xabaringizni shu erga yozing.",
+        "sendmessage": "Xabar yuboring",
+        "sendsuccess": "Xabar <strong> muvaffaqiyatli <\/strong> yuborildi",
+        "sendsuccess1": "Biz imkon qadar tezroq javob beramiz."
+    }
+}

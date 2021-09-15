@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stichoza/google-translate-php": "^4.1",
+        "fzaninotto/faker": "^1.9",
+        "renziito/php-bing-translator-wrapper": "^2.0"
+    }
+}

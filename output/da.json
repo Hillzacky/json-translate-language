@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Deltag nu",
+        "howtojoin": "Hvordan deltager man?",
+        "giveawaylist": "Giveaway-liste",
+        "review": "Anmeldelse",
+        "support": "Support",
+        "contact": "Kontakt",
+        "aboutus": "Om os",
+        "aboutusdesc": "General Store er butikscentret for alle General Store-filialer rundt om i verden, der besk\u00e6ftiger sig med specialdistribut\u00f8rer af kendte m\u00e6rker.",
+        "links": "Links",
+        "subscribe": "Abonner",
+        "subscribedesc": "Indtast venligst din e-mail, hvis du vil modtage de seneste nyheder fra os.",
+        "subscribesend": "Anmodning sendt <strong> med succes <\/strong>",
+        "openregistration": "\u00c5ben registrering",
+        "opening": "\u00c5bning",
+        "closing": "Lukker",
+        "registernow": "Registrer nu",
+        "checkingregistereddata": "Kontrol af registrerede data",
+        "from": "Fra",
+        "to": "Til",
+        "viewregistereddata": "Se registrerede data",
+        "visitor": "Bes\u00f8gende",
+        "copyright": "ophavsret",
+        "allrightsreserved": "Alle rettigheder forbeholdes"
+    },
+    "title": "Giv v\u00e6k %s",
+    "subtitle": "Tilmeld dig nu for en chance for at vinde %s!",
+    "wordcontinue": "Blive ved",
+    "section1": {
+        "sTitleBefore1": "Lad os slutte sig til os",
+        "sTitle1": "Nyd fordelene",
+        "sDesc1": "Kun her kan du f\u00e5 mange fordelingsfordele, nemme at deltage i, de bedste give v\u00e6k produkter og forskellige andre fordele",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Sikker",
+            "descItem1": "Garanteret sikkerhed.",
+            "iconItem2": "ikon-penge",
+            "titleItem2": "Sikre penge",
+            "descItem2": "Opkr\u00e6ver ikke gebyrer, n\u00e5r du modtager en gave.",
+            "iconItem3": "ikon-adgang_alarmer",
+            "titleItem3": "Sikker tid",
+            "descItem3": "F\u00e5 GiveAway p\u00e5 mindre end 24 timer!"
+        },
+        "timer": {
+            "timerTitle": "Gratis adgangsbonus slutter ved:",
+            "days": "Dage",
+            "hours": "Timer",
+            "minutes": "Protokol",
+            "seconds": "Sekunder"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Giv v\u00e6k %s",
+        "bDesc1": "Hvis du har tilmeldt dig, skal du tjekke din e-mail med j\u00e6vne mellemrum for at f\u00e5 de seneste oplysninger fra os. Vi giver ogs\u00e5 gratis kuponer til shopping i vores butik. Hvad venter du p\u00e5! <a href='%s' target='_blank'> Kom godt i gang <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Fort\u00e6l dine venner lige nu",
+        "sTitle2": "F\u00e5 alt gratis GiveAway",
+        "sDesc2": "V\u00e6lg den gave, du kan lide, du kan ogs\u00e5 deltage i hele opgaven fra listen, som vi leverer nedenfor."
+    },
+    "banner2": {
+        "bTitle2": "Nemme og enkle krav",
+        "bDesc2": "Kun ved at registrere dig selv kan du deltage i vores gave. Hvad venter du p\u00e5! lad os <a href='%s' target='_blank'> Registrer <\/a> dig selv lige nu."
+    },
+    "section3": {
+        "sTitleBefore3": "Hent den nu",
+        "sTitle3": "Hvordan deltager man?",
+        "sDesc3": "F\u00e5 en gratis GiveAway p\u00e5 mindre end 24 timer! G\u00e5 ikke glip af denne sj\u00e6ldne mulighed, det er meget let, bare registrer dig p\u00e5 vores hjemmeside og tag unders\u00f8gelsen (hvis nogen), du beh\u00f8ver ikke betale noget. Tillykke!",
+        "step1": {
+            "sStep1": "Trin 1",
+            "ssDesc11": "For at f\u00e5 en chance for at vinde %s er alt, hvad du skal g\u00f8re, at udfylde din kontotilmeldingsformular. For at komme i gang skal du bare deltage i konkurrencen med din e-mail-adresse."
+        },
+        "step2": {
+            "sStep2": "Trin 2",
+            "ssDesc21": "N\u00e5r du er logget ind, har du mulighed for at f\u00e5 yderligere poster ved at udf\u00f8re forskellige handlinger, herunder at bes\u00f8ge vores sociale mediekanaler.",
+            "ssDesc22": "Du har ret til at gennemf\u00f8re s\u00e5 mange handlinger, som du vil, hver handling tilbyder et unikt antal poster, og hver post er en potentiel vinder.",
+            "ssDesc23": "Du kan ogs\u00e5 springe handlinger over for kun $ 1."
+        },
+        "step3": {
+            "done": "F\u00e6rdig.",
+            "sStep3": "Trin 3",
+            "ssDesc31": "F\u00e6rdig. Vi vil straks kontakte dig p\u00e5 baggrund af den kontakt, der blev udfyldt p\u00e5 tidspunktet for tilmeldingen p\u00e5 vores websted."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Giv v\u00e6k %s p\u00e5 en stor m\u00e5de.",
+        "bDesc3": "Denne begivenhed giver flere vindende slots end sidste \u00e5r. Inviter dine venner og familie til endnu st\u00f8rre muligheder. <a href='%s' target='_blank'> Tilmeld dig nu <\/a> f\u00f8r denne begivenhed starter."
+    },
+    "section4": {
+        "sTitleBefore4": "Valgt vurdering",
+        "sTitle4": "Giveaway-vinder",
+        "sDesc4": "Nogle anmeldelser af giveaway-vindere",
+        "theWinner": {
+            "winner": "VINDER",
+            "winner1": "Justin Daniel",
+            "coment1": "Tak for kontanterne, jeg h\u00e5ber, at din butik bliver mere overfyldt.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Dette er virkelig en ber\u00f8mt GeneralStore-butik, pakken var vellykket, jeg modtog, produktet er originalt, og jeg betalte ikke noget gebyr. Tak skal du have.",
+            "winner3": "Matthew Davidson",
+            "coment3": "F\u00f8rst troede jeg ikke p\u00e5 det, men efter at jeg kontaktede dem, viste det sig, at det var en GeneralStore. tak GeneralStore for %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Gudskelov for at \u00f8ge mit held, tak for giveaway, GeneralStore jeg elsker det."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Den smidige k\u00f8rsel af vores arrangementer og forretning",
+        "sTitle5": "St\u00f8ttet af",
+        "sDesc5": "Vores tak for den fulde st\u00f8tte, der altid hj\u00e6lper os",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikansk multinationalt teknologivirksomhed med base i Seattle, Washington, der fokuserer p\u00e5 e-handel, cloud computing, digital streaming og kunstig intelligens.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikansk internetforhandler, der prim\u00e6rt s\u00e6lger m\u00f8bler med hovedkontor i Midvale, Utah, n\u00e6r Salt Lake City. Patrick M. Byrne grundlagde Overstock.com i 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikansk multinationalt detailfirma, der driver en k\u00e6de af hypermarkeder, discountbutikker og k\u00f8bmandsforretninger fra USA med hovedkontor i Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikansk multinational forbrugerelektronikforhandler med hovedkontor i Richfield, Minnesota. Det blev oprindeligt grundlagt af Richard M. Schulze og James Wheeler i 1966 som en lydspecialbutik kaldet Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Online detailtjeneste baseret i Kina ejet af Alibaba Group. Lanceret i 2010 best\u00e5r det af sm\u00e5 virksomheder i Kina og andre placeringer, s\u00e5som Singapore, der tilbyder produkter til internationale online-k\u00f8bere.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikansk multinationalt e-handelsselskab med base i San Jose, Californien, der letter forbruger-til-forbruger og forretning-til-forbruger-salg via sit websted."
+    },
+    "section6": {
+        "sTitleBefore6": "Kom i kontakt",
+        "sTitle6": "Kontakt os",
+        "sDesc6": "Hvis du har sp\u00f8rgsm\u00e5l vedr\u00f8rende et produkt eller andre oplysninger, du har brug for, s\u00e5 t\u00f8v ikke med at kontakte os.",
+        "firstName": "Fornavn",
+        "lastName": "Efternavn",
+        "subject": "Emne",
+        "email": "E-mail",
+        "writeyourmessagehere": "Skriv din besked her.",
+        "sendmessage": "Send besked",
+        "sendsuccess": "Besked sendt <strong> med succes <\/strong>",
+        "sendsuccess1": "Vi vil svare s\u00e5 hurtigt som muligt."
+    }
+}

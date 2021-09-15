@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Entrar",
+        "howtojoin": "Como entrar?",
+        "giveawaylist": "Lista de brindes",
+        "review": "An\u00e1lise",
+        "support": "Apoio, suporte",
+        "contact": "Contato",
+        "aboutus": "Sobre n\u00f3s",
+        "aboutusdesc": "A General Store \u00e9 o centro de armazenamento de todas as filiais da General Store em todo o mundo que atuam em distribuidores especiais de marcas conhecidas.",
+        "links": "Links",
+        "subscribe": "Se inscrever",
+        "subscribedesc": "Por favor, digite seu e-mail se deseja receber nossas \u00faltimas not\u00edcias.",
+        "subscribesend": "Pedido enviado <strong> com sucesso <\/strong>",
+        "openregistration": "Inscri\u00e7\u00f5es abertas",
+        "opening": "Abertura",
+        "closing": "Fechando",
+        "registernow": "Registrar agora",
+        "checkingregistereddata": "Verificando dados registrados",
+        "from": "A partir de",
+        "to": "Para",
+        "viewregistereddata": "Ver dados registrados",
+        "visitor": "Visitante",
+        "copyright": "direito autoral",
+        "allrightsreserved": "Todos os direitos reservados"
+    },
+    "title": "Sorte %s",
+    "subtitle": "Inscreva-se agora para ter a chance de ganhar %s!",
+    "wordcontinue": "Continuar",
+    "section1": {
+        "sTitleBefore1": "Junte-se a n\u00f3s",
+        "sTitle1": "Aproveite os benef\u00edc %s",
+        "sDesc1": "Somente aqui voc\u00ea pode obter muitos benef\u00edc %s de doa\u00e7\u00e3o, facilidade de ades\u00e3o, os melhores produtos de doa\u00e7\u00e3o e v\u00e1r %s outros benef\u00edc %s",
+        "item": {
+            "iconItem1": "icon-verification_user",
+            "titleItem1": "Seguro",
+            "descItem1": "Seguran\u00e7a garantida.",
+            "iconItem2": "icon-money",
+            "titleItem2": "Dinheiro seguro",
+            "descItem2": "N\u00e3o cobra nenhuma taxa ao receber um brinde.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Tempo Seguro",
+            "descItem3": "Receba o GiveAway em menos de 24 horas!"
+        },
+        "timer": {
+            "timerTitle": "O b\u00f4nus de entrada gr\u00e1tis termina em:",
+            "days": "Dias",
+            "hours": "Horas",
+            "minutes": "Minutos",
+            "seconds": "Segundos"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Sorte %s",
+        "bDesc1": "Se voc\u00ea se registrou, verifique seu e-mail periodicamente para obter as informa\u00e7\u00f5es mais recentes nossas. Tamb\u00e9m distribuiremos vouchers para compras em nossa loja gratuitamente. O que voc\u00ea est\u00e1 esperando! <a href='%s' target='_blank'> Primeiros passos <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Conte para seus amigos agora",
+        "sTitle2": "Ganhe tudo gr\u00e1tis",
+        "sDesc2": "Escolha o brinde de sua prefer\u00eancia, voc\u00ea tamb\u00e9m pode participar de todos os brindes da lista que disponibilizamos abaixo."
+    },
+    "banner2": {
+        "bTitle2": "Requisitos f\u00e1ceis e simples",
+        "bDesc2": "Somente registrando-se voc\u00ea poder\u00e1 participar do nosso sorteio. O que voc\u00ea est\u00e1 esperando! vamos <a href='%s' target='_blank'> Registre-se <\/a> agora mesmo."
+    },
+    "section3": {
+        "sTitleBefore3": "Obt\u00ea-lo agora",
+        "sTitle3": "Como entrar?",
+        "sDesc3": "Ganhe um GiveAway gr\u00e1tis em menos de 24 horas! N\u00e3o perca esta rara oportunidade, \u00e9 muito f\u00e1cil, basta se cadastrar no nosso site e responder a pesquisa (se houver), voc\u00ea n\u00e3o precisa pagar nada. Parab\u00e9ns!",
+        "step1": {
+            "sStep1": "Passo 1",
+            "ssDesc11": "Para ter a chance de ganhar o %s, tudo que voc\u00ea precisa fazer \u00e9 preencher o formul\u00e1rio de registro de sua conta. Para come\u00e7ar, basta entrar no concurso com seu endere\u00e7o de e-mail."
+        },
+        "step2": {
+            "sStep2": "Passo 2",
+            "ssDesc21": "Depois de fazer o login, voc\u00ea ter\u00e1 a oportunidade de obter entradas adicionais concluindo v\u00e1rias a\u00e7\u00f5es, incluindo visitando nossos canais de m\u00eddia social.",
+            "ssDesc22": "Voc\u00ea tem o direito de realizar quantas a\u00e7\u00f5es quiser, cada a\u00e7\u00e3o oferece um n\u00famero exclusivo de inscri\u00e7\u00f5es e cada inscri\u00e7\u00e3o \u00e9 um vencedor potencial.",
+            "ssDesc23": "Voc\u00ea tamb\u00e9m pode pular a\u00e7\u00f5es por apenas $ 1."
+        },
+        "step3": {
+            "done": "Feito.",
+            "sStep3": "etapa 3",
+            "ssDesc31": "Feito. Entraremos em contato imediatamente com base no contato que foi preenchido no momento do registro em nosso site."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Distribua %s em grande estilo.",
+        "bDesc3": "Este evento oferece mais vagas vencedoras do que no ano passado. Convide seus amigos e familiares para oportunidades ainda maiores. <a href='%s' target='_blank'> Registre-se agora <\/a> antes do in\u00edcio do evento."
+    },
+    "section4": {
+        "sTitleBefore4": "Avalia\u00e7\u00e3o selecionada",
+        "sTitle4": "Giveaway Winner",
+        "sDesc4": "Algumas resenhas de vencedores de brindes",
+        "theWinner": {
+            "winner": "VENCEDORA",
+            "winner1": "Justin daniel",
+            "coment1": "Obrigado pelo Cash, espero que sua loja esteja mais lotada.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Esta \u00e9 realmente uma loja GeneralStore famosa, a embalagem foi bem-sucedida que recebi, o produto \u00e9 original e n\u00e3o paguei nenhuma taxa. Obrigada.",
+            "winner3": "Matthew Davidson",
+            "coment3": "No come\u00e7o n\u00e3o acreditei, mas depois que os contatei descobri que era uma GeneralStore. obrigado GeneralStore por %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Agrade\u00e7o a Deus por aumentar minha sorte, obrigado por dar, GeneralStore eu adoro isso."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "O bom andamento de nossos eventos e neg\u00f3c %s",
+        "sTitle5": "Apoiado por",
+        "sDesc5": "O nosso agradecimento pelo total apoio que sempre nos ajuda",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Empresa multinacional americana de tecnologia com sede em Seattle, Washington, com foco em e-commerce, computa\u00e7\u00e3o em nuvem, streaming digital e intelig\u00eancia artificial.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Varejista de internet americano que vende principalmente m\u00f3veis com sede em Midvale, Utah, perto de Salt Lake City. Patrick M. Byrne fundou a Overstock.com em 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Empresa multinacional americana de varejo que opera uma rede de hipermercados, lojas de departamentos com desconto e mercearias nos Estados Unidos, com sede em Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Varejista multinacional de eletr\u00f4nicos de consumo americana com sede em Richfield, Minnesota. Foi originalmente fundada por Richard M. Schulze e James Wheeler em 1966 como uma loja especializada em \u00e1udio chamada Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Servi\u00e7o de varejo online com base na China, de propriedade do Grupo Alibaba. Lan\u00e7ado em 2010, \u00e9 formado por pequenas empresas na China e em outras localidades, como Cingapura, que oferecem produtos para compradores online internacionais.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corpora\u00e7\u00e3o multinacional americana de com\u00e9rcio eletr\u00f4nico com sede em San Jose, Calif\u00f3rnia, que facilita as vendas de consumidor para consumidor e empresa para consumidor por meio de seu site."
+    },
+    "section6": {
+        "sTitleBefore6": "Entrar em contato",
+        "sTitle6": "Entre em contato conosco",
+        "sDesc6": "Se voc\u00ea tiver alguma d\u00favida sobre um produto ou qualquer informa\u00e7\u00e3o de que precisa, n\u00e3o hesite em nos contatar.",
+        "firstName": "Primeiro nome",
+        "lastName": "Sobrenome",
+        "subject": "Sujeito",
+        "email": "O email",
+        "writeyourmessagehere": "Escreva sua mensagem aqui.",
+        "sendmessage": "Enviar mensagem",
+        "sendsuccess": "Mensagem enviada com <strong> sucesso <\/strong>",
+        "sendsuccess1": "N\u00f3s responderemos o mais rapidamente poss\u00edvel."
+    }
+}

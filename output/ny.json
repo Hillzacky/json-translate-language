@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Lowani Tsopano",
+        "howtojoin": "Momwe Mungalumikizire?",
+        "giveawaylist": "Mndandanda Wopereka",
+        "review": "Unikani",
+        "support": "Thandizo",
+        "contact": "Lumikizanani",
+        "aboutus": "Zambiri zaife",
+        "aboutusdesc": "General Store ndiye malo ogulitsira m'masitolo onse a General Store padziko lonse lapansi omwe amagulitsa mwapadera mitundu yodziwika bwino.",
+        "links": "Maulalo",
+        "subscribe": "Lembetsani",
+        "subscribedesc": "Chonde lowetsani imelo ngati mukufuna kulandira nkhani zaposachedwa kuchokera kwa ife.",
+        "subscribesend": "Pempho latumizidwa <strong> bwino <\/strong>",
+        "openregistration": "Tsegulani Kulembetsa",
+        "opening": "Kutsegula",
+        "closing": "Kutseka",
+        "registernow": "Lembetsani Tsopano",
+        "checkingregistereddata": "Kuwona zodalirika",
+        "from": "Kuchokera",
+        "to": "Kuti",
+        "viewregistereddata": "Onani zambiri zolembetsa",
+        "visitor": "Mlendo",
+        "copyright": "Umwini",
+        "allrightsreserved": "Maumwini onse ndi otetezedwa"
+    },
+    "title": "Perekani Kutali %s",
+    "subtitle": "Lowani tsopano kuti mupeze mwayi wopambana %s!",
+    "wordcontinue": "Pitirizani",
+    "section1": {
+        "sTitleBefore1": "Tiyeni Tilumikizane",
+        "sTitle1": "Sangalalani ndi Maubwino",
+        "sDesc1": "Pano pali pomwe mungapeze kuti ambiri amapereka zabwino, zosavuta kujowina, zopatsa zabwino kwambiri ndi maubwino ena osiyanasiyana",
+        "item": {
+            "iconItem1": "chithunzi-chotsimikizika_user",
+            "titleItem1": "Otetezeka",
+            "descItem1": "Chitetezo Chotsimikizika.",
+            "iconItem2": "chithunzi-ndalama",
+            "titleItem2": "Ndalama Zosungika",
+            "descItem2": "Silipira chindapusa chilichonse mukalandira zopereka.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Nthawi Yotetezeka",
+            "descItem3": "Pezani GetAway pasanathe maola 24!"
+        },
+        "timer": {
+            "timerTitle": "Bonasi yolowera mwaulere imathera pa:",
+            "days": "Masiku",
+            "hours": "Maola",
+            "minutes": "Mphindi",
+            "seconds": "Masekondi"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Perekani Kutali %s",
+        "bDesc1": "Ngati mwalembetsa, onani imelo yanu nthawi ndi nthawi kuti mumve zambiri kuchokera kwa ife. Tiperekanso ma vocha ogulira m'sitolo yathu kwaulere. Mukuyembekezera chiyani! <a href='%s' target='_blank'> Yambitsani <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Uzani anzanu pompano",
+        "sTitle2": "Pezani Kupatsa Kwaulere Kwaulere",
+        "sDesc2": "Sankhani mphatso yomwe mumakonda, mutha kutenga nawo mbali pazopereka zonse pamndandanda womwe timapereka pansipa."
+    },
+    "banner2": {
+        "bTitle2": "Zofunikira Zosavuta",
+        "bDesc2": "Pongolembetsa nokha mutha kutenga nawo mbali pazopereka zathu. Mukuyembekezera chiyani! tiyeni <a href='%s' target='_blank'> Tilembetseni <\/a> pompano."
+    },
+    "section3": {
+        "sTitleBefore3": "Pezani Tsopano",
+        "sTitle3": "Momwe Mungalumikizire?",
+        "sDesc3": "Pezani Free GiveAway pasanathe maola 24! Musaphonye mwayi wosowawu, ndizosavuta, ingolembetsani patsamba lathu ndikuwayesa (ngati alipo), simuyenera kulipira chilichonse. Zabwino zonse!",
+        "step1": {
+            "sStep1": "Gawo 1",
+            "ssDesc11": "Kuti mupeze mwayi wopambana %s, zonse muyenera kuchita ndikulemba fomu yolembetsera akaunti yanu. Kuti muyambe, ingolowani mpikisano ndi imelo adilesi yanu."
+        },
+        "step2": {
+            "sStep2": "Gawo 2",
+            "ssDesc21": "Mukangolowa, mudzakhala ndi mwayi wolowetsamo zina polemba zochitika zosiyanasiyana, kuphatikizapo kuyendera mayendedwe athu ochezera.",
+            "ssDesc22": "Muli ndi ufulu womaliza kuchita zochuluka momwe mungafunire, chilichonse chomwe mungachite chimapereka zolemba zingapo ndipo cholowa chilichonse chimakhala chopambana.",
+            "ssDesc23": "Muthanso kudumpha zochita pa $ 1 yokha."
+        },
+        "step3": {
+            "done": "Wachita.",
+            "sStep3": "Gawo 3",
+            "ssDesc31": "Wachita. Tidzakulankhulani nthawi yomweyo kutengera kulumikizana komwe kudadzazidwa nthawi yolembetsa patsamba lathu."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Perekani Kutali %s m'njira yayikulu.",
+        "bDesc3": "Mwambowu umapereka mipata yopambana kuposa chaka chatha. Itanani anzanu ndi abale anu kuti adzakhale ndi mwayi wokulirapo. <a href='%s' target='_blank'> Lembetsani tsopano <\/a> mwambowu usanayambe."
+    },
+    "section4": {
+        "sTitleBefore4": "Kusankhidwa kosankhidwa",
+        "sTitle4": "Wopambana Wopereka",
+        "sDesc4": "Ndemanga zina za opambana pazopereka",
+        "theWinner": {
+            "winner": "WOPAMBANA",
+            "winner1": "Justin Daniel",
+            "coment1": "Zikomo chifukwa cha Cash, ndikhulupilira kuti sitolo yanu idzadzaza.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Ichi ndi shopu yotchuka ya GeneralStore, phukusili lidayenda bwino ndidalandira, Zogulitsa ndizoyambirira, ndipo sindimalipira. Zikomo.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Poyamba sindinakhulupirire, koma nditawafotokozera, zidapezeka kuti inali GeneralStore. zikomo GeneralStore chifukwa cha %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Zikomo mulungu chifukwa chowonjezera mwayi wanga, zikomo popereka mphatso, GeneralStore ndimachikonda."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Kuyenda bwino kwa zochitika zathu & bizinesi",
+        "sTitle5": "Kuthandizidwa ndi",
+        "sDesc5": "Tikuthokoza chifukwa chothandizidwa kwathunthu chomwe chimatithandiza nthawi zonse",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Kampani yaku America yamakampani opanga ukadaulo ku Seattle, Washington, yomwe imayang'ana kwambiri za e-commerce, cloud computing, digito, komanso luntha lochita kupanga.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Wogulitsa intaneti waku America wogulitsa makamaka mipando yomwe ili ku Midvale, Utah, pafupi ndi Salt Lake City. Patrick M. Byrne adakhazikitsa Overstock.com mu 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Makampani ogulitsa ku America ochokera kumayiko osiyanasiyana omwe amagulitsa ma hypermarket angapo, malo ogulitsira otsika mtengo, komanso malo ogulitsa kuchokera ku United States, omwe amakhala ku Bentonville, Arkansas.",
+        "tSupport4": "KothAMangalI",
+        "dSupport4": "Wogulitsa zamagetsi amitundu yambiri aku America omwe amakhala ku Richfield, Minnesota. Idakhazikitsidwa koyambirira ndi Richard M. Schulze ndi James Wheeler ku 1966 ngati malo ogulitsira nyimbo otchedwa Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Ntchito yogulitsa pa intaneti yochokera ku China yomwe ili ndi Alibaba Group. Chokhazikitsidwa mu 2010, chimapangidwa ndi mabizinesi ang'onoang'ono ku China ndi madera ena, monga Singapore, omwe amapereka zogulitsa kwaogula pa intaneti padziko lonse lapansi.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "American multinational e-commerce corporation yomwe ili ku San Jose, California, yomwe imathandizira kugulitsa kwa ogula ndi ogula komanso ogulitsa ndi ogulitsa kudzera patsamba lawo."
+    },
+    "section6": {
+        "sTitleBefore6": "Lumikizanani",
+        "sTitle6": "Lumikizanani nafe",
+        "sDesc6": "Ngati muli ndi mafunso okhudzana ndi malonda, kapena chilichonse chomwe mukufuna, chonde musazengereze kuti mutitumizire.",
+        "firstName": "Dzina loyamba",
+        "lastName": "Dzina lomaliza",
+        "subject": "Mutu",
+        "email": "Imelo",
+        "writeyourmessagehere": "Lembani uthenga wanu apa.",
+        "sendmessage": "Tumizani Uthenga",
+        "sendsuccess": "Uthengawu watumizidwa <strong> bwino <\/strong>",
+        "sendsuccess1": "Tiyankha mwachangu kwambiri."
+    }
+}

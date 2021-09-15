@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Gabung Ayeuna",
+        "howtojoin": "Kumaha Gabung?",
+        "giveawaylist": "Daptar masihan",
+        "review": "Tinjauan",
+        "support": "Ngarojong",
+        "contact": "Kontak",
+        "aboutus": "Tentang Kami",
+        "aboutusdesc": "General Store mangrupikeun pusat toko sadaya toko cabang General Store di panjuru dunya anu kalibet dina distributor khusus m\u00e9rek terkenal.",
+        "links": "Tautan",
+        "subscribe": "Ngalanggan",
+        "subscribedesc": "Mangga lebetkeun email anjeun upami anjeun kersa nampi beja pang\u00e9nggalna ti kami.",
+        "subscribesend": "Pamundut dikintunkeun <strong> suks\u00e9s <\/strong>",
+        "openregistration": "Pendaptaran Buka",
+        "opening": "Muka",
+        "closing": "Panutup",
+        "registernow": "Daptar Ayeuna",
+        "checkingregistereddata": "Mariksa data anu kadaptar",
+        "from": "Ti",
+        "to": "Ka",
+        "viewregistereddata": "Ningali data anu kadaptar",
+        "visitor": "Nu datang",
+        "copyright": "Hak Cipta",
+        "allrightsreserved": "Sadaya hak disimpen"
+    },
+    "title": "Masihan Jauh %s",
+    "subtitle": "Daptar ayeuna pikeun kasempetan pikeun meunang %s!",
+    "wordcontinue": "Teraskeun",
+    "section1": {
+        "sTitleBefore1": "Hayu Gabung sareng Kami",
+        "sTitle1": "Ngarasakeun Mangpaatna",
+        "sDesc1": "Ngan di dieu anjeun tiasa k\u00e9ngingkeun seueur manpaat, gampang diiluan, produk anu pangsa\u00e9na sareng sababaraha manpaat anu san\u00e9s",
+        "item": {
+            "iconItem1": "ikon-diverifikasi_user",
+            "titleItem1": "Aman",
+            "descItem1": "Kaamanan Dijamin.",
+            "iconItem2": "ikon-artos",
+            "titleItem2": "Duit Aman",
+            "descItem2": "Henteu ngeusi biaya naon wa\u00e9 nalika nampi hadiah.",
+            "iconItem3": "ikon-access_alarms",
+            "titleItem3": "Waktos Aman",
+            "descItem3": "K\u00e9ngingkeun GiveAway kirang ti 24 jam!"
+        },
+        "timer": {
+            "timerTitle": "Bonus \u00e9ntri gratis r\u00e9ngs\u00e9 dina:",
+            "days": "Po\u00e9",
+            "hours": "Jam",
+            "minutes": "Menit",
+            "seconds": "Detik"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Masihan Jauh %s",
+        "bDesc1": "Upami anjeun parantos ngadaptar, parios email anjeun sacara berkala pikeun k\u00e9ngingkeun inpormasi pang anyarna tina kami. Kami og\u00e9 bakal masihan voucher pikeun balanja di toko kami gratis. Naon anu anjeun ngantosan! <a href='%s' target='_blank'> Ngamimitian <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Bejakeun ka babaturan anjeun ayeuna",
+        "sTitle2": "K\u00e9ngingkeun Sadaya Gratis GiveAway",
+        "sDesc2": "Pilih kado anu anjeun pikahoyong, anjeun og\u00e9 tiasa nyandak bagian dina sadaya hadiah tina daptar anu kami sediakan di handap."
+    },
+    "banner2": {
+        "bTitle2": "Syarat Gampang tur saderhana",
+        "bDesc2": "Ngan ku ngadaptar diri anjeun tiasa nyandak bagian tina hadiah urang. Naon anu anjeun ngantosan! hayu <a href='%s' target='_blank'> Daptar <\/a> diri anjeun ayeuna."
+    },
+    "section3": {
+        "sTitleBefore3": "Meunangkeun eta ayeuna",
+        "sTitle3": "Kumaha gabung?",
+        "sDesc3": "K\u00e9ngingkeun GiveAway gratis kirang ti 24 jam! Entong sono kasempetan langka ieu, gampang pisan, ngan ngadaptar dina halaman w\u00e9b kami sareng survey (upami aya), anjeun teu kedah mayar nanaon. Wilujeng!",
+        "step1": {
+            "sStep1": "L\u00e9ngkah 1",
+            "ssDesc11": "Pikeun k\u00e9ngingkeun kasempetan k\u00e9ngingkeun %s, anu kedah anjeun lakukeun nya\u00e9ta ngeusian formulir pendaptaran akun anjeun. Pikeun ngamimitian, cukup lebetkeun kontes sareng alamat sur\u00e9l\u00e9k anjeun."
+        },
+        "step2": {
+            "sStep2": "L\u00e9ngkah 2",
+            "ssDesc21": "Sakali anjeun lebet, anjeun bakal ngagaduhan kasempetan pikeun k\u00e9ngingkeun \u00e9ntri tambahan ku ngalengkepan sababaraha tindakan, kalebet nganjang ka saluran m\u00e9dia sosial kami.",
+            "ssDesc22": "Anjeun gaduh hak ngalengkepan saloba tindakan anu anjeun pikahoyong, unggal tindakan nawiskeun sajumlah unik \u00e9ntri sareng unggal \u00e9ntri mangrupikeun calon juara.",
+            "ssDesc23": "Anjeun oge tiasa ngalangkungan tindakan ngan ukur $ 1."
+        },
+        "step3": {
+            "done": "Rengse.",
+            "sStep3": "L\u00e9ngkah 3",
+            "ssDesc31": "Rengse. Kami bakal langsung ngontak anjeun dumasar kana kontak anu dieusian nalika pendaptaran dina situs kami."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Pasihan Jauh %s ku jalan Ageung.",
+        "bDesc3": "Acara ieu nyayogikeun langkung seueur slot anu unggul tibatan taun kamari. Undang babaturan sareng kulawarga anjeun pikeun kasempetan anu langkung ageung. <a href='%s' target='_blank'> Daptar ayeuna <\/a> sateuacan acara ieu dimimitian."
+    },
+    "section4": {
+        "sTitleBefore4": "Penilaian anu kapilih",
+        "sTitle4": "Pemenang Hadiah",
+        "sDesc4": "Sababaraha ulasan ngeunaan juara giveaway",
+        "theWinner": {
+            "winner": "PEMENANG",
+            "winner1": "Justin Daniel",
+            "coment1": "Hatur nuhun kana Kontan, mugia toko anjeun bakal langkung rame.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Ieu leres-leres toko GeneralStore anu terkenal, bungkus \u00e9ta suks\u00e9s kuring nampi, Produk aslina, sareng kuring henteu mayar biaya. Hatur nuhun.",
+            "winner3": "Mateus Davidson",
+            "coment3": "Mimitina kuring henteu percanten, tapi saatos kuring ngahubungi aranjeunna ternyata \u00e9ta mangrupikeun GeneralStore. hatur nuhun GeneralStore pikeun %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Hatur nuhun Gusti pikeun nambihan tuah kuring, hatur nuhun parantos masihan, GeneralStore kuring resep."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Kelancaran acara & bisnis urang",
+        "sTitle5": "Didukung ku",
+        "sDesc5": "Hatur nuhun kana pangrojong lengkep anu salawasna ngabantuan kami",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Perusahaan t\u00e9knologi multinasional Am\u00e9rika anu berpusat di Seattle, Washington, anu museur kana e-commerce, komputasi awan, streaming digital, sareng kecerdasan buatan.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Pangec\u00e9r intern\u00e9t Am\u00e9rika ngajual utamina jati kantor pusatna di Midvale, Utah, caket Salt Lake City. Patrick M. Byrne ngadegkeun Overstock.com di 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Perusahaan ritel multinasional Am\u00e9rika anu ngoperasikeun rant\u00e9 hypermarket, department store diskon, sareng toko bahan makanan ti Am\u00e9rika Serikat, kantor pusatna di Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Pangec\u00e9r \u00e9l\u00e9ktronika konsum\u00e9n multinasional Am\u00e9rika kantor pusatna di Richfield, Minnesota. Asalna diadegkeun ku Richard M. Schulze sareng James Wheeler di 1966 salaku toko khusus audio anu disebat Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Jasa ritel online dumasar di Cina milik Alibaba Grup. Diluncurkeun taun 2010, \u00e9ta diwangun ku usaha leutik di Cina sareng lokasi san\u00e9sna, sapertos Singapura, anu nawiskeun produk pikeun pembeli online internasional.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Perusahaan e-commerce multinasional Am\u00e9rika anu berbasis di San Jose, California, anu ngagampangkeun penjualan konsumen-ka-konsumen sareng bisnis-ka-konsumen ngalangkungan halaman w\u00e9b na."
+    },
+    "section6": {
+        "sTitleBefore6": "Ngahubungi",
+        "sTitle6": "Taros Kami",
+        "sDesc6": "Upami anjeun ngagaduhan patarosan ngeunaan produk, atanapi inpormasi anu anjeun peryogikeun, punten tong ragu ngahubungi kami.",
+        "firstName": "Nami payun",
+        "lastName": "Nami pengker",
+        "subject": "Judulna",
+        "email": "Sur\u00e9l\u00e9k",
+        "writeyourmessagehere": "Tulis pesen anjeun didieu.",
+        "sendmessage": "Kirim Pesen",
+        "sendsuccess": "Pesen dikirim <strong> hasil <\/strong>",
+        "sendsuccess1": "Kami bakal ngar\u00e9spon gancang-gancang."
+    }
+}

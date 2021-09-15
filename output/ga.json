@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "B\u00ed Anois",
+        "howtojoin": "Conas a Bheith p\u00e1irteach?",
+        "giveawaylist": "Liosta Giveaway",
+        "review": "Athbhreithni\u00fa",
+        "support": "Taca\u00edocht",
+        "contact": "D\u00e9an teagmh\u00e1il",
+        "aboutus": "F\u00fainn",
+        "aboutusdesc": "Is \u00e9 General Store l\u00e1rionad siopa\u00ed na siopa\u00ed brainse General Store ar fud an domhain at\u00e1 ag gabh\u00e1il do dh\u00e1ileoir\u00ed speisialta de bhranda\u00ed aitheanta.",
+        "links": "Naisc",
+        "subscribe": "Liost\u00e1il",
+        "subscribedesc": "Cuir isteach do r-phost m\u00e1s mian leat an nuacht is d\u00e9ana\u00ed a fh\u00e1il uainn.",
+        "subscribesend": "Iarratas seolta <strong> rath\u00fail <\/strong>",
+        "openregistration": "Cl\u00e1r\u00fa Oscailte",
+        "opening": "Ag oscailt",
+        "closing": "Ag d\u00fanadh",
+        "registernow": "Cl\u00e1raigh anois",
+        "checkingregistereddata": "Sonra\u00ed cl\u00e1raithe a sheice\u00e1il",
+        "from": "\u00d3",
+        "to": "Chun",
+        "viewregistereddata": "F\u00e9ach ar shonra\u00ed cl\u00e1raithe",
+        "visitor": "Cuairteoir",
+        "copyright": "C\u00f3ipcheart",
+        "allrightsreserved": "Gach ceart ar cosaint"
+    },
+    "title": "Tabhair Away %s",
+    "subtitle": "Cl\u00e1raigh anois le haghaidh seans %s a bhuachan!",
+    "wordcontinue": "Lean\u00faint ar aghaidh",
+    "section1": {
+        "sTitleBefore1": "B\u00edmis Linn",
+        "sTitle1": "Bain sult as na bunt\u00e1ist\u00ed",
+        "sDesc1": "Is anseo amh\u00e1in a gheobhaidh t\u00fa go leor sochar tabhair ar shi\u00fal, \u00e9asca le bheith p\u00e1irteach, na t\u00e1irg\u00ed is fearr a thabhairt ar shi\u00fal agus bunt\u00e1ist\u00ed \u00e9ags\u00fala eile",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Sl\u00e1n",
+            "descItem1": "Sl\u00e1nd\u00e1il R\u00e1thaithe.",
+            "iconItem2": "\u00edoc\u00f3n-airgead",
+            "titleItem2": "Airgead S\u00e1bh\u00e1ilte",
+            "descItem2": "N\u00ed ghearrann s\u00e9 aon t\u00e1ill\u00ed nuair a fhaigheann t\u00fa bronntanas.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Am S\u00e1bh\u00e1ilte",
+            "descItem3": "Faigh GiveAway i n\u00edos l\u00fa n\u00e1 24 uair an chloig!"
+        },
+        "timer": {
+            "timerTitle": "Cr\u00edochna\u00edonn b\u00f3nas iontr\u00e1la saor in aisce ag:",
+            "days": "Laethanta",
+            "hours": "Uaireanta",
+            "minutes": "Miontuairisc\u00ed",
+            "seconds": "Soicind"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Tabhair Away %s",
+        "bDesc1": "M\u00e1 chl\u00e1raigh t\u00fa, seice\u00e1il do r-phost go tr\u00e9imhsi\u00fail chun an fhaisn\u00e9is is d\u00e9ana\u00ed a fh\u00e1il uainn. Tabharfaimid dearbh\u00e1in le haghaidh siopad\u00f3ireachta in\u00e1r siopa saor in aisce freisin. Cad at\u00e1 t\u00fa ag fanacht! <a href='%s' target='_blank'> T\u00fas a Chur le ch\u00e9ile <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Inis do do chairde faoi l\u00e1thair",
+        "sTitle2": "Faigh Gach Tabhair Saor in Aisce",
+        "sDesc2": "Roghnaigh an bronntanas is mian leat, is f\u00e9idir leat p\u00e1irt a ghlacadh freisin sa bhronntanas uile \u00f3n liosta a shol\u00e1thra\u00edmid th\u00edos."
+    },
+    "banner2": {
+        "bTitle2": "Riachtanais \u00c9asca agus Simpl\u00ed",
+        "bDesc2": "N\u00ed f\u00e9idir leat ach p\u00e1irt a ghlacadh in\u00e1r mbronntanas ach t\u00fa f\u00e9in a chl\u00e1r\u00fa. Cad at\u00e1 t\u00fa ag fanacht! d\u00e9anaimis <a href='%s' target='_blank'> Cl\u00e1raigh <\/a> t\u00fa f\u00e9in anois."
+    },
+    "section3": {
+        "sTitleBefore3": "Faigh \u00e9 anois",
+        "sTitle3": "Conas a Bheith p\u00e1irteach?",
+        "sDesc3": "Faigh GiveAway saor in aisce i n\u00edos l\u00fa n\u00e1 24 uair an chloig! N\u00e1 caill an deis neamhchoitianta seo, t\u00e1 s\u00e9 an-\u00e9asca, n\u00ed g\u00e1 ach cl\u00e1r\u00fa ar \u00e1r su\u00edomh Gr\u00e9as\u00e1in agus an suirbh\u00e9 a dh\u00e9anamh (m\u00e1s ann d\u00f3), n\u00ed g\u00e1 duit aon rud a \u00edoc. Comhghairdeas!",
+        "step1": {
+            "sStep1": "C\u00e9im 1",
+            "ssDesc11": "Chun deis a fh\u00e1il na %s a bhuachan, n\u00edl le d\u00e9anamh agat ach d\u2019fhoirm chl\u00e1r\u00fach\u00e1in do chuntais a l\u00edonadh. Chun t\u00fas a chur leis, n\u00edl ort ach dul isteach sa chom\u00f3rtas le do sheoladh r\u00edomhphoist."
+        },
+        "step2": {
+            "sStep2": "C\u00e9im 2",
+            "ssDesc21": "Nuair a bheidh t\u00fa log\u00e1ilte isteach, beidh an deis agat iontr\u00e1lacha breise a fh\u00e1il tr\u00ed ghn\u00edomhartha \u00e9ags\u00fala a chur i gcr\u00edch, lena n-\u00e1ir\u00edtear cuairt a thabhairt ar \u00e1r gcain\u00e9il me\u00e1n s\u00f3isialta.",
+            "ssDesc22": "T\u00e1 t\u00fa i dteideal an oiread gn\u00edomhartha agus is mian leat a chur i gcr\u00edch, cuireann gach gn\u00edomh l\u00edon uath\u00fail iontr\u00e1lacha ar f\u00e1il agus is buaiteoir ionchasach gach iontr\u00e1il.",
+            "ssDesc23": "Is f\u00e9idir leat gn\u00edomha\u00edochta\u00ed a scipe\u00e1il freisin le haghaidh ach $ 1."
+        },
+        "step3": {
+            "done": "Arna dh\u00e9anamh.",
+            "sStep3": "C\u00e9im 3",
+            "ssDesc31": "Arna dh\u00e9anamh. D\u00e9anfaimid teagmh\u00e1il leat l\u00e1ithreach bunaithe ar an teagmh\u00e1il a l\u00edonadh isteach tr\u00e1th an chl\u00e1raithe ar \u00e1r su\u00edomh."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Tabhair Away %s ar bhealach M\u00f3r.",
+        "bDesc3": "Sol\u00e1thra\u00edonn an \u00f3c\u00e1id \u200b\u200bseo n\u00edos m\u00f3 sliot\u00e1n buaite n\u00e1 an bhliain seo caite. Tabhair cuireadh do do chairde agus do mhuintir le haghaidh deiseanna n\u00edos m\u00f3 f\u00f3s. <a href='%s' target='_blank'> Cl\u00e1raigh anois <\/a> sula dtosa\u00edonn an \u00f3c\u00e1id \u200b\u200bseo."
+    },
+    "section4": {
+        "sTitleBefore4": "Meas\u00fan\u00fa roghnaithe",
+        "sTitle4": "Buaiteoir Giveaway",
+        "sDesc4": "Roinnt athbhreithnithe ar bhuaiteoir\u00ed deonaithe",
+        "theWinner": {
+            "winner": "Buaiteoir",
+            "winner1": "Justin Daniel",
+            "coment1": "Go raibh maith agat as an Airgead Tirim, t\u00e1 s\u00fail agam go mbeidh do st\u00f3r n\u00edos pl\u00f3daithe.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Is siopa c\u00e1ili\u00fail GeneralStore \u00e9 seo i nd\u00e1ir\u00edre, d\u2019\u00e9irigh go maith leis an bpac\u00e1iste a fuair m\u00e9, T\u00e1 an t\u00e1irge bunaidh, agus n\u00edor \u00edoc m\u00e9 aon t\u00e1ill\u00ed. Go raibh maith agat.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Ar dt\u00fas n\u00edor chreid m\u00e9 \u00e9, ach tar \u00e9is dom teagmh\u00e1il a dh\u00e9anamh leo fuair s\u00e9 amach gur GeneralStore a bh\u00ed ann. go raibh maith agat GeneralStore as %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Go raibh maith agat a Dhia as an t-\u00e1dh a mh\u00e9ad\u00fa, go raibh maith agat as giveaway, GeneralStore is bre\u00e1 liom \u00e9."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "\u00c1r n-imeachta\u00ed agus \u00e1r ngn\u00f3 a re\u00e1cht\u00e1il go rian\u00fail",
+        "sTitle5": "Le taca\u00edocht \u00f3",
+        "sDesc5": "\u00c1r mbu\u00edochas as an taca\u00edocht ioml\u00e1n a chabhra\u00edonn linn i gc\u00f3na\u00ed",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Cuideachta teicneola\u00edochta iln\u00e1isi\u00fanta Mheirice\u00e1 at\u00e1 lonnaithe i Seattle, Washington, a dh\u00edr\u00edonn ar r\u00edomhthr\u00e1cht\u00e1il, r\u00edomhaireacht scamall, sruth\u00fa digiteach, agus intleacht shaorga.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Miond\u00edolt\u00f3ir idirl\u00edn Meirice\u00e1nach ag d\u00edol trosc\u00e1n a cheanncheathr\u00fa go pr\u00edomha i Midvale, Utah, in aice le Salt Lake City. Bhunaigh Patrick M. Byrne Overstock.com i 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Corpar\u00e1id miond\u00edola iln\u00e1isi\u00fanta Mheirice\u00e1 a oibr\u00edonn slabhra de hipearmharga\u00ed, siopa\u00ed ilranna lascaine, agus siopa\u00ed gr\u00f3saera \u00f3 na St\u00e1it Aontaithe, a ceanncheathr\u00fa i Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Miond\u00edolt\u00f3ir leictreonaice tomhalt\u00f3ra iln\u00e1isi\u00fanta Mheirice\u00e1 a bhfuil a cheanncheathr\u00fa i Richfield, Minnesota. Bhunaigh Richard M. Schulze agus James Wheeler \u00e9 ar dt\u00fas i 1966 mar st\u00f3r speisialtachta fuaime darb ainm Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Seirbh\u00eds miond\u00edola ar l\u00edne at\u00e1 lonnaithe sa tS\u00edn faoi \u00fain\u00e9ireacht Ghr\u00fapa Alibaba. Seoladh \u00e9 in 2010, agus t\u00e1 s\u00e9 comhdh\u00e9anta de ghn\u00f3lachta\u00ed beaga sa tS\u00edn agus in \u00e1iteanna eile, mar shampla Singeap\u00f3r, a thairgeann t\u00e1irg\u00ed do cheannaitheoir\u00ed idirn\u00e1isi\u00fanta ar l\u00edne.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corpar\u00e1id r\u00edomhthr\u00e1cht\u00e1la iln\u00e1isi\u00fanta Mheirice\u00e1 at\u00e1 lonnaithe i San Jose, California, a \u00e9asca\u00edonn d\u00edolach\u00e1in tomhalt\u00f3ra-le-tomhalt\u00f3ir agus gn\u00f3-le-tomhalt\u00f3ir tr\u00edna su\u00edomh Gr\u00e9as\u00e1in."
+    },
+    "section6": {
+        "sTitleBefore6": "T\u00e9igh i dteagmh\u00e1il",
+        "sTitle6": "Glaoigh orainn",
+        "sDesc6": "M\u00e1 t\u00e1 aon cheist agat maidir le t\u00e1irge, n\u00f3 aon fhaisn\u00e9is a theasta\u00edonn uait, n\u00e1 b\u00edodh aon leisce ort teagmh\u00e1il a dh\u00e9anamh linn.",
+        "firstName": "Ainm",
+        "lastName": "Ainm Deireanach",
+        "subject": "\u00c1bhar",
+        "email": "R\u00edomhphost",
+        "writeyourmessagehere": "Scr\u00edobh do theachtaireacht anseo.",
+        "sendmessage": "Seol Teachtaireacht",
+        "sendsuccess": "Teachtaireacht seolta <strong> rath\u00fail <\/strong>",
+        "sendsuccess1": "Tabharfaimid freagra chomh luath agus is f\u00e9idir."
+    }
+}

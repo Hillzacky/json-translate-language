@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Hui Ano",
+        "howtojoin": "Pehea e hui ai?",
+        "giveawaylist": "Papa inoa h\u0101\u02bbawi",
+        "review": "Loiloi",
+        "support": "K\u0101ko\u02bbo",
+        "contact": "Ho\u02bboka\u02bba\u02bbike",
+        "aboutus": "E pili ana i\u0101 m\u0101kou",
+        "aboutusdesc": "\u02bbO General Store ke kikowaena hale k\u016b\u02bbai o n\u0101 hale k\u016b\u02bbai l\u0101l\u0101 \u02bbo General Store a puni ka honua e hana nei i n\u0101 mea ho\u02bboka\u02bbawale k\u016bikaw\u0101 o n\u0101 mana kaulana.",
+        "links": "Loulou",
+        "subscribe": "Kakau inoa",
+        "subscribedesc": "E \u02bbolu\u02bbolu e ho\u02bbokomo i k\u0101u leka uila in\u0101 makemake \u02bboe e loa\u02bba n\u0101 n\u016bhou hou mai i\u0101 m\u0101kou.",
+        "subscribesend": "Ua ho\u02bbouna maika\u02bbi \u02bbia ke noi <strong> maika\u02bbi",
+        "openregistration": "Ho\u02bbok\u0101inoa",
+        "opening": "Wehe",
+        "closing": "Panina",
+        "registernow": "Aaeno ano",
+        "checkingregistereddata": "Ke n\u0101n\u0101 nei i n\u0101 \u02bbikepili i ho\u02bbopa\u02bba inoa \u02bbia",
+        "from": "Mai",
+        "to": "I",
+        "viewregistereddata": "E n\u0101n\u0101 i ka \u02bbikepili i ho\u02bbopa\u02bba inoa \u02bbia",
+        "visitor": "Malihini",
+        "copyright": "Kuleana kope",
+        "allrightsreserved": "Ua m\u0101lama \u02bbia n\u0101 kuleana \u0101pau"
+    },
+    "title": "E h\u0101\u02bbawi i\u0101 %s",
+    "subtitle": "E kau inoa i k\u0113ia manawa no ka manawa e lanakila ai %s!",
+    "wordcontinue": "Ho\u02bbomau",
+    "section1": {
+        "sTitleBefore1": "E hui p\u016b me m\u0101kou",
+        "sTitle1": "Nanea i n\u0101 pono",
+        "sDesc1": "Ma ane\u02bbi wale \u02bboe e ki\u02bbi ai i n\u0101 keu pono he nui, ma\u02bbalahi e hui p\u016b, n\u0101 huahana h\u0101\u02bbawi maika\u02bbi loa a me n\u0101 keu pono \u02bb\u0113 a\u02bbe",
+        "item": {
+            "iconItem1": "ikona-h\u014d\u02bboia-ho\u02bbohana",
+            "titleItem1": "Palekana",
+            "descItem1": "Palekana ho\u02bbohiki.",
+            "iconItem2": "ikona-k\u0101l\u0101",
+            "titleItem2": "K\u0101l\u0101 palekana",
+            "descItem2": "\u02bbA\u02bbole e uku i n\u0101 uku ke loa\u02bba i\u0101 \u02bboe kahi makana.",
+            "iconItem3": "ikona-access_alarms",
+            "titleItem3": "Manawa palekana",
+            "descItem3": "E ki\u02bbi i\u0101 GiveAway ma lalo o 24 mau hola!"
+        },
+        "timer": {
+            "timerTitle": "Pau n\u0101 bonus komo manuahi ma:",
+            "days": "N\u0101 L\u0101",
+            "hours": "N\u0101 hola",
+            "minutes": "Minuke",
+            "seconds": "Kekona"
+        }
+    },
+    "banner1": {
+        "bTitle1": "E h\u0101\u02bbawi i\u0101 %s",
+        "bDesc1": "In\u0101 \u02bboe i ho\u02bbopa\u02bba inoa, e n\u0101n\u0101 i k\u0101u leka uila i k\u0113l\u0101 me k\u0113ia manawa e ki\u02bbi i ka \u02bbike hou mai i\u0101 m\u0101kou. E h\u0101\u02bbawi p\u016b m\u0101kou i n\u0101 palapala h\u014d\u02bboia no ke k\u016b\u02bbai \u02bbana ma k\u0101 m\u0101kou hale k\u016b\u02bbai me ka uku \u02bbole. He aha k\u0101u mea e kali ai! <a href='%s' target='_blank'> Ho\u02bbomaka <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "E ha\u02bbi i k\u0101u mau hoaaloha i k\u0113ia manawa",
+        "sTitle2": "E ki\u02bbi i\u0101 All Free GiveAway",
+        "sDesc2": "Koho i ka makana \u0101u e makemake ai, hiki i\u0101 \u02bboe ke lawe p\u016b i ka h\u0101\u02bbawi manawale\u02bba a pau mai ka papa inoa a m\u0101kou e ho\u02bbolako ai ma lalo nei."
+    },
+    "banner2": {
+        "bTitle2": "N\u0101 Mana\u02bbo M\u0101m\u0101 a ma\u02bbalahi ho\u02bbi",
+        "bDesc2": "Wale ma ke ho\u02bbopa\u02bba inoa \u02bbana i\u0101 \u02bboe iho hiki i\u0101 \u02bboe ke komo i k\u0101 m\u0101kou h\u0101\u02bbawi manawale\u02bba. He aha k\u0101u mea e kali ai! e <a href='%s' target='_blank'> E ho\u02bbopa\u02bba inoa <\/a> i\u0101 \u02bboe iho i k\u0113ia manawa."
+    },
+    "section3": {
+        "sTitleBefore3": "E ki\u02bbi ia Ano",
+        "sTitle3": "Pehea e hui ai?",
+        "sDesc3": "E ki\u02bbi i kahi giveAway manuahi ma lalo o 24 mau hola! Mai ha\u02bbalele i k\u0113ia manawa k\u016bpono \u02bbole, ma\u02bbalahi loa ia, e ho\u02bbopa\u02bba inoa wale ma k\u0101 m\u0101kou p\u016bnaewele a lawe i ke ana (in\u0101 loa\u02bba), \u02bba\u02bbole pono \u02bboe e uku i kekahi mea. Mahalo nui!",
+        "step1": {
+            "sStep1": "Ka\u02bbAnu\u02bbu 1",
+            "ssDesc11": "E loa\u02bba ai ka manawa e lanakila ai i ka %s, \u02bbo n\u0101 mea \u0101u e pono ai e ho\u02bbopiha i k\u0101u palapala ho\u02bbopa\u02bba inoa mo\u02bbohelu k\u0101l\u0101. E ho\u02bbomaka, e ho\u02bbokomo wale i ka ho\u02bbok\u016bk\u016b me k\u0101u leka uila."
+        },
+        "step2": {
+            "sStep2": "Ka\u02bbAnu\u02bbu 2",
+            "ssDesc21": "I ka manawa e komo ai i loko, loa\u02bba i\u0101 \u02bboe ka manawa k\u016bpono e ki\u02bbi i n\u0101 mea komo hou a\u02bbe ma o ka ho\u02bbopau \u02bbana i n\u0101 hana like \u02bbole, e like me ke kipa \u02bbana i k\u0101 m\u0101kou p\u016bnaewele media.",
+            "ssDesc22": "Ua kuleana \u02bboe e ho\u02bbopau i n\u0101 hana \u0101u e makemake ai, h\u0101\u02bbawi k\u0113l\u0101 me k\u0113ia hana i kahi helu k\u016bikaw\u0101 o n\u0101 mea komo a \u02bbo k\u0113l\u0101 me k\u0113ia komo \u02bbana he mea lanakila paha ia.",
+            "ssDesc23": "Hiki i\u0101 \u02bboe ke lele i n\u0101 hana no $ 1 wale n\u014d."
+        },
+        "step3": {
+            "done": "Hana \u02bbia.",
+            "sStep3": "Ka\u02bbAnu\u02bbu 3",
+            "ssDesc31": "Hana \u02bbia. E ho\u02bbopili koke aku m\u0101kou i\u0101 \u02bboe e pili ana i ka ho\u02bbopili i ho\u02bbopihapiha \u02bbia i ka manawa o ke kau inoa \u02bbana ma k\u0101 m\u0101kou p\u016bnaewele."
+        }
+    },
+    "banner3": {
+        "bTitle3": "E h\u0101\u02bbawi i\u0101 %s ma ke ala nui.",
+        "bDesc3": "H\u0101\u02bbawi k\u0113ia hanana i n\u0101 kau lanakila hou a\u02bbe ma mua o ka makahiki i hala. E kono i kou mau hoaaloha a me kou \u02bbohana no n\u0101 manawa k\u016bpono \u02bboi aku. <a href='%s' target='_blank'> E ho\u02bbopa\u02bba inoa i k\u0113ia manawa <\/a> ma mua o ka ho\u02bbomaka \u02bbana o k\u0113ia hanana."
+    },
+    "section4": {
+        "sTitleBefore4": "Loiloi i koho \u02bbia",
+        "sTitle4": "Mea Lanakila Giveaway",
+        "sDesc4": "\u02bbO kekahi mau loiloi o n\u0101 mea lanakila",
+        "theWinner": {
+            "winner": "LANAKILA",
+            "winner1": "\u02bbO Justin Daniel",
+            "coment1": "Mahalo i\u0101 \u02bboe no ka Cash, lana ko\u02bbu mana\u02bbo e nui ana ka lehulehu o k\u0101u hale k\u016b\u02bbai.",
+            "winner2": "\u02bbO Jessica Vanheln",
+            "coment2": "He hale k\u016b\u02bbai kaulana \u02bbo GeneralStore maoli k\u0113ia, ua k\u016ble\u02bba ka p\u016b\u02bbolo i loa\u02bba ia\u02bbu, kumu \u02bbia ka huahana, a \u02bba\u02bbole wau i uku i n\u0101 uku. Mahalo i\u0101 'oe.",
+            "winner3": "\u02bbO Matthew Davidson",
+            "coment3": "I ka manawa mua \u02bba\u02bbole wau i mana\u02bbo\u02bbi\u02bbo, ak\u0101 ma hope o ka\u02bbu ho\u02bbopili \u02bbana i\u0101 l\u0101kou ua \u02bbike \u02bbia he GeneralStore ia. mahalo i\u0101 GeneralStore no %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Mahalo i ke akua no ka ho\u02bbonui \u02bbana i ko\u02bbu laki, mahalo no ka h\u0101\u02bbawi \u02bbana, GeneralStore aloha wau i\u0101 ia."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "\u02bbO ka holo ma\u02bbalahi o k\u0101 m\u0101kou hanana & \u02bboihana",
+        "sTitle5": "K\u0101ko\u02bbo \u02bbia e",
+        "sDesc5": "\u02bbO k\u0101 m\u0101kou mahalo no ke k\u0101ko\u02bbo piha e k\u014dkua mau i\u0101 m\u0101kou",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "\u02bbO ka \u02bbenehana \u02bbenehana multinational \u02bbAmelika e ho\u02bbokumu \u02bbia ma Seattle, Wakinekona, ka mea e kia ana i ka e-commerce, ke ao kamepiula, ke kahe kikoho\u02bbe, a me ka \u02bbike hana.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Ke k\u016b\u02bbai aku nei ka mea k\u016b\u02bbai aku p\u016bnaewele \u02bbo \u02bbAmelika i n\u0101 lako pono i ho\u02bbokumu \u02bbia ma Midvale, Utah, kokoke i Salt Lake City. Ua ho\u02bbokumu \u02bbo Patrick M. Byrne i\u0101 Overstock.com i ka makahiki 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "\u02bbO ka hui kalepa multinational American e hana nei i ke kaulahao o n\u0101 hypermarkets, n\u0101 hale k\u016b\u02bbai k\u016b\u02bbai h\u014d\u02bbemi, a me n\u0101 hale k\u016b\u02bbai mai \u02bbAmelika Hui P\u016b \u02bbIa, ke ke\u02bbena nui ma Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "\u02bbO ka mea k\u016b\u02bbai aku uila uila lehulehu \u02bbAmelika ma ke ke\u02bbena nui i Richfield, Minnesota. Ua ho\u02bbokumu mua \u02bbia ia e Richard M. Schulze l\u0101ua \u02bbo James Wheeler i ka makahiki 1966 ma ke \u02bbano he hale k\u016b\u02bbai loea leo i kapa \u02bbia \u02bbo Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "\u02bbO ka lawelawe k\u016b\u02bbai k\u016b\u02bbai p\u016bnaewele e ho\u02bbokumu \u02bbia ma Kina e ka Alibaba Group. Ho\u02bbomaka \u02bbia ma 2010, hana \u02bbia i mau \u02bboihana li\u02bbili\u02bbi ma Kina a me n\u0101 wahi \u02bb\u0113 a\u02bbe, e like me Singapore, e h\u0101\u02bbawi nei i n\u0101 huahana i n\u0101 mea k\u016b\u02bbai aku ma ka p\u016bnaewele.",
+        "tSupport6": "\u02bbEbay.com",
+        "dSupport6": "\u02bbO ka \u02bboihana e-commerce multinational \u02bbAmelika e ho\u02bbokumu \u02bbia ma San Jose, Kaleponi, e k\u014dkua ana i n\u0101 mea k\u016b\u02bbai aku i n\u0101 mea k\u016b\u02bbai aku a me n\u0101 \u02bboihana aku i n\u0101 mea k\u016b\u02bbai aku ma o k\u0101na p\u016bnaewele."
+    },
+    "section6": {
+        "sTitleBefore6": "E ki\u02bbi i ka ho\u02bbop\u0101",
+        "sTitle6": "K\u0101hea i\u0101 m\u0101 \u02da ou",
+        "sDesc6": "In\u0101 he mau n\u012bnau k\u0101u e pili ana i kahi huahana, a i \u02bbole kekahi \u02bbikepili \u0101u e makemake ai, e \u02bbolu\u02bbolu e ho\u02bboka\u02bba\u02bbike mai i\u0101 m\u0101kou.",
+        "firstName": "Inoa mua",
+        "lastName": "Inoa hope",
+        "subject": "Kumuhana",
+        "email": "Leka uila",
+        "writeyourmessagehere": "K\u0101kau i k\u0101u leka ma ane\u02bbi.",
+        "sendmessage": "Ho\u02bbouna Leka",
+        "sendsuccess": "Ho\u02bbouna maika\u02bbi \u02bbia ka leka uila <\/strong>",
+        "sendsuccess1": "E pane m\u0101kou i ka hiki wawe."
+    }
+}

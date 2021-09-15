@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Liitu n\u00fc\u00fcd",
+        "howtojoin": "Kuidas liituda?",
+        "giveawaylist": "Kingituste loend",
+        "review": "\u00dclevaade",
+        "support": "Toetus",
+        "contact": "V\u00f5ta \u00fchendust",
+        "aboutus": "Meist",
+        "aboutusdesc": "General Store on k\u00f5igi General Store'i harukaupluste keskus kogu maailmas, mis tegeleb tuntud kaubam\u00e4rkide spetsiaalsete edasim\u00fc\u00fcjatega.",
+        "links": "Lingid",
+        "subscribe": "Telli",
+        "subscribedesc": "Kui soovite meilt v\u00e4rskeid uudiseid saada, sisestage oma e-posti aadress.",
+        "subscribesend": "Taotlus saadeti <strong> edukalt <\/strong>",
+        "openregistration": "Avage registreerimine",
+        "opening": "Avamine",
+        "closing": "Sulgemine",
+        "registernow": "Registreeru kohe",
+        "checkingregistereddata": "Registreeritud andmete kontrollimine",
+        "from": "Alates",
+        "to": "To",
+        "viewregistereddata": "Vaadake registreeritud andmeid",
+        "visitor": "K\u00fclastaja",
+        "copyright": "Autori\u00f5igus",
+        "allrightsreserved": "K\u00f5ik \u00f5igused kaitstud"
+    },
+    "title": "Andke \u00e4ra %s",
+    "subtitle": "Registreeruge kohe, et saada v\u00f5imalus v\u00f5ita %s!",
+    "wordcontinue": "J\u00e4tka",
+    "section1": {
+        "sTitleBefore1": "Liitu meiega",
+        "sTitle1": "Nautige eeliseid",
+        "sDesc1": "Ainult siin saate paljusid kinkimish\u00fcvesid, h\u00f5lpsasti liituda, parimaid kinkida tooteid ja mitmesuguseid muid eeliseid",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Turvaline",
+            "descItem1": "Garanteeritud turvalisus.",
+            "iconItem2": "ikoon-raha",
+            "titleItem2": "Turvaline raha",
+            "descItem2": "Kingituse saamisel ei v\u00f5ta tasusid.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Turvaline aeg",
+            "descItem3": "Hankige GiveAway v\u00e4hem kui 24 tunni jooksul!"
+        },
+        "timer": {
+            "timerTitle": "Tasuta sissep\u00e4\u00e4suboonus l\u00f5peb:",
+            "days": "P\u00e4evad",
+            "hours": "Tunnid",
+            "minutes": "Protokollid",
+            "seconds": "Sekundid"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Andke \u00e4ra %s",
+        "bDesc1": "Kui olete registreerunud, kontrollige perioodiliselt oma e-posti aadressi, et saada meilt uusimat teavet. Anname ka tasuta kaupluses ostut\u0161ekid v\u00e4lja. Mida sa ootad! <a href='%s' target='_blank'> Alustage <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "\u00d6elge kohe oma s\u00f5pradele",
+        "sTitle2": "Hankige k\u00f5ik tasuta kingitused",
+        "sDesc2": "Valige kingitus, mis teile meeldib, saate osaleda ka k\u00f5igis kingitustes loendis, mille pakume allpool."
+    },
+    "banner2": {
+        "bTitle2": "Lihtsad ja lihtsad n\u00f5uded",
+        "bDesc2": "Ainult ise registreerudes saate meie kingitusest osa v\u00f5tta. Mida sa ootad! <a href='%s' target='_blank'> registreerime <\/a> end kohe."
+    },
+    "section3": {
+        "sTitleBefore3": "Seda kohe saama",
+        "sTitle3": "Kuidas liituda?",
+        "sDesc3": "Hankige tasuta GiveAway v\u00e4hem kui 24 tunni jooksul! \u00c4ra j\u00e4ta seda haruldast v\u00f5imalust kasutamata, see on v\u00e4ga lihtne, lihtsalt registreeru meie veebisaidil ja osale uuringus (kui seda on), sa ei pea midagi maksma. Palju \u00f5nne!",
+        "step1": {
+            "sStep1": "Samm 1",
+            "ssDesc11": " %s v\u00f5itmiseks on vaja vaid t\u00e4ita oma konto registreerimisvorm. Alustamiseks sisestage lihtsalt konkurss oma e-posti aadressiga."
+        },
+        "step2": {
+            "sStep2": "2. samm",
+            "ssDesc21": "Kui olete sisse loginud, on teil v\u00f5imalus saada mitmesuguseid toiminguid tehes, sealhulgas k\u00fclastades meie sotsiaalse meedia kanaleid, t\u00e4iendavaid sissekandeid.",
+            "ssDesc22": "Teil on \u00f5igus sooritada nii palju toiminguid kui soovite, iga toiming pakub unikaalset arvu kandeid ja iga v\u00f5istlust\u00f6\u00f6 on potentsiaalne v\u00f5itja.",
+            "ssDesc23": "Samuti saate toimingud vahele j\u00e4tta vaid 1 dollari eest."
+        },
+        "step3": {
+            "done": "Valmis.",
+            "sStep3": "3. samm",
+            "ssDesc31": "Valmis. V\u00f5tame teiega kohe \u00fchendust, v\u00f5ttes aluseks kontakti, mis t\u00e4ideti meie saidil registreerimisel."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Andke \u00e4ra %s suurel viisil.",
+        "bDesc3": "See s\u00fcndmus pakub rohkem v\u00f5idupesasid kui eelmisel aastal. Kutsu oma s\u00f5pru ja perekonda veelgi suuremate v\u00f5imaluste saamiseks. Enne selle s\u00fcndmuse algust <a href='%s' target='_blank'> registreeruge kohe <\/a>."
+    },
+    "section4": {
+        "sTitleBefore4": "Valitud hinnang",
+        "sTitle4": "Kingituste v\u00f5itja",
+        "sDesc4": "M\u00f5ned \u00fclevaated kingituste v\u00f5itjate kohta",
+        "theWinner": {
+            "winner": "V\u00d5ITJA",
+            "winner1": "Justin Daniel",
+            "coment1": "T\u00e4name sularaha eest, loodan, et teie pood on rahvarohkem.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "See on t\u00f5esti kuulus GeneralStore'i pood, pakett \u00f5nnestus, sain k\u00e4tte, toode on originaalne ja ma ei maksnud mingeid tasusid. Ait\u00e4h.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Alguses ma ei uskunud seda, kuid p\u00e4rast nendega \u00fchendust v\u00f5tmist selgus, et see oli GeneralStore. ait\u00e4h GeneralStore %s eest.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Jumal t\u00e4natud \u00f5nne suurendamise eest, ait\u00e4h kingituse eest, GeneralStore mulle meeldib."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Meie \u00fcrituste ja \u00e4ri sujuv kulg",
+        "sTitle5": "Toetanud",
+        "sDesc5": "T\u00e4name t\u00e4ieliku toetuse eest, mis meid alati aitab",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Ameerika rahvusvaheline tehnoloogiaettev\u00f5te, mis asub Washingtonis Seattle'is ja mis keskendub e-kaubandusele, pilvandmet\u00f6\u00f6tlusele, digitaalsele voogesitusele ja tehisintellektile.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Ameerika Interneti-jaem\u00fc\u00fcja, kes m\u00fc\u00fcb peamiselt m\u00f6\u00f6blit peakontoriga Midvales, Utah, Salt Lake City l\u00e4hedal. Patrick M. Byrne asutas Overstock.com'i 1999. aastal.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ameerika hargmaine jaem\u00fc\u00fcgiettev\u00f5te, mis haldab Ameerika \u00dchendriikidest p\u00e4rit h\u00fcpermarketite, sooduskaubamajade ja toidupoodide ketti, mille peakontor asub Bentonville'is, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Ameerika rahvusvahelise olmeelektroonika jaem\u00fc\u00fcja, mille peakontor asub Minnesotas Richfieldis. Selle asutasid algselt Richard M. Schulze ja James Wheeler 1966. aastal heli erikauplusena, mille nimi oli Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Hiinas asuv veebip\u00f5hine jaem\u00fc\u00fcgiteenus, mis kuulub Alibaba kontsernile. 2010. aastal asutatud ettev\u00f5te koosneb Hiina ja teiste piirkondade, n\u00e4iteks Singapuri v\u00e4ikeettev\u00f5tetest, kes pakuvad tooteid rahvusvahelistele veebiostjatele.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Ameerika rahvusvaheline e-kaubanduse korporatsioon, mis asub Californias San Joses ja h\u00f5lbustab oma veebisaidi kaudu tarbijatelt tarbijatele ja ettev\u00f5tetelt tarbijatele m\u00fc\u00fcki."
+    },
+    "section6": {
+        "sTitleBefore6": "\u00dchendust v\u00f5tma",
+        "sTitle6": "V\u00f5ta meiega \u00fchendust",
+        "sDesc6": "Kui teil on toote v\u00f5i vajaliku teabe kohta k\u00fcsimusi, v\u00f5tke meiega kindlasti \u00fchendust.",
+        "firstName": "Eesnimi",
+        "lastName": "Perekonnanimi",
+        "subject": "Teema",
+        "email": "E-post",
+        "writeyourmessagehere": "Kirjuta oma s\u00f5num siia.",
+        "sendmessage": "Saada s\u00f5num",
+        "sendsuccess": "S\u00f5num saadeti <strong> edukalt <\/strong>",
+        "sendsuccess1": "Vastame nii kiiresti kui v\u00f5imalik."
+    }
+}

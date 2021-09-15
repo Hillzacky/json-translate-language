@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Gabung Saiki",
+        "howtojoin": "Cara Nggabungake?",
+        "giveawaylist": "Dhaptar Hadiah",
+        "review": "Nyemak",
+        "support": "Dhukungan",
+        "contact": "Kontak",
+        "aboutus": "Babagan Kita",
+        "aboutusdesc": "General Store minangka pusat toko kabeh toko General Store ing saindenging jagad sing melu distributor khusus merek terkenal.",
+        "links": "Tautan",
+        "subscribe": "Langganan",
+        "subscribedesc": "Ketik email sampeyan yen sampeyan pengin nampa warta paling anyar saka kami.",
+        "subscribesend": "Panjaluk dikirim <strong> sukses <\/strong>",
+        "openregistration": "Registrasi Terbuka",
+        "opening": "Mbukak",
+        "closing": "Panutup",
+        "registernow": "Ndhaptar Saiki",
+        "checkingregistereddata": "Priksa data pangguna",
+        "from": "Saka",
+        "to": "Kanggo",
+        "viewregistereddata": "Ndeleng data sing wis didaftar",
+        "visitor": "Pengunjung",
+        "copyright": "Hak Cipta",
+        "allrightsreserved": "Kabeh hak dilindhungi undhang-undhang"
+    },
+    "title": "Wenehi Away %s ",
+    "subtitle": "Mlebu saiki kanggo kasempatan menang %s !",
+    "wordcontinue": "Terusake",
+    "section1": {
+        "sTitleBefore1": "Ayo gabung karo Kita",
+        "sTitle1": "Seneng Wuku",
+        "sDesc1": "Mung ing kene sampeyan bisa entuk akeh mupangat, gampang gabung, produk sing paling apik lan macem-macem mupangat",
+        "item": {
+            "iconItem1": "ikon-diverifikasi_user",
+            "titleItem1": "Aman",
+            "descItem1": "Keamanan Dijamin.",
+            "iconItem2": "lambang-dhuwit",
+            "titleItem2": "Dhuwit Aman",
+            "descItem2": "Ora ngisi biaya apa wae nalika nampa hadiah.",
+            "iconItem3": "ikon-access_alarms",
+            "titleItem3": "Wektu Aman",
+            "descItem3": "Entuk GiveAway kurang saka 24 jam!"
+        },
+        "timer": {
+            "timerTitle": "Bonus entri gratis rampung ing:",
+            "days": "Dina-dina",
+            "hours": "Jam",
+            "minutes": "Menit",
+            "seconds": "Detik"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Wenehi Away %s ",
+        "bDesc1": "Yen sampeyan wis ndhaptar, priksa email kanthi rutin kanggo njupuk informasi paling anyar saka kita. Kita uga bakal menehi voucher kanggo blanja ing toko kanthi gratis. Ngenteni apa maneh! <a href='%s' target='_blank'> Miwiti <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Kandhani kanca-kanca saiki",
+        "sTitle2": "Entuk Kabeh GiveAway Gratis",
+        "sDesc2": "Pilih hadiah sing disenengi, sampeyan uga bisa melu menehi hadiah saka dhaptar sing diwenehake ing ngisor iki."
+    },
+    "banner2": {
+        "bTitle2": "Syarat sing Gampang lan Prima",
+        "bDesc2": "Mung kanthi ndhaptar dhewe, sampeyan bisa melu menehi hadiah. Ngenteni apa maneh! ayo <a href='%s' target='_blank'> Ndhaptar <\/a> saiki."
+    },
+    "section3": {
+        "sTitleBefore3": "Goleki Saiki",
+        "sTitle3": "Kepiye carane gabung?",
+        "sDesc3": "Entuk GiveAway gratis kurang saka 24 jam! Aja lali kesempatan langka iki, gampang banget, cukup ndaftar ing situs web lan survey (yen ana), sampeyan ora kudu mbayar apa-apa. Sugeng rawuh!",
+        "step1": {
+            "sStep1": "Langkah 1",
+            "ssDesc11": "Kanggo entuk kesempatan kanggo menang %s , sampeyan mung kudu isi formulir registrasi akun. Kanggo miwiti, cukup ketik kontes nganggo alamat email sampeyan."
+        },
+        "step2": {
+            "sStep2": "Langkah 2",
+            "ssDesc21": "Sawise sampeyan mlebu, sampeyan bakal duwe kesempatan kanggo entuk entri tambahan kanthi ngrampungake macem-macem tumindak, kalebu ngunjungi saluran media sosial.",
+            "ssDesc22": "Sampeyan duwe hak ngrampungake kabeh tumindak sing disenengi, saben tumindak nawakake macem-macem entri lan saben entri minangka calon pemenang.",
+            "ssDesc23": "Sampeyan uga bisa nglumpati tumindak mung $ 1."
+        },
+        "step3": {
+            "done": "Rampung",
+            "sStep3": "Langkah 3",
+            "ssDesc31": "Rampung Kita bakal langsung ngubungi sampeyan adhedhasar kontak sing wis diisi nalika registrasi ing situs iki."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Menehi Away %s  kanthi cara Gedhe.",
+        "bDesc3": "Acara iki nyedhiyakake luwih akeh slot sing menang tinimbang taun kepungkur. Undang kanca lan kulawarga kanggo kesempatan sing luwih gedhe. <a href='%s' target='_blank'> Ndhaptar saiki <\/a> sadurunge acara iki diwiwiti."
+    },
+    "section4": {
+        "sTitleBefore4": "Pambiji kapilih",
+        "sTitle4": "Pemenang Hadiah",
+        "sDesc4": "Sawetara review babagan pemenang hadiah",
+        "theWinner": {
+            "winner": "PEMENANG",
+            "winner1": "Justin Daniel",
+            "coment1": "Matur nuwun kanggo Cash, muga-muga toko sampeyan bakal luwih akeh.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Iki sejatine toko GeneralStore sing terkenal, paket sukses aku tampa, Produk asli, lan aku ora mbayar biaya. Matur nuwun",
+            "winner3": "Matthew Davidson",
+            "coment3": "Wiwitane aku ora percaya, nanging sawise dakubungi, pranyata iku GeneralStore. matur nuwun ing GeneralStore kanggo %s .",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Matur suwun Gusti amarga wis nambah nasib, matur nuwun kanggo hadiah, GeneralStore aku seneng."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Kelancaran acara & bisnis kita",
+        "sTitle5": "Didhukung dening",
+        "sDesc5": "Matur suwun dhumateng dhukungan lengkap sing tansah nulungi",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Perusahaan teknologi multinasional Amerika sing adhedhasar ing Seattle, Washington, sing fokus ing e-commerce, komputasi awan, streaming digital, lan intelijen buatan.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Pengecer internet Amerika sing adol mebel utamane kantor pusat ing Midvale, Utah, cedhak Salt Lake City. Patrick M. Byrne ngedegake Overstock.com ing taun 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Perusahaan ritel multinasional Amerika sing ngoperasikake hypermarket, department store diskon, lan toko kelontong saka Amerika Serikat, kantor pusat ing Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Pengecer elektronik konsumen multinasional Amerika sing bermarkas ing Richfield, Minnesota. Asline didegake dening Richard M. Schulze lan James Wheeler ing taun 1966 minangka toko khusus audio sing diarani Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Layanan ritel online adhedhasar ing China duweke Alibaba Group. Diluncurake ing 2010, digawe saka bisnis cilik ing China lan lokasi liyane, kayata Singapura, sing nawakake produk kanggo para pembeli online internasional.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Perusahaan e-commerce multinasional Amerika adhedhasar ing San Jose, California, sing nggampangake penjualan konsumen menyang konsumen lan bisnis menyang konsumen liwat situs web."
+    },
+    "section6": {
+        "sTitleBefore6": "Hubungi",
+        "sTitle6": "Hubungi Kita",
+        "sDesc6": "Yen sampeyan duwe pitakon babagan produk, utawa informasi sing sampeyan butuhake, aja ragu-ragu hubungi kami.",
+        "firstName": "Jeneng Pertama",
+        "lastName": "Jeneng mburi",
+        "subject": "Subyek",
+        "email": "Email",
+        "writeyourmessagehere": "Tulis pesen sampeyan ing kene.",
+        "sendmessage": "Kirim Pesen",
+        "sendsuccess": "Pesen dikirim <strong> sukses <\/strong>",
+        "sendsuccess1": "Kita bakal nanggapi sanalika bisa."
+    }
+}

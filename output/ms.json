@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Sertai sekarang",
+        "howtojoin": "Bagaimana Menyertainya?",
+        "giveawaylist": "Senarai Giveaway",
+        "review": "Kaji semula",
+        "support": "Sokongan",
+        "contact": "Hubungi",
+        "aboutus": "Tentang kita",
+        "aboutusdesc": "General Store adalah pusat kedai semua kedai cawangan General Store di seluruh dunia yang terlibat dalam pengedar khas jenama terkenal.",
+        "links": "Pautan",
+        "subscribe": "Langgan",
+        "subscribedesc": "Sila masukkan e-mel anda jika anda ingin menerima berita terkini dari kami.",
+        "subscribesend": "Permintaan dihantar <strong> berjaya <\/strong>",
+        "openregistration": "Buka Pendaftaran",
+        "opening": "Pembukaan",
+        "closing": "Penutup",
+        "registernow": "Daftar sekarang",
+        "checkingregistereddata": "Memeriksa data berdaftar",
+        "from": "Dari",
+        "to": "Ke",
+        "viewregistereddata": "Lihat data berdaftar",
+        "visitor": "Pelawat",
+        "copyright": "hak cipta",
+        "allrightsreserved": "Hak cipta terpelihara"
+    },
+    "title": "Beri %s",
+    "subtitle": "Daftar sekarang untuk berpeluang memenangi %s!",
+    "wordcontinue": "Teruskan",
+    "section1": {
+        "sTitleBefore1": "Mari Sertailah Kami",
+        "sTitle1": "Nikmati Kebaikannya",
+        "sDesc1": "Hanya di sini anda dapat memperoleh banyak faedah pemberian, senang bergabung, produk pemberian terbaik dan pelbagai faedah lain",
+        "item": {
+            "iconItem1": "ikon-disahkan_pengguna",
+            "titleItem1": "Selamat",
+            "descItem1": "Jaminan Keselamatan.",
+            "iconItem2": "ikon-wang",
+            "titleItem2": "Wang Selamat",
+            "descItem2": "Tidak mengenakan sebarang bayaran semasa menerima hadiah.",
+            "iconItem3": "ikon-akses_alarm",
+            "titleItem3": "Masa Selamat",
+            "descItem3": "Dapatkan GiveAway dalam masa kurang dari 24 jam!"
+        },
+        "timer": {
+            "timerTitle": "Bonus masuk percuma berakhir pada:",
+            "days": "Hari-hari",
+            "hours": "Jam",
+            "minutes": "Minit",
+            "seconds": "Detik"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Beri %s",
+        "bDesc1": "Sekiranya anda telah mendaftar, periksa e-mel anda secara berkala untuk mendapatkan maklumat terkini dari kami. Kami juga akan memberikan baucar untuk membeli-belah di kedai kami secara percuma. Tunggu apa lagi! <a href='%s' target='_blank'> Bermula <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Beritahu rakan anda sekarang",
+        "sTitle2": "Dapatkan Semua GiveAway Percuma",
+        "sDesc2": "Pilih hadiah yang anda suka, anda juga boleh mengambil bahagian dalam semua hadiah dari senarai yang kami sediakan di bawah."
+    },
+    "banner2": {
+        "bTitle2": "Keperluan Mudah dan Ringkas",
+        "bDesc2": "Hanya dengan mendaftarkan diri anda, anda dapat mengambil bahagian dalam pemberian kami. Tunggu apa lagi! mari <a href='%s' target='_blank'> Daftar <\/a> diri anda sekarang juga."
+    },
+    "section3": {
+        "sTitleBefore3": "Dapatkannya sekarang",
+        "sTitle3": "Bagaimana Menyertainya?",
+        "sDesc3": "Dapatkan GiveAway percuma dalam masa kurang dari 24 jam! Jangan lepaskan peluang yang jarang berlaku ini, sangat mudah, hanya mendaftar di laman web kami dan ikuti tinjauan (jika ada), anda tidak perlu membayar apa-apa. Tahniah!",
+        "step1": {
+            "sStep1": "Langkah 1",
+            "ssDesc11": "Untuk berpeluang memenangi %s, yang perlu anda lakukan hanyalah mengisi borang pendaftaran akaun anda. Untuk memulakan, masukkan peraduan dengan alamat e-mel anda."
+        },
+        "step2": {
+            "sStep2": "Langkah 2",
+            "ssDesc21": "Setelah anda log masuk, anda akan berpeluang untuk mendapatkan entri tambahan dengan menyelesaikan pelbagai tindakan, termasuk mengunjungi saluran media sosial kami.",
+            "ssDesc22": "Anda berhak untuk menyelesaikan seberapa banyak tindakan yang anda mahukan, setiap tindakan menawarkan sebilangan penyertaan yang unik dan setiap penyertaan adalah calon pemenang.",
+            "ssDesc23": "Anda juga boleh melangkau tindakan dengan hanya $ 1."
+        },
+        "step3": {
+            "done": "Selesai.",
+            "sStep3": "Langkah 3",
+            "ssDesc31": "Selesai. Kami akan segera menghubungi anda berdasarkan kenalan yang telah diisi semasa pendaftaran di laman web kami."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Berikan %s dengan cara yang Besar.",
+        "bDesc3": "Acara ini memberikan lebih banyak slot kemenangan berbanding tahun lalu. Ajak rakan dan keluarga anda untuk peluang yang lebih besar. <a href='%s' target='_blank'> Daftar sekarang <\/a> sebelum acara ini dimulakan."
+    },
+    "section4": {
+        "sTitleBefore4": "Penilaian terpilih",
+        "sTitle4": "Pemenang Giveaway",
+        "sDesc4": "Beberapa ulasan mengenai pemenang hadiah",
+        "theWinner": {
+            "winner": "PEMENANG",
+            "winner1": "Justin Daniel",
+            "coment1": "Terima kasih atas Wang Tunai, saya harap kedai anda akan lebih sesak.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Ini adalah kedai GeneralStore yang terkenal, bungkusan berjaya saya terima, Produk adalah asli, dan saya tidak membayar sebarang bayaran. Terima kasih.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Pada mulanya saya tidak mempercayainya, tetapi setelah saya menghubungi mereka ternyata itu adalah sebuah Kedai Umum. terima kasih GeneralStore untuk %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Terima kasih Tuhan kerana menambah keberuntungan saya, terima kasih atas pemberian, GeneralStore saya menyukainya."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Kelancaran acara & perniagaan kami",
+        "sTitle5": "Disokong oleh",
+        "sDesc5": "Terima kasih atas sokongan penuh yang sentiasa membantu kami",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Syarikat teknologi multinasional Amerika yang berpusat di Seattle, Washington, yang memberi tumpuan kepada e-dagang, pengkomputeran awan, streaming digital, dan kecerdasan buatan.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Peruncit internet Amerika yang menjual terutamanya perabot yang beribu pejabat di Midvale, Utah, berhampiran Salt Lake City. Patrick M. Byrne mengasaskan Overstock.com pada tahun 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Syarikat runcit multinasional Amerika yang mengendalikan rangkaian pasar raya besar, kedai serbaneka, dan kedai runcit dari Amerika Syarikat, yang beribu pejabat di Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Peruncit elektronik pengguna multinasional Amerika yang beribu pejabat di Richfield, Minnesota. Ia pada awalnya diasaskan oleh Richard M. Schulze dan James Wheeler pada tahun 1966 sebagai sebuah kedai khusus audio yang disebut Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Perkhidmatan runcit dalam talian yang berpangkalan di China dimiliki oleh Kumpulan Alibaba. Dilancarkan pada tahun 2010, ia terdiri dari perniagaan kecil di China dan lokasi lain, seperti Singapura, yang menawarkan produk kepada pembeli dalam talian antarabangsa.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Syarikat e-dagang multinasional Amerika yang berpusat di San Jose, California, yang memudahkan penjualan pengguna ke pengguna dan perniagaan ke pengguna melalui laman webnya."
+    },
+    "section6": {
+        "sTitleBefore6": "Hubungi",
+        "sTitle6": "Hubungi Kami",
+        "sDesc6": "Sekiranya anda mempunyai pertanyaan mengenai produk, atau maklumat yang anda perlukan, jangan ragu untuk menghubungi kami.",
+        "firstName": "Nama pertama",
+        "lastName": "Nama terakhir",
+        "subject": "Subjek",
+        "email": "E-mel",
+        "writeyourmessagehere": "Tuliskan mesej anda di sini.",
+        "sendmessage": "Menghantar mesej",
+        "sendsuccess": "Mesej dihantar <strong> berjaya <\/strong>",
+        "sendsuccess1": "Kami akan bertindak balas secepat mungkin."
+    }
+}

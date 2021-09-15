@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Eba Hona Joale",
+        "howtojoin": "U ka Ikopanya Joang?",
+        "giveawaylist": "Lethathamo la Limpho",
+        "review": "Hlahloba",
+        "support": "Ts'ehetso",
+        "contact": "Ikopanye",
+        "aboutus": "Mabapi le rona",
+        "aboutusdesc": "General Store ke setsi sa mabenkele sa mabenkele ohle a General Store makaleng a lefats'e a ikopantseng le barekisi ba khethehileng ba lihlahisoa tse tsebahalang.",
+        "links": "Lihokela",
+        "subscribe": "Ingolise",
+        "subscribedesc": "Ka kopo kenya lengolo tsoibila la hau haeba u batla ho amohela litaba tsa moraorao tse tsoang ho rona.",
+        "subscribesend": "Kopo e rometsoe <strong> ka katleho <\/strong>",
+        "openregistration": "Bula Ngoliso",
+        "opening": "E bula",
+        "closing": "Ho koala",
+        "registernow": "Ngodisa Hona Joale",
+        "checkingregistereddata": "Ho hlahloba lintlha tse ngolisitsoeng",
+        "from": "Ho tloha",
+        "to": "Ho",
+        "viewregistereddata": "Bona boitsebiso bo ngodisitsweng",
+        "visitor": "Moeti",
+        "copyright": "Tokelo ea Copyright",
+        "allrightsreserved": "Litokelo tsohle li sirelelitsoe"
+    },
+    "title": "Fana ka %s",
+    "subtitle": "Ingolise hona joale bakeng sa monyetla oa ho hapa %s!",
+    "wordcontinue": "Tsoela pele",
+    "section1": {
+        "sTitleBefore1": "Ha re Kopaneng",
+        "sTitle1": "Thabela Melemo",
+        "sDesc1": "Ke mona feela moo o ka fumanang ba bangata ba fana ka melemo, ho le bonolo ho e kenela, lihlahisoa tse ntlehali tsa ho fana le melemo e meng e fapaneng",
+        "item": {
+            "iconItem1": "icon-netefatso_user",
+            "titleItem1": "E sireletsehile",
+            "descItem1": "T\u0161ireletso e Tiisitsoeng.",
+            "iconItem2": "let\u0161oao-chelete",
+            "titleItem2": "Chelete e Sireletsehileng",
+            "descItem2": "Ha e lefelle litefiso leha e le life ha u amohela moputso.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Nako e Sireletsehileng",
+            "descItem3": "Fumana GetAway ka nako e ka tlase ho lihora tse 24!"
+        },
+        "timer": {
+            "timerTitle": "Bonase ea ho kena mahala e fella ka:",
+            "days": "Matsatsi",
+            "hours": "Lihora",
+            "minutes": "Metsotso",
+            "seconds": "Metsotsoana"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Fana ka %s",
+        "bDesc1": "Haeba u ngolisitse, sheba lengolo-tsoibila la hau nako le nako ho fumana leseli la morao-rao ho rona. Re tla fana ka li-voucher bakeng sa ho ea reka lebenkeleng la rona mahala. U emetse eng! <a href='%s' target='_blank'> Qalella <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Bolella metsoalle ea hau hona joale",
+        "sTitle2": "Fumana Bolulo Bohle",
+        "sDesc2": "Khetha mpho eo u e ratang, hape o ka nka karolo ho tsohle tseo u li fang ho tsoa lenaneng leo re le fang lona ka tlase."
+    },
+    "banner2": {
+        "bTitle2": "Litlhoko tse bonolo le tse bonolo",
+        "bDesc2": "Ke ka ho ingolisa feela moo o ka nkang karolo ho rona. U emetse eng! ha re <a href='%s' target='_blank'> ngolisa <\/a> u le mong hona joale."
+    },
+    "section3": {
+        "sTitleBefore3": "E fumane hona joale",
+        "sTitle3": "Tsela ea ho Kena?",
+        "sDesc3": "Fumana GrantAway ea mahala nakong e ka tlase ho lihora tse 24! Se ke oa hloloheloa monyetla ona o sa tloaelehang, ho bonolo haholo, ingolisa ho webosaete ea rona 'me u etse lipatlisiso (haeba li teng), ha ua tlameha ho lefa letho. Rea u lebohela!",
+        "step1": {
+            "sStep1": "Mohato oa 1",
+            "ssDesc11": "Ho fumana monyetla oa ho hapa %s, o hloka feela ho tlatsa foromo ea hau ea ngoliso ea ak'haonte Ho qala, kena feela tlholisanong ka aterese ea hau ea lengolo tsoibila."
+        },
+        "step2": {
+            "sStep2": "Mohato oa 2",
+            "ssDesc21": "Hang ha o kenoe, o tla ba le monyetla oa ho fumana litlatsetso tse ling ka ho phethela liketso tse fapaneng, ho kenyeletsoa le ho etela metjha e meng ea litaba tsa sechaba.",
+            "ssDesc22": "U na le tokelo ea ho phethela liketso tse ngata kamoo u ratang, ketso e 'ngoe le e' ngoe e fana ka palo e ikhethileng ea litlatsetso mme kenyelletso e ngoe le e ngoe e ka hlola.",
+            "ssDesc23": "U ka boela oa tlola liketso tsa $ 1 feela."
+        },
+        "step3": {
+            "done": "E entsoe.",
+            "sStep3": "Mohato 3",
+            "ssDesc31": "E entsoe. Re tla ikopanya le uena hanghang ho ipapisitsoe le lebitso le tlatsitsoeng ka nako ea ngoliso sebakeng sa rona sa marang-rang."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Fana ka %s ka tsela e kholo.",
+        "bDesc3": "Ketsahalo ena e fana ka libaka tse ngata tsa ho hapa ho feta selemong se fetileng. Mema metsoalle ea hau le ba lelapa bakeng sa menyetla e meholo le ho feta. <a href='%s' target='_blank'> Ngolisa hona joale <\/a> pele ketsahalo ena e qala."
+    },
+    "section4": {
+        "sTitleBefore4": "Tekolo e khethiloeng",
+        "sTitle4": "Mofani oa Limpho",
+        "sDesc4": "Litlhahlobo tse ling tsa bahloli ba fanang ka moputso",
+        "theWinner": {
+            "winner": "MOHLOLI",
+            "winner1": "Justin Daniel",
+            "coment1": "Kea leboha ka Cash, ke ts'epa hore lebenkele la hau le tla tlala haholo.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Haele mona ke lebenkele le tummeng la GeneralStore, ke ile ka fumana sephutheloana se atlehileng, Product ke ea mantlha, 'me ha ke a ka ka lefa litefiso. Kea leboha.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Qalong ke ne ke sa kholoe, empa kamora hore ke ikopanye le bona ho ile ha fumaneha hore ke GeneralStore. ke leboha GeneralStore ka %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Ke leboha Molimo ka ho eketsa lehlohonolo, kea leboha ka ho fana ka thepa, GeneralStore kea e rata."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Ts'ebetso e boreleli ea liketsahalo le khoebo ea rona",
+        "sTitle5": "Tshehetswa ke",
+        "sDesc5": "Re leboha ts'ehetso e felletseng e lulang e re thusa",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Khamphani ea mahlale a machabeng ea Amerika e Seattle, Washington, e shebaneng haholo le khoebo ea e-commerce, computing ea leru, phallela ka dijithale le bohlale ba maiketsetso.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Morekisi oa inthanete oa Amerika ea rekisang thepa ea ka tlung haholo-holo e Midvale, Utah, haufi le Salt Lake City. Patrick M. Byrne o thehiloe Overstock.com ka 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Mokhatlo oa Amerika oa machabeng oa mabenkele o sebelisang lethathamo la li-hypermarket, mabenkele a litheko le mabenkele a korosari a tsoang United States, a ikarabellang ho Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Mohoebi oa thepa ea thepa ea elektronike oa machabeng oa Amerika o ntlo-kholo ea Richfield, Minnesota. Qalong e thehiloe ke Richard M. Schulze le James Wheeler ho 1966 joalo ka lebenkele le ikhethang la audio le bitsoang Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Ts'ebeletso ea thekiso e fumanehang marang-rang e Chaena e nang le sehlopha sa Alibaba. E thehiloe ka 2010, e entsoe ka likhoebo tse nyane Chaena le libakeng tse ling, joalo ka Singapore, tse fanang ka lihlahisoa ho bareki ba machabeng ba inthaneteng.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Mokhatlo oa Amerika oa machabeng oa e-commerce o fumanehang San Jose, California, o nolofalletsang moreki ho moreki le khoebo le moreki ho rekisa ka webosaete ea eona."
+    },
+    "section6": {
+        "sTitleBefore6": "Fumana a buisana",
+        "sTitle6": "Iteanye le rona",
+        "sDesc6": "Haeba u na le lipotso mabapi le sehlahisoa, kapa tlhaiso-leseling eo u e hlokang, ka kopo se ke oa tsilatsila ho ikopanya le rona.",
+        "firstName": "Lebitso la pele",
+        "lastName": "Fane",
+        "subject": "Sehlooho",
+        "email": "Imeile",
+        "writeyourmessagehere": "Ngola molaetsa oa hau mona.",
+        "sendmessage": "Romella Molaetsa",
+        "sendsuccess": "Molaetsa o rometsoe <strong> ka katleho <\/strong>",
+        "sendsuccess1": "Re tla araba kapele kamoo ho ka khonehang."
+    }
+}

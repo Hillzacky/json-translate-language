@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "\u00danete ahora",
+        "howtojoin": "\u00bfComo unirse?",
+        "giveawaylist": "Lista de regalos",
+        "review": "Revisar",
+        "support": "Apoyo",
+        "contact": "Contacto",
+        "aboutus": "Sobre nosotros",
+        "aboutusdesc": "General Store es el centro de almacenamiento de todas las sucursales de General Store de todo el mundo dedicadas a distribuidores especiales de marcas reconocidas.",
+        "links": "Enlaces",
+        "subscribe": "Suscribir",
+        "subscribedesc": "Por favor ingrese su correo electr\u00f3nico si desea recibir nuestras \u00faltimas noticias.",
+        "subscribesend": "Solicitud enviada <strong> correctamente <\/strong>",
+        "openregistration": "Registro abierto",
+        "opening": "Apertura",
+        "closing": "Clausura",
+        "registernow": "Reg\u00edstrate ahora",
+        "checkingregistereddata": "Comprobaci\u00f3n de datos registrados",
+        "from": "Desde",
+        "to": "A",
+        "viewregistereddata": "Ver datos registrados",
+        "visitor": "Visitante",
+        "copyright": "Derechos de autor",
+        "allrightsreserved": "Reservados todos los derechos"
+    },
+    "title": "Regalar %s",
+    "subtitle": "\u00a1Reg\u00edstrese ahora para tener la oportunidad de ganar %s!",
+    "wordcontinue": "Continuar",
+    "section1": {
+        "sTitleBefore1": "Un\u00e1monos a nosotros",
+        "sTitle1": "Disfrute de los beneficios",
+        "sDesc1": "Solo aqu\u00ed puede obtener muchos beneficios de obsequio, f\u00e1cil de unirse, los mejores productos de obsequio y varios otros beneficios",
+        "item": {
+            "iconItem1": "icon-verificado_usuario",
+            "titleItem1": "Seguro",
+            "descItem1": "Seguridad garantizada.",
+            "iconItem2": "icono-dinero",
+            "titleItem2": "Dinero seguro",
+            "descItem2": "No cobra ninguna tarifa al recibir un sorteo.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Tiempo seguro",
+            "descItem3": "\u00a1Obt\u00e9n el Sorteo en menos de 24 horas!"
+        },
+        "timer": {
+            "timerTitle": "El bono de entrada gratuita termina en:",
+            "days": "Dias",
+            "hours": "Horas",
+            "minutes": "Minutos",
+            "seconds": "Segundos"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Regalar %s",
+        "bDesc1": "Si se ha registrado, consulte su correo electr\u00f3nico peri\u00f3dicamente para obtener la informaci\u00f3n m\u00e1s reciente de nosotros. Tambi\u00e9n daremos vales para comprar en nuestra tienda de forma gratuita. \u00a1Que estas esperando! <a href='%s' target='_blank'> Empezar <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Dile a tus amigos ahora mismo",
+        "sTitle2": "Obtenga todo el sorteo gratuito",
+        "sDesc2": "Elige el regalo que m\u00e1s te guste, tambi\u00e9n puedes participar en todos los sorteos de la lista que te proporcionamos a continuaci\u00f3n."
+    },
+    "banner2": {
+        "bTitle2": "Requisitos sencillos y sencillos",
+        "bDesc2": "Solo registr\u00e1ndote puedes participar en nuestro sorteo. \u00a1Que estas esperando! <a href='%s' target='_blank'> Reg\u00edstrese <\/a> usted mismo ahora mismo."
+    },
+    "section3": {
+        "sTitleBefore3": "Consiguelo ahora",
+        "sTitle3": "\u00bfComo unirse?",
+        "sDesc3": "\u00a1Obt\u00e9n un sorteo gratis en menos de 24 horas! No pierda esta oportunidad \u00fanica, es muy f\u00e1cil, simplemente reg\u00edstrese en nuestro sitio web y responda la encuesta (si corresponde), no tiene que pagar nada. \u00a1Felicidades!",
+        "step1": {
+            "sStep1": "Paso 1",
+            "ssDesc11": "Para tener la oportunidad de ganar el %s, todo lo que necesita hacer es completar el formulario de registro de su cuenta. Para comenzar, ingrese al concurso con su direcci\u00f3n de correo electr\u00f3nico."
+        },
+        "step2": {
+            "sStep2": "Paso 2",
+            "ssDesc21": "Una vez que haya iniciado sesi\u00f3n, tendr\u00e1 la oportunidad de obtener entradas adicionales al completar varias acciones, incluida la visita a nuestros canales de redes sociales.",
+            "ssDesc22": "Tiene derecho a completar tantas acciones como desee, cada acci\u00f3n ofrece un n\u00famero \u00fanico de entradas y cada entrada es un ganador potencial.",
+            "ssDesc23": "Tambi\u00e9n puede omitir acciones por solo $ 1."
+        },
+        "step3": {
+            "done": "Hecho.",
+            "sStep3": "Paso 3",
+            "ssDesc31": "Hecho. Nos comunicaremos con usted de inmediato en funci\u00f3n del contacto que se complet\u00f3 en el momento de registrarse en nuestro sitio."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Regala %s a lo grande.",
+        "bDesc3": "Este evento ofrece m\u00e1s espacios ganadores que el a\u00f1o pasado. Invite a sus amigos y familiares para oportunidades a\u00fan mayores. <a href='%s' target='_blank'> Reg\u00edstrese ahora <\/a> antes de que comience este evento."
+    },
+    "section4": {
+        "sTitleBefore4": "Evaluaci\u00f3n seleccionada",
+        "sTitle4": "Ganador del sorteo",
+        "sDesc4": "Algunas rese\u00f1as de los ganadores del sorteo",
+        "theWinner": {
+            "winner": "GANADOR",
+            "winner1": "Justin Daniel",
+            "coment1": "Gracias por el efectivo, espero que su tienda est\u00e9 m\u00e1s llena.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Esta es realmente una famosa tienda GeneralStore, recib\u00ed el paquete con \u00e9xito, el producto es original y no pagu\u00e9 ninguna tarifa. Gracias.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Al principio no lo cre\u00ed, pero despu\u00e9s de contactarlos result\u00f3 que era una GeneralStore. gracias GeneralStore por %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Gracias a Dios por aumentar mi suerte, gracias por el sorteo, GeneralStore me encanta."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "El buen funcionamiento de nuestros eventos y negocios",
+        "sTitle5": "Apoyado por",
+        "sDesc5": "Nuestro agradecimiento por el apoyo total que siempre nos ayuda.",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Compa\u00f1\u00eda de tecnolog\u00eda multinacional estadounidense con sede en Seattle, Washington, que se enfoca en comercio electr\u00f3nico, computaci\u00f3n en la nube, transmisi\u00f3n digital e inteligencia artificial.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Minorista estadounidense de Internet que vende principalmente muebles con sede en Midvale, Utah, cerca de Salt Lake City. Patrick M. Byrne fund\u00f3 Overstock.com en 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Corporaci\u00f3n minorista multinacional estadounidense que opera una cadena de hipermercados, grandes almacenes de descuento y tiendas de comestibles de los Estados Unidos, con sede en Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Minorista multinacional estadounidense de electr\u00f3nica de consumo con sede en Richfield, Minnesota. Fue fundada originalmente por Richard M. Schulze y James Wheeler en 1966 como una tienda especializada en audio llamada Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Servicio de venta minorista en l\u00ednea con sede en China propiedad de Alibaba Group. Lanzado en 2010, est\u00e1 formado por peque\u00f1as empresas en China y otros lugares, como Singapur, que ofrecen productos a compradores internacionales en l\u00ednea.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corporaci\u00f3n multinacional estadounidense de comercio electr\u00f3nico con sede en San Jos\u00e9, California, que facilita las ventas de consumidor a consumidor y de empresa a consumidor a trav\u00e9s de su sitio web."
+    },
+    "section6": {
+        "sTitleBefore6": "Ponerse en contacto",
+        "sTitle6": "Cont\u00e1ctenos",
+        "sDesc6": "Si tiene alguna pregunta sobre un producto o cualquier informaci\u00f3n que necesite, no dude en ponerse en contacto con nosotros.",
+        "firstName": "Nombre de pila",
+        "lastName": "Apellido",
+        "subject": "Sujeto",
+        "email": "Correo electr\u00f3nico",
+        "writeyourmessagehere": "Escriba su mensaje aqu\u00ed.",
+        "sendmessage": "Enviar mensaje",
+        "sendsuccess": "Mensaje enviado <strong> correctamente <\/strong>",
+        "sendsuccess1": "Responderemos lo antes posible."
+    }
+}

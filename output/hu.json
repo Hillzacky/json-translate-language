@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Csatlakozz most",
+        "howtojoin": "Hogyan lehet csatlakozni?",
+        "giveawaylist": "\u00c1tad\u00e1si lista",
+        "review": "Fel\u00fclvizsg\u00e1lat",
+        "support": "T\u00e1mogat\u00e1s",
+        "contact": "Kapcsolatba l\u00e9pni",
+        "aboutus": "R\u00f3lunk",
+        "aboutusdesc": "A General Store a vil\u00e1g minden General Store-fi\u00f3kj\u00e1nak \u00fczletk\u00f6zpontja, amelyek ismert m\u00e1rk\u00e1k speci\u00e1lis forgalmaz\u00f3ival foglalkoznak.",
+        "links": "Linkek",
+        "subscribe": "Iratkozz fel",
+        "subscribedesc": "K\u00e9rj\u00fck, adja meg e-mail c\u00edm\u00e9t, ha a legfrissebb h\u00edreket szeretn\u00e9 kapni t\u0151l\u00fcnk.",
+        "subscribesend": "A k\u00e9relem elk\u00fcldve <strong> sikeresen <\/strong>",
+        "openregistration": "Nyissa meg a regisztr\u00e1ci\u00f3t",
+        "opening": "Ny\u00edt\u00e1s",
+        "closing": "Z\u00e1r\u00f3",
+        "registernow": "Regisztr\u00e1lj most",
+        "checkingregistereddata": "A regisztr\u00e1lt adatok ellen\u0151rz\u00e9se",
+        "from": "T\u00f3l t\u0151l",
+        "to": "Nak nek",
+        "viewregistereddata": "Regisztr\u00e1lt adatok megtekint\u00e9se",
+        "visitor": "L\u00e1togat\u00f3",
+        "copyright": "szerz\u0151i jog",
+        "allrightsreserved": "Minden jog fenntartva"
+    },
+    "title": "Adj el %s-ot",
+    "subtitle": "Regisztr\u00e1ljon most, \u00e9s nyerjen %s!",
+    "wordcontinue": "Folytatni",
+    "section1": {
+        "sTitleBefore1": "Csatlakozzunk hozz\u00e1nk",
+        "sTitle1": "\u00c9lvezze az el\u0151ny\u00f6ket",
+        "sDesc1": "Csak itt kaphat sok adom\u00e1nyoz\u00e1si el\u0151nyt, k\u00f6nnyen csatlakozhat, a legjobb term\u00e9keket \u00e9s k\u00fcl\u00f6nf\u00e9le egy\u00e9b el\u0151ny\u00f6ket kaphat",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Biztons\u00e1gos",
+            "descItem1": "Garant\u00e1lt biztons\u00e1g.",
+            "iconItem2": "ikon-p\u00e9nz",
+            "titleItem2": "Biztons\u00e1gos p\u00e9nz",
+            "descItem2": "Nem sz\u00e1m\u00edt fel d\u00edjat, ha aj\u00e1nd\u00e9kot kap.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Biztons\u00e1gos id\u0151",
+            "descItem3": "Szerezd meg az GiveAway-t kevesebb mint 24 \u00f3r\u00e1n bel\u00fcl!"
+        },
+        "timer": {
+            "timerTitle": "Az ingyenes bel\u00e9p\u00e9si b\u00f3nusz:",
+            "days": "Napok",
+            "hours": "\u00d3r\u00e1k",
+            "minutes": "Percek",
+            "seconds": "M\u00e1sodpercek"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Adj el %s-ot",
+        "bDesc1": "Ha regisztr\u00e1lt, rendszeresen ellen\u0151rizze e-mailj\u00e9t, hogy a legfrissebb inform\u00e1ci\u00f3kat kapja t\u0151l\u00fcnk. Ezenk\u00edv\u00fcl ingyen adunk ki v\u00e1s\u00e1rl\u00e1si utalv\u00e1nyokat \u00fczlet\u00fcnkben. Mire v\u00e1rsz! <a href='%s' target='_blank'> Kezd\u0151 l\u00e9p\u00e9sek <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Mondja el azonnal a bar\u00e1tainak",
+        "sTitle2": "Get All Free GiveAway",
+        "sDesc2": "V\u00e1laszd ki a neked tetsz\u0151 aj\u00e1nd\u00e9kot, \u00e9s r\u00e9szt vehetsz az \u00f6sszes aj\u00e1nd\u00e9koz\u00e1sban is az al\u00e1bb felsorolt \u200b\u200blist\u00e1b\u00f3l."
+    },
+    "banner2": {
+        "bTitle2": "K\u00f6nny\u0171 \u00e9s egyszer\u0171 k\u00f6vetelm\u00e9nyek",
+        "bDesc2": "Csak a regisztr\u00e1ci\u00f3val vehet r\u00e9szt az aj\u00e1nd\u00e9koz\u00e1son. Mire v\u00e1rsz! azonnal <a href='%s' target='_blank'> regisztr\u00e1ld magad <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "Szerezd meg most",
+        "sTitle3": "Hogyan lehet csatlakozni?",
+        "sDesc3": "Szerezz ingyenes aj\u00e1nd\u00e9kot kevesebb, mint 24 \u00f3r\u00e1n bel\u00fcl! Ne hagyja ki ezt a ritka lehet\u0151s\u00e9get, ez nagyon egyszer\u0171, csak regisztr\u00e1ljon weboldalunkon \u00e9s t\u00f6ltse ki a felm\u00e9r\u00e9st (ha van ilyen), nem kell fizetnie semmit. Gratul\u00e1lunk!",
+        "step1": {
+            "sStep1": "1. l\u00e9p\u00e9s",
+            "ssDesc11": "Ahhoz, hogy es\u00e9lyt nyerjen a %s-ra, mind\u00f6ssze annyit kell tennie, hogy kit\u00f6lti a fi\u00f3k regisztr\u00e1ci\u00f3s \u0171rlapj\u00e1t. A kezd\u00e9shez csak adja meg a versenyt az e-mail c\u00edm\u00e9vel."
+        },
+        "step2": {
+            "sStep2": "2. l\u00e9p\u00e9s",
+            "ssDesc21": "Miut\u00e1n bejelentkezett, lehet\u0151s\u00e9ge lesz tov\u00e1bbi bejegyz\u00e9seket szerezni k\u00fcl\u00f6nb\u00f6z\u0151 m\u0171veletek v\u00e9grehajt\u00e1s\u00e1val, bele\u00e9rtve a k\u00f6z\u00f6ss\u00e9gi m\u00e9dia csatorn\u00e1ink felkeres\u00e9s\u00e9t.",
+            "ssDesc22": "\u00d6n jogosult annyi m\u0171veletet v\u00e9grehajtani, amennyit csak akar, mindegyik m\u0171velet egyedi sz\u00e1m\u00fa bejegyz\u00e9st k\u00edn\u00e1l, \u00e9s minden bejegyz\u00e9s potenci\u00e1lis nyertes.",
+            "ssDesc23": "Kihagyhatja a m\u0171veleteket is csup\u00e1n 1 doll\u00e1r\u00e9rt."
+        },
+        "step3": {
+            "done": "K\u00e9sz.",
+            "sStep3": "3. l\u00e9p\u00e9s",
+            "ssDesc31": "K\u00e9sz. Azonnal kapcsolatba l\u00e9p\u00fcnk \u00d6nnel azon az el\u00e9rhet\u0151s\u00e9gen alapulva, amelyet a weboldalunkon t\u00f6rt\u00e9n\u0151 regisztr\u00e1ci\u00f3kor t\u00f6lt\u00f6ttek ki."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Adj el %s-t nagy m\u00f3don.",
+        "bDesc3": "Ez az esem\u00e9ny t\u00f6bb nyer\u0151 helyet biztos\u00edt, mint tavaly. H\u00edvja meg bar\u00e1tait \u00e9s csal\u00e1dj\u00e1t m\u00e9g nagyobb lehet\u0151s\u00e9gek\u00e9rt. <a href='%s' target='_blank'> Regisztr\u00e1ljon most <\/a>, miel\u0151tt elkezd\u0151dne az esem\u00e9ny."
+    },
+    "section4": {
+        "sTitleBefore4": "Kiv\u00e1lasztott \u00e9rt\u00e9kel\u00e9s",
+        "sTitle4": "Giveaway gy\u0151ztes",
+        "sDesc4": "N\u00e9h\u00e1ny \u00e9rt\u00e9kel\u00e9s az aj\u00e1nd\u00e9koz\u00e1s nyerteseir\u0151l",
+        "theWinner": {
+            "winner": "GY\u0150ZTES",
+            "winner1": "Justin Daniel",
+            "coment1": "K\u00f6sz\u00f6nj\u00fck a k\u00e9szp\u00e9nzt, rem\u00e9lem, hogy a boltod nagyobb lesz.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Ez val\u00f3ban egy h\u00edres GeneralStore \u00fczlet, a csomag sikeres volt, megkaptam, a term\u00e9k eredeti, \u00e9s nem fizettem d\u00edjat. K\u00f6sz\u00f6n\u00f6m.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Eleinte nem hittem el, de miut\u00e1n kapcsolatba l\u00e9ptem vel\u00fck, kider\u00fclt, hogy ez egy GeneralStore. k\u00f6sz\u00f6n\u00f6m a GeneralStore-nak %s-t.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "H\u00e1la istennek, hogy n\u00f6velte a szerencs\u00e9met, k\u00f6sz\u00f6n\u00f6m az aj\u00e1nd\u00e9kot, a GeneralStore im\u00e1dom."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Rendezv\u00e9nyeink \u00e9s \u00fczlet\u00fcnk z\u00f6kken\u0151mentes lebonyol\u00edt\u00e1sa",
+        "sTitle5": "T\u00e1mogatta",
+        "sDesc5": "K\u00f6sz\u00f6nj\u00fck a teljes t\u00e1mogat\u00e1st, amely mindig seg\u00edt nek\u00fcnk",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikai multinacion\u00e1lis technol\u00f3giai v\u00e1llalat a washingtoni Seattle-ben, amely az e-kereskedelemre, a felh\u0151alap\u00fa sz\u00e1m\u00edt\u00e1stechnik\u00e1ra, a digit\u00e1lis streamingre \u00e9s a mesters\u00e9ges intelligenci\u00e1ra \u00f6sszpontos\u00edt.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Els\u0151sorban b\u00fatorokat forgalmaz\u00f3 amerikai internetes kiskeresked\u0151, sz\u00e9khelye Utah, Midvale, Salt Lake City k\u00f6zel\u00e9ben. Patrick M. Byrne 1999-ben alap\u00edtotta az Overstock.com-ot.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikai multinacion\u00e1lis kiskereskedelmi v\u00e1llalat, amely hipermarketeket, diszkont \u00e1ruh\u00e1zakat \u00e9s \u00e9lelmiszerboltokat \u00fczemeltet az Egyes\u00fclt \u00c1llamokb\u00f3l, sz\u00e9khelye az arkansasi Bentonville.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikai multinacion\u00e1lis sz\u00f3rakoztat\u00f3elektronikai kiskeresked\u0151, amelynek sz\u00e9khelye a minnesotai Richfieldben tal\u00e1lhat\u00f3. Eredetileg Richard M. Schulze \u00e9s James Wheeler alap\u00edtotta 1966-ban a Sound of Music nev\u0171 audio szak\u00fczletk\u00e9nt.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "K\u00edn\u00e1ban m\u0171k\u00f6d\u0151 online kiskereskedelmi szolg\u00e1ltat\u00e1s, az Alibaba Group tulajdon\u00e1ban van. A 2010-ben elind\u00edtott k\u00ednai \u00e9s m\u00e1s helysz\u00edneken, p\u00e9ld\u00e1ul Szingap\u00farban m\u0171k\u00f6d\u0151 kisv\u00e1llalkoz\u00e1sok alkotj\u00e1k a term\u00e9keket a nemzetk\u00f6zi online v\u00e1s\u00e1rl\u00f3k sz\u00e1m\u00e1ra.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "A kaliforniai San Jose-ban tal\u00e1lhat\u00f3 amerikai multinacion\u00e1lis e-kereskedelmi v\u00e1llalat, amely weboldal\u00e1n kereszt\u00fcl megk\u00f6nny\u00edti a fogyaszt\u00f3k k\u00f6z\u00f6tti fogyaszt\u00f3i \u00e9s az \u00fczleti v\u00e1llalkoz\u00e1sok k\u00f6z\u00f6tti \u00e9rt\u00e9kes\u00edt\u00e9st."
+    },
+    "section6": {
+        "sTitleBefore6": "Felveszi a kapcsolatot",
+        "sTitle6": "L\u00e9pjen kapcsolatba vel\u00fcnk",
+        "sDesc6": "Ha b\u00e1rmilyen k\u00e9rd\u00e9se van egy term\u00e9kkel vagy b\u00e1rmilyen sz\u00fcks\u00e9ges inform\u00e1ci\u00f3val kapcsolatban, ne habozzon kapcsolatba l\u00e9pni vel\u00fcnk.",
+        "firstName": "Keresztn\u00e9v",
+        "lastName": "Vezet\u00e9kn\u00e9v",
+        "subject": "Tant\u00e1rgy",
+        "email": "Email",
+        "writeyourmessagehere": "\u00cdrja ide az \u00fczenet\u00e9t.",
+        "sendmessage": "\u00dczenet k\u00fcld\u00e9se",
+        "sendsuccess": "Az \u00fczenet elk\u00fcldve <strong> sikeresen <\/strong>",
+        "sendsuccess1": "A lehet\u0151 leghamarabb v\u00e1laszolunk."
+    }
+}

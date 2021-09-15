@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Jiunge sasa",
+        "howtojoin": "Jinsi ya Kujiunga?",
+        "giveawaylist": "Orodha ya Zawadi",
+        "review": "Pitia",
+        "support": "Msaada",
+        "contact": "Mawasiliano",
+        "aboutus": "Kuhusu sisi",
+        "aboutusdesc": "Duka la Jumla ni kituo cha duka la duka zote za Duka kuu ulimwenguni kote zinazohusika na wasambazaji maalum wa chapa zinazojulikana.",
+        "links": "Viungo",
+        "subscribe": "Jisajili",
+        "subscribedesc": "Tafadhali ingiza barua pepe yako ikiwa unataka kupokea habari mpya kutoka kwetu.",
+        "subscribesend": "Ombi limetumwa <strong> kwa mafanikio <\/strong>",
+        "openregistration": "Usajili wa wazi",
+        "opening": "Kufungua",
+        "closing": "Kufunga",
+        "registernow": "Jiandikishe sasa",
+        "checkingregistereddata": "Kuangalia data iliyosajiliwa",
+        "from": "Kutoka",
+        "to": "Kwa",
+        "viewregistereddata": "Angalia data iliyosajiliwa",
+        "visitor": "Mgeni",
+        "copyright": "Hakimiliki",
+        "allrightsreserved": "Haki zote zimehifadhiwa"
+    },
+    "title": "Toa mbali %s",
+    "subtitle": "Jisajili sasa ili upate nafasi ya kushinda %s!",
+    "wordcontinue": "Endelea",
+    "section1": {
+        "sTitleBefore1": "Wacha Tujiunge Nasi",
+        "sTitle1": "Furahia Faida",
+        "sDesc1": "Hapa tu unaweza kupata faida nyingi, rahisi kujiunga, bora kutoa bidhaa na faida zingine",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Salama",
+            "descItem1": "Usalama uliohakikishiwa.",
+            "iconItem2": "icon-pesa",
+            "titleItem2": "Pesa Salama",
+            "descItem2": "Haitozi ada yoyote wakati wa kupokea zawadi.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Wakati Salama",
+            "descItem3": "Pata GiveAway chini ya masaa 24!"
+        },
+        "timer": {
+            "timerTitle": "Bonasi ya kuingia bure huishia saa:",
+            "days": "Siku",
+            "hours": "Masaa",
+            "minutes": "Dakika",
+            "seconds": "Sekunde"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Toa mbali %s",
+        "bDesc1": "Ikiwa umesajiliwa, angalia barua pepe yako mara kwa mara ili kupata habari mpya kutoka kwetu. Pia tutatoa vocha za ununuzi kwenye duka yetu bure. Unasubiri nini! <a href='%s' target='_blank'> Anza <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Waambie marafiki wako sasa hivi",
+        "sTitle2": "Pata Njia Zote Za Bure",
+        "sDesc2": "Chagua zawadi unayopenda, unaweza pia kushiriki katika zawadi zote kutoka kwenye orodha ambayo tunatoa hapa chini."
+    },
+    "banner2": {
+        "bTitle2": "Mahitaji rahisi na rahisi",
+        "bDesc2": "Tu kwa kujiandikisha mwenyewe unaweza kushiriki katika zawadi yetu. Unasubiri nini! hebu <a href='%s' target='_blank'> Jisajili <\/a> mwenyewe sasa hivi."
+    },
+    "section3": {
+        "sTitleBefore3": "Ipate Sasa",
+        "sTitle3": "Jinsi ya Kujiunga?",
+        "sDesc3": "Pata bureApa chini ya masaa 24! Usikose fursa hii adimu, ni rahisi sana, sajili tu kwenye wavuti yetu na uchukue uchunguzi (ikiwa upo), sio lazima ulipe chochote. Hongera!",
+        "step1": {
+            "sStep1": "Hatua ya 1",
+            "ssDesc11": "Ili kupata nafasi ya kushinda %s, unachohitaji kufanya ni kujaza fomu yako ya usajili wa akaunti. Ili kuanza, ingiza tu mashindano na anwani yako ya barua pepe."
+        },
+        "step2": {
+            "sStep2": "Hatua ya 2",
+            "ssDesc21": "Mara tu umeingia, utapata fursa ya kupata viingilio vya ziada kwa kukamilisha vitendo anuwai, pamoja na kutembelea njia zetu za media ya kijamii.",
+            "ssDesc22": "Una haki ya kukamilisha vitendo vingi upendavyo, kila kitendo hutoa idadi ya kipekee ya viingilio na kila kiingilio ni mshindi anayeweza kushinda.",
+            "ssDesc23": "Unaweza pia kuruka vitendo kwa $ 1 tu."
+        },
+        "step3": {
+            "done": "Imefanywa.",
+            "sStep3": "Hatua ya 3",
+            "ssDesc31": "Imefanywa. Tutawasiliana nawe mara moja kulingana na mawasiliano ambayo yalijazwa wakati wa usajili kwenye wavuti yetu."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Toa %s kwa Njia Kubwa.",
+        "bDesc3": "Hafla hii inatoa nafasi zaidi za kushinda kuliko mwaka jana. Alika marafiki wako na familia kwa fursa kubwa zaidi. <a href='%s' target='_blank'> Jisajili sasa <\/a> kabla ya tukio hili kuanza."
+    },
+    "section4": {
+        "sTitleBefore4": "Tathmini iliyochaguliwa",
+        "sTitle4": "Mshindi wa zawadi",
+        "sDesc4": "Baadhi ya hakiki za washindi wa zawadi",
+        "theWinner": {
+            "winner": "MSHINDI",
+            "winner1": "Justin Daniel",
+            "coment1": "Asante kwa Fedha, natumaini duka lako litajaa zaidi.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Kwa kweli hii ni duka maarufu la GeneralStore, kifurushi kilifanikiwa nilipokea, Bidhaa ni ya asili, na sikulipa ada yoyote. Asante.",
+            "winner3": "Mathayo Davidson",
+            "coment3": "Mwanzoni sikuamini, lakini baada ya kuwasiliana nao ilibainika kuwa ilikuwa Duka la Jumla. asante GeneralStore kwa %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Asante mungu kwa kuongeza bahati yangu, asante kwa zawadi, GeneralStore naipenda."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Uendeshaji mzuri wa hafla zetu na biashara",
+        "sTitle5": "Imeungwa mkono na",
+        "sDesc5": "Shukrani zetu kwa msaada kamili ambao hutusaidia kila wakati",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Kampuni ya teknolojia ya kimataifa ya Amerika iliyoko Seattle, Washington, ambayo inazingatia e-biashara, wingu kompyuta, utiririshaji wa dijiti, na akili ya bandia.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Muuzaji wa mtandao wa Amerika anayeuza kimsingi fanicha yenye makao yake makuu huko Midvale, Utah, karibu na Jiji la Salt Lake. Patrick M. Byrne alianzisha Overstock.com mnamo 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Shirika la rejareja la kimataifa linalofanya kazi kwa mlolongo wa maduka makubwa, maduka ya idara ya punguzo, na maduka ya vyakula kutoka Merika, yenye makao yake makuu huko Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Muuzaji wa umeme wa kimataifa wa watumiaji wa Amerika aliye na makao yake makuu huko Richfield, Minnesota. Hapo awali ilianzishwa na Richard M. Schulze na James Wheeler mnamo 1966 kama duka maalum la sauti linaloitwa Sauti ya Muziki.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Huduma ya rejareja mkondoni iliyoko China inayomilikiwa na Kikundi cha Alibaba. Ilizinduliwa mnamo 2010, inaundwa na wafanyabiashara wadogo nchini China na maeneo mengine, kama vile Singapore, ambayo hutoa bidhaa kwa wanunuzi wa mtandaoni wa kimataifa.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Kampuni ya kimataifa ya biashara ya e-commerce ya Amerika iliyoko San Jose, California, ambayo inawezesha mauzo ya watumiaji-kwa-walaji na biashara-kwa-watumiaji kupitia wavuti yake."
+    },
+    "section6": {
+        "sTitleBefore6": "Wasiliana",
+        "sTitle6": "Wasiliana nasi",
+        "sDesc6": "Ikiwa una maswali yoyote kuhusu bidhaa, au habari yoyote unayohitaji, tafadhali usisite kuwasiliana nasi.",
+        "firstName": "Jina la kwanza",
+        "lastName": "Jina la familia",
+        "subject": "Mada",
+        "email": "Barua pepe",
+        "writeyourmessagehere": "Andika ujumbe wako hapa.",
+        "sendmessage": "Tuma Ujumbe",
+        "sendsuccess": "Ujumbe umetumwa <strong> kwa mafanikio <\/strong>",
+        "sendsuccess1": "Tutajibu haraka iwezekanavyo."
+    }
+}

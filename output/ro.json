@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Al\u0103tur\u0103-te acum",
+        "howtojoin": "Cum s\u0103 v\u0103 \u00eenscrie\u021bi?",
+        "giveawaylist": "List\u0103 de cadouri",
+        "review": "Revizuire",
+        "support": "A sustine",
+        "contact": "a lua legatura",
+        "aboutus": "Despre noi",
+        "aboutusdesc": "General Store este centrul de magazine al tuturor magazinelor de sucursale General Store din \u00eentreaga lume angajate \u00een distribuitori speciali de m\u0103rci cunoscute.",
+        "links": "Link-uri",
+        "subscribe": "Abonati-va",
+        "subscribedesc": "V\u0103 rug\u0103m s\u0103 introduce\u021bi adresa de e-mail dac\u0103 dori\u021bi s\u0103 primi\u021bi ultimele nout\u0103\u021bi de la noi.",
+        "subscribesend": "Solicitarea a fost trimis\u0103 <strong> cu succes <\/strong>",
+        "openregistration": "\u00cenregistrare deschis\u0103",
+        "opening": "Deschidere",
+        "closing": "\u00cenchidere",
+        "registernow": "\u00cenregistreaz\u0103-te acum",
+        "checkingregistereddata": "Verificarea datelor \u00eenregistrate",
+        "from": "Din",
+        "to": "La",
+        "viewregistereddata": "Vizualiza\u021bi datele \u00eenregistrate",
+        "visitor": "Vizitator",
+        "copyright": "Drepturi de autor",
+        "allrightsreserved": "Toate drepturile rezervate"
+    },
+    "title": "Ofer\u0103-i %s",
+    "subtitle": "\u00censcrie\u021bi-v\u0103 acum pentru \u0219ansa de a c\u00e2\u0219tiga %s!",
+    "wordcontinue": "Continua",
+    "section1": {
+        "sTitleBefore1": "S\u0103 ne al\u0103tur\u0103m",
+        "sTitle1": "Bucura\u021bi-v\u0103 de beneficii",
+        "sDesc1": "Doar aici pute\u021bi ob\u021bine multe beneficii de oferire, u\u0219or de \u00eenscris, cele mai bune produse de oferit \u0219i diverse alte beneficii",
+        "item": {
+            "iconItem1": "pictogram\u0103-verificat_utilizator",
+            "titleItem1": "Sigur",
+            "descItem1": "Securitate garantat\u0103.",
+            "iconItem2": "icoan\u0103-bani",
+            "titleItem2": "Bani \u00een condi\u021bii de siguran\u021b\u0103",
+            "descItem2": "Nu percepe taxe la primirea unui cadou.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Timp sigur",
+            "descItem3": "Ob\u021bine\u021bi GiveAway \u00een mai pu\u021bin de 24 de ore!"
+        },
+        "timer": {
+            "timerTitle": "Bonusul de intrare gratuit se termin\u0103 la:",
+            "days": "Zile",
+            "hours": "Ore",
+            "minutes": "Minute",
+            "seconds": "Secunde"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Ofer\u0103-i %s",
+        "bDesc1": "Dac\u0103 v-a\u021bi \u00eenregistrat, verifica\u021bi periodic e-mailul pentru a primi cele mai noi informa\u021bii de la noi. De asemenea, vom oferi gratuit vouchere pentru cump\u0103r\u0103turi la magazinul nostru. Ce mai astepti! <a href='%s' target='_blank'> \u00cencepe\u021bi <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Spune-le prietenilor t\u0103i chiar acum",
+        "sTitle2": "Ob\u021bine\u021bi toate cadouri gratuite",
+        "sDesc2": "Alege\u021bi cadoul care v\u0103 place, pute\u021bi lua parte la toate cadourile din lista pe care o oferim mai jos."
+    },
+    "banner2": {
+        "bTitle2": "Cerin\u021be simple \u0219i simple",
+        "bDesc2": "Doar \u00eenregistr\u00e2ndu-v\u0103, pute\u021bi participa la cadoul nostru. Ce mai astepti! s\u0103 <a href='%s' target='_blank'> \u00cenregistra\u021bi-v\u0103 <\/a> chiar acum."
+    },
+    "section3": {
+        "sTitleBefore3": "Ia-l acum",
+        "sTitle3": "Cum s\u0103 v\u0103 \u00eenscrie\u021bi?",
+        "sDesc3": "Ob\u021bine\u021bi un cadou gratuit \u00een mai pu\u021bin de 24 de ore! Nu rata\u021bi aceast\u0103 ocazie rar\u0103, este foarte u\u0219or, trebuie doar s\u0103 v\u0103 \u00eenregistra\u021bi pe site-ul nostru \u0219i s\u0103 lua\u021bi sondajul (dac\u0103 exist\u0103), nu trebuie s\u0103 pl\u0103ti\u021bi nimic. Felicit\u0103ri!",
+        "step1": {
+            "sStep1": "Pasul 1",
+            "ssDesc11": "Pentru a avea \u0219ansa de a c\u00e2\u0219tiga %s, tot ce trebuie s\u0103 face\u021bi este s\u0103 completa\u021bi formularul de \u00eenregistrare a contului. Pentru a \u00eencepe, trebuie doar s\u0103 participa\u021bi la concurs cu adresa dvs. de e-mail."
+        },
+        "step2": {
+            "sStep2": "Pasul 2",
+            "ssDesc21": "Odat\u0103 ce v-a\u021bi conectat, ve\u021bi avea ocazia s\u0103 ob\u021bine\u021bi intr\u0103ri suplimentare prin finalizarea diferitelor ac\u021biuni, inclusiv vizitarea canalelor noastre de socializare.",
+            "ssDesc22": "Ave\u021bi dreptul s\u0103 efectua\u021bi c\u00e2te ac\u021biuni dori\u021bi, fiecare ac\u021biune ofer\u0103 un num\u0103r unic de \u00eenregistr\u0103ri \u0219i fiecare \u00eenregistrare este un poten\u021bial c\u00e2\u0219tig\u0103tor.",
+            "ssDesc23": "De asemenea, pute\u021bi s\u0103ri peste ac\u021biuni la doar 1 USD."
+        },
+        "step3": {
+            "done": "Terminat.",
+            "sStep3": "Pasul 3",
+            "ssDesc31": "Terminat. V\u0103 vom contacta imediat pe baza contactului care a fost completat \u00een momentul \u00eenregistr\u0103rii pe site-ul nostru."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Ofer\u0103-i %s \u00eentr-un mod mare.",
+        "bDesc3": "Acest eveniment ofer\u0103 mai multe sloturi c\u00e2\u0219tig\u0103toare dec\u00e2t anul trecut. Invita\u021bi-v\u0103 prietenii \u0219i familia pentru oportunit\u0103\u021bi \u0219i mai mari. <a href='%s' target='_blank'> \u00cenregistra\u021bi-v\u0103 acum <\/a> \u00eenainte de a \u00eencepe acest eveniment."
+    },
+    "section4": {
+        "sTitleBefore4": "Evaluare selectat\u0103",
+        "sTitle4": "C\u00e2\u0219tig\u0103tor Giveaway",
+        "sDesc4": "C\u00e2teva recenzii ale c\u00e2\u0219tig\u0103torilor de cadouri",
+        "theWinner": {
+            "winner": "C\u00c2\u015eTIG\u0102TOR",
+            "winner1": "Justin Daniel",
+            "coment1": "V\u0103 mul\u021bumim pentru numerar, sper c\u0103 magazinul dvs. va fi mai aglomerat.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Acesta este \u00eentr-adev\u0103r un magazin GeneralStore renumit, am primit pachetul de succes, produsul este original \u0219i nu am pl\u0103tit taxe. Mul\u021bumesc.",
+            "winner3": "Matthew Davidson",
+            "coment3": "La \u00eenceput nu am crezut, dar dup\u0103 ce i-am contactat s-a dovedit c\u0103 este un GeneralStore. mul\u021bumesc GeneralStore pentru %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Mul\u021bumesc lui Dumnezeu c\u0103 mi-ai sporit norocul, mul\u021bumesc pentru cadou, GeneralStore \u00eemi place."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Buna desf\u0103\u0219urare a evenimentelor \u0219i afacerilor noastre",
+        "sTitle5": "Sus\u021binut\u0103 de",
+        "sDesc5": "Mul\u021bumim pentru sprijinul deplin care ne ajut\u0103 mereu",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Companie multina\u021bional\u0103 de tehnologie american\u0103 cu sediul \u00een Seattle, Washington, care se concentreaz\u0103 pe e-commerce, cloud computing, streaming digital \u0219i inteligen\u021b\u0103 artificial\u0103.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Retailer american de internet care vinde \u00een principal mobilier cu sediul \u00een Midvale, Utah, l\u00e2ng\u0103 Salt Lake City. Patrick M. Byrne a fondat Overstock.com \u00een 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Corpora\u021bie multina\u021bional\u0103 american\u0103 cu am\u0103nuntul care opereaz\u0103 un lan\u021b de hipermarketuri, magazine cu discount \u0219i magazine alimentare din Statele Unite, cu sediul \u00een Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Retailer multina\u021bional american de electronice de consum cu sediul \u00een Richfield, Minnesota. A fost fondat ini\u021bial de Richard M. Schulze \u0219i James Wheeler \u00een 1966 ca un magazin specializat audio numit Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Serviciu de v\u00e2nzare cu am\u0103nuntul online cu sediul \u00een China de\u021binut de Grupul Alibaba. Lansat \u00een 2010, este alc\u0103tuit din \u00eentreprinderi mici din China \u0219i din alte loca\u021bii, cum ar fi Singapore, care ofer\u0103 produse cump\u0103r\u0103torilor interna\u021bionali online.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corpora\u021bie multina\u021bional\u0103 american\u0103 de comer\u021b electronic cu sediul \u00een San Jose, California, care faciliteaz\u0103 v\u00e2nz\u0103rile de la consumator la consumator \u0219i de la \u00eentreprinderea la consumator prin intermediul site-ului s\u0103u web."
+    },
+    "section6": {
+        "sTitleBefore6": "Intra\u021bi \u00een leg\u0103tur\u0103",
+        "sTitle6": "Contacteaz\u0103-ne",
+        "sDesc6": "Dac\u0103 ave\u021bi \u00eentreb\u0103ri cu privire la un produs sau orice informa\u021bie de care ave\u021bi nevoie, v\u0103 rug\u0103m s\u0103 nu ezita\u021bi s\u0103 ne contacta\u021bi.",
+        "firstName": "Nume",
+        "lastName": "Numele de familie",
+        "subject": "Subiect",
+        "email": "E-mail",
+        "writeyourmessagehere": "Scrie\u021bi-v\u0103 mesajul aici.",
+        "sendmessage": "Trimite mesaj",
+        "sendsuccess": "Mesajul a fost trimis <strong> cu succes <\/strong>",
+        "sendsuccess1": "Vom r\u0103spunde c\u00e2t mai cur\u00e2nd posibil."
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Thig c\u00f2mhla a-nis",
+        "howtojoin": "Mar a th\u00e8id thu c\u00f2mhla?",
+        "giveawaylist": "Liosta Giveaway",
+        "review": "L\u00e8irmheas",
+        "support": "Taic",
+        "contact": "Cuir fios gu",
+        "aboutus": "Mar d\u00e8idhinn",
+        "aboutusdesc": "Is e General Store an t-ionad st\u00f2raidh de gach st\u00f2r meur General Store air feadh an t-saoghail a tha an s\u00e0s ann an luchd-sgaoilidh s\u00f2nraichte de bhrandan ainmeil.",
+        "links": "Ceanglaichean",
+        "subscribe": "Subscribe",
+        "subscribedesc": "Cuir a-steach am post-d agad ma tha thu airson na naidheachdan as \u00f9ire fhaighinn bhuainn.",
+        "subscribesend": "Iarrtas air a chuir <strong> gu soirbheachail <\/strong>",
+        "openregistration": "Cl\u00e0radh Fosgailte",
+        "opening": "A \u2019fosgladh",
+        "closing": "A \u2019d\u00f9nadh",
+        "registernow": "Cl\u00e0raich a-nis",
+        "checkingregistereddata": "A \u2019sgr\u00f9dadh d\u00e0ta cl\u00e0raichte",
+        "from": "Bho",
+        "to": "Gu",
+        "viewregistereddata": "Thoir s\u00f9il air d\u00e0ta cl\u00e0raichte",
+        "visitor": "Neach-tadhail",
+        "copyright": "Dlighe-sgr\u00ecobhaidh",
+        "allrightsreserved": "C\u00f2raichean uile gl\u00e8idhte"
+    },
+    "title": "Thoir seachad Away %s",
+    "subtitle": "Cl\u00e0raich a-nis airson cothrom %s a bhuannachadh!",
+    "wordcontinue": "Lean air adhart",
+    "section1": {
+        "sTitleBefore1": "Thig c\u00f2mhla rinn",
+        "sTitle1": "Tlachd a ghabhail air na buannachdan",
+        "sDesc1": "Is ann d\u00ecreach an seo a gheibh thu m\u00f2ran shochairean toirt seachad, furasta a thighinn c\u00f2mhla, na toraidhean as fhe\u00e0rr a thoirt seachad agus grunn bhuannachdan eile",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "T\u00e8arainte",
+            "descItem1": "T\u00e8arainteachd barantaichte.",
+            "iconItem2": "icon-airgead",
+            "titleItem2": "Airgead S\u00e0bhailte",
+            "descItem2": "Cha bhith e a \u2019togail chosgaisean sam bith nuair a gheibh thu tabhartas.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "\u00d9ine s\u00e0bhailte",
+            "descItem3": "Faigh GiveAway ann an nas lugha na 24 uairean!"
+        },
+        "timer": {
+            "timerTitle": "Bidh b\u00f2nas inntrigidh an-asgaidh a \u2019tighinn gu cr\u00ecch aig:",
+            "days": "L\u00e0ithean",
+            "hours": "Uairean",
+            "minutes": "Mionaidean",
+            "seconds": "Diogan"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Thoir seachad Away %s",
+        "bDesc1": "Ma tha thu air cl\u00e0radh, thoir s\u00f9il air a \u2019phost-d agad bho \u00e0m gu \u00e0m gus am fiosrachadh as \u00f9ire fhaighinn bhuainn. Bheir sinn cuideachd seachad e\u00e0rlasan airson ceannach aig a \u2019bh\u00f9th againn an-asgaidh. D\u00e8 tha thu a \u2019feitheamh! <a href='%s' target='_blank'> T\u00f2isich <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Innis dha do charaidean an-dr\u00e0sta",
+        "sTitle2": "Faigh a h-uile GiveAway an-asgaidh",
+        "sDesc2": "Tagh an tiodhlac as toil leat, faodaidh tu cuideachd p\u00e0irt a ghabhail anns a h-uile tabhartas bhon liosta a bheir sinn seachad gu h-\u00ecosal."
+    },
+    "banner2": {
+        "bTitle2": "Riatanasan furasta is s\u00ecmplidh",
+        "bDesc2": "Is ann d\u00ecreach le bhith gad chl\u00e0radh fh\u00e8in as urrainn dhut p\u00e0irt a ghabhail anns an toirt seachad. D\u00e8 tha thu a \u2019feitheamh! leig <a href='%s' target='_blank'> Cl\u00e0raich <\/a> thu fh\u00e8in an-dr\u00e0sta."
+    },
+    "section3": {
+        "sTitleBefore3": "Faigh e a-nis",
+        "sTitle3": "Mar a th\u00e8id thu c\u00f2mhla?",
+        "sDesc3": "Faigh GiveAway an-asgaidh ann an nas lugha na 24 uairean! Na caill an cothrom tearc seo, tha e gu math furasta, d\u00ecreach cl\u00e0raich air an l\u00e0rach-l\u00ecn againn agus gabh an sgr\u00f9dadh (ma tha sin ann), cha leig thu leas dad a ph\u00e0igheadh. Meal do naidheachd!",
+        "step1": {
+            "sStep1": "Ceum 1",
+            "ssDesc11": "Gus cothrom fhaighinn air na %s a bhuannachadh, chan eil agad ach d\u00ecreach foirm cl\u00e0raidh a \u2019chunntais agad a l\u00econadh. Gus t\u00f2iseachadh, d\u00ecreach cuir a-steach don cho-fharpais leis an t-se\u00f2ladh post-d agad."
+        },
+        "step2": {
+            "sStep2": "Ceum 2",
+            "ssDesc21": "Aon uair \u2018s gu bheil thu air logadh a-steach, bidh cothrom agad inntrigidhean a bharrachd fhaighinn le bhith a\u2019 cr\u00ecochnachadh diofar ghn\u00ecomhan, a \u2019gabhail a-steach tadhal air na seanailean meadhanan s\u00f2isealta againn.",
+            "ssDesc22": "Tha thu airidh air nas urrainn dhut de ghn\u00ecomhan a choileanadh, tha gach gn\u00ecomh a \u2019tabhann \u00e0ireamh sh\u00f2nraichte de dh\u2019 inntrigidhean agus tha gach inntrigeadh na bhuannaiche.",
+            "ssDesc23": "Faodaidh tu cuideachd gn\u00ecomhan a sgiobadh airson d\u00ecreach $ 1."
+        },
+        "step3": {
+            "done": "D\u00e8anta.",
+            "sStep3": "Ceum 3",
+            "ssDesc31": "D\u00e8anta. Cuiridh sinn fios thugaibh sa bhad st\u00e8idhichte air a \u2019cheangal a chaidh a l\u00econadh a-steach aig \u00e0m a\u2019 chl\u00e0raidh air an l\u00e0rach againn."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Thoir seachad Away %s ann an d\u00f2igh M\u00f2r.",
+        "bDesc3": "Tha an tachartas seo a \u2019toirt seachad barrachd slotan a bhuannaich na an-uiridh. Thoir cuireadh dha do charaidean is do theaghlach airson cothroman eadhon nas motha. <a href='%s' target='_blank'> Cl\u00e0raich a-nis <\/a> mus t\u00f2isich an tachartas seo."
+    },
+    "section4": {
+        "sTitleBefore4": "Measadh taghte",
+        "sTitle4": "Buannaiche Giveaway",
+        "sDesc4": "Cuid de l\u00e8irmheasan air buannaichean toirt seachad",
+        "theWinner": {
+            "winner": "WINNER",
+            "winner1": "Justin Daniel",
+            "coment1": "Tapadh leibh airson an Airgead, tha mi an d\u00f2chas gum bi an st\u00f2r agad nas l\u00econmhoire.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Is e f\u00ecor bh\u00f9th ainmeil GeneralStore a tha seo, bha a \u2019phacaid soirbheachail a fhuair mi, tha an toradh t\u00f9sail, agus cha do ph\u00e0igh mi c\u00ecsean sam bith. Tapadh leat.",
+            "winner3": "Mata MacDhaibhidh",
+            "coment3": "An toiseach cha do chreid mi e, ach \u00e0s deidh dhomh fios a chuir thuca thionndaidh e a-mach gur e GeneralStore a bh \u2019ann. tapadh leat GeneralStore airson %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Tapadh le Dia airson mo fhortan a mheudachadh, taing airson toirt seachad, GeneralStore is toil leam e."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "A \u2019ruith gu r\u00e8idh ar tachartasan & gn\u00ecomhachas",
+        "sTitle5": "Le taic bho",
+        "sDesc5": "Ar taing airson an l\u00e0n thaic a tha an-c\u00f2mhnaidh gar cuideachadh",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Companaidh teicne\u00f2las ioma-n\u00e0iseanta Ameireaganach st\u00e8idhichte ann an Seattle, Washington, a tha ag amas air e-malairt, coimpiutaireachd sg\u00f2than, sruthadh didseatach, agus inntleachd fuadain.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Neach-reic eadar-l\u00ecn Ameireaganach a \u2019reic \u00e0irneis sa mh\u00f2r-chuid le pr\u00ecomh oifisean ann am Midvale, Utah, faisg air Salt Lake City. St\u00e8idhich Patrick M. Byrne Overstock.com ann an 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Corporra reic ioma-n\u00e0iseanta Ameireagaidh a bhios ag obair sreath de hypermarkets, st\u00f2ran roinn lasachaidh, agus st\u00f2ran grosaireachd \u00e0s na St\u00e0itean Aonaichte, pr\u00ecomh oifis ann am Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Neach-reic dealanach luchd-cleachdaidh ioma-n\u00e0iseanta Ameireagaidh le pr\u00ecomh oifisean ann an Richfield, Minnesota. Chaidh a st\u00e8idheachadh an toiseach le Richard M. Schulze agus James Wheeler ann an 1966 mar st\u00f2r s\u00f2nraichte claisneachd leis an t-ainm Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Seirbheis reic air-loidhne st\u00e8idhichte ann an S\u00econa le Buidheann Alibaba. Air a chuir air bhog ann an 2010, tha e air a dh\u00e8anamh suas de ghn\u00ecomhachasan beaga ann an S\u00econa agus \u00e0iteachan eile, leithid Singapore, a bhios a \u2019tabhann thoraidhean do luchd-ceannach air-loidhne eadar-n\u00e0iseanta.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corporra e-malairt ioma-n\u00e0iseanta Ameireagaidh st\u00e8idhichte ann an San Jose, California, a bhios a \u2019comasachadh reic luchd-cleachdaidh gu neach-cleachdaidh agus gn\u00ecomhachas-gu-neach-cleachdaidh tron \u200b\u200bl\u00e0rach-l\u00ecn aice."
+    },
+    "section6": {
+        "sTitleBefore6": "Faigh fios thugainn",
+        "sTitle6": "Cuir fios thugainn",
+        "sDesc6": "Ma tha ceist sam bith agad a thaobh toradh, no fiosrachadh sam bith a dh \u2019fheumas tu, na bi leisg fios a chuir thugainn.",
+        "firstName": "A 'chiad ainm",
+        "lastName": "Ainm deireannach",
+        "subject": "Cuspair",
+        "email": "Post-d",
+        "writeyourmessagehere": "Sgr\u00ecobh do theachdaireachd an seo.",
+        "sendmessage": "Cuir teachdaireachd",
+        "sendsuccess": "Chaidh teachdaireachd a chuir <strong> gu soirbheachail <\/strong>",
+        "sendsuccess1": "Freagraidh sinn cho luath \u2018s a ghabhas."
+    }
+}

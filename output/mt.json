@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Ing\u0127aqad Issa",
+        "howtojoin": "Kif Issie\u0127eb?",
+        "giveawaylist": "Lista ta \u2019Giveaway",
+        "review": "Revi\u017cjoni",
+        "support": "Appo\u0121\u0121",
+        "contact": "Kuntatt",
+        "aboutus": "Fuqna",
+        "aboutusdesc": "General Store huwa \u010b-\u010bentru tal-\u0127wienet tal-\u0127wienet kollha tal-ferg\u0127at tal-General Store madwar id-dinja involuti fi distributuri spe\u010bjali ta 'marki mag\u0127rufa.",
+        "links": "Links",
+        "subscribe": "Abbona",
+        "subscribedesc": "Jekk jog\u0127\u0121bok da\u0127\u0127al l-email tieg\u0127ek jekk trid tir\u010bievi l-a\u0127\u0127ar a\u0127barijiet minna.",
+        "subscribesend": "Talba mibg\u0127uta <strong> b'su\u010b\u010bess <\/strong>",
+        "openregistration": "Re\u0121istrazzjoni Miftu\u0127a",
+        "opening": "Ftu\u0127",
+        "closing": "G\u0127eluq",
+        "registernow": "Irre\u0121istra issa",
+        "checkingregistereddata": "I\u010b\u010bekkjar tad-dejta rre\u0121istrata",
+        "from": "Minn",
+        "to": "Lil",
+        "viewregistereddata": "Ara d-dejta rre\u0121istrata",
+        "visitor": "Vi\u017citatur",
+        "copyright": "Copyright",
+        "allrightsreserved": "Id-drittijiet kollha ri\u017cervati"
+    },
+    "title": "Ag\u0127ti Bog\u0127od %s",
+    "subtitle": "Irre\u0121istra issa g\u0127al \u010bans li tirba\u0127 %s!",
+    "wordcontinue": "Kompli",
+    "section1": {
+        "sTitleBefore1": "Ejjew Ing\u0127aqdu Mag\u0127na",
+        "sTitle1": "Igawdu l-Benefi\u010b\u010bji",
+        "sDesc1": "Hawnhekk biss tista 'tikseb \u0127afna benefi\u010b\u010bji ta' rigal, fa\u010bli biex ting\u0127aqad, l-a\u0127jar prodotti ta 'rigal u diversi benefi\u010b\u010bji o\u0127ra",
+        "item": {
+            "iconItem1": "icon-Verified_user",
+            "titleItem1": "Sikura",
+            "descItem1": "Sigurt\u00e0 Garantita.",
+            "iconItem2": "ikona-flus",
+            "titleItem2": "Flus Sikuri",
+            "descItem2": "Ma jitlob l-ebda mi\u017cata meta tir\u010bievi jing\u0127ataw b'xejn.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "\u0126in Sikur",
+            "descItem3": "Get GiveAway f'inqas minn 24 sieg\u0127a!"
+        },
+        "timer": {
+            "timerTitle": "Bonus g\u0127ad-d\u0127ul b'xejn jispi\u010b\u010ba fi:",
+            "days": "\u0120ranet",
+            "hours": "Sig\u0127at",
+            "minutes": "Minuti",
+            "seconds": "Sekondi"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Ag\u0127ti Bog\u0127od %s",
+        "bDesc1": "Jekk irre\u0121istrajt, i\u010b\u010bekkja l-email tieg\u0127ek perjodikament biex tikseb l-a\u0127\u0127ar informazzjoni ming\u0127andna. Se nag\u0127tu wkoll vaw\u010bers g\u0127ax-xiri fil-ma\u0127\u017cen tag\u0127na ming\u0127ajr \u0127las. X'qed tistenna! <a href='%s' target='_blank'> Ibda <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "G\u0127id lil s\u0127abek b\u0127alissa",
+        "sTitle2": "Ikseb Kollha GiveAway B'Xejn",
+        "sDesc2": "Ag\u0127\u017cel ir-rigal li tixtieq, tista 'wkoll tie\u0127u sehem fir-rigal kollu mil-lista li nipprovdu hawn ta\u0127t."
+    },
+    "banner2": {
+        "bTitle2": "Rekwi\u017citi Fa\u010bli u Sempli\u010bi",
+        "bDesc2": "Biss billi tirre\u0121istra lilek innifsek tista 'tie\u0127u sehem fl-g\u0127otja tag\u0127na. X'qed tistenna! ejja <a href='%s' target='_blank'> Irre\u0121istra <\/a> lilek innifsek issa stess."
+    },
+    "section3": {
+        "sTitleBefore3": "\u0120ibu issa",
+        "sTitle3": "Kif ting\u0127aqad?",
+        "sDesc3": "Ikseb GiveAway b'xejn f'inqas minn 24 sieg\u0127a! Titlifx din l-opportunit\u00e0 rari, hija fa\u010bli \u0127afna, sempli\u010bement irre\u0121istra fuq il-websajt tag\u0127na u \u0127u l-ist\u0127arri\u0121 (jekk hemm), m'g\u0127andek t\u0127allas xejn. Prosit!",
+        "step1": {
+            "sStep1": "Pass 1",
+            "ssDesc11": "Biex ikollok i\u010b-\u010bans li tirba\u0127 il- %s, kull ma trid tag\u0127mel hu li timla l-formola ta 're\u0121istrazzjoni tal-kont tieg\u0127ek. Biex tibda, da\u0127\u0127al il-kompetizzjoni biss bl-indirizz tal-email tieg\u0127ek."
+        },
+        "step2": {
+            "sStep2": "Pass 2",
+            "ssDesc21": "Ladarba tkun illoggjat, ikollok l-opportunit\u00e0 li tikseb entrati addizzjonali billi timla diversi azzjonijiet, inklu\u017c li \u017c\u017cur il-kanali tal-midja so\u010bjali tag\u0127na.",
+            "ssDesc22": "Int intitolat li tlesti kemm tista 'l-azzjonijiet, kull azzjoni toffri numru uniku ta' entrati u kull entrata hija rebbie\u0127 potenzjali.",
+            "ssDesc23": "Tista 'wkoll taqbe\u017c l-azzjonijiet g\u0127al $ 1 biss."
+        },
+        "step3": {
+            "done": "Mag\u0127mul.",
+            "sStep3": "Pass 3",
+            "ssDesc31": "Mag\u0127mul. A\u0127na immedjatament nikkuntattjawk abba\u017ci tal-kuntatt li kien mimli fil-\u0127in tar-re\u0121istrazzjoni fuq is-sit tag\u0127na."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Ag\u0127ti lil Bog\u0127od %s b'mod Kbir.",
+        "bDesc3": "Dan l-avveniment jipprovdi aktar slots rebbie\u0127a mis-sena l-o\u0127ra. Stieden lill-\u0127bieb u lill-familja tieg\u0127ek g\u0127al opportunitajiet akbar. <a href='%s' target='_blank'> Irre\u0121istra issa <\/a> qabel ma jibda dan l-avveniment."
+    },
+    "section4": {
+        "sTitleBefore4": "Valutazzjoni mag\u0127\u017cula",
+        "sTitle4": "Rebbie\u0127 ta \u2019Giveaway",
+        "sDesc4": "Xi revi\u017cjonijiet ta 'rebbie\u0127a b'xejn",
+        "theWinner": {
+            "winner": "REBBIE\u0126",
+            "winner1": "Justin Daniel",
+            "coment1": "Grazzi g\u0127all-Flus, nispera li l-ma\u0127\u017cen tieg\u0127ek ikun iktar iffullat.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Dan huwa verament \u0127anut famu\u017c tal-GeneralStore, ir\u010bevejt il-pakkett, Il-Prodott huwa ori\u0121inali, u ma \u0127allas l-ebda mi\u017cata. Grazzi.",
+            "winner3": "Matthew Davidson",
+            "coment3": "G\u0127all-ewwel ma emminniex, imma wara li g\u0127amilt kuntatt mag\u0127hom irri\u017culta li kien GeneralStore. grazzi GeneralStore g\u0127al %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Grazzi lil Alla talli \u017cidt ix-xorti tieg\u0127i, grazzi talli \u0127are\u0121 b'xejn, GeneralStore i love it."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "It-tmexxija bla xkiel tal-avvenimenti u n-negozju tag\u0127na",
+        "sTitle5": "Appo\u0121\u0121jat minn",
+        "sDesc5": "Ir-ringrazzjament tag\u0127na g\u0127all-appo\u0121\u0121 s\u0127i\u0127 li dejjem jg\u0127inna",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Kumpanija Amerikana tat-teknolo\u0121ija multinazzjonali bba\u017cata f'Seattle, Washington, li tiffoka fuq il-kummer\u010b elettroniku, cloud computing, streaming di\u0121itali, u intelli\u0121enza artifi\u010bjali.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Bejjieg\u0127 bl-imnut Amerikan bl-internet li jbieg\u0127 primarjament g\u0127amara li g\u0127andha l-kwartjieri \u0121enerali tag\u0127ha f\u2019Midvale, Utah, \u0127dejn Salt Lake City. Patrick M. Byrne waqqaf Overstock.com fl-1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Korporazzjoni multinazzjonali Amerikana bl-imnut li topera katina ta 'ipermerkati, \u0127wienet ta' skont, u \u0127wienet tal-mer\u010ba mill-Istati Uniti, kwartjieri \u0121enerali f'Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Bejjieg\u0127 bl-imnut multinazzjonali Amerikan tal-elettronika g\u0127all-konsumatur li g\u0127andu l-kwartieri \u0121enerali f'Richfield, Minnesota. Ori\u0121inarjament twaqqaf minn Richard M. Schulze u James Wheeler fl-1966 b\u0127ala \u0127anut spe\u010bjalizzat tal-awdjo msejja\u0127 Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Servizz bl-imnut onlajn ibba\u017cat fi\u010b-\u010aina proprjet\u00e0 tal-Grupp Alibaba. Imniedi fl-2010, huwa mag\u0127mul minn negozji \u017cg\u0127ar fi\u010b-\u010aina u f'postijiet o\u0127ra, b\u0127al Singapor, li joffru prodotti lil xerrejja internazzjonali online.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Korporazzjoni multinazzjonali Amerikana tal-kummer\u010b elettroniku bba\u017cata f'San Jose, Kalifornja, li tiffa\u010bilita l-bejg\u0127 minn konsumatur g\u0127al konsumatur u minn negozju g\u0127al konsumatur permezz tal-websajt tag\u0127ha."
+    },
+    "section6": {
+        "sTitleBefore6": "Ikkuntattjani",
+        "sTitle6": "Ikkuntatjana",
+        "sDesc6": "Jekk g\u0127andek xi mistoqsijiet dwar prodott, jew kwalunkwe informazzjoni li g\u0127andek b\u017conn, jekk jog\u0127\u0121bok, toqg\u0127odx lura milli tikkuntattjana.",
+        "firstName": "Isem",
+        "lastName": "Kunjom",
+        "subject": "Su\u0121\u0121ett",
+        "email": "Email",
+        "writeyourmessagehere": "Ikteb il-messa\u0121\u0121 tieg\u0127ek hawn.",
+        "sendmessage": "Ibg\u0127at Messa\u0121\u0121",
+        "sendsuccess": "Messa\u0121\u0121 mibg\u0127ut <strong> b'su\u010b\u010bess <\/strong>",
+        "sendsuccess1": "A\u0127na nirrispondu kemm jista 'jkun malajr."
+    }
+}

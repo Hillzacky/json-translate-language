@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Ymunwch Nawr",
+        "howtojoin": "Sut i Ymuno?",
+        "giveawaylist": "Rhestr Rhoddion",
+        "review": "Adolygiad",
+        "support": "Cefnogaeth",
+        "contact": "Cysylltwch",
+        "aboutus": "Amdanom ni",
+        "aboutusdesc": "General Store yw canolfan siopau holl siopau canghennau General Store ledled y byd sy'n ymwneud \u00e2 dosbarthwyr arbennig brandiau adnabyddus.",
+        "links": "Dolenni",
+        "subscribe": "Tanysgrifiwch",
+        "subscribedesc": "Rhowch eich e-bost os ydych chi am dderbyn y newyddion diweddaraf gennym ni.",
+        "subscribesend": "Cais wedi'i anfon <strong> yn llwyddiannus <\/strong>",
+        "openregistration": "Cofrestru Agored",
+        "opening": "Agoriadol",
+        "closing": "Cau",
+        "registernow": "Cofrestrwch nawr",
+        "checkingregistereddata": "Gwirio data cofrestredig",
+        "from": "O",
+        "to": "I",
+        "viewregistereddata": "Gweld data cofrestredig",
+        "visitor": "Ymwelydd",
+        "copyright": "Hawlfraint",
+        "allrightsreserved": "Cedwir pob hawl"
+    },
+    "title": "Rhowch Ffwrdd %s",
+    "subtitle": "Cofrestrwch nawr am gyfle i ennill %s!",
+    "wordcontinue": "Parhewch",
+    "section1": {
+        "sTitleBefore1": "Dewch i Ymuno \u00e2 Ni",
+        "sTitle1": "Mwynhewch y Buddion",
+        "sDesc1": "Dim ond yma y gallwch gael llawer o fuddion rhoi i ffwrdd, hawdd ymuno, y cynhyrchion rhoi gorau ac amryw fuddion eraill",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Diogel",
+            "descItem1": "Diogelwch Gwarantedig.",
+            "iconItem2": "eicon-arian",
+            "titleItem2": "Arian Diogel",
+            "descItem2": "Nid yw'n codi unrhyw ffioedd wrth dderbyn rhoddion.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Amser Diogel",
+            "descItem3": "Cael GiveAway mewn llai na 24 awr!"
+        },
+        "timer": {
+            "timerTitle": "Daw bonws mynediad am ddim i ben yn:",
+            "days": "Dyddiau",
+            "hours": "Oriau",
+            "minutes": "Cofnodion",
+            "seconds": "Eiliadau"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Rhowch Ffwrdd %s",
+        "bDesc1": "Os ydych wedi cofrestru, gwiriwch eich e-bost o bryd i'w gilydd i gael y wybodaeth ddiweddaraf gennym. Byddwn hefyd yn dosbarthu talebau ar gyfer siopa yn ein siop am ddim. Am beth ydych chi'n aros! <a href='%s' target='_blank'> Dechrau Arni <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Dywedwch wrth eich ffrindiau ar hyn o bryd",
+        "sTitle2": "Cael Pob Rhodd Am Ddim",
+        "sDesc2": "Dewiswch yr anrheg rydych chi'n ei hoffi, gallwch chi hefyd gymryd rhan yn yr holl roddion o'r rhestr rydyn ni'n ei darparu isod."
+    },
+    "banner2": {
+        "bTitle2": "Gofynion Hawdd a Syml",
+        "bDesc2": "Dim ond trwy gofrestru'ch hun y gallwch chi gymryd rhan yn ein rhoddion. Am beth ydych chi'n aros! gadewch i <a href='%s' target='_blank'> Cofrestru <\/a> eich hun ar hyn o bryd."
+    },
+    "section3": {
+        "sTitleBefore3": "Ei gael Nawr",
+        "sTitle3": "Sut i Ymuno?",
+        "sDesc3": "Sicrhewch GiveAway am ddim mewn llai na 24 awr! Peidiwch \u00e2 cholli'r cyfle prin hwn, mae'n hawdd iawn, dim ond cofrestru ar ein gwefan a chymryd yr arolwg (os oes un), does dim rhaid i chi dalu unrhyw beth. Llongyfarchiadau!",
+        "step1": {
+            "sStep1": "Cam 1",
+            "ssDesc11": "I gael cyfle i ennill y %s, y cyfan sy'n rhaid i chi ei wneud yw llenwi'ch ffurflen gofrestru cyfrif. I ddechrau, nodwch yr ornest gyda'ch cyfeiriad e-bost."
+        },
+        "step2": {
+            "sStep2": "Cam 2",
+            "ssDesc21": "Ar \u00f4l i chi fewngofnodi, cewch gyfle i gael cofnodion ychwanegol trwy gwblhau gweithredoedd amrywiol, gan gynnwys ymweld \u00e2'n sianeli cyfryngau cymdeithasol.",
+            "ssDesc22": "Mae gennych hawl i gwblhau cymaint o gamau ag y dymunwch, mae pob gweithred yn cynnig nifer unigryw o gynigion ac mae pob cais yn enillydd posib.",
+            "ssDesc23": "Gallwch hefyd hepgor gweithredoedd am ddim ond $ 1."
+        },
+        "step3": {
+            "done": "Wedi'i wneud.",
+            "sStep3": "Cam 3",
+            "ssDesc31": "Wedi'i wneud. Byddwn yn cysylltu \u00e2 chi ar unwaith yn seiliedig ar y cyswllt a gafodd ei lenwi adeg cofrestru ar ein gwefan."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Rhowch Away %s mewn Ffordd Fawr.",
+        "bDesc3": "Mae'r digwyddiad hwn yn darparu mwy o slotiau buddugol na'r llynedd. Gwahoddwch eich ffrindiau a'ch teulu am fwy fyth o gyfleoedd. <a href='%s' target='_blank'> Cofrestrwch nawr <\/a> cyn i'r digwyddiad hwn ddechrau."
+    },
+    "section4": {
+        "sTitleBefore4": "Asesiad dethol",
+        "sTitle4": "Enillydd Giveaway",
+        "sDesc4": "Rhai adolygiadau o enillwyr rhoddion",
+        "theWinner": {
+            "winner": "ENILLYDD",
+            "winner1": "Justin Daniel",
+            "coment1": "Diolch am yr Arian Parod, gobeithio y bydd eich siop yn fwy gorlawn.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Mae hon yn siop GeneralStore enwog mewn gwirionedd, roedd y pecyn yn llwyddiannus a gefais, mae'r cynnyrch yn wreiddiol, ac ni thalais unrhyw ffioedd. Diolch.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Ar y dechrau, doeddwn i ddim yn credu hynny, ond ar \u00f4l i mi gysylltu \u00e2 nhw fe drodd allan ei fod yn GeneralStore. diolch GeneralStore am %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Diolch i dduw am gynyddu fy lwc, diolch am roddion, GeneralStore dwi wrth fy modd."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Rhedeg esmwyth ein digwyddiadau a'n busnes",
+        "sTitle5": "Gyda chefnogaeth gan",
+        "sDesc5": "Ein diolch am y gefnogaeth lawn sydd bob amser yn ein helpu",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Cwmni technoleg rhyngwladol Americanaidd wedi'i leoli yn Seattle, Washington, sy'n canolbwyntio ar e-fasnach, cyfrifiadura cwmwl, ffrydio digidol, a deallusrwydd artiffisial.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Manwerthwr rhyngrwyd Americanaidd sy'n gwerthu dodrefn yn bennaf \u00e2'i bencadlys yn Midvale, Utah, ger Salt Lake City. Sefydlodd Patrick M. Byrne Overstock.com ym 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Corfforaeth manwerthu amlwladol Americanaidd sy'n gweithredu cadwyn o archfarchnadoedd, siopau adrannol disgownt, a siopau groser o'r Unol Daleithiau, sydd \u00e2'i phencadlys yn Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Manwerthwr electroneg defnyddwyr rhyngwladol Americanaidd \u00e2'i bencadlys yn Richfield, Minnesota. Fe\u2019i sefydlwyd yn wreiddiol gan Richard M. Schulze a James Wheeler ym 1966 fel siop arbenigedd clywedol o\u2019r enw Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Gwasanaeth manwerthu ar-lein wedi'i leoli yn Tsieina sy'n eiddo i Gr\u0175p Alibaba. Wedi'i lansio yn 2010, mae'n cynnwys busnesau bach yn Tsieina a lleoliadau eraill, fel Singapore, sy'n cynnig cynhyrchion i brynwyr ar-lein rhyngwladol.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corfforaeth e-fasnach amlwladol Americanaidd wedi'i lleoli yn San Jose, California, sy'n hwyluso gwerthiannau defnyddiwr-i-ddefnyddiwr a busnes-i-ddefnyddwyr trwy ei gwefan."
+    },
+    "section6": {
+        "sTitleBefore6": "Cysylltwch \u00e2 ni",
+        "sTitle6": "Cysylltwch \u00e2 Ni",
+        "sDesc6": "Os oes gennych unrhyw gwestiynau yngl\u0177n \u00e2 chynnyrch, neu unrhyw wybodaeth sydd ei hangen arnoch, peidiwch ag oedi cyn cysylltu \u00e2 ni.",
+        "firstName": "Enw cyntaf",
+        "lastName": "Enw olaf",
+        "subject": "Pwnc",
+        "email": "E-bost",
+        "writeyourmessagehere": "Ysgrifennwch eich neges yma.",
+        "sendmessage": "Anfon Neges",
+        "sendsuccess": "Anfonwyd neges <strong> yn llwyddiannus <\/strong>",
+        "sendsuccess1": "Byddwn yn ymateb cyn gynted \u00e2 phosibl."
+    }
+}

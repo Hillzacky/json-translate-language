@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Liity nyt",
+        "howtojoin": "Kuinka liitty\u00e4?",
+        "giveawaylist": "Giveaway-luettelo",
+        "review": "Arvostelu",
+        "support": "Tuki",
+        "contact": "Ottaa yhteytt\u00e4",
+        "aboutus": "Meist\u00e4",
+        "aboutusdesc": "General Store on kaikkien General Store -konttoreiden myym\u00e4l\u00e4keskus ymp\u00e4ri maailmaa, joka harjoittaa tunnettujen tuotemerkkien erikoistuneita jakelijoita.",
+        "links": "Linkit",
+        "subscribe": "Tilaa",
+        "subscribedesc": "Kirjoita s\u00e4hk\u00f6postiosoitteesi, jos haluat saada viimeisimm\u00e4t uutiset meilt\u00e4.",
+        "subscribesend": "Pyynt\u00f6 l\u00e4hetetty <strong> onnistuneesti <\/strong>",
+        "openregistration": "Avaa rekister\u00f6inti",
+        "opening": "Avaaminen",
+        "closing": "Sulkeminen",
+        "registernow": "Rekister\u00f6idy nyt",
+        "checkingregistereddata": "Rekister\u00f6ityjen tietojen tarkistaminen",
+        "from": "Alkaen",
+        "to": "Vastaanottaja",
+        "viewregistereddata": "Tarkastele rekister\u00f6ityj\u00e4 tietoja",
+        "visitor": "Vierailija",
+        "copyright": "Tekij\u00e4noikeus",
+        "allrightsreserved": "Kaikki oikeudet pid\u00e4tet\u00e4\u00e4n"
+    },
+    "title": "Anna pois %s",
+    "subtitle": "Rekister\u00f6idy nyt, niin voit voittaa %s!",
+    "wordcontinue": "Jatkaa",
+    "section1": {
+        "sTitleBefore1": "Liity mukaan",
+        "sTitle1": "Nauti eduista",
+        "sDesc1": "Vain t\u00e4\u00e4lt\u00e4 saat monia lahjahy\u00f6tyj\u00e4, helppo liitty\u00e4, parhaat lahjoittaa tuotteet ja monia muita etuja",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Suojattu",
+            "descItem1": "Taattu turvallisuus.",
+            "iconItem2": "kuvake-rahaa",
+            "titleItem2": "Turvallista rahaa",
+            "descItem2": "Ei veloita mit\u00e4\u00e4n maksua vastaanottaessaan.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Turvallinen aika",
+            "descItem3": "Hanki GiveAway alle 24 tunnissa!"
+        },
+        "timer": {
+            "timerTitle": "Ilmaisen sis\u00e4\u00e4np\u00e4\u00e4syn bonus p\u00e4\u00e4ttyy:",
+            "days": "P\u00e4iv\u00e4\u00e4",
+            "hours": "Tunnit",
+            "minutes": "P\u00f6yt\u00e4kirja",
+            "seconds": "Sekuntia"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Anna pois %s",
+        "bDesc1": "Jos olet rekister\u00f6itynyt, tarkista s\u00e4hk\u00f6postiosoitteesi s\u00e4\u00e4nn\u00f6llisesti saadaksesi viimeisimm\u00e4t tiedot meilt\u00e4. Annamme my\u00f6s lahjakortteja ostoksille kaupassamme ilmaiseksi. Mit\u00e4 odotat! <a href='%s' target='_blank'> Aloita <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Kerro yst\u00e4villesi heti",
+        "sTitle2": "Hanki kaikki ilmaiseksi GiveAway",
+        "sDesc2": "Valitse haluamasi lahja. Voit my\u00f6s osallistua kaikkiin lahjoihin alla olevasta luettelosta."
+    },
+    "banner2": {
+        "bTitle2": "Helppo ja yksinkertainen vaatimukset",
+        "bDesc2": "Vain rekister\u00f6im\u00e4ll\u00e4 itsesi voit osallistua lahjaksi. Mit\u00e4 odotat! <a href='%s' target='_blank'> rekister\u00f6idy <\/a> itsellesi juuri nyt."
+    },
+    "section3": {
+        "sTitleBefore3": "Hae se nyt",
+        "sTitle3": "Kuinka liitty\u00e4?",
+        "sDesc3": "Hanki ilmainen GiveAway alle 24 tunnissa! \u00c4l\u00e4 missaa t\u00e4t\u00e4 harvinaista mahdollisuutta, se on eritt\u00e4in helppoa, rekister\u00f6idy vain verkkosivustollemme ja vastaa kyselyyn (jos sellainen on), sinun ei tarvitse maksaa mit\u00e4\u00e4n. Onnittelut!",
+        "step1": {
+            "sStep1": "Vaihe 1",
+            "ssDesc11": "Saadaksesi mahdollisuuden voittaa %s, sinun tarvitsee vain t\u00e4ytt\u00e4\u00e4 tilisi rekister\u00f6intilomake. Aloita vain osallistumalla kilpailuun s\u00e4hk\u00f6postiosoitteellasi."
+        },
+        "step2": {
+            "sStep2": "Vaihe 2",
+            "ssDesc21": "Kun olet kirjautunut sis\u00e4\u00e4n, sinulla on mahdollisuus saada lis\u00e4\u00e4 merkint\u00f6j\u00e4 suorittamalla erilaisia \u200b\u200btoimintoja, mukaan lukien vierailemalla sosiaalisen median kanavillamme.",
+            "ssDesc22": "Sinulla on oikeus suorittaa niin monta toimintoa kuin haluat, jokaisessa toiminnossa on ainutlaatuinen m\u00e4\u00e4r\u00e4 ilmoituksia ja jokainen merkint\u00e4 on potentiaalinen voittaja.",
+            "ssDesc23": "Voit my\u00f6s ohittaa toiminnot vain yhdell\u00e4 dollarilla."
+        },
+        "step3": {
+            "done": "Tehty.",
+            "sStep3": "Vaihe 3",
+            "ssDesc31": "Tehty. Otamme sinuun v\u00e4litt\u00f6m\u00e4sti yhteytt\u00e4 yhteydenoton perusteella, joka t\u00e4ytettiin rekister\u00f6innin yhteydess\u00e4 sivustollemme."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Anna pois %s suurella tavalla.",
+        "bDesc3": "T\u00e4m\u00e4 tapahtuma tarjoaa enemm\u00e4n voittopelej\u00e4 kuin viime vuonna. Kutsu yst\u00e4v\u00e4si ja perheesi entist\u00e4 parempiin mahdollisuuksiin. <a href='%s' target='_blank'> Rekister\u00f6idy nyt <\/a> ennen t\u00e4m\u00e4n tapahtuman alkua."
+    },
+    "section4": {
+        "sTitleBefore4": "Valittu arvio",
+        "sTitle4": "Giveaway-voittaja",
+        "sDesc4": "Joitakin arvosteluja lahjojen voittajista",
+        "theWinner": {
+            "winner": "VOITTAJA",
+            "winner1": "Justin Daniel",
+            "coment1": "Kiitos k\u00e4teisest\u00e4, toivottavasti kaupassasi on enemm\u00e4n ihmisi\u00e4.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "T\u00e4m\u00e4 on todella kuuluisa GeneralStore-kauppa, paketti onnistui, sain, Tuote on alkuper\u00e4inen, enk\u00e4 maksanut mit\u00e4\u00e4n maksuja. Kiitos.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Aluksi en uskonut sit\u00e4, mutta yhteydenoton j\u00e4lkeen k\u00e4vi ilmi, ett\u00e4 se oli GeneralStore. kiitos GeneralStore %s: sta.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Kiitos jumalalle onneni kasvattamisesta, kiitos lahjasta, GeneralStore rakastan sit\u00e4."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Tapahtumien ja liiketoiminnan sujuva kulku",
+        "sTitle5": "Tukema",
+        "sDesc5": "Kiitos t\u00e4ydest\u00e4 tuesta, joka auttaa meit\u00e4 aina",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikkalainen monikansallinen teknologiayritys, joka sijaitsee Seattlessa Washingtonissa ja keskittyy s\u00e4hk\u00f6iseen kaupank\u00e4yntiin, pilvipalveluihin, digitaaliseen suoratoistoon ja teko\u00e4lyyn.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikkalainen Internet-j\u00e4lleenmyyj\u00e4, joka myy p\u00e4\u00e4asiassa huonekaluja p\u00e4\u00e4konttorilla Midvalessa, Utahissa, l\u00e4hell\u00e4 Salt Lake City\u00e4. Patrick M.Byrne perusti Overstock.comin vuonna 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikkalainen monikansallinen v\u00e4hitt\u00e4iskaupan yhti\u00f6, joka yll\u00e4pit\u00e4\u00e4 hypermarkettiketjua, halpoja tavarataloja ja ruokakauppoja Yhdysvalloista, p\u00e4\u00e4konttori Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikkalainen monikansallinen kulutuselektroniikan j\u00e4lleenmyyj\u00e4, jonka p\u00e4\u00e4konttori sijaitsee Richfieldiss\u00e4, Minnesotassa. Sen perustivat alun perin Richard M.Schulze ja James Wheeler vuonna 1966 \u00e4\u00e4nen erikoiskauppana nimell\u00e4 Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Kiinassa toimiva verkkokaupan palvelu, jonka omistaa Alibaba Group. Vuonna 2010 perustettu yritys koostuu pienist\u00e4 yrityksist\u00e4 Kiinassa ja muissa paikoissa, kuten Singaporessa, jotka tarjoavat tuotteita kansainv\u00e4lisille verkko-ostajille.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikkalainen monikansallinen s\u00e4hk\u00f6isen kaupank\u00e4ynnin yritys, jonka kotipaikka on San Jose, Kalifornia, ja joka helpottaa kuluttajien ja kuluttajien sek\u00e4 yritysten v\u00e4list\u00e4 myynti\u00e4 verkkosivustonsa kautta."
+    },
+    "section6": {
+        "sTitleBefore6": "Ota yhteytt\u00e4",
+        "sTitle6": "Ota meihin yhteytt\u00e4",
+        "sDesc6": "Jos sinulla on kysytt\u00e4v\u00e4\u00e4 tuotteesta tai tarvitsemastasi tiedoista, ota meihin yhteytt\u00e4.",
+        "firstName": "Etunimi",
+        "lastName": "Sukunimi",
+        "subject": "Aihe",
+        "email": "S\u00e4hk\u00f6posti",
+        "writeyourmessagehere": "Kirjoita viesti t\u00e4h\u00e4n.",
+        "sendmessage": "L\u00e4het\u00e4 viesti",
+        "sendsuccess": "Viesti l\u00e4hetetty <strong> onnistuneesti <\/strong>",
+        "sendsuccess1": "Vastaamme mahdollisimman pian."
+    }
+}

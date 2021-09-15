@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Hono inaianei",
+        "howtojoin": "Me Pehea Te Hono?",
+        "giveawaylist": "Rarangi Hoatu",
+        "review": "Arotake",
+        "support": "Tautoko",
+        "contact": "Whakapaa",
+        "aboutus": "Mo Tatou",
+        "aboutusdesc": "Ko te Toa Whanui te pokap\u016b toa o nga toa peka katoa o te Toa Toa puta noa i te ao e mahi ana i nga kaihokohoko motuhake o nga waitohu rongonui.",
+        "links": "Hononga",
+        "subscribe": "Ohauru",
+        "subscribedesc": "Tena koa whakauruhia to imeera mena e hiahia ana koe ki te tango i nga korero hou mai i a maatau.",
+        "subscribesend": "Kua tukuna angitu te tono <strong> pai <\/strong>",
+        "openregistration": "Whakatuwhera Rehitatanga",
+        "opening": "Whakatuwhera",
+        "closing": "Katia",
+        "registernow": "Rehita Na",
+        "checkingregistereddata": "Te tirotiro i nga korero kua rehitatia",
+        "from": "Tuhinga ka whai mai",
+        "to": "Ki",
+        "viewregistereddata": "Tirohia nga rehita kua rehitatia",
+        "visitor": "Manuhiri",
+        "copyright": "Mana pupuri",
+        "allrightsreserved": "P\u016bmau te mana"
+    },
+    "title": "Homai Atu %s",
+    "subtitle": "Waitohu inaianei mo te tupono ki te wikitoria i te %s!",
+    "wordcontinue": "Haere tonu",
+    "section1": {
+        "sTitleBefore1": "Kia Hono Tatou",
+        "sTitle1": "Kia Pai Nga Painga",
+        "sDesc1": "Anake i konei ka taea e koe te tango i nga painga maha, ngawari ki te whakauru, nga hua tino pai me etahi atu painga",
+        "item": {
+            "iconItem1": "tohu-manatoko_user",
+            "titleItem1": "Haumaru",
+            "descItem1": "Haumarutanga Whai.",
+            "iconItem2": "ata-moni",
+            "titleItem2": "Moni Haumaru",
+            "descItem2": "Kaore e utua he utu ka whiwhi koe i tetahi koha.",
+            "iconItem3": "tohu-uru_waea",
+            "titleItem3": "Te Wa Haumaru",
+            "descItem3": "Haere ki te GiveAway i raro iho i te 24 haora!"
+        },
+        "timer": {
+            "timerTitle": "Ka mutu te bonus whakauru koreutu i:",
+            "days": "Ra",
+            "hours": "Haora",
+            "minutes": "Minute",
+            "seconds": "Tuarua"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Homai Atu %s",
+        "bDesc1": "Mena kua r\u0113hita koe, tirohia i to imeera i ia wa ki te tiki mai i nga korero hou mai i a maatau. Ka tohaina hoki e matou nga tiiweti mo te hokohoko i to maatau toa mo te koreutu. He aha taau e tatari atu nei! <a href='%s' target='_blank'> T\u012bmata <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Korero atu ki o hoa i tenei wa tonu",
+        "sTitle2": "Tangohia Katoa te HomaiTeAway Koreutu",
+        "sDesc2": "Whiriwhiria te koha e pai ana koe, ka taea hoki e koe te tango i nga koha katoa mai i te raarangi ka tukuna e matou i raro."
+    },
+    "banner2": {
+        "bTitle2": "Nga Whakaritenga ngawari me ngawari",
+        "bDesc2": "Ma te r\u0113hita ia koe ka taea e koe te uru atu ki ta maatau tuku. He aha taau e tatari atu nei! kia <a href='%s' \u016bnga='_blank'> R\u0113hita <\/a> koe i t\u0113nei w\u0101 tonu."
+    },
+    "section3": {
+        "sTitleBefore3": "Tikina Na",
+        "sTitle3": "Me pehea te hono atu?",
+        "sDesc3": "Tikina he GiveAway koreutu i raro iho i te 24 haora! Kaua e warewarehia tenei tuponotanga onge, he ngawari noa iho, me rehita noa ki ta maatau paetukutuku ka tirotiro (mena he), kaore koe e utu i tetahi mea. Kia ora!",
+        "step1": {
+            "sStep1": "Hipanga 1",
+            "ssDesc11": "Kia whai waahi koe ki te wikitoria i te %s, ko taau noa iho ko te whakakii i to puka rehitatanga kaute. Hei tiimata, whakauru noa i te whakataetae me to wahitau imeera."
+        },
+        "step2": {
+            "sStep2": "Hipanga 2",
+            "ssDesc21": "Ka uru ana koe ki roto, ka whai waahi koe ki te tiki atu i nga whakauru ma te whakaoti i nga momo momo mahi, tae atu ki te toro ki a maatau papaaho p\u0101pori.",
+            "ssDesc22": "E tika ana koe ki te whakaoti i nga mahi katoa e hiahia ana koe, ko ia mahi he maha nga whakauru whakauru me ia toa he toa pea.",
+            "ssDesc23": "Ka taea hoki e koe te peke i nga mahi mo te $ 1 noa iho."
+        },
+        "step3": {
+            "done": "Kua Oti.",
+            "sStep3": "Hipanga 3",
+            "ssDesc31": "Kua Oti. Ka whakapiri atu maatau ki a koe i runga i te hoap\u0101 i kapi i te wa o te rehitatanga ki ta maatau papaanga."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Hoatu Atu te %s me te huarahi nui.",
+        "bDesc3": "Ko tenei huihuinga e whakarato ana i nga waahanga toa nui atu i te tau kua hipa. Karangahia o hoa me to whanau kia nui ake nga mea angitu. <a href='%s' target='_blank'> R\u0113hita in\u0101ianei <\/a> i mua i te t\u012bmatanga o t\u0113nei kaupapa."
+    },
+    "section4": {
+        "sTitleBefore4": "Aromatawai kua tohua",
+        "sTitle4": "Toa Toa",
+        "sDesc4": "Ko etahi arotake o nga toa toa",
+        "theWinner": {
+            "winner": "WINNER",
+            "winner1": "Justin Raniera",
+            "coment1": "Mauruuru mo te Moni Moni, Ko te tumanako ka kaha ake to toa.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "He toa rongonui tenei mo te toa GeneralStore, I angitu te putea i riro mai i ahau, He taketake te hua, ana kaore au i utu. Mauruuru.",
+            "winner3": "Matiu Davidson",
+            "coment3": "I te tuatahi kaore au i whakapono, engari i muri i taku whakap\u0101 atu ki a raatau ka puta ko te GeneralStore. kia ora GeneralStore mo %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Mauruuru ki te Atua mo te whakanui i taku waimarie, whakawhetai ki a koe mo te tohatoha, GeneralStore he pai ki ahau."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Te rere pai o a tatou kaupapa me o taatau pakihi",
+        "sTitle5": "Tautokohia e",
+        "sDesc5": "Nga mihi mo te tautoko nui e awhina tonu ana i a maatau",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Ko te kamupene hangarau tini o Amerika e noho ana i Seattle, Washington, e aro nui ana ki te e-tauhokohoko, rorohiko kapua, rerenga mamati, me te maatauranga whaiwhai.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Ko te kaihokohoko ipurangi a Amerika e hoko ana i nga taonga tuatahi kei Midvale, Utah, e tata ana ki te Taone o Roto. Na Patrick M. Byrne i whakatuu te Overstock.com i te 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ko te umanga riipene umanga a Amerika e whakahaere ana i nga mekameka toa, i nga toa utu utu, me nga toa hokohoko mai i te United States, he tari matua kei Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Ko te kaihokohoko hiko maha a-umanga a Amerika kei te tari matua i Richfield, Minnesota. Na Richard M. Schulze raua ko James Wheeler i whakatuu tuatahi i te tau 1966 hei toa taonga whakarongo oro ko Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Ratonga hokohoko tuihono e noho ana i Haina e te Ropu Alibaba. I whakamaanuhia i te 2010, he umanga iti kei Haina me etahi atu waahi, penei i a Singapore, e tuku hua ana ki nga kaihoko aipurangi o te ao.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Ko te kaporeihana e-tauhokohoko maha a Amerika e noho ana i San Jose, California, e awhina ana i nga kaihoko-ki-kaihoko me nga pakihi-ki-kaihoko mai i tana paetukutuku."
+    },
+    "section6": {
+        "sTitleBefore6": "Whakauru atu",
+        "sTitle6": "Whakap\u0101 Mai",
+        "sDesc6": "Mena he paatai \u200b\u200btaau mo tetahi hua, mo etahi korero ranei e hiahia ana koe, kaua e whakaroa ki te whakapiri mai ki a maatau.",
+        "firstName": "Ingoa Tuatahi",
+        "lastName": "Ingoa Whakamutunga",
+        "subject": "Kaupapa",
+        "email": "Imeera",
+        "writeyourmessagehere": "Tuhia to korero ki konei.",
+        "sendmessage": "Tukuna Karere",
+        "sendsuccess": "I tukuna angitu te kupu <strong> pai <\/strong>",
+        "sendsuccess1": "Ka whakautu wawe tonu maatau."
+    }
+}

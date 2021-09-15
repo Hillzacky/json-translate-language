@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Maacht elo mat",
+        "howtojoin": "W\u00e9i Fir Maacht Mat?",
+        "giveawaylist": "Giveaway L\u00ebscht",
+        "review": "Iwwerpr\u00e9iwung",
+        "support": "\u00cbnnerst\u00ebtzung",
+        "contact": "Kontakt",
+        "aboutus": "Iwwert ons",
+        "aboutusdesc": "General Store ass de Buttekzentrum vun all General Store Filialgesch\u00e4fter weltw\u00e4it engag\u00e9iert a spezial Distributeure vu bekannte Marken.",
+        "links": "Linken",
+        "subscribe": "Abonn\u00e9ieren",
+        "subscribedesc": "Gitt w.e.g. \u00c4r E-Mail wann Dir d\u00e9i lescht Neiegkeete vun eis w\u00ebllt kr\u00e9ien.",
+        "subscribesend": "Ufro gesch\u00e9ckt <strong> erfollegr\u00e4ich <\/strong>",
+        "openregistration": "Open Umeldung",
+        "opening": "Ouverture",
+        "closing": "Ofschloss",
+        "registernow": "Registr\u00e9ier dech elo",
+        "checkingregistereddata": "Kontroll\u00e9iert registr\u00e9iert Daten",
+        "from": "Vun",
+        "to": "Zu",
+        "viewregistereddata": "Kuckt ugemellt Daten",
+        "visitor": "Visiteur",
+        "copyright": "Copyright",
+        "allrightsreserved": "All Rechter reserv\u00e9iert"
+    },
+    "title": "Gitt weg %s",
+    "subtitle": "Mell dech elo un fir eng Chance %s ze gewannen!",
+    "wordcontinue": "Fuert weider",
+    "section1": {
+        "sTitleBefore1": "Loosst eis Mat",
+        "sTitle1": "Gen\u00e9isst D'Virdeeler",
+        "sDesc1": "N\u00ebmmen hei k\u00ebnnt Dir vill Virdeeler kr\u00e9ien, einfach matzemaachen, d\u00e9i bescht verschenken Produkter a verschidden aner Virdeeler",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "S\u00e9cher",
+            "descItem1": "Garant\u00e9iert S\u00e9cherheet.",
+            "iconItem2": "Ikon-Suen",
+            "titleItem2": "S\u00e9cher Suen",
+            "descItem2": "Kennt keng K\u00e4schte wann Dir e Kaddo kritt.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "S\u00e9cher Z\u00e4it",
+            "descItem3": "Kritt GiveAway a manner w\u00e9i 24 Stonnen!"
+        },
+        "timer": {
+            "timerTitle": "Gratis Entr\u00e9e Bonus h\u00e4lt um:",
+            "days": "Deeg",
+            "hours": "Stonnen",
+            "minutes": "Minutten",
+            "seconds": "Sekonnen"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Gitt weg %s",
+        "bDesc1": "Wann Dir Iech ugemellt hutt, kontroll\u00e9iert \u00c4r E-Mail periodesch fir d\u00e9i lescht Informatioun vun eis ze kr\u00e9ien. Mir ginn och Bongen aus fir an eisem Gesch\u00e4ft gratis ze kafen. Wat waart Dir op! <a href='%s' target='_blank'> Gitt un <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Sot \u00c4re Fr\u00ebnn grad elo",
+        "sTitle2": "Kritt All Free GiveAway",
+        "sDesc2": "Wielt de Kaddo deen Dir w\u00ebllt, Dir k\u00ebnnt och un all de Kaddoen aus der L\u00ebscht deelhuelen d\u00e9i mir hei \u00ebnnen ubidden."
+    },
+    "banner2": {
+        "bTitle2": "Einfach an einfach Ufuerderungen",
+        "bDesc2": "N\u00ebmme andeems Dir Iech selwer registr\u00e9iert k\u00ebnnt Dir un eisem Kaddo deelhuelen. Wat waart Dir op! loosst eis <a href='%s' target='_blank'> Registr\u00e9ieren <\/a> selwer elo."
+    },
+    "section3": {
+        "sTitleBefore3": "Kritt Et Elo",
+        "sTitle3": "W\u00e9i kann ee matmaachen?",
+        "sDesc3": "Kritt e gratis GiveAway a manner w\u00e9i 24 Stonnen! Verpasst d\u00ebs rar Gelee\u00ebnheet net, et ass ganz einfach, mellt Iech just op eiser Webs\u00e4it un a maacht d'\u00cbmfro (wann iwwerhaapt), Dir musst n\u00e4ischt bezuelen. Gratulatioun!",
+        "step1": {
+            "sStep1": "Schr\u00ebtt 1",
+            "ssDesc11": "Fir eng Chance ze kr\u00e9ien d ' %s ze gewannen, braucht Dir n\u00ebmmen \u00c4re Kont Umeldungsformular auszef\u00ebllen. Fir unzef\u00e4nken, gitt just de Concours mat \u00c4rer E-Mail Adress un."
+        },
+        "step2": {
+            "sStep2": "Schr\u00ebtt 2",
+            "ssDesc21": "Soubal Dir ageloggt sidd, hutt Dir d'M\u00e9iglechkeet zous\u00e4tzlech B\u00e4itreeg ze kr\u00e9ien andeems Dir verschidden Aktiounen ausf\u00ebllt, och wann Dir eis Social Media Channels besicht.",
+            "ssDesc22": "Dir sidd berechtegt esou vill Aktiounen ze maachen w\u00e9i Dir w\u00ebllt, all Aktioun bitt eng eenzegaarteg Unzuel vun Entr\u00e9en an all Entr\u00e9e ass e potenzielle Gew\u00ebnner.",
+            "ssDesc23": "Dir k\u00ebnnt och Aktioune fir just $ 1 iwwersprangen."
+        },
+        "step3": {
+            "done": "Gemaach.",
+            "sStep3": "Schr\u00ebtt 3",
+            "ssDesc31": "Gemaach. Mir kontakt\u00e9ieren Iech direkt op Basis vum Kontakt deen an der Z\u00e4it vun der Aschreiwung op eiser S\u00e4it ausgef\u00ebllt gouf."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Gitt Away %s op e grousse Wee ewech.",
+        "bDesc3": "D\u00ebst Evenement bitt m\u00e9i Gew\u00ebnn Slots w\u00e9i d'lescht Joer. Invit\u00e9iert \u00c4r Fr\u00ebnn a Famill fir nach m\u00e9i grouss Chancen. <a href='%s' target='_blank'> Registr\u00e9iert Iech elo <\/a> ier d\u00ebst Event uf\u00e4nkt."
+    },
+    "section4": {
+        "sTitleBefore4": "Ausgewielter Bew\u00e4ertung",
+        "sTitle4": "Giveaway Gew\u00ebnner",
+        "sDesc4": "E puer Rezensiounen vu Kaddosgew\u00ebnner",
+        "theWinner": {
+            "winner": "GEW\u00cbNNER",
+            "winner1": "Justin Daniel",
+            "coment1": "Merci fir de Cash, ech hoffen \u00c4re Gesch\u00e4ft w\u00e4ert m\u00e9i bel\u00e9ift sinn.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "D\u00ebst ass wierklech e ber\u00fchmte GeneralStore Shop, de Package war erfollegr\u00e4ich krut ech, Produkt ass originell, an ech hu keng K\u00e4schte bezuelt. Merci.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Als \u00e9ischt hunn ech et net gegleeft, awer nodeems ech se kontakt\u00e9iert hunn, huet sech erausgestallt datt et e GeneralStore war. merci GeneralStore fir %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Merci Gott fir m\u00e4i Gl\u00e9ck ze erh\u00e9ijen, Merci fir de Kaddo, GeneralStore ech hunn et g\u00e4r."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "De gudde Verlaf vun eisen Eventer & Gesch\u00e4fter",
+        "sTitle5": "\u00cbnnerst\u00ebtzt vun",
+        "sDesc5": "Eise Merci fir d\u00e9i voll \u00cbnnerst\u00ebtzung d\u00e9i eis \u00ebmmer h\u00eblleft",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikanesch multinational Technologiefirma mat S\u00ebtz zu Seattle, Washington, d\u00e9i sech op E-Commerce, Cloud Computing, Digital Streaming a K\u00ebnschtlech Intelligenz fokuss\u00e9iert.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikaneschen Internet H\u00e4ndler verkaaft haapts\u00e4chlech Miwwelen mat S\u00ebtz zu Midvale, Utah, bei Salt Lake City. De Patrick M. Byrne huet Overstock.com am Joer 1999 gegr\u00ebnnt.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikanesch multinational Gesch\u00e4ftsfirma d\u00e9i eng Kette vu Hypermarch\u00e9en, Discount-Gesch\u00e4fter a Liewensm\u00ebttelgesch\u00e4fter aus den USA bedreift, mat S\u00ebtz zu Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikanesche multinationalen Konsumentelektronik H\u00e4ndler mat S\u00ebtz zu Richfield, Minnesota. Et gouf urspr\u00e9nglech vum Richard M. Schulze an James Wheeler am Joer 1966 als Audio Spezialgesch\u00e4ft mam Numm Sound of Music gegr\u00ebnnt.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Online H\u00e4ndelservice bas\u00e9iert a China vun der Alibaba Group. Lanc\u00e9iert am Joer 2010 besteet et aus klenge Gesch\u00e4fter a China an anere Standuerter, w\u00e9i Singapur, d\u00e9i Produkter un international Online Keefer ubidden.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikanesch multinational E-Commerce Corporation bas\u00e9iert zu San Jose, Kalifornien, d\u00e9i de Konsument-zu-Konsument a Business-to-Consumer Verkaf iwwer seng Webs\u00e4it erliichtert."
+    },
+    "section6": {
+        "sTitleBefore6": "Kritt A Kontakt",
+        "sTitle6": "Kontakt\u00e9iert eis",
+        "sDesc6": "Wann Dir Froen iwwer e Produkt hutt oder all Informatioun d\u00e9i Dir braucht, z\u00e9ckt net eis ze kontakt\u00e9ieren.",
+        "firstName": "Virnumm",
+        "lastName": "Familljennumm",
+        "subject": "Sujet",
+        "email": "E-Mail",
+        "writeyourmessagehere": "Schreift \u00c4re Message hei.",
+        "sendmessage": "Message sch\u00e9cken",
+        "sendsuccess": "Message gesch\u00e9ckt <strong> erfollegr\u00e4ich <\/strong>",
+        "sendsuccess1": "Mir \u00e4ntweren sou s\u00e9ier w\u00e9i m\u00e9iglech."
+    }
+}

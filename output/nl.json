@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Word nu lid",
+        "howtojoin": "Hoe deel te nemen?",
+        "giveawaylist": "Giveaway-lijst",
+        "review": "Beoordeling",
+        "support": "Ondersteuning",
+        "contact": "Contact",
+        "aboutus": "Over ons",
+        "aboutusdesc": "General Store is het winkelcentrum van alle General Store-filialen over de hele wereld die zich bezighouden met speciale distributeurs van bekende merken.",
+        "links": "Links",
+        "subscribe": "Abonneren",
+        "subscribedesc": "Voer uw e-mailadres in als u het laatste nieuws van ons wilt ontvangen.",
+        "subscribesend": "Verzoek is <strong> succesvol <\/strong> verzonden",
+        "openregistration": "Open registratie",
+        "opening": "Opening",
+        "closing": "Sluitend",
+        "registernow": "Registreer nu",
+        "checkingregistereddata": "Geregistreerde gegevens controleren",
+        "from": "Van",
+        "to": "Naar",
+        "viewregistereddata": "Bekijk geregistreerde gegevens",
+        "visitor": "Bezoeker",
+        "copyright": "auteursrechten",
+        "allrightsreserved": "Alle rechten voorbehouden"
+    },
+    "title": "Weggevertjes",
+    "subtitle": "Schrijf u nu in om kans te maken op %s!",
+    "wordcontinue": "Doorgaan met",
+    "section1": {
+        "sTitleBefore1": "Laten we ons bij ons aansluiten",
+        "sTitle1": "Geniet van de voordelen",
+        "sDesc1": "Alleen hier kun je veel weggeefvoordelen krijgen, gemakkelijk lid worden, de beste weggeefproducten en diverse andere voordelen",
+        "item": {
+            "iconItem1": "icon-Verified_user",
+            "titleItem1": "Veilig",
+            "descItem1": "Gegarandeerde veiligheid.",
+            "iconItem2": "icon-geld",
+            "titleItem2": "Veilig geld",
+            "descItem2": "Brengt geen kosten in rekening bij het ontvangen van een weggeefactie.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Bespaar tijd",
+            "descItem3": "Krijg GiveAway in minder dan 24 uur!"
+        },
+        "timer": {
+            "timerTitle": "Gratis toegangsbonus eindigt bij:",
+            "days": "Dagen",
+            "hours": "Uren",
+            "minutes": "Minuten",
+            "seconds": "Seconden"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Weggevertjes",
+        "bDesc1": "Als u zich heeft geregistreerd, controleer dan regelmatig uw e-mail om de laatste informatie van ons te krijgen. We geven ook gratis vouchers uit om in onze winkel te winkelen. Waar wacht je op! <a href='%s' target='_blank'> Aan de slag <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Vertel het nu aan je vrienden",
+        "sTitle2": "Krijg allemaal gratis GiveAway",
+        "sDesc2": "Kies het cadeau dat je leuk vindt, je kunt ook deelnemen aan alle weggeefacties uit de lijst die we hieronder aanbieden."
+    },
+    "banner2": {
+        "bTitle2": "Gemakkelijke en eenvoudige vereisten",
+        "bDesc2": "Alleen door jezelf te registreren, kun je deelnemen aan onze winactie. Waar wacht je op! laten we jezelf nu <a href='%s' target='_blank'> registreren <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "Profiteer nu",
+        "sTitle3": "Hoe deel te nemen?",
+        "sDesc3": "Ontvang een gratis GiveAway in minder dan 24 uur! Mis deze zeldzame kans niet, het is heel eenvoudig, registreer u gewoon op onze website en vul de enqu\u00eate in (indien aanwezig), u hoeft niets te betalen. Gefeliciteerd!",
+        "step1": {
+            "sStep1": "Stap 1",
+            "ssDesc11": "Om kans te maken op de %s, hoeft u alleen maar uw accountregistratieformulier in te vullen. Om aan de slag te gaan, doet u gewoon mee aan de wedstrijd met uw e-mailadres."
+        },
+        "step2": {
+            "sStep2": "Stap 2",
+            "ssDesc21": "Nadat u bent ingelogd, heeft u de mogelijkheid om extra inzendingen te krijgen door verschillende acties te voltooien, waaronder het bezoeken van onze sociale mediakanalen.",
+            "ssDesc22": "Je hebt het recht om zoveel acties te voltooien als je wilt, elke actie biedt een uniek aantal inzendingen en elke inzending is een potenti\u00eble winnaar.",
+            "ssDesc23": "U kunt ook acties overslaan voor slechts $ 1."
+        },
+        "step3": {
+            "done": "Gedaan.",
+            "sStep3": "Stap 3",
+            "ssDesc31": "Gedaan. Wij nemen direct contact met u op op basis van het contact dat is ingevuld bij de registratie op onze site."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Geef %s op een grote manier weg.",
+        "bDesc3": "Dit evenement levert meer winnende slots op dan vorig jaar. Nodig uw vrienden en familie uit voor nog meer kansen. <a href='%s' target='_blank'> Registreer nu <\/a> voordat dit evenement begint."
+    },
+    "section4": {
+        "sTitleBefore4": "Geselecteerde beoordeling",
+        "sTitle4": "Winnaar weggeefactie",
+        "sDesc4": "Enkele recensies van winnaars van weggeefacties",
+        "theWinner": {
+            "winner": "WINNAAR",
+            "winner1": "Justin Daniel",
+            "coment1": "Bedankt voor het geld, ik hoop dat het in je winkel drukker zal zijn.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Dit is echt een beroemde GeneralStore-winkel, het pakket is succesvol ontvangen, het product is origineel en ik heb geen kosten betaald. Dank je.",
+            "winner3": "Matthew Davidson",
+            "coment3": "In eerste instantie geloofde ik het niet, maar nadat ik contact met hen had opgenomen, bleek dat het een GeneralStore was. bedankt GeneralStore voor %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Godzijdank voor het vergroten van mijn geluk, bedankt voor de weggeefactie, GeneralStore ik vind het geweldig."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Het vlotte verloop van onze evenementen en zaken",
+        "sTitle5": "Ondersteund door",
+        "sDesc5": "Onze dank voor de volledige ondersteuning die ons altijd helpt",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikaans multinationaal technologiebedrijf gevestigd in Seattle, Washington, dat zich richt op e-commerce, cloud computing, digitale streaming en kunstmatige intelligentie.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikaanse internetwinkel die voornamelijk meubelen verkoopt met het hoofdkantoor in Midvale, Utah, nabij Salt Lake City. Patrick M. Byrne richtte Overstock.com op in 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikaanse multinationale detailhandel die een keten van hypermarkten, warenhuizen met korting en supermarkten exploiteert vanuit de Verenigde Staten, met het hoofdkantoor in Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikaanse multinationale detailhandelaar in consumentenelektronica met hoofdkantoor in Richfield, Minnesota. Het werd oorspronkelijk opgericht door Richard M.Schulze en James Wheeler in 1966 als een audiospeciaalzaak genaamd Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Online detailhandel gevestigd in China, eigendom van de Alibaba Group. Het werd gelanceerd in 2010 en bestaat uit kleine bedrijven in China en andere locaties, zoals Singapore, die producten aanbieden aan internationale online kopers.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikaans multinationaal e-commercebedrijf gevestigd in San Jose, Californi\u00eb, dat de verkoop van consumenten naar consumenten en van bedrijven naar consumenten mogelijk maakt via haar website."
+    },
+    "section6": {
+        "sTitleBefore6": "Neem contact op",
+        "sTitle6": "Neem contact op",
+        "sDesc6": "Als u vragen heeft over een product of informatie die u nodig heeft, aarzel dan niet om contact met ons op te nemen.",
+        "firstName": "Voornaam",
+        "lastName": "Achternaam",
+        "subject": "Onderwerpen",
+        "email": "E-mail",
+        "writeyourmessagehere": "Schrijf je bericht hier.",
+        "sendmessage": "Bericht versturen",
+        "sendsuccess": "Bericht <strong> succesvol <\/strong> verzonden",
+        "sendsuccess1": "We zullen zo snel mogelijk reageren."
+    }
+}

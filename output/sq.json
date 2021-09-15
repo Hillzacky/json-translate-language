@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Bashkohu tani",
+        "howtojoin": "Si t\u00eb bashkohemi?",
+        "giveawaylist": "Lista e Dhuratave",
+        "review": "Rishikimi",
+        "support": "Mb\u00ebshtetje",
+        "contact": "Kontaktoni",
+        "aboutus": "Rreth Nesh",
+        "aboutusdesc": "General Store \u00ebsht\u00eb qendra e dyqaneve t\u00eb t\u00eb gjitha dyqaneve t\u00eb deg\u00ebve t\u00eb General Store n\u00eb t\u00eb gjith\u00eb bot\u00ebn e angazhuar n\u00eb shp\u00ebrndar\u00ebs t\u00eb ve\u00e7ant\u00eb t\u00eb markave t\u00eb njohura.",
+        "links": "Lidhje",
+        "subscribe": "Regjistrohu",
+        "subscribedesc": "Ju lutemi shkruani emailin tuaj n\u00ebse doni t\u00eb merrni lajmet m\u00eb t\u00eb fundit nga ne.",
+        "subscribesend": "K\u00ebrkesa u d\u00ebrgua <strong> me sukses <\/strong>",
+        "openregistration": "Regjistrimi i Hapur",
+        "opening": "Hapja",
+        "closing": "Mbyllja",
+        "registernow": "Regjistrohuni Tani",
+        "checkingregistereddata": "Kontrollimi i t\u00eb dh\u00ebnave t\u00eb regjistruara",
+        "from": "Nga",
+        "to": "P\u00ebr t\u00eb",
+        "viewregistereddata": "Shikoni t\u00eb dh\u00ebnat e regjistruara",
+        "visitor": "Vizitor",
+        "copyright": "E drejta e autorit",
+        "allrightsreserved": "T\u00eb gjitha t\u00eb drejtat e rezervuara"
+    },
+    "title": "Jepni %s",
+    "subtitle": "Regjistrohuni tani p\u00ebr nj\u00eb shans p\u00ebr t\u00eb fituar %s!",
+    "wordcontinue": "Vazhdoni",
+    "section1": {
+        "sTitleBefore1": "Le t\u00eb An\u00ebtar\u00ebsoheni",
+        "sTitle1": "Shijoni P\u00ebrfitimet",
+        "sDesc1": "Vet\u00ebm k\u00ebtu mund t\u00eb merrni shum\u00eb p\u00ebrfitime dhuruese, t\u00eb lehta p\u00ebr t'u bashkuar, produktet m\u00eb t\u00eb mira p\u00ebr dhurime dhe p\u00ebrfitime t\u00eb ndryshme t\u00eb tjera",
+        "item": {
+            "iconItem1": "ikon\u00eb-verifikuar p\u00ebrdorues",
+            "titleItem1": "T\u00eb sigurta",
+            "descItem1": "Siguria e garantuar.",
+            "iconItem2": "ikon\u00eb-para",
+            "titleItem2": "Para t\u00eb Sigurta",
+            "descItem2": "Nuk ngarkon asnj\u00eb tarif\u00eb kur merrni nj\u00eb dhurat\u00eb.",
+            "iconItem3": "ikona-akses_ alarmet",
+            "titleItem3": "Koha e Sigurt",
+            "descItem3": "Merrni GiveAway n\u00eb m\u00eb pak se 24 or\u00eb!"
+        },
+        "timer": {
+            "timerTitle": "Bonusi i hyrjes falas p\u00ebrfundon n\u00eb:",
+            "days": "Dit\u00eb",
+            "hours": "Or\u00ebt",
+            "minutes": "Procesverbalet",
+            "seconds": "Sekonda"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Jepni %s",
+        "bDesc1": "N\u00ebse jeni regjistruar, kontrolloni emailin tuaj n\u00eb m\u00ebnyr\u00eb periodike p\u00ebr t\u00eb marr\u00eb informacionin m\u00eb t\u00eb fundit nga ne. Ne gjithashtu do t\u00eb japim kupona p\u00ebr blerje n\u00eb dyqanin ton\u00eb falas. \u00c7far\u00eb po pret! <a href='%s' target='_blank'> Fillo <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Tregoju miqve tuaj tani",
+        "sTitle2": "Merrni t\u00eb gjitha GiveAway Falas",
+        "sDesc2": "Zgjidhni dhurat\u00ebn q\u00eb ju p\u00eblqen, gjithashtu mund t\u00eb merrni pjes\u00eb n\u00eb t\u00eb gjitha dhuratat nga lista q\u00eb ne ofrojm\u00eb m\u00eb posht\u00eb."
+    },
+    "banner2": {
+        "bTitle2": "K\u00ebrkesa t\u00eb thjeshta dhe t\u00eb thjeshta",
+        "bDesc2": "Vet\u00ebm duke u regjistruar vet\u00eb ju mund t\u00eb merrni pjes\u00eb n\u00eb dhurat\u00ebn ton\u00eb. \u00c7far\u00eb po pret! le t\u00eb <a href='%s' target='_blank'> Regjistrohu <\/a> veten tani."
+    },
+    "section3": {
+        "sTitleBefore3": "Merre Tani",
+        "sTitle3": "Si t\u00eb bashkohemi?",
+        "sDesc3": "Merrni nj\u00eb GiveAway falas n\u00eb m\u00eb pak se 24 or\u00eb! Mos e humbisni k\u00ebt\u00eb mund\u00ebsi t\u00eb rrall\u00eb, \u00ebsht\u00eb shum\u00eb e leht\u00eb, thjesht regjistrohuni n\u00eb faqen ton\u00eb t\u00eb internetit dhe merrni sondazhin (n\u00ebse ka), nuk keni pse t\u00eb paguani asgj\u00eb. Urime!",
+        "step1": {
+            "sStep1": "Hapi 1",
+            "ssDesc11": "P\u00ebr t\u00eb pasur nj\u00eb shans p\u00ebr t\u00eb fituar %s, gjith\u00e7ka q\u00eb duhet t\u00eb b\u00ebni \u00ebsht\u00eb t\u00eb plot\u00ebsoni formularin e regjistrimit t\u00eb llogaris\u00eb tuaj. P\u00ebr t\u00eb filluar, thjesht hyni n\u00eb konkurs me adres\u00ebn tuaj t\u00eb post\u00ebs elektronike."
+        },
+        "step2": {
+            "sStep2": "Hapi 2",
+            "ssDesc21": "Pasi t\u00eb jeni identifikuar, do t\u00eb keni mund\u00ebsin\u00eb t\u00eb merrni sh\u00ebnime shtes\u00eb duke p\u00ebrfunduar veprime t\u00eb ndryshme, p\u00ebrfshir\u00eb vizit\u00ebn n\u00eb kanalet tona t\u00eb mediave sociale.",
+            "ssDesc22": "Ju keni t\u00eb drejt\u00eb t\u00eb p\u00ebrfundoni sa m\u00eb shum\u00eb veprime q\u00eb d\u00ebshironi, secili veprim ofron nj\u00eb num\u00ebr unik t\u00eb hyrjeve dhe secila hyrje \u00ebsht\u00eb nj\u00eb fitues i mundsh\u00ebm.",
+            "ssDesc23": "Ju gjithashtu mund t\u00eb kap\u00ebrceni veprimet p\u00ebr vet\u00ebm 1 $."
+        },
+        "step3": {
+            "done": "B\u00ebr\u00eb",
+            "sStep3": "Hapi 3",
+            "ssDesc31": "B\u00ebr\u00eb Ne do t'ju kontaktojm\u00eb menj\u00ebher\u00eb bazuar n\u00eb kontaktin q\u00eb u plot\u00ebsua n\u00eb koh\u00ebn e regjistrimit n\u00eb faqen ton\u00eb."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Jepni %s n\u00eb nj\u00eb m\u00ebnyr\u00eb t\u00eb madhe.",
+        "bDesc3": "Kjo ngjarje ofron m\u00eb shum\u00eb loj\u00ebra elektronike fituese se vitin e kaluar. Ftojini miqt\u00eb dhe familjen tuaj p\u00ebr mund\u00ebsi edhe m\u00eb t\u00eb m\u00ebdha. <a href='%s' target='_blank'> Regjistrohuni tani <\/a> para se t\u00eb filloj\u00eb kjo ngjarje."
+    },
+    "section4": {
+        "sTitleBefore4": "Vler\u00ebsimi i zgjedhur",
+        "sTitle4": "Dhurata Fituesi",
+        "sDesc4": "Disa vler\u00ebsime t\u00eb fituesve t\u00eb dhuratave",
+        "theWinner": {
+            "winner": "FITUES",
+            "winner1": "Justin Daniel",
+            "coment1": "Faleminderit p\u00ebr Cash, shpresoj q\u00eb dyqani juaj t\u00eb jet\u00eb m\u00eb i mbushur me njer\u00ebz.",
+            "winner2": "Xhesika Vanheln",
+            "coment2": "Ky \u00ebsht\u00eb me t\u00eb v\u00ebrtet\u00eb nj\u00eb dyqan i famsh\u00ebm i GeneralStore, paketa ishte e suksesshme q\u00eb mora, Produkti \u00ebsht\u00eb origjinal dhe nuk paguaja asnj\u00eb tarif\u00eb. Faleminderit.",
+            "winner3": "Matthew Davidson",
+            "coment3": "N\u00eb fillim nuk e besova, por pasi i kontaktova doli q\u00eb ishte nj\u00eb GeneralStore. faleminderit GeneralStore p\u00ebr %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Faleminderit zotit p\u00ebr rritjen e fatit tim, faleminderit p\u00ebr dhurat\u00ebn, GeneralStore e dua."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Ecuria e qet\u00eb e ngjarjeve dhe biznesit ton\u00eb",
+        "sTitle5": "Mbeshtetur nga",
+        "sDesc5": "Faleminderit p\u00ebr mb\u00ebshtetjen e plot\u00eb q\u00eb gjithmon\u00eb na ndihmon",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Kompania shum\u00ebkomb\u00ebshe e teknologjis\u00eb amerikane me seli n\u00eb Seattle, Washington, e cila p\u00ebrqendrohet n\u00eb tregtin\u00eb elektronike, kompjuterin n\u00eb re, transmetimin dixhital dhe inteligjenc\u00ebn artificiale.",
+        "tSupport2": "Mbingarkesa.com",
+        "dSupport2": "Shit\u00ebsi me pakic\u00eb i internetit amerikan q\u00eb shet kryesisht mobilje me seli n\u00eb Midvale, Utah, af\u00ebr Salt Lake City. Patrick M. Byrne themeloi Overstock.com n\u00eb 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Korporat\u00eb amerikane shum\u00ebkomb\u00ebshe me pakic\u00eb q\u00eb operon nj\u00eb zinxhir hipermarketesh, departamentesh zbritjesh dyqanesh dhe dyqane ushqimore nga Shtetet e Bashkuara, me seli n\u00eb Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Shit\u00ebs me pakic\u00eb elektronike t\u00eb konsumit elektronik amerikan me seli n\u00eb Richfield, Minesota. Fillimisht u themelua nga Richard M. Schulze dhe James Wheeler n\u00eb 1966 si nj\u00eb dyqan specialiteti audio i quajtur Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Sh\u00ebrbim me pakic\u00eb n\u00eb internet me seli n\u00eb Kin\u00eb n\u00eb pron\u00ebsi t\u00eb Grupit Alibaba. Nisur n\u00eb 2010, p\u00ebrb\u00ebhet nga biznese t\u00eb vogla n\u00eb Kin\u00eb dhe vende t\u00eb tjera, t\u00eb tilla si Singapori, q\u00eb ofrojn\u00eb produkte p\u00ebr bler\u00ebsit nd\u00ebrkomb\u00ebtar\u00eb n\u00eb internet.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Korporat\u00eb shum\u00ebkomb\u00ebshe e tregtis\u00eb elektronike me baz\u00eb n\u00eb San Jose, California, q\u00eb leht\u00ebson shitjet nga konsumatori n\u00eb konsumator dhe biznesi nga konsumatori p\u00ebrmes faqes s\u00eb saj t\u00eb internetit."
+    },
+    "section6": {
+        "sTitleBefore6": "Merrni kontakt",
+        "sTitle6": "Na kontaktoni",
+        "sDesc6": "N\u00ebse keni ndonj\u00eb pyetje n\u00eb lidhje me nj\u00eb produkt, ose ndonj\u00eb informacion q\u00eb ju nevojitet, mos hezitoni t\u00eb na kontaktoni.",
+        "firstName": "Emri",
+        "lastName": "Mbiemri",
+        "subject": "L\u00ebnda",
+        "email": "Email",
+        "writeyourmessagehere": "Shkruaj mesazhin tuaj k\u00ebtu.",
+        "sendmessage": "D\u00ebrgoni mesazh",
+        "sendsuccess": "Mesazhi u d\u00ebrgua <strong> me sukses <\/strong>",
+        "sendsuccess1": "Ne do t\u00eb p\u00ebrgjigjemi sa m\u00eb shpejt t\u00eb jet\u00eb e mundur."
+    }
+}

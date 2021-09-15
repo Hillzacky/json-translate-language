@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Prisijunk dabar",
+        "howtojoin": "Kaip prisijungti?",
+        "giveawaylist": "Dovan\u0173 s\u0105ra\u0161as",
+        "review": "Ap\u017evalga",
+        "support": "Parama",
+        "contact": "kontaktas",
+        "aboutus": "Apie mus",
+        "aboutusdesc": "\u201eGeneral Store\u201c yra vis\u0173 \u201eGeneral Store\u201c filial\u0173 parduotuvi\u0173 centras visame pasaulyje, u\u017esiimantis specialiais \u017einom\u0173 preki\u0173 \u017eenkl\u0173 platintojais.",
+        "links": "Nuorodos",
+        "subscribe": "Prenumeruoti",
+        "subscribedesc": "\u012eveskite savo el. Pa\u0161to adres\u0105, jei norite gauti naujausias naujienas i\u0161 m\u016bs\u0173.",
+        "subscribesend": "U\u017eklausa i\u0161si\u0173sta <strong> s\u0117kmingai <\/strong>",
+        "openregistration": "Atidarykite registracij\u0105",
+        "opening": "Atidarymas",
+        "closing": "U\u017edarymas",
+        "registernow": "Registruokis dabar",
+        "checkingregistereddata": "Registruot\u0173 duomen\u0173 tikrinimas",
+        "from": "Nuo",
+        "to": "\u012e",
+        "viewregistereddata": "Per\u017ei\u016br\u0117kite u\u017eregistruotus duomenis",
+        "visitor": "Lankytojas",
+        "copyright": "Autori\u0173 teis\u0117s",
+        "allrightsreserved": "Visos teis\u0117s saugomos"
+    },
+    "title": "Atiduokite %s",
+    "subtitle": "Prisiregistruokite ir gaukite prog\u0105 laim\u0117ti %s!",
+    "wordcontinue": "T\u0119sti",
+    "section1": {
+        "sTitleBefore1": "Prisijunkime prie m\u016bs\u0173",
+        "sTitle1": "M\u0117gaukit\u0117s prana\u0161umais",
+        "sDesc1": "Tik \u010dia galite gauti daug dovanojam\u0173 privalum\u0173, kuriuos lengva prisijungti, geriausius produktus ir \u012fvairius kitus privalumus",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Saugus",
+            "descItem1": "Garantuotas saugumas.",
+            "iconItem2": "piktograma-pinigai",
+            "titleItem2": "Saug\u016bs pinigai",
+            "descItem2": "Negauna joki\u0173 mokes\u010di\u0173, kai gauna dovan\u0105.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Saugus laikas",
+            "descItem3": "Gaukite dovan\u0173 per ma\u017eiau nei 24 valandas!"
+        },
+        "timer": {
+            "timerTitle": "Nemokamo \u012f\u0117jimo premija baigiasi:",
+            "days": "Dienos",
+            "hours": "Valandos",
+            "minutes": "Protokolas",
+            "seconds": "Sekund\u0117s"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Atiduokite %s",
+        "bDesc1": "Jei u\u017esiregistravote, periodi\u0161kai tikrinkite savo el. Pa\u0161t\u0105, kad gautum\u0117te naujausi\u0105 informacij\u0105 i\u0161 m\u016bs\u0173. Taip pat nemokamai i\u0161duosime \u010dekius apsipirkti m\u016bs\u0173 parduotuv\u0117je. Ko lauki! <a href='%s' target='_blank'> Prad\u0117kite <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Pasakykite savo draugams dabar",
+        "sTitle2": "Gaukite vis\u0105 nemokam\u0105 dovan\u0105",
+        "sDesc2": "Pasirinkite dovan\u0105, kuri jums patinka, taip pat galite dalyvauti visose dovanose i\u0161 s\u0105ra\u0161o, kur\u012f pateikiame \u017eemiau."
+    },
+    "banner2": {
+        "bTitle2": "Lengvi ir paprasti reikalavimai",
+        "bDesc2": "Tik u\u017esiregistrav\u0119 patys galite dalyvauti m\u016bs\u0173 dovanose. Ko lauki! dabar <a href='%s' target='_blank'> u\u017esiregistruokime <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "Gauk Tai dabar",
+        "sTitle3": "Kaip prisijungti?",
+        "sDesc3": "Gaukite nemokam\u0105 dovan\u0105 per ma\u017eiau nei 24 valandas! Nepraleiskite \u0161ios retos galimyb\u0117s, tai labai lengva, tiesiog u\u017esiregistruokite m\u016bs\u0173 svetain\u0117je ir dalyvaukite apklausoje (jei yra), jums nieko nereikia mok\u0117ti. Sveikiname!",
+        "step1": {
+            "sStep1": "1 \u017eingsnis",
+            "ssDesc11": "Nor\u0117dami gauti galimyb\u0119 laim\u0117ti \u201e %s\u201c, tereikia u\u017epildyti paskyros registracijos form\u0105. Nor\u0117dami prad\u0117ti, tiesiog dalyvaukite konkurse naudodami savo el. Pa\u0161to adres\u0105."
+        },
+        "step2": {
+            "sStep2": "2 \u017eingsnis",
+            "ssDesc21": "Kai b\u016bsite prisijung\u0119, tur\u0117site galimyb\u0119 gauti papildom\u0173 \u012fra\u0161\u0173 atlikdami \u012fvairius veiksmus, \u012fskaitant apsilankym\u0105 m\u016bs\u0173 socialin\u0117s \u017einiasklaidos kanaluose.",
+            "ssDesc22": "J\u016bs turite teis\u0119 atlikti tiek veiksm\u0173, kiek norite, kiekvienas veiksmas si\u016blo unikal\u0173 \u012fra\u0161\u0173 skai\u010di\u0173 ir kiekvienas \u012fra\u0161as yra potencialus nugal\u0117tojas.",
+            "ssDesc23": "Taip pat galite praleisti veiksmus tik u\u017e 1 USD."
+        },
+        "step3": {
+            "done": "Padaryta.",
+            "sStep3": "3 \u017eingsnis",
+            "ssDesc31": "Padaryta. Mes nedelsdami susisieksime su jumis, remdamiesi kontaktu, kuris buvo u\u017epildytas registruojantis m\u016bs\u0173 svetain\u0117je."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Padovanok %s dideliu b\u016bdu.",
+        "bDesc3": "\u0160is renginys suteikia daugiau galimybi\u0173 laim\u0117ti nei pernai. Pakvieskite savo draugus ir \u0161eim\u0105, kad gautum\u0117te dar daugiau galimybi\u0173. Prie\u0161 prasidedant \u0161iam \u012fvykiui, <a href='%s' target='_blank'> u\u017esiregistruokite dabar <\/a>."
+    },
+    "section4": {
+        "sTitleBefore4": "Pasirinktas vertinimas",
+        "sTitle4": "Dovan\u0173 nugal\u0117tojas",
+        "sDesc4": "Keletas dovan\u0173 laim\u0117toj\u0173 ap\u017evalg\u0173",
+        "theWinner": {
+            "winner": "Nugal\u0117tojas",
+            "winner1": "Justinas Danielius",
+            "coment1": "D\u0117koju u\u017e grynuosius pinigus, tikiuosi, kad j\u016bs\u0173 parduotuv\u0117je bus daugiau \u017emoni\u0173.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Tai tikrai garsi \u201eGeneralStore\u201c parduotuv\u0117, pakuot\u0119 s\u0117kmingai gavau, produktas yra originalus ir nemok\u0117jau joki\u0173 mokes\u010di\u0173. A\u010di\u016b.",
+            "winner3": "Matthew Davidsonas",
+            "coment3": "I\u0161 prad\u017ei\u0173 netik\u0117jau, bet susisiekus su jais paai\u0161k\u0117jo, kad tai \u201eGeneralStore\u201c. a\u010di\u016b \u201eGeneralStore\u201c u\u017e %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "A\u010di\u016b dievui, kad padidino mano s\u0117km\u0119, a\u010di\u016b u\u017e dovan\u0105, \u201eGeneralStore\u201c man tai patinka."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Sklandi m\u016bs\u0173 rengini\u0173 ir verslo eiga",
+        "sTitle5": "Palaik\u0117",
+        "sDesc5": "D\u0117kojame u\u017e visapusi\u0161k\u0105 palaikym\u0105, kuris mums visada padeda",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerikos tarptautin\u0117 technologij\u0173 \u012fmon\u0117, \u012fsik\u016brusi Sietle, Va\u0161ingtone, orientuota \u012f elektronin\u0119 komercij\u0105, debes\u0173 kompiuterij\u0105, skaitmenin\u012f sraut\u0105 ir dirbtin\u012f intelekt\u0105.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerikos interneto ma\u017emenininkas, kurio pagrindin\u0117 b\u016bstin\u0117 yra Midvale, Jutoje, netoli Solt Leik Si\u010dio. Patrickas M. Byrne'as \u012fk\u016br\u0117 \u201eOverstock.com\u201c 1999 m.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikos tarptautin\u0117 ma\u017emenin\u0117s prekybos korporacija, valdanti did\u017ei\u0173j\u0173 prekybos centr\u0173, universalini\u0173 parduotuvi\u0173 ir maisto preki\u0173 parduotuvi\u0173 tinkl\u0105 i\u0161 Jungtini\u0173 Amerikos Valstij\u0173, kurios b\u016bstin\u0117 yra Bentonvilyje, Arkanzaso valstijoje.",
+        "tSupport4": "\u201eBestBuy.com\u201c",
+        "dSupport4": "Amerikos daugia\u0161alis plataus vartojimo elektronikos ma\u017emenininkas, kurio b\u016bstin\u0117 yra Ri\u010dfilde, Minesotoje. I\u0161 prad\u017ei\u0173 j\u0105 \u012fk\u016br\u0117 Richardas M. Schulze'as ir Jamesas Wheeleris 1966 m. Kaip garso \u012fra\u0161\u0173 parduotuv\u0119 \u201eSound of Music\u201c.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Kinijoje \u012fsik\u016brusi internetin\u0117 ma\u017emenin\u0117s prekybos paslauga, priklausanti \u201eAlibaba\u201c grupei. \u012ekurta 2010 m., J\u0105 sudaro ma\u017eos \u012fmon\u0117s Kinijoje ir kitose vietose, pavyzd\u017eiui, Singap\u016bre, kurios si\u016blo produktus tarptautiniams internetiniams pirk\u0117jams.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikos tarptautin\u0117 elektronin\u0117s prekybos korporacija, \u012fsik\u016brusi San Chos\u0117je, Kalifornijoje, kuri savo svetain\u0117je palengvina pardavimus vartotojams ir vartotojams."
+    },
+    "section6": {
+        "sTitleBefore6": "Susisiekti",
+        "sTitle6": "Susisiekite su mumis",
+        "sDesc6": "Jei turite klausim\u0173 d\u0117l produkto ar bet kokios reikalingos informacijos, nedvejodami susisiekite su mumis.",
+        "firstName": "Pirmas vardas",
+        "lastName": "Pavard\u0117",
+        "subject": "Tema",
+        "email": "El",
+        "writeyourmessagehere": "Para\u0161ykite savo \u017einut\u0119 \u010dia.",
+        "sendmessage": "Si\u0173sti \u017einut\u0119",
+        "sendsuccess": "Prane\u0161imas i\u0161si\u0173stas <strong> s\u0117kmingai <\/strong>",
+        "sendsuccess1": "Mes atsakysime kuo grei\u010diau."
+    }
+}

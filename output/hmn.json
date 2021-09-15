@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Koom Nrog Tam Sim No",
+        "howtojoin": "Yuav Koom Tes Li Cas?",
+        "giveawaylist": "Muab Daim Ntawv Teev Npe",
+        "review": "Ntsuam Xyuas",
+        "support": "Txhawb nqa",
+        "contact": "Sib cuag",
+        "aboutus": "Hais Txog Peb",
+        "aboutusdesc": "Cov Khw Muag Khoom Loj yog lub khw muag khoom ntawm Txhua Lub Khw Muag Khoom Feem Ceg thoob ntiaj teb koom nrog cov neeg xa khoom tshwj xeeb ntawm cov npe nrov.",
+        "links": "Txuas",
+        "subscribe": "Sau npe yuav ua",
+        "subscribedesc": "Thov sau koj tus email yog tias koj xav tau txais cov xov xwm tshiab ntawm peb.",
+        "subscribesend": "Thov xa mus <strong> kom tiav <\/strong>",
+        "openregistration": "Qhib Rau Npe",
+        "opening": "Qhib",
+        "closing": "Kaw",
+        "registernow": "Sau Npe Tam Sim No",
+        "checkingregistereddata": "Xyuas cov ntaub ntawv sau npe",
+        "from": "Ntawm",
+        "to": "Rau",
+        "viewregistereddata": "Saib cov ntaub ntawv sau npe",
+        "visitor": "Qhua",
+        "copyright": "Copyright",
+        "allrightsreserved": "Qoob loo"
+    },
+    "title": "Muab Tawm %s",
+    "subtitle": "Sau npe tam sim no kom muaj kev yeej %s!",
+    "wordcontinue": "Txuas ntxiv mus",
+    "section1": {
+        "sTitleBefore1": "Tuaj Koom Nrog Peb",
+        "sTitle1": "Txaus Siab Rau Cov Txiaj Ntsig",
+        "sDesc1": "Tsuas yog nyob ntawm no koj tuaj yeem tau txais ntau yam muab cov txiaj ntsig, yooj yim los koom, qhov zoo tshaj plaws muab cov khoom lag luam thiab ntau lwm yam txiaj ntsig",
+        "item": {
+            "iconItem1": "lub icon-verified_user",
+            "titleItem1": "Luag Zoo",
+            "descItem1": "Kev Nyab Xeeb Ruaj Ntseg.",
+            "iconItem2": "lub ntsiab-nyiaj",
+            "titleItem2": "Kev Nyab Xeeb Nyiaj",
+            "descItem2": "Tsis tsub nqi dab tsi thaum tau txais khoom plig.",
+            "iconItem3": "lub icon-access_alarms",
+            "titleItem3": "Lub Sij Hawm Muaj Kev Nyab Xeeb",
+            "descItem3": "Tau GiveAway nyob hauv tsawg dua 24 teev!"
+        },
+        "timer": {
+            "timerTitle": "Dawb nkag pub dawb tas rau thaum:",
+            "days": "Hnub",
+            "hours": "Sijhawm",
+            "minutes": "Feeb",
+            "seconds": "Thib Ob"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Muab Tawm %s",
+        "bDesc1": "Yog tias koj tau sau npe, txheeb xyuas koj tus email kom tsis tu ncua kom tau txais cov ntaub ntawv tshiab los ntawm peb. Peb tseem yuav muab cov vouchers coj mus yuav khoom tom peb lub khw dawb. Dab tsi yog koj tos! <a href='%s' target='_blank'> Pib Ua <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Qhia rau koj cov phooj ywg tam sim no",
+        "sTitle2": "Tau Txais Pub Dawb Tag Nrho GiveAway",
+        "sDesc2": "Xaiv cov khoom plig uas koj nyiam, koj tuaj yeem koom nrog txhua tus neeg muab khoom los ntawm cov npe uas peb muab rau hauv qab no."
+    },
+    "banner2": {
+        "bTitle2": "Yooj Yim thiab Yooj Yim Kom Yuav",
+        "bDesc2": "Tsuas yog los ntawm kev sau npe koj tus kheej koj tuaj yeem koom nrog hauv peb cov giveaway. Dab tsi yog koj tos! cia <a href='%s' target='_blank'> Sau Npe <\/a> koj tus kheej tam sim no."
+    },
+    "section3": {
+        "sTitleBefore3": "Tau Txais Tam Sim No",
+        "sTitle3": "Yuav Koom Tes Li Cas?",
+        "sDesc3": "Tau txais GiveAway dawb hauv tsawg dua 24 teev! Tsis txhob nco lub sijhawm tsawg tsawg, nws yooj yim heev, cia li sau npe hauv peb lub vev xaib thiab ua daim ntawv tshuaj ntsuam (yog tias muaj), koj tsis tas yuav them dab tsi. Pab kev zoo siab!",
+        "step1": {
+            "sStep1": "Kauj ruam 1",
+            "ssDesc11": "Txhawm rau kom muaj txoj hmoo los yeej %s, txhua yam koj yuav tsum ua yog sau koj daim ntawv rau npe nkag. Txhawm rau pib, cia li nkag mus hauv kev sib tw nrog koj qhov chaw nyob email."
+        },
+        "step2": {
+            "sStep2": "Kauj ruam 2",
+            "ssDesc21": "Thaum koj nkag mus rau hauv lawm, koj yuav muaj sijhawm los tau txais kev nkag ntxiv los ntawm kev ua tiav ntau yam, suav nrog kev mus saib peb lub vev xaib kev sib raug zoo.",
+            "ssDesc22": "Koj muaj txoj cai ua kom tiav ntau yam raws li koj nyiam, txhua qhov kev ua muaj cov lej tshwj xeeb ntawm kev nkag thiab txhua qhov nkag yog lub yeej.",
+            "ssDesc23": "Koj tuaj yeem tuaj yeem hla kev nqis tes tsuas yog $ 1."
+        },
+        "step3": {
+            "done": "Ua li cas.",
+            "sStep3": "Kauj ruam 3",
+            "ssDesc31": "Ua li cas. Peb yuav hu rau koj tam sim ntawd raws li kev tiv tauj uas tau sau rau lub sijhawm sau npe ntawm peb lub xaib."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Muab Tawm deb %s hauv txoj kev loj.",
+        "bDesc3": "Qhov kev tshwm sim no muab ntau qhov kev sib tw ntau dua li xyoo tas los. Caw koj cov phooj ywg thiab tsev neeg rau lub caij nyoog zoo dua. <a href='%s' target='_blank'> Sau npe tam sim no <\/a> ua ntej qhov xwm txheej no pib."
+    },
+    "section4": {
+        "sTitleBefore4": "Xaiv kev ntsuas",
+        "sTitle4": "Muab Dab Neeg Sib Tw",
+        "sDesc4": "Qee qhov kev txheeb xyuas ntawm cov neeg muab khoom plig",
+        "theWinner": {
+            "winner": "KHIAV",
+            "winner1": "Justin Daniel",
+            "coment1": "Ua tsaug rau Nyiaj, Kuv vam tias koj lub khw yuav coob ntxiv.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Qhov no yog tiag tiag hauv khw GeneralStore nto moo, pob tau tiav Kuv tau txais, Khoom lag luam yog qhov qub, thiab kuv tsis tau them nqi dabtsi. Ua tsaug rau koj.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Thaum xub thawj kuv tsis ntseeg nws, tab sis tom qab kuv tau hu lawv nws muab tawm tias nws yog GeneralStore. ua tsaug rau GeneralStore rau %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Ua tsaug rau vaj tswv rau nce kuv txoj hmoov, ua tsaug rau giveaway, GeneralStore Kuv hlub nws."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Tus khiav ntawm peb cov xwm txheej & kev lag luam",
+        "sTitle5": "Txhawb los ntawm",
+        "sDesc5": "Peb ua tsaug rau tag nrho cov kev txhawb nqa uas ib txwm pab peb",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Asmeskas cov tuam txhab thev naus laus zis ntau lub tuam txhab nyob hauv Seattle, Washington, uas yog tsom rau kev lag luam e-luam, huab lag luam, digital streaming, thiab kev txawj ntse.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Cov neeg muag khoom Asmeskas muag ntxig muag feem ntau yog cov rooj tog zaum hauv Midvale, Utah, ze rau Salt Lake City. Patrick M. Byrne tsim tsa Overstock.com xyoo 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Miskas muaj ntau lub chaw muag khoom lag luam uas muaj kev ua haujlwm ntawm cov khw muag khoom hypermarkets, cov khw muag khoom pheej yig, thiab cov khw muag khoom noj khoom haus los ntawm Asmeskas, cov neeg ua haujlwm nyob hauv Bentonville, Arkansas.",
+        "tSupport4": "ZooBuy.com",
+        "dSupport4": "Cov khw muag khoom siv hluav taws xob ntau thoob ntiaj teb Asmeskas muaj peev xwm nyob hauv Richfield, Minnesota. Nws tau tsim tsa los ntawm Richard M. Schulze thiab James Wheeler xyoo 1966 ua lub khw tshwj xeeb hauv suab hu ua Suab Nkauj.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Cov khw muag khoom online raws li nyob rau hauv Suav teb yog los ntawm Alibaba Group. Tua tawm xyoo 2010, nws yog tsim los ntawm cov lag luam me hauv Suav thiab lwm qhov chaw, xws li Singapore, uas muab cov khoom lag luam rau cov neeg yuav online thoob ntiaj teb.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "American kev koom tes ua lag luam e-lag luam nyob hauv San Jose, California, uas saib xyuas cov neeg siv nyiaj-rau-siv thiab lag luam-rau-cov neeg siv khoom muag muag los ntawm nws lub vev xaib."
+    },
+    "section6": {
+        "sTitleBefore6": "Tau Dhuav",
+        "sTitle6": "Tiv Tauj Peb",
+        "sDesc6": "Yog tias koj muaj lus nug txog cov khoom lag luam, lossis cov ntaub ntawv koj xav tau, thov tsis txhob yig tiv tauj peb.",
+        "firstName": "Lub Npe",
+        "lastName": "Lub Xeem",
+        "subject": "Cov Ntsiab Lus",
+        "email": "Email",
+        "writeyourmessagehere": "Sau koj cov lus ntawm no.",
+        "sendmessage": "Xa Xov",
+        "sendsuccess": "Lus xa ntawv <strong> ua tiav <\/strong>",
+        "sendsuccess1": "Peb yuav teb koj sai li sai tau"
+    }
+}

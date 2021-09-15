@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Sumali ka na",
+        "howtojoin": "Paano Sumali?",
+        "giveawaylist": "Listahan ng Giveaway",
+        "review": "Pagsusuri",
+        "support": "Suporta",
+        "contact": "Makipag-ugnay",
+        "aboutus": "Tungkol sa atin",
+        "aboutusdesc": "Ang General Store ay ang sentro ng tindahan ng lahat ng mga tindahan ng sangay ng General Store sa buong mundo na nakikibahagi sa mga espesyal na namamahagi ng mga kilalang tatak.",
+        "links": "Mga link",
+        "subscribe": "Mag-subscribe",
+        "subscribedesc": "Mangyaring ipasok ang iyong email kung nais mong makatanggap ng pinakabagong balita mula sa amin.",
+        "subscribesend": "Matagumpay na naipadala ang kahilingan <strong>",
+        "openregistration": "Buksan ang Rehistro",
+        "opening": "Pagbubukas",
+        "closing": "Pagsara",
+        "registernow": "Mag-rehistro na ngayon",
+        "checkingregistereddata": "Sinusuri ang nakarehistrong data",
+        "from": "Mula sa",
+        "to": "Sa",
+        "viewregistereddata": "Tingnan ang nakarehistrong data",
+        "visitor": "Bisita",
+        "copyright": "Copyright",
+        "allrightsreserved": "Nakalaan ang lahat ng mga karapatan"
+    },
+    "title": "Bigyan Away %s",
+    "subtitle": "Mag-sign up ngayon para sa isang pagkakataong manalo ng %s!",
+    "wordcontinue": "Magpatuloy",
+    "section1": {
+        "sTitleBefore1": "Sumali Tayo sa Amin",
+        "sTitle1": "Masiyahan sa Mga Pakinabang",
+        "sDesc1": "Dito lamang makakakuha ka ng maraming nagbibigay ng mga benepisyo, madaling sumali, ang pinakamahusay na magbigay ng mga produkto at iba`t ibang mga benepisyo",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Ligtas",
+            "descItem1": "Garantisadong Seguridad.",
+            "iconItem2": "icon-pera",
+            "titleItem2": "Ligtas na Pera",
+            "descItem2": "Hindi naniningil ng anumang bayarin kapag tumatanggap ng isang giveaway.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Ligtas na Oras",
+            "descItem3": "Kunin ang GiveAway nang mas mababa sa 24 na oras!"
+        },
+        "timer": {
+            "timerTitle": "Nagtatapos ang libreng entry bonus sa:",
+            "days": "Araw",
+            "hours": "Mga oras",
+            "minutes": "Minuto",
+            "seconds": "Segundo"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Bigyan Away %s",
+        "bDesc1": "Kung nakarehistro ka, suriin ang iyong email pana-panahon upang makuha ang pinakabagong impormasyon mula sa amin. Magbibigay din kami ng mga voucher para sa pamimili sa aming tindahan nang libre. Ano pa ang hinihintay mo! <a href='%s' target='_blank'> Magsimula <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Sabihin sa iyong mga kaibigan ngayon",
+        "sTitle2": "Kunin ang Lahat ng Libreng GiveAway",
+        "sDesc2": "Piliin ang regalong nais mo, maaari ka ring makilahok sa lahat ng giveaway mula sa listahan na ibinibigay namin sa ibaba."
+    },
+    "banner2": {
+        "bTitle2": "Madali at Simpleng Mga Kinakailangan",
+        "bDesc2": "Sa pamamagitan lamang ng pagrehistro ng iyong sarili maaari kang makilahok sa aming giveaway. Ano pa ang hinihintay mo! <a href='%s' target='_blank'> Magrehistro <\/a> sa iyong sarili ngayon din."
+    },
+    "section3": {
+        "sTitleBefore3": "Kunin Ito Ngayon",
+        "sTitle3": "Paano sumali?",
+        "sDesc3": "Kumuha ng isang libreng GiveAway nang mas mababa sa 24 na oras! Huwag palalampasin ang bihirang opurtunidad na ito, napakadali, magrehistro lamang sa aming website at gawin ang survey (kung mayroon man), wala kang babayaran. Binabati kita!",
+        "step1": {
+            "sStep1": "Hakbang 1",
+            "ssDesc11": "Upang makakuha ng pagkakataong manalo sa %s, ang kailangan mo lang gawin ay punan ang iyong form sa pagpaparehistro ng account. Upang makapagsimula, ipasok lamang ang paligsahan gamit ang iyong email address."
+        },
+        "step2": {
+            "sStep2": "Hakbang 2",
+            "ssDesc21": "Kapag naka-log in ka, magkakaroon ka ng pagkakataon na makakuha ng karagdagang mga entry sa pamamagitan ng pagkumpleto ng iba't ibang mga aksyon, kabilang ang pagbisita sa aming mga channel sa social media.",
+            "ssDesc22": "Karapat-dapat kang kumpletuhin ang maraming mga aksyon hangga't gusto mo, ang bawat aksyon ay nag-aalok ng isang natatanging bilang ng mga entry at ang bawat entry ay isang potensyal na nagwagi.",
+            "ssDesc23": "Maaari mo ring laktawan ang mga aksyon sa halagang $ 1 lamang."
+        },
+        "step3": {
+            "done": "Tapos na.",
+            "sStep3": "Hakbang 3",
+            "ssDesc31": "Tapos na. Makikipag-ugnay ka agad sa iyo batay sa contact na napunan sa oras ng pagpaparehistro sa aming site."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Bigyan ang %s sa isang Malaking paraan.",
+        "bDesc3": "Ang kaganapang ito ay nagbibigay ng higit pang mga panalong puwang kaysa sa nakaraang taon. Anyayahan ang iyong mga kaibigan at pamilya para sa higit na maraming mga pagkakataon. <a href='%s' target='_blank'> Magrehistro ngayon <\/a> bago magsimula ang kaganapang ito."
+    },
+    "section4": {
+        "sTitleBefore4": "Napiling pagtatasa",
+        "sTitle4": "Nagwagi ng Giveaway",
+        "sDesc4": "Ang ilang mga pagsusuri ng mga nagwagi ng giveaway",
+        "theWinner": {
+            "winner": "PANALO",
+            "winner1": "Justin Daniel",
+            "coment1": "Salamat sa Cash, sana mas masikip ang iyong tindahan.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Ito ay talagang isang tanyag na tindahan ng GeneralStore, matagumpay na natanggap ang pakete, orihinal ang produkto, at hindi ako nagbayad ng anumang bayarin. Salamat.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Sa una hindi ako naniniwala, ngunit pagkatapos kong makipag-ugnay sa kanila ito ay naging isang GeneralStore. salamat sa GeneralStore para sa %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Salamat sa diyos para sa pagdaragdag ng aking kapalaran, salamat sa giveaway, GeneralStore mahal ko ito."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Ang maayos na pagpapatakbo ng aming mga kaganapan at negosyo",
+        "sTitle5": "Sinuportahan ni",
+        "sDesc5": "Ang aming pasasalamat sa buong suporta na laging tumutulong sa amin",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Ang kumpanya ng teknolohiyang multinasyunal na Amerikano na nakabase sa Seattle, Washington, na nakatuon sa e-commerce, cloud computing, digital streaming, at artipisyal na intelihensiya.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Ang tagatingi ng internet sa Amerika na nagbebenta ng pangunahing kasangkapan sa bahay na matatagpuan sa Midvale, Utah, malapit sa Lungsod ng Salt Lake. Itinatag ni Patrick M. Byrne ang Overstock.com noong 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ang American multinational retail corporation na nagpapatakbo ng isang kadena ng hypermarket, mga department store na may diskwento, at mga grocery store mula sa Estados Unidos, na ang punong-tanggapan ng Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Ang Amerikanong multinasyunal na tagatingi ng electronics ng mamimili ay matatagpuan sa Richfield, Minnesota. Orihinal na itinatag ito nina Richard M. Schulze at James Wheeler noong 1966 bilang isang audio specialty store na tinatawag na Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Serbisyo sa tingian sa online na nakabase sa Tsina na pag-aari ng Alibaba Group. Inilunsad noong 2010, binubuo ito ng maliliit na negosyo sa Tsina at iba pang mga lokasyon, tulad ng Singapore, na nag-aalok ng mga produkto sa mga internasyonal na online na mamimili.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Ang American multinational e-commerce corporation na nakabase sa San Jose, California, na nagpapadali sa mga consumer-to-consumer at negosyo-to-consumer na mga benta sa pamamagitan ng website nito."
+    },
+    "section6": {
+        "sTitleBefore6": "Makipag-ugnayan",
+        "sTitle6": "Makipag-ugnayan sa amin",
+        "sDesc6": "Kung mayroon kang anumang mga katanungan tungkol sa isang produkto, o anumang impormasyon na kailangan mo, mangyaring huwag mag-atubiling makipag-ugnay sa amin.",
+        "firstName": "Pangalan",
+        "lastName": "Huling pangalan",
+        "subject": "Paksa",
+        "email": "Email",
+        "writeyourmessagehere": "Isulat ang iyong mensahe dito.",
+        "sendmessage": "Magpadala ng Mensahe",
+        "sendsuccess": "Matagumpay na naipadala ang mensahe <\/strong>",
+        "sendsuccess1": "Tutugon kami sa lalong madaling panahon."
+    }
+}

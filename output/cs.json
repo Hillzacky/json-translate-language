@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "P\u0159idej se te\u010f",
+        "howtojoin": "Jak se p\u0159ipojit?",
+        "giveawaylist": "Seznam prozrazen\u00ed",
+        "review": "Posouzen\u00ed",
+        "support": "Podp\u011bra, podpora",
+        "contact": "Kontakt",
+        "aboutus": "O n\u00e1s",
+        "aboutusdesc": "General Store je obchodn\u00edm centrem v\u0161ech pobo\u010dek General Store po cel\u00e9m sv\u011bt\u011b zab\u00fdvaj\u00edc\u00edch se speci\u00e1ln\u00edmi distributory zn\u00e1m\u00fdch zna\u010dek.",
+        "links": "Odkazy",
+        "subscribe": "p\u0159edplatit",
+        "subscribedesc": "Zadejte sv\u016fj e-mail, pokud chcete od n\u00e1s dost\u00e1vat nejnov\u011bj\u0161\u00ed zpr\u00e1vy.",
+        "subscribesend": "Po\u017eadavek odesl\u00e1n <strong> \u00fasp\u011b\u0161n\u011b <\/strong>",
+        "openregistration": "Otev\u0159ete registraci",
+        "opening": "Otev\u00edrac\u00ed",
+        "closing": "Zav\u00edr\u00e1n\u00ed",
+        "registernow": "Zaregistrujte se nyn\u00ed",
+        "checkingregistereddata": "Kontrola registrovan\u00fdch \u00fadaj\u016f",
+        "from": "Z",
+        "to": "Na",
+        "viewregistereddata": "Zobrazit registrovan\u00e1 data",
+        "visitor": "N\u00e1v\u0161t\u011bvn\u00edk",
+        "copyright": "autorsk\u00e1 pr\u00e1va",
+        "allrightsreserved": "V\u0161echna pr\u00e1va vyhrazena"
+    },
+    "title": "Rozdejte %s",
+    "subtitle": "Zaregistrujte se a z\u00edskejte \u0161anci vyhr\u00e1t %s!",
+    "wordcontinue": "Pokra\u010dovat",
+    "section1": {
+        "sTitleBefore1": "P\u0159ipojte se k n\u00e1m",
+        "sTitle1": "U\u017eijte si v\u00fdhody",
+        "sDesc1": "Pouze zde m\u016f\u017eete z\u00edskat mnoho v\u00fdhod pro rozd\u00e1v\u00e1n\u00ed, snadn\u00e9 p\u0159ipojen\u00ed, nejlep\u0161\u00ed produkty pro rozd\u00e1v\u00e1n\u00ed a r\u016fzn\u00e9 dal\u0161\u00ed v\u00fdhody",
+        "item": {
+            "iconItem1": "ikona-ov\u011b\u0159en\u00fd_u\u017eivatel",
+            "titleItem1": "Zajistit",
+            "descItem1": "Zaru\u010den\u00e1 bezpe\u010dnost.",
+            "iconItem2": "ikona pen\u00edze",
+            "titleItem2": "Bezpe\u010dn\u00e9 pen\u00edze",
+            "descItem2": "P\u0159i rozd\u00e1v\u00e1n\u00ed d\u00e1rk\u016f ne\u00fa\u010dtuje \u017e\u00e1dn\u00e9 poplatky.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Bezpe\u010dn\u00fd \u010das",
+            "descItem3": "Z\u00edskejte d\u00e1rek za m\u00e9n\u011b ne\u017e 24 hodin!"
+        },
+        "timer": {
+            "timerTitle": "Vstupn\u00ed bonus zdarma kon\u010d\u00ed v:",
+            "days": "Dny",
+            "hours": "Hodin",
+            "minutes": "Minut",
+            "seconds": "Sekundy"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Rozdejte %s",
+        "bDesc1": "Pokud jste se zaregistrovali, pravideln\u011b kontrolujte sv\u016fj e-mail, abyste od n\u00e1s dostali nejnov\u011bj\u0161\u00ed informace. Tak\u00e9 rozd\u00e1me poukazy na n\u00e1kupy v na\u0161em obchod\u011b zdarma. Na co \u010dek\u00e1\u0161! <a href='%s' target='_blank'> Za\u010d\u00edn\u00e1me <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "\u0158ekn\u011bte to hned te\u010f sv\u00fdm p\u0159\u00e1tel\u016fm",
+        "sTitle2": "Z\u00edskejte v\u0161e zdarma",
+        "sDesc2": "Vyberte si d\u00e1rek, kter\u00fd se v\u00e1m l\u00edb\u00ed, m\u016f\u017eete se tak\u00e9 z\u00fa\u010dastnit v\u0161ech d\u00e1rk\u016f ze seznamu, kter\u00fd poskytujeme n\u00ed\u017ee."
+    },
+    "banner2": {
+        "bTitle2": "Snadn\u00e9 a jednoduch\u00e9 po\u017eadavky",
+        "bDesc2": "Pouze p\u0159ihl\u00e1\u0161en\u00edm se m\u016f\u017eete z\u00fa\u010dastnit na\u0161eho rozd\u00e1v\u00e1n\u00ed. Na co \u010dek\u00e1\u0161! Poj\u010fme se hned te\u010f <a href='%s' target='_blank'> zaregistrovat <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "Z\u00edskejte to hned",
+        "sTitle3": "Jak se p\u0159ipojit?",
+        "sDesc3": "Z\u00edskejte d\u00e1rek zdarma za m\u00e9n\u011b ne\u017e 24 hodin! Nenechte si uj\u00edt tuto vz\u00e1cnou p\u0159\u00edle\u017eitost, je to velmi snadn\u00e9, sta\u010d\u00ed se zaregistrovat na na\u0161em webu a z\u00fa\u010dastnit se pr\u016fzkumu (pokud existuje), nemus\u00edte nic platit. Gratulujeme!",
+        "step1": {
+            "sStep1": "Krok 1",
+            "ssDesc11": "Abyste m\u011bli \u0161anci vyhr\u00e1t %s, sta\u010d\u00ed vyplnit registra\u010dn\u00ed formul\u00e1\u0159 \u00fa\u010dtu. Za\u010dn\u011bte t\u00edm, \u017ee se do sout\u011b\u017ee p\u0159ihl\u00e1s\u00edte pomoc\u00ed sv\u00e9 e-mailov\u00e9 adresy."
+        },
+        "step2": {
+            "sStep2": "Krok 2",
+            "ssDesc21": "Jakmile jste p\u0159ihl\u00e1\u0161eni, budete m\u00edt p\u0159\u00edle\u017eitost z\u00edskat dal\u0161\u00ed polo\u017eky proveden\u00edm r\u016fzn\u00fdch akc\u00ed, v\u010detn\u011b n\u00e1v\u0161t\u011bvy na\u0161ich kan\u00e1l\u016f soci\u00e1ln\u00edch m\u00e9di\u00ed.",
+            "ssDesc22": "M\u00e1te pr\u00e1vo dokon\u010dit tolik akc\u00ed, kolik chcete, ka\u017ed\u00e1 akce nab\u00edz\u00ed jedine\u010dn\u00fd po\u010det polo\u017eek a ka\u017ed\u00e1 polo\u017eka je potenci\u00e1ln\u00edm v\u00edt\u011bzem.",
+            "ssDesc23": "M\u016f\u017eete tak\u00e9 p\u0159esko\u010dit akce pouze za 1 $."
+        },
+        "step3": {
+            "done": "Hotovo.",
+            "sStep3": "Krok 3",
+            "ssDesc31": "Hotovo. Okam\u017eit\u011b v\u00e1s budeme kontaktovat na z\u00e1klad\u011b kontaktu, kter\u00fd byl vypln\u011bn v dob\u011b registrace na na\u0161em webu."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Rozdejte %s velk\u00fdm zp\u016fsobem.",
+        "bDesc3": "Tato ud\u00e1lost poskytuje v\u00edce v\u00fdhern\u00edch automat\u016f ne\u017e loni. Pozv\u011bte sv\u00e9 p\u0159\u00e1tele a rodinu na je\u0161t\u011b v\u011bt\u0161\u00ed p\u0159\u00edle\u017eitosti. P\u0159ed zah\u00e1jen\u00edm t\u00e9to ud\u00e1losti se <a href='%s' target='_blank'> zaregistrujte <\/a>."
+    },
+    "section4": {
+        "sTitleBefore4": "Vybran\u00e9 hodnocen\u00ed",
+        "sTitle4": "V\u00edt\u011bz prozrad\u00ed",
+        "sDesc4": "N\u011bkter\u00e9 recenze v\u00edt\u011bz\u016f prozrad\u00ed",
+        "theWinner": {
+            "winner": "V\u00cdT\u011aZ",
+            "winner1": "Justin Daniel",
+            "coment1": "D\u011bkuji za hotovost, douf\u00e1m, \u017ee v\u00e1\u0161 obchod bude v\u00edce p\u0159epln\u011bn\u00fd.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Toto je opravdu slavn\u00fd obchod GeneralStore, bal\u00ed\u010dek byl \u00fasp\u011b\u0161n\u00fd, dostal jsem, produkt je origin\u00e1ln\u00ed a neplatil jsem \u017e\u00e1dn\u00e9 poplatky. D\u011bkuji.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Zpo\u010d\u00e1tku jsem tomu nev\u011b\u0159il, ale pot\u00e9, co jsem je kontaktoval, se uk\u00e1zalo, \u017ee to byl GeneralStore. d\u011bkuji GeneralStore za %s.",
+            "winner4": "Vanessa Welheinov\u00e1",
+            "coment4": "D\u00edky bohu za zv\u00fd\u0161en\u00ed m\u00e9ho \u0161t\u011bst\u00ed, d\u011bkuji za rozd\u00e1n\u00ed, GeneralStore, miluji to."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Hladk\u00fd chod na\u0161ich akc\u00ed a podnik\u00e1n\u00ed",
+        "sTitle5": "Podporov\u00e1no",
+        "sDesc5": "D\u011bkujeme za plnou podporu, kter\u00e1 n\u00e1m v\u017edy pom\u016f\u017ee",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Americk\u00e1 nadn\u00e1rodn\u00ed technologick\u00e1 spole\u010dnost se s\u00eddlem v Seattlu ve Washingtonu, kter\u00e1 se zam\u011b\u0159uje na elektronick\u00fd obchod, cloud computing, digit\u00e1ln\u00ed streamov\u00e1n\u00ed a um\u011blou inteligenci.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Americk\u00fd internetov\u00fd maloobchod prod\u00e1vaj\u00edc\u00ed p\u0159ev\u00e1\u017en\u011b n\u00e1bytek se s\u00eddlem v Midvale v Utahu pobl\u00ed\u017e Salt Lake City. Patrick M. Byrne zalo\u017eil Overstock.com v roce 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Americk\u00e1 nadn\u00e1rodn\u00ed maloobchodn\u00ed spole\u010dnost, kter\u00e1 provozuje \u0159et\u011bzec hypermarket\u016f, diskontn\u00edch obchodn\u00edch dom\u016f a obchod\u016f s potravinami ze Spojen\u00fdch st\u00e1t\u016f, se s\u00eddlem v Bentonville v Arkansasu.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Americk\u00fd nadn\u00e1rodn\u00ed maloobchod se spot\u0159ebn\u00ed elektronikou se s\u00eddlem v Richfieldu v Minnesot\u011b. To bylo p\u016fvodn\u011b zalo\u017eeno Richardem M. Schulze a Jamesem Wheelerem v roce 1966 jako audio specializovan\u00fd obchod s n\u00e1zvem Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Online maloobchodn\u00ed slu\u017eba se s\u00eddlem v \u010c\u00edn\u011b, kterou vlastn\u00ed skupina Alibaba. Byla zah\u00e1jena v roce 2010 a skl\u00e1d\u00e1 se z mal\u00fdch podnik\u016f v \u010c\u00edn\u011b a dal\u0161\u00edch lokalit\u00e1ch, jako je Singapur, kter\u00e9 nab\u00edzej\u00ed produkty mezin\u00e1rodn\u00edm online kupuj\u00edc\u00edm.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Americk\u00e1 nadn\u00e1rodn\u00ed korporace pro elektronick\u00fd obchod se s\u00eddlem v San Jose v Kalifornii, kter\u00e1 prost\u0159ednictv\u00edm sv\u00fdch webov\u00fdch str\u00e1nek usnad\u0148uje prodej mezi spot\u0159ebiteli a mezi podniky."
+    },
+    "section6": {
+        "sTitleBefore6": "B\u00fdt v kontaktu",
+        "sTitle6": "Kontaktujte n\u00e1s",
+        "sDesc6": "M\u00e1te-li jak\u00e9koli dotazy t\u00fdkaj\u00edc\u00ed se produktu nebo jak\u00e9koli informace, kter\u00e9 pot\u0159ebujete, nev\u00e1hejte n\u00e1s kontaktovat.",
+        "firstName": "Jm\u00e9no",
+        "lastName": "P\u0159\u00edjmen\u00ed",
+        "subject": "P\u0159edm\u011bt",
+        "email": "E-mailem",
+        "writeyourmessagehere": "Sem napi\u0161te zpr\u00e1vu.",
+        "sendmessage": "Poslat zpr\u00e1vu",
+        "sendsuccess": "Zpr\u00e1va odesl\u00e1na <strong> \u00fasp\u011b\u0161n\u011b <\/strong>",
+        "sendsuccess1": "Odpov\u00edme co nejd\u0159\u00edve."
+    }
+}

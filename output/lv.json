@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Pievienojies tagad",
+        "howtojoin": "K\u0101 pievienoties?",
+        "giveawaylist": "Giveaway saraksts",
+        "review": "P\u0101rskat\u012b\u0161ana",
+        "support": "Atbalsts",
+        "contact": "Kontakts",
+        "aboutus": "Par mums",
+        "aboutusdesc": "General Store ir visu General Store fili\u0101\u013cu veikalu centrs vis\u0101 pasaul\u0113, kas nodarbojas ar paz\u012bstamu z\u012bmolu \u012bpa\u0161iem izplat\u012bt\u0101jiem.",
+        "links": "Saites",
+        "subscribe": "Abon\u0113t",
+        "subscribedesc": "L\u016bdzu, ievadiet savu e-pasta adresi, ja v\u0113laties sa\u0146emt jaun\u0101k\u0101s zi\u0146as no mums.",
+        "subscribesend": "Piepras\u012bjums nos\u016bt\u012bts <strong> veiksm\u012bgi <\/strong>",
+        "openregistration": "Atv\u0113rt re\u0123istr\u0101ciju",
+        "opening": "Atv\u0113r\u0161ana",
+        "closing": "Nosl\u0113g\u0161ana",
+        "registernow": "Re\u0123istr\u0113jies tagad",
+        "checkingregistereddata": "Re\u0123istr\u0113to datu p\u0101rbaude",
+        "from": "No",
+        "to": "Uz",
+        "viewregistereddata": "Skat\u012bt re\u0123istr\u0113tos datus",
+        "visitor": "Apmekl\u0113t\u0101js",
+        "copyright": "Autorties\u012bbas",
+        "allrightsreserved": "Visas ties\u012bbas aizsarg\u0101tas"
+    },
+    "title": "Atdodiet %s",
+    "subtitle": "Re\u0123istr\u0113jieties t\u016bl\u012bt, lai ieg\u016btu iesp\u0113ju laim\u0113t %s!",
+    "wordcontinue": "Turpin\u0101t",
+    "section1": {
+        "sTitleBefore1": "Pievienosimies mums",
+        "sTitle1": "Izbaudiet priek\u0161roc\u012bbas",
+        "sDesc1": "Tikai \u0161eit j\u016bs varat sa\u0146emt daudzas atdo\u0161anas priek\u0161roc\u012bbas, kur\u0101m viegli pievienoties, lab\u0101kos atdot produktus un da\u017e\u0101das citas priek\u0161roc\u012bbas",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "Dro\u0161s",
+            "descItem1": "Garant\u0113ta dro\u0161\u012bba.",
+            "iconItem2": "ikona-nauda",
+            "titleItem2": "Dro\u0161a nauda",
+            "descItem2": "Neiekas\u0113 maksu, sa\u0146emot d\u0101vanu.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Dro\u0161s laiks",
+            "descItem3": "Sa\u0146emiet GiveAway maz\u0101k nek\u0101 24 stundu laik\u0101!"
+        },
+        "timer": {
+            "timerTitle": "Bezmaksas ieejas bonuss beidzas:",
+            "days": "Dienas",
+            "hours": "Stundas",
+            "minutes": "Protokols",
+            "seconds": "Sekundes"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Atdodiet %s",
+        "bDesc1": "Ja esat re\u0123istr\u0113jies, periodiski p\u0101rbaudiet savu e-pastu, lai sa\u0146emtu jaun\u0101ko inform\u0101ciju no mums. M\u0113s bez maksas izsniegsim ar\u012b kuponus iepirk\u0161an\u0101s veikal\u0101. Ko tu gaidi! <a href='%s' target='_blank'> S\u0101ciet darbu <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Past\u0101stiet draugiem t\u016bl\u012bt",
+        "sTitle2": "Ieg\u016bstiet visu bezmaksas d\u0101vanu",
+        "sDesc2": "Izv\u0113lieties d\u0101vanu, kas jums pat\u012bk, k\u0101 ar\u012b varat piedal\u012bties visos d\u0101vin\u0101jumos no saraksta, kuru m\u0113s pied\u0101v\u0101jam zem\u0101k."
+    },
+    "banner2": {
+        "bTitle2": "Vieglas un vienk\u0101r\u0161as pras\u012bbas",
+        "bDesc2": "Tikai re\u0123istr\u0113joties pats, j\u016bs varat piedal\u012bties m\u016bsu d\u0101van\u0101. Ko tu gaidi! t\u016bl\u012bt <a href='%s' target='_blank'> re\u0123istr\u0113simies <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "Ieg\u016bstiet to t\u016bl\u012bt",
+        "sTitle3": "K\u0101 pievienoties?",
+        "sDesc3": "Sa\u0146emiet bezmaksas d\u0101vanu maz\u0101k nek\u0101 24 stundu laik\u0101! Nepalaidiet gar\u0101m \u0161o reto iesp\u0113ju, t\u0101 ir \u013coti viegli, vienk\u0101r\u0161i re\u0123istr\u0113jieties m\u016bsu vietn\u0113 un piedalieties aptauj\u0101 (ja t\u0101da ir), jums nekas nav j\u0101maks\u0101. Apsveicam!",
+        "step1": {
+            "sStep1": "1. solis",
+            "ssDesc11": "Lai ieg\u016btu iesp\u0113ju laim\u0113t %s, viss, kas jums j\u0101dara, ir j\u0101aizpilda konta re\u0123istr\u0101cijas veidlapa. Lai s\u0101ktu, vienk\u0101r\u0161i ievadiet konkursu ar savu e-pasta adresi."
+        },
+        "step2": {
+            "sStep2": "2. solis",
+            "ssDesc21": "Kad b\u016bsiet pieteicies, jums b\u016bs iesp\u0113ja ieg\u016bt papildu ierakstus, veicot da\u017e\u0101das darb\u012bbas, tostarp apmekl\u0113jot m\u016bsu soci\u0101lo mediju kan\u0101lus.",
+            "ssDesc22": "Jums ir ties\u012bbas veikt tik daudz darb\u012bbu, cik v\u0113laties, katra darb\u012bba pied\u0101v\u0101 unik\u0101lu ierakstu skaitu, un katrs ieraksts ir potenci\u0101lais uzvar\u0113t\u0101js.",
+            "ssDesc23": "Varat ar\u012b izlaist darb\u012bbas tikai par 1 USD."
+        },
+        "step3": {
+            "done": "Gatavs.",
+            "sStep3": "3. solis",
+            "ssDesc31": "Gatavs. M\u0113s nekav\u0113joties sazin\u0101simies ar jums, pamatojoties uz kontaktu, kas tika aizpild\u012bts re\u0123istr\u0101cijas laik\u0101 m\u016bsu vietn\u0113."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Atdodiet %s liel\u0101 veid\u0101.",
+        "bDesc3": "\u0160is pas\u0101kums nodro\u0161ina vair\u0101k laimestu slotu nek\u0101 pag\u0101ju\u0161aj\u0101 gad\u0101. Aiciniet savus draugus un \u0123imeni izmantot v\u0113l liel\u0101kas iesp\u0113jas. Pirms \u0161\u012b notikuma s\u0101kuma <a href='%s' target='_blank'> re\u0123istr\u0113jieties t\u016bl\u012bt <\/a>."
+    },
+    "section4": {
+        "sTitleBefore4": "Atlas\u012bts nov\u0113rt\u0113jums",
+        "sTitle4": "Giveaway uzvar\u0113t\u0101js",
+        "sDesc4": "Da\u017eas atsauksmes par giveaway uzvar\u0113t\u0101jiem",
+        "theWinner": {
+            "winner": "UZVAR\u0112T\u0100JS",
+            "winner1": "D\u017eastins Daniels",
+            "coment1": "Paldies par Cash, es ceru, ka j\u016bsu veikal\u0101 b\u016bs vair\u0101k cilv\u0113ku.",
+            "winner2": "D\u017eesika Vanhelna",
+            "coment2": "Tas tie\u0161\u0101m ir slavens GeneralStore veikals, pakete man bija veiksm\u012bga, produkts ir ori\u0123in\u0101ls, un es nemaks\u0101ju nek\u0101das nodevas. Paldies.",
+            "winner3": "Metj\u016b Deividsons",
+            "coment3": "S\u0101kum\u0101 es tam netic\u0113ju, bet p\u0113c sazin\u0101\u0161an\u0101s ar vi\u0146iem izr\u0101d\u012bj\u0101s, ka tas ir GeneralStore. paldies GeneralStore par %s.",
+            "winner4": "Vanesa Velheina",
+            "coment4": "Paldies dievam par manas veiksmes palielin\u0101\u0161anu, paldies par d\u0101vanu, GeneralStore, man tas pat\u012bk."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "M\u016bsu pas\u0101kumu un biznesa vienm\u0113r\u012bga norise",
+        "sTitle5": "Atbalsta",
+        "sDesc5": "Paldies par pilnu atbalstu, kas mums vienm\u0113r pal\u012bdz",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Amerik\u0101\u0146u daudznacion\u0101la tehnolo\u0123iju komp\u0101nija, kas atrodas Sietl\u0101, Va\u0161ington\u0101, un kas koncentr\u0113jas uz e-komerciju, m\u0101ko\u0146dato\u0161anu, digit\u0101lo straum\u0113\u0161anu un m\u0101ksl\u012bgo intelektu.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Amerik\u0101\u0146u interneta mazumtirgot\u0101js, kas galvenok\u0101rt p\u0101rdod m\u0113beles, kuru galven\u0101 m\u012btne atrodas Midval\u0113, J\u016bt\u0101, net\u0101lu no Soltleiksitijas. Patriks M. B\u0113rns 1999. gad\u0101 nodibin\u0101ja vietni Overstock.com.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Amerikas daudznacion\u0101l\u0101 mazumtirdzniec\u012bbas korpor\u0101cija, kas p\u0101rvalda hiperm\u0101rketu, atlai\u017eu univers\u0101lveikalu un p\u0101rtikas pre\u010du veikalu \u0137\u0113di no Amerikas Savienotaj\u0101m Valst\u012bm, kuras galven\u0101 m\u012btne atrodas Bentonvil\u0101, Arkanzasas \u0161tat\u0101.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerik\u0101\u0146u daudznacion\u0101ls pla\u0161a pat\u0113ri\u0146a elektronikas mazumtirgot\u0101js, kura galven\u0101 m\u012btne atrodas Ri\u010df\u012bld\u0101, Minesot\u0101. To s\u0101kotn\u0113ji dibin\u0101ja Ri\u010dards M. \u0160ulce un D\u017eeimss V\u012blers 1966. gad\u0101 k\u0101 audio specializ\u0113tu veikalu ar nosaukumu Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Tie\u0161saistes mazumtirdzniec\u012bbas pakalpojums \u0136\u012bn\u0101, kas pieder Alibaba grupai. Dibin\u0101ts 2010. gad\u0101, to veido mazie uz\u0146\u0113mumi \u0136\u012bn\u0101 un cit\u0101s viet\u0101s, piem\u0113ram, Singap\u016br\u0101, kas pied\u0101v\u0101 produktus starptautiskiem tie\u0161saistes pirc\u0113jiem.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Amerikas daudznacion\u0101l\u0101 e-komercijas korpor\u0101cija, kas atrodas Sanhos\u0113, Kalifornij\u0101, un ar savas vietnes starpniec\u012bbu atvieglo tirdzniec\u012bbu starp pat\u0113r\u0113t\u0101jiem un pat\u0113r\u0113t\u0101jiem."
+    },
+    "section6": {
+        "sTitleBefore6": "Sazin\u0101ties",
+        "sTitle6": "Sazinies ar mums",
+        "sDesc6": "Ja jums ir k\u0101di jaut\u0101jumi par produktu vai jebk\u0101du nepiecie\u0161amo inform\u0101ciju, l\u016bdzu, sazinieties ar mums.",
+        "firstName": "V\u0101rds",
+        "lastName": "Uzv\u0101rds",
+        "subject": "Priek\u0161mets",
+        "email": "E-pasts",
+        "writeyourmessagehere": "Uzrakstiet savu zi\u0146ojumu \u0161eit.",
+        "sendmessage": "S\u016bt\u012bt zi\u0146u",
+        "sendsuccess": "Zi\u0146ojums nos\u016bt\u012bts <strong> veiksm\u012bgi <\/strong>",
+        "sendsuccess1": "M\u0113s atbild\u0113sim p\u0113c iesp\u0113jas \u0101tr\u0101k."
+    }
+}

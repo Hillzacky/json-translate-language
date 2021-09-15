@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Iscriviti adesso",
+        "howtojoin": "Come unirsi a?",
+        "giveawaylist": "Elenco in regalo",
+        "review": "Revisione",
+        "support": "Supporto",
+        "contact": "Contatto",
+        "aboutus": "Chi siamo",
+        "aboutusdesc": "General Store \u00e8 il centro di tutti i punti vendita delle filiali General Store di tutto il mondo impegnati in distributori speciali di marchi noti.",
+        "links": "Collegamenti",
+        "subscribe": "sottoscrivi",
+        "subscribedesc": "Inserisci la tua email se desideri ricevere le ultime notizie da noi.",
+        "subscribesend": "Richiesta inviata <strong> correttamente <\/strong>",
+        "openregistration": "Apri registrazione",
+        "opening": "Apertura",
+        "closing": "Chiusura",
+        "registernow": "Iscriviti ora",
+        "checkingregistereddata": "Controllo dei dati registrati",
+        "from": "A partire dal",
+        "to": "Per",
+        "viewregistereddata": "Visualizza i dati registrati",
+        "visitor": "Visitatore",
+        "copyright": "Diritto d'autore",
+        "allrightsreserved": "Tutti i diritti riservati"
+    },
+    "title": "Dare via %s",
+    "subtitle": "Iscriviti ora per avere la possibilit\u00e0 di vincere %s!",
+    "wordcontinue": "Continua",
+    "section1": {
+        "sTitleBefore1": "Uniamoci a noi",
+        "sTitle1": "Goditi i vantaggi",
+        "sDesc1": "Solo qui puoi ottenere molti vantaggi in regalo, facile adesione, i migliori prodotti in regalo e vari altri vantaggi",
+        "item": {
+            "iconItem1": "icona-verificato_utente",
+            "titleItem1": "Sicuro",
+            "descItem1": "Sicurezza garantita.",
+            "iconItem2": "icona-denaro",
+            "titleItem2": "Soldi sicuri",
+            "descItem2": "Non addebita alcuna commissione quando si riceve un omaggio.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Tempo sicuro",
+            "descItem3": "Ottieni GiveAway in meno di 24 ore!"
+        },
+        "timer": {
+            "timerTitle": "Il bonus di ingresso gratuito termina a:",
+            "days": "Giorni",
+            "hours": "Ore",
+            "minutes": "Minuti",
+            "seconds": "Secondi"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Dare via %s",
+        "bDesc1": "Se ti sei registrato, controlla periodicamente la tua posta per ricevere da noi le ultime informazioni. Inoltre, distribuiremo gratuitamente buoni per gli acquisti presso il nostro negozio. Che cosa state aspettando! <a href='%s' target='_blank'> Inizia <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Dillo ai tuoi amici adesso",
+        "sTitle2": "Ottieni tutto gratis GiveAway",
+        "sDesc2": "Scegli il regalo che pi\u00f9 ti piace, puoi anche partecipare a tutti i giveaway dall'elenco che ti forniamo di seguito."
+    },
+    "banner2": {
+        "bTitle2": "Requisiti facili e semplici",
+        "bDesc2": "Solo registrandoti potrai partecipare al nostro giveaway. Che cosa state aspettando! <a href='%s' target='_blank'> Registrati <\/a> da solo adesso."
+    },
+    "section3": {
+        "sTitleBefore3": "Scaricalo ora",
+        "sTitle3": "Come unirsi a?",
+        "sDesc3": "Ottieni un GiveAway gratuito in meno di 24 ore! Non perdere questa rara opportunit\u00e0, \u00e8 semplicissimo, basta registrarsi sul nostro sito e partecipare al sondaggio (se presente), non devi pagare nulla. Congratulazioni!",
+        "step1": {
+            "sStep1": "Passo 1",
+            "ssDesc11": "Per avere la possibilit\u00e0 di vincere il %s, tutto ci\u00f2 che devi fare \u00e8 compilare il modulo di registrazione del tuo account. Per iniziare, basta partecipare al concorso con il tuo indirizzo email."
+        },
+        "step2": {
+            "sStep2": "Passo 2",
+            "ssDesc21": "Una volta effettuato l'accesso, avrai la possibilit\u00e0 di ottenere ulteriori voci completando varie azioni, inclusa la visita ai nostri canali di social media.",
+            "ssDesc22": "Hai il diritto di completare tutte le azioni che desideri, ogni azione offre un numero univoco di voci e ogni voce \u00e8 un potenziale vincitore.",
+            "ssDesc23": "Puoi anche saltare le azioni per solo $ 1."
+        },
+        "step3": {
+            "done": "Fatto.",
+            "sStep3": "Passaggio 3",
+            "ssDesc31": "Fatto. Ti contatteremo immediatamente in base al contatto che \u00e8 stato compilato al momento della registrazione sul nostro sito."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Dai via %s in grande stile.",
+        "bDesc3": "Questo evento offre pi\u00f9 slot vincenti rispetto allo scorso anno. Invita i tuoi amici e la tua famiglia per opportunit\u00e0 ancora maggiori. <a href='%s' target='_blank'> Registrati ora <\/a> prima dell'inizio di questo evento."
+    },
+    "section4": {
+        "sTitleBefore4": "Valutazione selezionata",
+        "sTitle4": "Vincitore Giveaway",
+        "sDesc4": "Alcune recensioni dei vincitori del giveaway",
+        "theWinner": {
+            "winner": "VINCITORE",
+            "winner1": "Justin Daniel",
+            "coment1": "Grazie per i contanti, spero che il tuo negozio sia pi\u00f9 affollato.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Questo \u00e8 davvero un famoso negozio GeneralStore, ho ricevuto il pacco con successo, il prodotto \u00e8 originale e non ho pagato alcuna commissione. Grazie.",
+            "winner3": "Matthew Davidson",
+            "coment3": "All'inizio non ci credevo, ma dopo averli contattati si \u00e8 scoperto che si trattava di un GeneralStore. grazie GeneralStore per %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Grazie a dio per aver aumentato la mia fortuna, grazie per l'omaggio, GeneralStore lo adoro."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Il buon funzionamento dei nostri eventi e attivit\u00e0",
+        "sTitle5": "Sostenuto da",
+        "sDesc5": "I nostri ringraziamenti per il pieno supporto che ci aiuta sempre",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Azienda tecnologica multinazionale americana con sede a Seattle, Washington, che si concentra su e-commerce, cloud computing, streaming digitale e intelligenza artificiale.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Rivenditore Internet americano che vende principalmente mobili con sede a Midvale, Utah, vicino a Salt Lake City. Patrick M. Byrne ha fondato Overstock.com nel 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Societ\u00e0 multinazionale americana di vendita al dettaglio che gestisce una catena di ipermercati, grandi magazzini discount e negozi di alimentari dagli Stati Uniti, con sede a Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Rivenditore multinazionale americana di elettronica di consumo con sede a Richfield, Minnesota. \u00c8 stato originariamente fondato da Richard M. Schulze e James Wheeler nel 1966 come negozio specializzato in audio chiamato Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Servizio di vendita al dettaglio in linea con sede in Cina di propriet\u00e0 del Gruppo Alibaba. Lanciato nel 2010, \u00e8 composto da piccole imprese in Cina e in altre localit\u00e0, come Singapore, che offrono prodotti agli acquirenti online internazionali.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Societ\u00e0 multinazionale americana di e-commerce con sede a San Jose, California, che facilita le vendite da consumatore a consumatore e da impresa a consumatore attraverso il suo sito web."
+    },
+    "section6": {
+        "sTitleBefore6": "Mettiti in contatto",
+        "sTitle6": "Contattaci",
+        "sDesc6": "Se hai domande su un prodotto o qualsiasi informazione di cui hai bisogno, non esitare a contattarci.",
+        "firstName": "Nome di battesimo",
+        "lastName": "Cognome",
+        "subject": "Soggetto",
+        "email": "E-mail",
+        "writeyourmessagehere": "Scrivi qui il tuo messaggio.",
+        "sendmessage": "Invia messaggio",
+        "sendsuccess": "Messaggio inviato <strong> correttamente <\/strong>",
+        "sendsuccess1": "Ti risponderemo il prima possibile."
+    }
+}

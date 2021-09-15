@@ -1,0 +1,134 @@
+{
+  "main": {
+    "joinnow": "Join Now",
+    "howtojoin": "How To Join?",
+    "giveawaylist": "Giveaway List",
+    "review": "Review",
+    "support": "Support",
+    "contact": "Contact",
+    "aboutus": "About Us",
+    "aboutusdesc": "GeneralStore is the store center of all GeneralStore branch stores around the world engaged in special distributors of well-known brands.",
+    "links": "Links",
+    "subscribe": "Subscribe",
+    "subscribedesc": "Please enter your email if you want to receive the latest news from us.",
+	"subscribesend":"Request sent <strong>successfully</strong>",
+    "openregistration": "Open Registration",
+    "opening": "Opening",
+    "closing": "Closing",
+    "registernow": "Register Now",
+    "checkingregistereddata": "Checking registered data",
+    "from": "From",
+    "to": "To",
+    "viewregistereddata": "View registered data",
+    "visitor": "Visitor",
+    "copyright": "Copyright",
+    "allrightsreserved": "All rights reserved"
+  },
+  "title": "Give Away %s",
+  "subtitle": "Sign up now for a chance to win %s!",
+  "wordcontinue": "Continue",
+  "section1": {
+    "sTitleBefore1": "Let's Join Us",
+    "sTitle1": "Enjoy The Benefits",
+    "sDesc1": "Only here you can get many give away benefits, easy to join, the best give away products and various other benefits",
+    "item": {
+			"iconItem1":"icon-verified_user",
+			"titleItem1":"Secure",
+			"descItem1":"Guaranteed Security.",
+			"iconItem2":"icon-money",
+			"titleItem2":"Safe Money",
+			"descItem2":"Doesn't charge any fees when receiving a giveaway.",
+			"iconItem3":"icon-access_alarms",
+			"titleItem3":"Safe Time",
+			"descItem3":"Get GiveAway in less than 24 hours!"
+	},
+    "timer": {
+			"timerTitle":"Free entry bonus ends at:",
+			"days":"Days",
+			"hours":"Hours",
+			"minutes":"Minutes",
+			"seconds":"Seconds"
+			}
+  },
+  "banner1": {
+	"bTitle1":"Give Away %s",
+	"bDesc1":"If you have registered, check your email periodically to get the latest information from us. We will also give out vouchers for shopping at our store for free. What are you waiting for! <a href='%s' target='_blank'>Get Started</a>"
+  },
+  "section2": {
+    "sTitleBefore2": "Tell your friends right now",
+    "sTitle2": "Get All Free GiveAway",
+    "sDesc2": "Choose the gift you like, you can also take part in all the giveaway from the list that we provide below."
+  
+  },
+  "banner2": {
+	"bTitle2":"Easy and Simple Requirements",
+	"bDesc2":"Only by registering yourself you can take part in our giveaway. What are you waiting for! let's <a href='%s' target='_blank'>Register</a> yourself right now."
+  },
+  "section3": {
+    "sTitleBefore3": "Get It Now",
+    "sTitle3": "How to Join?",
+    "sDesc3": "Get a free GiveAway in less than 24 hours! Don't miss this rare opportunity, it's very easy, just register on our website and take the survey (if any), you don't have to pay anything. Congratulations!",
+    "step1":{
+		"sStep1":"Step 1",
+		"ssDesc11":"To get a chance to win the %s, all you need to do is fill out your account registration form. To get started, just enter the contest with your email address."},
+	"step2":{
+		"sStep2":"Step 2",
+		"ssDesc21":"Once you are logged in, you will have the opportunity to get additional entries by completing various actions, including visiting our social media channels.",
+		"ssDesc22":"You are entitled to complete as many actions as you like, each action offers a unique number of entries and each entry is a potential winner.",
+		"ssDesc23":"You can also skip actions for just $1."},
+	"step3":{
+		"done":"Done.",
+		"sStep3":"Step 3",
+		"ssDesc31":"Done. We will immediately contact you based on the contact that was filled in at the time of registration on our site."}
+  },
+  "banner3": {
+	"bTitle3":"Give Away %s in a Big way.",
+	"bDesc3":"This event provides more winning slots than last year. Invite your friends and family for even greater opportunities. <a href='%s' target='_blank'>Register now</a> before this event starts."
+  },
+  "section4": {
+    "sTitleBefore4": "Selected assessment",
+    "sTitle4": "Giveaway Winner",
+    "sDesc4": "Some reviews of giveaway winners",
+	"theWinner":{
+		"winner":"WINNER",
+		"winner1":"Justin Daniel",
+		"coment1":"Thank you for the Cash, I hope your store will be more crowded.",
+		"winner2":"Jessica Vanheln",
+		"coment2":"This is really a famous GeneralStore shop, the package was successful I received, Product is original, and I didn't pay any fees. Thank you.",
+		"winner3":"Matthew Davidson",
+		"coment3":"At first I didn't believe it, but after I contacted them it turned out that it was a GeneralStore. thank you GeneralStore for %s.",
+		"winner4":"Vanessa Welhein",
+		"coment4":"Thank god for increasing my luck, thank you for giveaway, GeneralStore i love it."
+	}
+  },
+  "section5": {
+    "sTitleBefore5": "The smooth running of our events & business",
+    "sTitle5": "Supported by",
+    "sDesc5": "Our thanks for the full support that always helps us",
+	"tSupport1":"Amazon.com",
+	"dSupport1":"American multinational technology company based in Seattle, Washington, which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+	"tSupport2":"Overstock.com",
+	"dSupport2":"American internet retailer selling primarily furniture headquartered in Midvale, Utah, near Salt Lake City. Patrick M. Byrne founded Overstock.com in 1999.",
+	"tSupport3":"Walmart.com",
+	"dSupport3":"American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas.",
+	"tSupport4":"BestBuy.com",
+	"dSupport4":"American multinational consumer electronics retailer headquartered in Richfield, Minnesota. It was originally founded by Richard M. Schulze and James Wheeler in 1966 as an audio specialty store called Sound of Music.",
+	"tSupport5":"AliExpress.com",
+	"dSupport5":"Online retail service based in China owned by the Alibaba Group. Launched in 2010, it is made up of small businesses in China and other locations, such as Singapore, that offer products to international online buyers.",
+	"tSupport6":"Ebay.com",
+	"dSupport6":"American multinational e-commerce corporation based in San Jose, California, that facilitates consumer-to-consumer and business-to-consumer sales through its website."
+  },
+  "section6": {
+    "sTitleBefore6": "Get In Touch",
+    "sTitle6": "Contact Us",
+    "sDesc6": "If you have any questions regarding a product, or any information you need, please don't hesitate to contact us.",
+	"firstName":"First Name",
+	"lastName":"Last Name",
+	"subject":"Subject",
+	"email":"Email",
+	"writeyourmessagehere":"Write your message here.",
+	"sendmessage":"Send Message",
+	"sendsuccess":"Message sent <strong>successfully</strong>",
+	"sendsuccess1":"We will respond as soon as possible."
+  }
+}

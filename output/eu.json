@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Erregistratu orain",
+        "howtojoin": "Nola sartu?",
+        "giveawaylist": "Opari Zerrenda",
+        "review": "Berrikuspena",
+        "support": "Laguntza",
+        "contact": "Harremanetarako",
+        "aboutus": "Guri buruz",
+        "aboutusdesc": "General Store marka ezagunen banatzaile berezietan diharduten mundu osoko General Store adarreko denda guztien denda zentroa da.",
+        "links": "Estekak",
+        "subscribe": "Harpidetu",
+        "subscribedesc": "Mesedez, idatzi zure posta elektronikoa gugandik azken berriak jaso nahi badituzu.",
+        "subscribesend": "Eskaera <strong> ondo <\/strong> bidali da",
+        "openregistration": "Izen ematea zabalik",
+        "opening": "Irekitze",
+        "closing": "Itxiera",
+        "registernow": "Izena eman orain",
+        "checkingregistereddata": "Erregistratutako datuak egiaztatzen",
+        "from": "Noiztik",
+        "to": "To",
+        "viewregistereddata": "Erregistratutako datuak ikusi",
+        "visitor": "Bisitaria",
+        "copyright": "Copyrighta",
+        "allrightsreserved": "Eskubide guztiak erreserbatuak"
+    },
+    "title": "Eman %s",
+    "subtitle": "Eman izena orain %s irabazteko aukera izateko!",
+    "wordcontinue": "Jarraitu",
+    "section1": {
+        "sTitleBefore1": "Goazen Gurekin",
+        "sTitle1": "Gozatu abantailekin",
+        "sDesc1": "Hemen bakarrik eskuratu ditzakezu opari ugari, batu errazak, oparitutako produktu onenak eta beste hainbat abantaila",
+        "item": {
+            "iconItem1": "ikonoa-egiaztatutako erabiltzailea",
+            "titleItem1": "Seguru",
+            "descItem1": "Segurtasun bermatua.",
+            "iconItem2": "ikono-dirua",
+            "titleItem2": "Diru segurua",
+            "descItem2": "Ez du oparirik kobratzen opari bat jasotzerakoan.",
+            "iconItem3": "ikono-sarbide_alarmak",
+            "titleItem3": "Denbora segurua",
+            "descItem3": "Lortu GiveAway 24 ordu baino gutxiagoan!"
+        },
+        "timer": {
+            "timerTitle": "Doako sarrera bonus honetan amaitzen da:",
+            "days": "Egunak",
+            "hours": "Orduak",
+            "minutes": "Minutu",
+            "seconds": "Segundoak"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Eman %s",
+        "bDesc1": "Izena eman baduzu, egiaztatu aldian behin zure posta elektronikoa gugandik azken informazioa jasotzeko. Gainera, gure dendan erosteko bonoak doan emango ditugu. Zeren zain zaude! <a href='%s' target='_blank'> Hasteko <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Esaiezu zure lagunei oraintxe bertan",
+        "sTitle2": "Lortu doako opari guztiak",
+        "sDesc2": "Aukeratu gustuko duzun oparia, ondoren ematen dugun zerrendako opari guztietan parte har dezakezu."
+    },
+    "banner2": {
+        "bTitle2": "Baldintza errazak eta sinpleak",
+        "bDesc2": "Zeure burua erregistratuta soilik parte hartu ahal izango duzu gure oparian. Zeren zain zaude! <a href='%s' target='_blank'> Izena eman <\/a> zaitez oraintxe bertan."
+    },
+    "section3": {
+        "sTitleBefore3": "Lortu orain",
+        "sTitle3": "Nola sartu?",
+        "sDesc3": "Lortu doako oparia 24 ordu baino gutxiagoan! Ez galdu aukera arraro hau, oso erraza da, erregistratu gure webgunean eta egin inkesta (baldin badago), ez duzu ezer ordaindu behar. Zorionak!",
+        "step1": {
+            "sStep1": "1. urratsa",
+            "ssDesc11": " %s irabazteko aukera izateko, zure kontua erregistratzeko orria bete besterik ez duzu egin behar. Hasteko, sartu lehiaketan zure helbide elektronikoarekin."
+        },
+        "step2": {
+            "sStep2": "2. urratsa",
+            "ssDesc21": "Saioa hasi ondoren, sarrera osagarriak lortzeko aukera izango duzu hainbat ekintza burutuz, besteak beste, gure sare sozialetako kanalak bisitatuta.",
+            "ssDesc22": "Nahi adina ekintza burutzeko eskubidea duzu, ekintza bakoitzak sarrera kopuru bakarra eskaintzen du eta sarrera bakoitza irabazle izan daiteke.",
+            "ssDesc23": "Ekintzak $ 1 ordainduta ere salta ditzakezu."
+        },
+        "step3": {
+            "done": "Eginda.",
+            "sStep3": "3. urratsa",
+            "ssDesc31": "Eginda. Berehala jarriko gara zurekin harremanetan gure gunean erregistratzerakoan bete zen kontaktuaren arabera."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Eman %s modu handian.",
+        "bDesc3": "Ekitaldi honek iaz baino irabazle tarte gehiago eskaintzen ditu. Gonbidatu lagunak eta senideak are aukera handiagoak lortzeko. <a href='%s' target='_blank'> Erregistratu orain <\/a> gertaera hau hasi aurretik."
+    },
+    "section4": {
+        "sTitleBefore4": "Aukeratutako ebaluazioa",
+        "sTitle4": "Opari Irabazlea",
+        "sDesc4": "Opari irabazleei buruzko zenbait iritzi",
+        "theWinner": {
+            "winner": "IRABAZLEA",
+            "winner1": "Justin Daniel",
+            "coment1": "Eskerrik asko Diruagatik, espero dut zure denda jendetsuagoa izango dela.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Benetan GeneralStore denda ospetsua da, jaso nuen paketea arrakastatsua izan zen, produktua originala da eta ez nuen inolako tasarik ordaindu. Eskerrik asko.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Hasieran ez nuen sinesten, baina haiekin harremanetan jarri ondoren GeneralStore bat zela ikusi nuen. eskerrik asko GeneralStore %sgatik.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Eskerrik asko jainkoa nire zortea handitzeagatik, eskerrik asko oparitzeagatik, GeneralStore maite dut."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Gure ekitaldi eta negozioen funtzionamendu egokia",
+        "sTitle5": "Laguntzailea",
+        "sDesc5": "Gure esker ona beti laguntzen digun laguntza osoagatik",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Seattle-n (Washington) duen multinazional teknologiako enpresa estatubatuarra. Merkataritza elektronikoa, cloud computing, streaming digitala eta adimen artifiziala ditu ardatz.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Interneteko saltzaile estatubatuarrak batez ere altzariak saltzen ditu egoitza nagusia Midvale-n, Utah-n, Salt Lake City-tik gertu. Patrick M. Byrne-k Overstock.com sortu zuen 1999an.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ameriketako Estatu Batuetako hipermerkatuen, beherapenen saltoki handien eta janari denden kate bat zuzentzen duen txikizkako korporazio multinazional multinazionala, egoitza nagusia Bentonville-n (Arkansas) duena.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Amerikako Estatu Batuetako kontsumo elektronikako denda multinazionalak egoitza nagusia Richfielden (Minnesota) du. Richard M. Schulze-k eta James Wheeler-ek sortu zuten 1966an Sound of Music izeneko audio espezialitate denda gisa.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Txinako lineako txikizkako zerbitzua Alibaba Taldearen jabetzako. 2010ean abian jarri zen eta nazioarteko lineako erosleei produktuak eskaintzen dizkieten negozio txikiek osatzen dute Txina eta beste zenbait tokitan, hala nola Singapurren.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "San Jose-n (Kalifornia) kokatutako merkataritza elektronikoko korporazio multinazional estatubatuarra, kontsumitzaileen kontsumitzailea eta negozioen kontsumitzailea bere webgunearen bidez errazten duena."
+    },
+    "section6": {
+        "sTitleBefore6": "Jarri harremanetan",
+        "sTitle6": "Jarri gurekin harremanetan",
+        "sDesc6": "Produktu bati buruzko edozein zalantza edo behar baduzu, jar zaitez gurekin harremanetan.",
+        "firstName": "Izena",
+        "lastName": "Abizena",
+        "subject": "Gaia",
+        "email": "Posta elektronikoa",
+        "writeyourmessagehere": "Idatzi hemen zure mezua.",
+        "sendmessage": "Mezua bidali",
+        "sendsuccess": "Mezua <strong> behar bezala bidali da <\/strong>",
+        "sendsuccess1": "Ahalik eta azkarren erantzungo dugu."
+    }
+}

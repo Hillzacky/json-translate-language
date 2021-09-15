@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Midira Ankehitriny",
+        "howtojoin": "Ahoana ny fomba hidirana?",
+        "giveawaylist": "Lisitra fanomezana",
+        "review": "FAMERENANA",
+        "support": "MANAMPY",
+        "contact": "Fifandraisana",
+        "aboutus": "Momba ANAY",
+        "aboutusdesc": "General Store no ivon'ny fivarotana sampana General Store manerana an'izao tontolo izao izay mandray anjara amin'ireo mpaninjara manokana marika malaza.",
+        "links": "rohy",
+        "subscribe": "Raiso amin ny",
+        "subscribedesc": "Ampidiro azafady ny mailakao raha te handray ny vaovao farany avy aminay ianao.",
+        "subscribesend": "Tafita soa aman-tsara ny fangatahana <strong>",
+        "openregistration": "Misokatra fisoratana anarana",
+        "opening": "Fampidiran-dresaka",
+        "closing": "famaranana",
+        "registernow": "Hisoratra anarana izao",
+        "checkingregistereddata": "Manamarina angona voasoratra anarana",
+        "from": "From",
+        "to": "ny",
+        "viewregistereddata": "Jereo ny angona voasoratra",
+        "visitor": "Mpitsidika",
+        "copyright": "Copyright",
+        "allrightsreserved": "Zo rehetra voatokana"
+    },
+    "title": "Omeo lavitra %s",
+    "subtitle": "Misoratra anarana izao raha te hahazo ny %s!",
+    "wordcontinue": "hanohy",
+    "section1": {
+        "sTitleBefore1": "Andao hiaraka aminay",
+        "sTitle1": "Ankafizo Ireo Soa",
+        "sDesc1": "Eto ihany no ahafahanao mahazo tombony manome maro, mora idirana, vokatra tsara indrindra manome ary tombontsoa maro samihafa",
+        "item": {
+            "iconItem1": "icon-verified_user",
+            "titleItem1": "fiarovana",
+            "descItem1": "Fiantohana azo antoka.",
+            "iconItem2": "sary-vola",
+            "titleItem2": "Vola azo antoka",
+            "descItem2": "Tsy mandoa sarany rehefa mahazo fanomezana.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Fotoana azo antoka",
+            "descItem3": "Mak\u00e0 GiveAway ao anatin'ny 24 ora latsaka!"
+        },
+        "timer": {
+            "timerTitle": "Ny bonus miditra maimaim-poana dia mifarana amin'ny:",
+            "days": "Andro",
+            "hours": "ORA",
+            "minutes": "Minitra",
+            "seconds": "Segondra"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Omeo lavitra %s",
+        "bDesc1": "Raha nisoratra anarana ianao dia zahao matetika ny mailakao mba hahalalana anay ny vaovao farany. Hanome voucher ho an'ny fiantsenana maimaimpoana ao amin'ny magazinay koa izahay. Inona no andrasanao! <a href='%s' target='_blank'> Manomboha <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Lazao izao ny namanao",
+        "sTitle2": "Raiso maimaimpoana ny fanomezana rehetra",
+        "sDesc2": "Safidio ny fanomezana tianao, azonao atao koa ny mandray anjara amin'ny fanomezana rehetra avy amin'ny lisitra omenay etsy ambany."
+    },
+    "banner2": {
+        "bTitle2": "Fepetra takiana mora sy tsotra",
+        "bDesc2": "Ny fisoratana anarana ny tenanao ihany no ahafahanao mandray anjara amin'ny fanomezana anay. Inona no andrasanao! andao <a href='%s' target='_blank'> Misoratra anarana <\/a> ny tenanao izao."
+    },
+    "section3": {
+        "sTitleBefore3": "Raiso izao",
+        "sTitle3": "Ahoana ny fomba hidirana?",
+        "sDesc3": "Mak\u00e0 GiveAway maimaimpoana ao anatin'ny 24 ora! Aza adino ity fotoana tsy fahita firy ity, mora be izany, misoratra anarana fotsiny ao amin'ny tranonkalantsika ary raiso ny fanadihadiana (raha misy) dia tsy mila mandoa na inona na inona ianao. Miarahaba anao!",
+        "step1": {
+            "sStep1": "Dingana 1",
+            "ssDesc11": "Raha te hanana fotoana handresena ny %s, ny hany ilainao dia ny fenoy ny fisoratana anarana amin'ny kaonty. Hanombohana dia ampidiro amin'ny adiresy mailaka anao fotsiny ilay fifaninanana."
+        },
+        "step2": {
+            "sStep2": "Dingana 2",
+            "ssDesc21": "Raha vantany vao miditra ianao, dia hanana fotoana hanana fidirana fanampiny amin'ny famitana hetsika isan-karazany, ao anatin'izany ny fitsidihana ireo fantsona media sosialinay.",
+            "ssDesc22": "Azonao atao ny mamita hetsika maro araka izay itiavanao azy, ny hetsika tsirairay dia manolotra fisoratana anarana tokana ary ny fidirana tsirairay dia mety ho mpandresy.",
+            "ssDesc23": "Azonao atao ihany koa ny mandingana ny hetsika amin'ny $ 1 fotsiny."
+        },
+        "step3": {
+            "done": "Vita.",
+            "sStep3": "Dingana 3",
+            "ssDesc31": "Vita. Hifandray aminao avy hatrany izahay miankina amin'ny fifandraisana izay nofenoina tamin'ny fotoana fisoratana anarana tao amin'ny tranokalanay."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Omeo lavitra i %s amin'ny fomba lehibe.",
+        "bDesc3": "Ity hetsika ity dia manome slot mandresy kokoa noho ny tamin'ny taon-dasa. Asao ny namanao sy ny fianakavianao hanana fotoana lehibe kokoa. <a href='%s' target='_blank'> Misoratra anarana izao <\/a> alohan'ny hanombohana ity hetsika ity."
+    },
+    "section4": {
+        "sTitleBefore4": "Fanombanana voafantina",
+        "sTitle4": "Mpandresy amin'ny fanomezana",
+        "sDesc4": "Hevitra vitsivitsy momba ny mpandresy fanomezana",
+        "theWinner": {
+            "winner": "MPANDRESY",
+            "winner1": "Justin Daniel",
+            "coment1": "Misaotra anao amin'ny Cash, antenaiko fa ho feno olona kokoa ny magazanao.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Ity dia fivarotana GeneralStore malaza tokoa, nahomby ny fonosana azoko, vita am-boalohany ny vokatra, ary tsy nandoa sarany aho. Misaotra anao.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Tamin'ny voalohany dia tsy nino izany aho fa rehefa nifandray tamin'izy ireo aho dia hita fa GeneralStore io. misaotra anao GeneralStore ho an'ny %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Misaotra Andriamanitra fa nampitombo ny vintako, misaotra anao tamin'ny fanomezana, GeneralStore tiako io."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Ny fizotran'ny hetsika sy raharaham-barotra ataonay",
+        "sTitle5": "Tohanan'i",
+        "sDesc5": "Misaotra antsika amin'ny fanohananana feno izay manampy anay hatrany",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Orinasa teknolojia iraisam-pirenena amerikana monina any Seattle, Washington, izay mifantoka amin'ny e-varotra, informatika rahona, streaming nomerika ary faharanitan-tsaina artifisialy.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Mpivarotra an-tserasera amerikana mivarotra fanaka tena manana foibe any Midvale, Utah, akaikin'ny tan\u00e0nan'i Salt Lake. Patrick M. Byrne dia nanangana ny Overstock.com tamin'ny taona 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Orinasa mpivarotra orinasa amerikana marobe izay miasa andiana hypermarket, magazay fihenam-bidy ary fivarotana enta-madinika avy any Etazonia, izay manana foibe any Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Mpivarotra elektronika mpanjifa iraisam-pirenena amerikana misy foibe any Richfield, Minnesota. Tany am-boalohany dia natsangan'i Richard M. Schulze sy James Wheeler tao amin'ny 1966 ho toy ny fivarotana audio specialty antsoina hoe Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Serivisy antsinjara an-tserasera miorina ao Shina an'ny Alibaba Group. Nalefa tamin'ny 2010, izy io dia mandrafitra orinasa kely any Shina sy toerana hafa, toa an'i Singapore, izay manolotra vokatra ho an'ireo mpividy an-tserasera iraisam-pirenena.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Orinasa e-varotra iraisam-pirenena amerikana monina any San Jose, Kalifornia, izay manamora ny varotra ny mpanjifa sy ny mpanjifa ary ny orinasa amin'ny al\u00e0lan'ny tranokalany."
+    },
+    "section6": {
+        "sTitleBefore6": "Mifanerasera",
+        "sTitle6": "Mifandraisa aminay",
+        "sDesc6": "Raha manana fanontaniana momba ny vokatra na fampahalalana ilainao ianao dia aza misalasala mifandray aminay.",
+        "firstName": "Fanampin'anarana",
+        "lastName": "Anarana",
+        "subject": "-DAHATSORATRA",
+        "email": "Mailaka",
+        "writeyourmessagehere": "Soraty eto ny hafatrao.",
+        "sendmessage": "Mandefasa hafatra",
+        "sendsuccess": "Nahomby ny hafatra nalefa <\/strong>",
+        "sendsuccess1": "Hamaly haingana araka izay tratra izahay."
+    }
+}

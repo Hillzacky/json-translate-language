@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "\u0130ndi qo\u015ful",
+        "howtojoin": "Nec\u0259 qo\u015fulmaq olar?",
+        "giveawaylist": "H\u0259diyy\u0259 siyah\u0131s\u0131",
+        "review": "Bax\u0131\u015f-icmal",
+        "support": "D\u0259st\u0259k",
+        "contact": "\u018flaq\u0259",
+        "aboutus": "Bizim haqq\u0131m\u0131zda",
+        "aboutusdesc": "General Store, tan\u0131nm\u0131\u015f markalar\u0131n x\u00fcsusi distribyutorlar\u0131 il\u0259 m\u0259\u015f\u011ful olan d\u00fcnyadak\u0131 b\u00fct\u00fcn General Store filial ma\u011fazalar\u0131n\u0131n ma\u011faza m\u0259rk\u0259zidir.",
+        "links": "Links",
+        "subscribe": "Abun\u0259 olun",
+        "subscribedesc": "Bizd\u0259n son x\u0259b\u0259rl\u0259ri almaq ist\u0259yirsinizs\u0259, z\u0259hm\u0259t olmasa elektron po\u00e7tunuzu daxil edin.",
+        "subscribesend": "Sor\u011fu <strong> u\u011furla <\/strong> g\u00f6nd\u0259rildi",
+        "openregistration": "Qeydiyyat\u0131 a\u00e7\u0131n",
+        "opening": "A\u00e7\u0131l\u0131r",
+        "closing": "Ba\u011flan\u0131r",
+        "registernow": "\u0130ndi qeydiyyatdan ke\u00e7",
+        "checkingregistereddata": "Qeyd\u0259 al\u0131nm\u0131\u015f m\u0259lumatlar\u0131n yoxlan\u0131lmas\u0131",
+        "from": "Kimd\u0259n",
+        "to": "\u00dc\u00e7\u00fcn",
+        "viewregistereddata": "Qeydiyyatdan ke\u00e7mi\u015f m\u0259lumatlara bax\u0131n",
+        "visitor": "Ziyar\u0259t\u00e7i",
+        "copyright": "M\u00fc\u0259llif h\u00fcquqlar\u0131",
+        "allrightsreserved": "B\u00fct\u00fcn h\u00fcquqlar qorunur"
+    },
+    "title": " %s verin",
+    "subtitle": " %s qazanmaq \u015fans\u0131 \u00fc\u00e7\u00fcn indi qeydiyyatdan ke\u00e7in!",
+    "wordcontinue": "Davam edin",
+    "section1": {
+        "sTitleBefore1": "Biz\u0259 qo\u015fulaq",
+        "sTitle1": "Faydalardan Z\u00f6vq al\u0131n",
+        "sDesc1": "Yaln\u0131z burada bir \u00e7oxlar\u0131 faydalana bil\u0259r, qo\u015fulmaq asan, \u0259n yax\u015f\u0131lar\u0131 m\u0259hsullar v\u0259 dig\u0259r m\u00fcxt\u0259lif faydalar \u0259ld\u0259 ed\u0259 bil\u0259rsiniz",
+        "item": {
+            "iconItem1": "simvolu t\u0259sdiql\u0259nmi\u015f istifad\u0259\u00e7i",
+            "titleItem1": "T\u0259hl\u00fck\u0259siz",
+            "descItem1": "Z\u0259man\u0259tli T\u0259hl\u00fck\u0259sizlik.",
+            "iconItem2": "ikon pul",
+            "titleItem2": "T\u0259hl\u00fck\u0259siz pul",
+            "descItem2": "H\u0259diyy\u0259 alark\u0259n he\u00e7 bir \u00f6d\u0259ni\u015f t\u0259l\u0259b etmir.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "T\u0259hl\u00fck\u0259siz vaxt",
+            "descItem3": "24 saatdan az m\u00fcdd\u0259td\u0259 GiveAway \u0259ld\u0259 edin!"
+        },
+        "timer": {
+            "timerTitle": "Pulsuz giri\u015f bonusu bitm\u0259 tarixi:",
+            "days": "G\u00fcnl\u0259r",
+            "hours": "Saat",
+            "minutes": "D\u0259qiq\u0259l\u0259r",
+            "seconds": "Saniy\u0259"
+        }
+    },
+    "banner1": {
+        "bTitle1": " %s verin",
+        "bDesc1": "Qeydiyyatdan ke\u00e7misinizs\u0259, bizd\u0259n son m\u0259lumatlar\u0131 almaq \u00fc\u00e7\u00fcn elektron po\u00e7tunuzu vaxta\u015f\u0131r\u0131 yoxlay\u0131n. Ma\u011fazam\u0131zda al\u0131\u015f-veri\u015f etm\u0259k \u00fc\u00e7\u00fcn kuponlar\u0131 da pulsuz ver\u0259c\u0259yik. N\u0259 g\u00f6zl\u0259yirsiniz! <a href='%s' target='_blank'> Ba\u015flay\u0131n <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Dostlar\u0131n\u0131za bu anda deyin",
+        "sTitle2": "B\u00fct\u00fcn pulsuz GiveAway \u0259ld\u0259 edin",
+        "sDesc2": "\u0130st\u0259diyiniz h\u0259diyy\u0259ni se\u00e7in, a\u015fa\u011f\u0131da t\u0259qdim etdiyimiz siyah\u0131dak\u0131 b\u00fct\u00fcn h\u0259diyy\u0259l\u0259rd\u0259 d\u0259 i\u015ftirak ed\u0259 bil\u0259rsiniz."
+    },
+    "banner2": {
+        "bTitle2": "Asan v\u0259 sad\u0259 t\u0259l\u0259bl\u0259r",
+        "bDesc2": "Yaln\u0131z \u00f6z\u00fcn\u00fcz\u00fc qeyd etm\u0259kl\u0259 h\u0259diyy\u0259l\u0259rimizd\u0259 i\u015ftirak ed\u0259 bil\u0259rsiniz. N\u0259 g\u00f6zl\u0259yirsiniz! indi \u00f6z\u00fcn\u00fcz <a href='%s' target='_blank'> qeydiyyatdan ke\u00e7\u0259k <\/a>."
+    },
+    "section3": {
+        "sTitleBefore3": "\u0130ndi \u0259ld\u0259 et",
+        "sTitle3": "Nec\u0259 qo\u015fulmaq olar?",
+        "sDesc3": "24 saatdan az bir m\u00fcdd\u0259td\u0259 pulsuz GiveAway \u0259ld\u0259 edin! Bu nadir f\u00fcrs\u0259ti qa\u00e7\u0131rmay\u0131n, \u00e7ox asand\u0131r, sad\u0259c\u0259 veb sayt\u0131m\u0131zda qeydiyyatdan ke\u00e7in v\u0259 sor\u011fuda i\u015ftirak edin (varsa), he\u00e7 bir \u015fey \u00f6d\u0259m\u0259k laz\u0131m deyil. T\u0259brik edirik!",
+        "step1": {
+            "sStep1": "Add\u0131m 1",
+            "ssDesc11": " %s qazanmaq \u015fans\u0131 qazanmaq \u00fc\u00e7\u00fcn hesab qeydiyyat formas\u0131n\u0131 doldurmaq kifay\u0259tdir. Ba\u015flamaq \u00fc\u00e7\u00fcn yaln\u0131z e-po\u00e7t adresinizl\u0259 yar\u0131\u015fmaya daxil olun."
+        },
+        "step2": {
+            "sStep2": "Add\u0131m 2",
+            "ssDesc21": "Daxil olduqdan sonra sosial media kanallar\u0131m\u0131z\u0131 ziyar\u0259t etm\u0259k d\u0259 daxil olmaqla m\u00fcxt\u0259lif h\u0259r\u0259k\u0259tl\u0259ri tamamlayaraq \u0259lav\u0259 yaz\u0131 \u0259ld\u0259 etm\u0259k imkan\u0131n\u0131z olacaq.",
+            "ssDesc22": "\u0130st\u0259diyiniz q\u0259d\u0259r \u0259m\u0259liyyat\u0131 yerin\u0259 yetirm\u0259k h\u00fcququna sahibsiniz, h\u0259r bir h\u0259r\u0259k\u0259t \u00f6z\u00fcn\u0259m\u0259xsus sayda yaz\u0131 t\u0259qdim edir v\u0259 h\u0259r bir yaz\u0131 potensial qalibdir.",
+            "ssDesc23": "\u018fm\u0259liyyatlar\u0131 yaln\u0131z 1 dollara atlaya bil\u0259rsiniz."
+        },
+        "step3": {
+            "done": "Bitdi",
+            "sStep3": "Add\u0131m 3",
+            "ssDesc31": "Bitdi Sayt\u0131m\u0131zda qeydiyyat zaman\u0131 doldurulan \u0259laq\u0259 \u0259sas\u0131nda d\u0259rhal sizinl\u0259 \u0259laq\u0259 quraca\u011f\u0131q."
+        }
+    },
+    "banner3": {
+        "bTitle3": "B\u00f6y\u00fck bir \u015f\u0259kild\u0259 %s verin.",
+        "bDesc3": "Bu t\u0259dbir ke\u00e7\u0259n il\u0259 nisb\u0259t\u0259n daha \u00e7ox qazanan slot t\u0259qdim edir. Dostlar\u0131n\u0131z\u0131 v\u0259 ail\u0259nizi daha da b\u00f6y\u00fck imkanlar \u00fc\u00e7\u00fcn d\u0259v\u0259t edin. Bu t\u0259dbir ba\u015flamazdan \u0259vv\u0259l <a href='%s' target='_blank'> indi qeydiyyatdan ke\u00e7in <\/a>."
+    },
+    "section4": {
+        "sTitleBefore4": "Se\u00e7ilmi\u015f qiym\u0259tl\u0259ndirm\u0259",
+        "sTitle4": "H\u0259diyy\u0259 qazanan",
+        "sDesc4": "H\u0259diyy\u0259 qazananlar\u0131n b\u0259zi r\u0259yl\u0259ri",
+        "theWinner": {
+            "winner": "QAL\u0130B",
+            "winner1": "Justin Daniel",
+            "coment1": "Na\u011fd pul \u00fc\u00e7\u00fcn t\u0259\u015f\u0259kk\u00fcr edir\u0259m, in\u015fallah ma\u011fazan\u0131z daha s\u0131x olacaq.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Bu, h\u0259qiq\u0259t\u0259n m\u0259\u015fhur bir GeneralStore ma\u011fazas\u0131d\u0131r, paket u\u011furlu ald\u0131m, m\u0259hsul orijinald\u0131r v\u0259 he\u00e7 bir \u00f6d\u0259ni\u015f etm\u0259mi\u015f\u0259m. \u00c7ox sa\u011f ol.",
+            "winner3": "Matthew Davidson",
+            "coment3": "\u018fvv\u0259lc\u0259 inanmad\u0131m, ancaq onlarla \u0259laq\u0259 qurduqdan sonra GeneralStore oldu\u011fu \u00fcz\u0259 \u00e7\u0131xd\u0131.  %s \u00fc\u00e7\u00fcn GeneralStore'a t\u0259\u015f\u0259kk\u00fcr edir\u0259m.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "B\u0259xtimi art\u0131rd\u0131\u011f\u0131na g\u00f6r\u0259 tanr\u0131ya, h\u0259diyy\u0259l\u0259r \u00fc\u00e7\u00fcn t\u0259\u015f\u0259kk\u00fcr edir\u0259m GeneralStore \u00e7ox sevir\u0259m."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "T\u0259dbirl\u0259rimizin v\u0259 i\u015fimizin rahatl\u0131\u011f\u0131",
+        "sTitle5": "T\u0259r\u0259find\u0259n d\u0259st\u0259kl\u0259nir",
+        "sDesc5": "H\u0259r zaman biz\u0259 k\u00f6m\u0259k ed\u0259n tam d\u0259st\u0259y\u0259 g\u00f6r\u0259 t\u0259\u015f\u0259kk\u00fcr edirik",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "E-ticar\u0259t, bulud hesablama, r\u0259q\u0259msal yay\u0131m v\u0259 s\u00fcni z\u0259kaya diqq\u0259t yetir\u0259n Seattle, Washington-da yerl\u0259\u015f\u0259n Amerika \u00e7oxmill\u0259tli texnologiya \u015firk\u0259ti.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "M\u0259rk\u0259zi Salt Lake City yax\u0131nl\u0131\u011f\u0131nda, Utah, Midvale-d\u0259 ba\u015fl\u0131ca olaraq mebel satan Amerika internet sat\u0131c\u0131s\u0131. Patrick M. Byrne, 1999-cu ild\u0259 Overstock.com sayt\u0131n\u0131 qurdu.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "M\u0259rk\u0259zi Bentonville, Arkanzasda yerl\u0259\u015f\u0259n AB\u015e-dan hipermarketl\u0259r, endirimli ma\u011fazalar v\u0259 baqqal ma\u011fazalar \u015f\u0259b\u0259k\u0259si f\u0259aliyy\u0259t g\u00f6st\u0259r\u0259n Amerika \u00e7oxmill\u0259tli p\u0259rak\u0259nd\u0259 korporasiyas\u0131.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "M\u0259rk\u0259zi AB\u015e-\u0131n Richfield \u015f\u0259h\u0259rind\u0259 yerl\u0259\u015f\u0259n \u00e7oxmill\u0259tli m\u0259i\u015f\u0259t elektronikas\u0131 sat\u0131c\u0131s\u0131. \u0130lk olaraq Richard M. Schulze v\u0259 James Wheeler t\u0259r\u0259find\u0259n 1966-c\u0131 ild\u0259 Sound of Music adl\u0131 bir s\u0259s ixtisas\u0131 ma\u011fazas\u0131 olaraq quruldu.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Alibaba Qrupuna m\u0259xsus \u00c7ind\u0259 yerl\u0259\u015f\u0259n onlayn p\u0259rak\u0259nd\u0259 xidm\u0259t. 2010-cu ild\u0259 f\u0259aliyy\u0259t\u0259 ba\u015flayan \u00c7ind\u0259 v\u0259 Sinqapur kimi dig\u0259r yerl\u0259rd\u0259 beyn\u0259lxalq onlayn al\u0131c\u0131lara m\u0259hsul t\u0259klif ed\u0259n ki\u00e7ik m\u00fc\u0259ssis\u0259l\u0259rd\u0259n ibar\u0259tdir.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Veb sayt\u0131 vasit\u0259sil\u0259 istehlak\u00e7\u0131dan istehlak\u00e7\u0131ya v\u0259 ticar\u0259td\u0259n istehlak\u00e7\u0131ya sat\u0131\u015f\u0131n\u0131 asanla\u015fd\u0131ran, Kaliforniya \u015ftat\u0131n\u0131n San Jose \u015f\u0259h\u0259rind\u0259 yerl\u0259\u015f\u0259n Amerika \u00e7oxmill\u0259tli elektron ticar\u0259t korporasiyas\u0131."
+    },
+    "section6": {
+        "sTitleBefore6": "\u018flaq\u0259d\u0259 olmaq",
+        "sTitle6": "Biziml\u0259 \u0259laq\u0259 saxlay\u0131n",
+        "sDesc6": "Bir m\u0259hsulla v\u0259 ya ehtiyac\u0131n\u0131z olan h\u0259r hans\u0131 bir sual\u0131n\u0131z varsa, xahi\u015f edir\u0259m biziml\u0259 \u0259laq\u0259 qurmaqdan \u00e7\u0259kinm\u0259yin.",
+        "firstName": "Ad",
+        "lastName": "Soyad",
+        "subject": "M\u00f6vzu",
+        "email": "Elektron po\u00e7t",
+        "writeyourmessagehere": "Mesaj\u0131n\u0131z\u0131 buraya yaz\u0131n.",
+        "sendmessage": "Mesaj g\u00f6nd\u0259r",
+        "sendsuccess": "Mesaj <strong> u\u011furla <\/strong> g\u00f6nd\u0259rildi",
+        "sendsuccess1": "\u018fn q\u0131sa m\u00fcdd\u0259td\u0259 cavab ver\u0259c\u0259yik."
+    }
+}

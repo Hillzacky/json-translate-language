@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Adh\u00e9rer maintenant",
+        "howtojoin": "Comment s'inscrire?",
+        "giveawaylist": "Liste des cadeaux",
+        "review": "La revue",
+        "support": "Soutien",
+        "contact": "Contacter",
+        "aboutus": "\u00c0 propos de nous",
+        "aboutusdesc": "Le magasin g\u00e9n\u00e9ral est le centre de magasin de toutes les succursales du magasin g\u00e9n\u00e9ral du monde entier engag\u00e9s dans des distributeurs sp\u00e9ciaux de marques bien connues.",
+        "links": "Liens",
+        "subscribe": "S'abonner",
+        "subscribedesc": "Veuillez saisir votre email si vous souhaitez recevoir les derni\u00e8res nouvelles de notre part.",
+        "subscribesend": "Demande envoy\u00e9e <strong> avec succ\u00e8s <\/strong>",
+        "openregistration": "Inscription ouverte",
+        "opening": "Ouverture",
+        "closing": "Fermeture",
+        "registernow": "S'inscrire maintenant",
+        "checkingregistereddata": "V\u00e9rification des donn\u00e9es enregistr\u00e9es",
+        "from": "De",
+        "to": "\u00c0",
+        "viewregistereddata": "Afficher les donn\u00e9es enregistr\u00e9es",
+        "visitor": "Visiteur",
+        "copyright": "droits d'auteur",
+        "allrightsreserved": "Tous les droits sont r\u00e9serv\u00e9s"
+    },
+    "title": "Donner %s",
+    "subtitle": "Inscrivez-vous maintenant pour courir la chance de gagner %s!",
+    "wordcontinue": "Continuez",
+    "section1": {
+        "sTitleBefore1": "Rejoignez-nous",
+        "sTitle1": "Profitez des avantages",
+        "sDesc1": "Ce n'est qu'ici que vous pouvez obtenir de nombreux avantages, des avantages faciles \u00e0 rejoindre, les meilleurs produits \u00e0 offrir et divers autres avantages",
+        "item": {
+            "iconItem1": "icon-v\u00e9rifi\u00e9_user",
+            "titleItem1": "S\u00e9curise",
+            "descItem1": "S\u00e9curit\u00e9 garantie.",
+            "iconItem2": "ic\u00f4ne-argent",
+            "titleItem2": "Argent s\u00fbr",
+            "descItem2": "Ne facture aucun frais lors de la r\u00e9ception d'un cadeau.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Temps s\u00fbr",
+            "descItem3": "Obtenez GiveAway en moins de 24 heures!"
+        },
+        "timer": {
+            "timerTitle": "Le bonus d'entr\u00e9e gratuit se termine \u00e0:",
+            "days": "Jours",
+            "hours": "Les heures",
+            "minutes": "Minutes",
+            "seconds": "Secondes"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Donner %s",
+        "bDesc1": "Si vous vous \u00eates inscrit, v\u00e9rifiez r\u00e9guli\u00e8rement votre courrier \u00e9lectronique pour obtenir les derni\u00e8res informations de notre part. Nous distribuerons \u00e9galement gratuitement des bons d'achat dans notre magasin. Qu'est-ce que tu attends! <a href='%s' target='_blank'> Premiers pas <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Dites \u00e0 vos amis maintenant",
+        "sTitle2": "Obtenez tous les cadeaux gratuits",
+        "sDesc2": "Choisissez le cadeau que vous aimez, vous pouvez \u00e9galement participer \u00e0 tous les cadeaux de la liste que nous vous proposons ci-dessous."
+    },
+    "banner2": {
+        "bTitle2": "Exigences faciles et simples",
+        "bDesc2": "Ce n'est qu'en vous inscrivant que vous pouvez participer \u00e0 notre cadeau. Qu'est-ce que tu attends! <a href='%s' target='_blank'> Inscrivez-vous <\/a> vous-m\u00eame d\u00e8s maintenant."
+    },
+    "section3": {
+        "sTitleBefore3": "Obtenez le maintenant",
+        "sTitle3": "Comment s'inscrire?",
+        "sDesc3": "Obtenez un GiveAway gratuit en moins de 24 heures! Ne manquez pas cette rare opportunit\u00e9, c'est tr\u00e8s simple, il vous suffit de vous inscrire sur notre site et de participer au sondage (le cas \u00e9ch\u00e9ant), vous n'avez rien \u00e0 payer. Toutes nos f\u00e9licitations!",
+        "step1": {
+            "sStep1": "\u00c9tape 1",
+            "ssDesc11": "Pour avoir une chance de gagner le %s, il vous suffit de remplir le formulaire d'inscription de votre compte. Pour commencer, il vous suffit de participer au concours avec votre adresse e-mail."
+        },
+        "step2": {
+            "sStep2": "\u00c9tape 2",
+            "ssDesc21": "Une fois que vous \u00eates connect\u00e9, vous aurez la possibilit\u00e9 d'obtenir des entr\u00e9es suppl\u00e9mentaires en effectuant diverses actions, notamment en visitant nos canaux de m\u00e9dias sociaux.",
+            "ssDesc22": "Vous avez le droit de r\u00e9aliser autant d'actions que vous le souhaitez, chaque action offre un nombre unique d'entr\u00e9es et chaque entr\u00e9e est un gagnant potentiel.",
+            "ssDesc23": "Vous pouvez \u00e9galement ignorer des actions pour seulement 1 $."
+        },
+        "step3": {
+            "done": "Fait.",
+            "sStep3": "\u00c9tape 3",
+            "ssDesc31": "Fait. Nous vous contacterons imm\u00e9diatement en fonction du contact renseign\u00e9 au moment de l'inscription sur notre site."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Donner %s de mani\u00e8re importante.",
+        "bDesc3": "Cet \u00e9v\u00e9nement offre plus de machines \u00e0 sous gagnantes que l'ann\u00e9e derni\u00e8re. Invitez vos amis et votre famille pour encore plus de possibilit\u00e9s. <a href='%s' target='_blank'> Inscrivez-vous maintenant <\/a> avant le d\u00e9but de cet \u00e9v\u00e9nement."
+    },
+    "section4": {
+        "sTitleBefore4": "\u00c9valuation s\u00e9lectionn\u00e9e",
+        "sTitle4": "Gagnant du concours",
+        "sDesc4": "Quelques critiques des gagnants",
+        "theWinner": {
+            "winner": "GAGNANT",
+            "winner1": "Justin Daniel",
+            "coment1": "Merci pour l'argent, j'esp\u00e8re que votre magasin sera plus encombr\u00e9.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "C'est vraiment un c\u00e9l\u00e8bre magasin GeneralStore, le colis a \u00e9t\u00e9 bien re\u00e7u, le produit est original et je n'ai pay\u00e9 aucun frais. Merci.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Au d\u00e9but, je n'y croyais pas, mais apr\u00e8s les avoir contact\u00e9s, il s'est av\u00e9r\u00e9 que c'\u00e9tait un GeneralStore. merci GeneralStore pour %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Merci mon Dieu d'avoir augment\u00e9 ma chance, merci pour le cadeau, GeneralStore je l'adore."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Le bon d\u00e9roulement de nos \u00e9v\u00e9nements et affaires",
+        "sTitle5": "Support\u00e9 par",
+        "sDesc5": "Nos remerciements pour le soutien total qui nous aide toujours",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Soci\u00e9t\u00e9 de technologie multinationale am\u00e9ricaine bas\u00e9e \u00e0 Seattle, Washington, qui se concentre sur le commerce \u00e9lectronique, le cloud computing, le streaming num\u00e9rique et l'intelligence artificielle.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "D\u00e9taillant Internet am\u00e9ricain vendant principalement des meubles dont le si\u00e8ge est \u00e0 Midvale, Utah, pr\u00e8s de Salt Lake City. Patrick M. Byrne a fond\u00e9 Overstock.com en 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Soci\u00e9t\u00e9 de vente au d\u00e9tail multinationale am\u00e9ricaine qui exploite une cha\u00eene d'hypermarch\u00e9s, de grands magasins discount et d'\u00e9piceries des \u00c9tats-Unis, dont le si\u00e8ge est \u00e0 Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "D\u00e9taillant d'\u00e9lectronique grand public multinationale am\u00e9ricaine dont le si\u00e8ge est \u00e0 Richfield, Minnesota. Il a \u00e9t\u00e9 fond\u00e9 \u00e0 l'origine par Richard M. Schulze et James Wheeler en 1966 en tant que magasin sp\u00e9cialis\u00e9 audio appel\u00e9 Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Service de vente au d\u00e9tail en ligne bas\u00e9 en Chine appartenant au groupe Alibaba. Lanc\u00e9 en 2010, il est compos\u00e9 de petites entreprises en Chine et dans d'autres endroits, comme Singapour, qui proposent des produits aux acheteurs en ligne internationaux.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Soci\u00e9t\u00e9 multinationale am\u00e9ricaine de commerce \u00e9lectronique bas\u00e9e \u00e0 San Jose, en Californie, qui facilite les ventes de consommateur \u00e0 consommateur et d'entreprise \u00e0 consommateur via son site Web."
+    },
+    "section6": {
+        "sTitleBefore6": "Entrer en contact",
+        "sTitle6": "Nous contacter",
+        "sDesc6": "Si vous avez des questions concernant un produit ou des informations dont vous avez besoin, n'h\u00e9sitez pas \u00e0 nous contacter.",
+        "firstName": "Pr\u00e9nom",
+        "lastName": "Nom de famille",
+        "subject": "Sujet",
+        "email": "E-mail",
+        "writeyourmessagehere": "Ecrivez votre message ici.",
+        "sendmessage": "Envoyer le message",
+        "sendsuccess": "Message envoy\u00e9 <strong> avec succ\u00e8s <\/strong>",
+        "sendsuccess1": "Nous vous r\u00e9pondrons dans les plus brefs d\u00e9lais."
+    }
+}

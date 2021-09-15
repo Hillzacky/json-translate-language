@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Do\u0142\u0105cz teraz",
+        "howtojoin": "Jak do\u0142\u0105czy\u0107?",
+        "giveawaylist": "Lista prezent\u00f3w",
+        "review": "Przejrze\u0107",
+        "support": "Wsparcie",
+        "contact": "Kontakt",
+        "aboutus": "O nas",
+        "aboutusdesc": "General Store to centrum handlowe wszystkich oddzia\u0142\u00f3w General Store na ca\u0142ym \u015bwiecie zaanga\u017cowanych w specjalnych dystrybutor\u00f3w znanych marek.",
+        "links": "Spinki do mankiet\u00f3w",
+        "subscribe": "Subskrybuj",
+        "subscribedesc": "Wpisz sw\u00f3j adres e-mail, je\u015bli chcesz otrzymywa\u0107 od nas najnowsze wiadomo\u015bci.",
+        "subscribesend": "\u017b\u0105danie wys\u0142ane <strong> pomy\u015blnie <\/strong>",
+        "openregistration": "Otw\u00f3rz rejestracj\u0119",
+        "opening": "Otwarcie",
+        "closing": "Zamkni\u0119cie",
+        "registernow": "Zarejestruj si\u0119 teraz",
+        "checkingregistereddata": "Sprawdzanie zarejestrowanych danych",
+        "from": "Od",
+        "to": "Do",
+        "viewregistereddata": "Zobacz zarejestrowane dane",
+        "visitor": "Go\u015b\u0107",
+        "copyright": "Prawo autorskie",
+        "allrightsreserved": "Wszelkie prawa zastrze\u017cone"
+    },
+    "title": "Oddaj %s",
+    "subtitle": "Zarejestruj si\u0119 teraz, aby mie\u0107 szans\u0119 na wygran\u0105 %s!",
+    "wordcontinue": "Kontyntynuj",
+    "section1": {
+        "sTitleBefore1": "Do\u0142\u0105cz do nas",
+        "sTitle1": "Ciesz si\u0119 korzy\u015bciami",
+        "sDesc1": "Tylko tutaj mo\u017cesz uzyska\u0107 wiele bonus\u00f3w, \u0142atwe do do\u0142\u0105czenia, najlepsze rozdawane produkty i wiele innych korzy\u015bci",
+        "item": {
+            "iconItem1": "icon-verify_user",
+            "titleItem1": "Bezpieczne",
+            "descItem1": "Gwarancja bezpiecze\u0144stwa.",
+            "iconItem2": "ikona-pieni\u0105dze",
+            "titleItem2": "Bezpieczne pieni\u0105dze",
+            "descItem2": "Nie pobiera \u017cadnych op\u0142at przy otrzymywaniu gratis\u00f3w.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Bezpieczny czas",
+            "descItem3": "Zdob\u0105d\u017a GiveAway w mniej ni\u017c 24 godziny!"
+        },
+        "timer": {
+            "timerTitle": "Bonus za darmowe wej\u015bcie ko\u0144czy si\u0119 o:",
+            "days": "Dni",
+            "hours": "godziny",
+            "minutes": "Minuty",
+            "seconds": "sekundy"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Oddaj %s",
+        "bDesc1": "Je\u015bli si\u0119 zarejestrowa\u0142e\u015b, sprawdzaj okresowo swoj\u0105 skrzynk\u0119 e-mail, aby uzyska\u0107 od nas najnowsze informacje. B\u0119dziemy r\u00f3wnie\u017c rozdawa\u0107 bony na zakupy w naszym sklepie za darmo. Na co czekasz! <a href='%s' target='_blank'> Rozpocznij <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "Powiedz znajomym ju\u017c teraz",
+        "sTitle2": "Zdob\u0105d\u017a wszystkie darmowe podarunki",
+        "sDesc2": "Wybierz prezent, kt\u00f3ry Ci si\u0119 podoba, mo\u017cesz te\u017c wzi\u0105\u0107 udzia\u0142 we wszystkich gratisach z listy, kt\u00f3r\u0105 podajemy poni\u017cej."
+    },
+    "banner2": {
+        "bTitle2": "\u0141atwe i proste wymagania",
+        "bDesc2": "Tylko rejestruj\u0105c si\u0119, mo\u017cesz wzi\u0105\u0107 udzia\u0142 w naszym konkursie. Na co czekasz! <a href='%s' target='_blank'> zarejestruj si\u0119 <\/a> ju\u017c teraz."
+    },
+    "section3": {
+        "sTitleBefore3": "Zdob\u0105d\u017a to teraz",
+        "sTitle3": "Jak do\u0142\u0105czy\u0107?",
+        "sDesc3": "Zdob\u0105d\u017a darmowy GiveAway w mniej ni\u017c 24 godziny! Nie przegap tej rzadkiej okazji, to bardzo proste, po prostu zarejestruj si\u0119 na naszej stronie i wype\u0142nij ankiet\u0119 (je\u015bli taka istnieje), nie musisz nic p\u0142aci\u0107. Gratulacje!",
+        "step1": {
+            "sStep1": "Krok 1",
+            "ssDesc11": "Aby mie\u0107 szans\u0119 na wygranie %s, wszystko, co musisz zrobi\u0107, to wype\u0142ni\u0107 formularz rejestracji konta. Aby rozpocz\u0105\u0107, po prostu we\u017a udzia\u0142 w konkursie, podaj\u0105c sw\u00f3j adres e-mail."
+        },
+        "step2": {
+            "sStep2": "Krok 2",
+            "ssDesc21": "Po zalogowaniu si\u0119 b\u0119dziesz mia\u0142 mo\u017cliwo\u015b\u0107 zdobycia dodatkowych wpis\u00f3w wykonuj\u0105c r\u00f3\u017cne czynno\u015bci, w tym odwiedzaj\u0105c nasze kana\u0142y medi\u00f3w spo\u0142eczno\u015bciowych.",
+            "ssDesc22": "Masz prawo wykona\u0107 tyle akcji, ile chcesz, ka\u017cda akcja oferuje unikaln\u0105 liczb\u0119 wej\u015b\u0107, a ka\u017cde zg\u0142oszenie jest potencjalnym zwyci\u0119zc\u0105.",
+            "ssDesc23": "Mo\u017cesz tak\u017ce pomin\u0105\u0107 dzia\u0142ania za jedyne 1 USD."
+        },
+        "step3": {
+            "done": "Gotowy.",
+            "sStep3": "Krok 3",
+            "ssDesc31": "Gotowy. Skontaktujemy si\u0119 z Tob\u0105 niezw\u0142ocznie na podstawie danych kontaktowych podanych podczas rejestracji na naszej stronie."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Oddaj %s w wielkim stylu.",
+        "bDesc3": "To wydarzenie zapewnia wi\u0119cej zwyci\u0119skich automat\u00f3w ni\u017c w zesz\u0142ym roku. Zapro\u015b znajomych i rodzin\u0119, aby uzyska\u0107 jeszcze wi\u0119ksze mo\u017cliwo\u015bci. <a href='%s' target='_blank'> Zarejestruj si\u0119 teraz <\/a> przed rozpocz\u0119ciem tego wydarzenia."
+    },
+    "section4": {
+        "sTitleBefore4": "Wybrana ocena",
+        "sTitle4": "Zwyci\u0119zca konkursu",
+        "sDesc4": "Kilka recenzji zwyci\u0119zc\u00f3w konkurs\u00f3w",
+        "theWinner": {
+            "winner": "ZWYCI\u0118ZCA",
+            "winner1": "Justin Daniel",
+            "coment1": "Dzi\u0119kuj\u0119 za got\u00f3wk\u0119, mam nadziej\u0119, \u017ce Tw\u00f3j sklep b\u0119dzie bardziej zat\u0142oczony.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "To naprawd\u0119 s\u0142ynny sklep GeneralStore, paczka si\u0119 powiod\u0142a, produkt jest oryginalny i nie ui\u015bci\u0142em \u017cadnych op\u0142at. Dzi\u0119kuj\u0119 Ci.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Pocz\u0105tkowo nie wierzy\u0142em, ale po skontaktowaniu si\u0119 z nimi okaza\u0142o si\u0119, \u017ce to GeneralStore. dzi\u0119kuj\u0119 GeneralStore za %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Dzi\u0119ki Bogu za zwi\u0119kszenie mojego szcz\u0119\u015bcia, dzi\u0119kuj\u0119 za rozdanie, GeneralStore uwielbiam to."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Sprawne prowadzenie naszych wydarze\u0144 i biznesu",
+        "sTitle5": "Wspierany przez",
+        "sDesc5": "Dzi\u0119kujemy za pe\u0142ne wsparcie, kt\u00f3re zawsze nam pomaga",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Ameryka\u0144ska mi\u0119dzynarodowa firma technologiczna z siedzib\u0105 w Seattle w stanie Waszyngton, kt\u00f3ra koncentruje si\u0119 na handlu elektronicznym, przetwarzaniu w chmurze, cyfrowej transmisji strumieniowej i sztucznej inteligencji.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Ameryka\u0144ski sprzedawca internetowy sprzedaj\u0105cy g\u0142\u00f3wnie meble z siedzib\u0105 w Midvale w stanie Utah, niedaleko Salt Lake City. Patrick M. Byrne za\u0142o\u017cy\u0142 Overstock.com w 1999 roku.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ameryka\u0144ska mi\u0119dzynarodowa korporacja detaliczna prowadz\u0105ca sie\u0107 hipermarket\u00f3w, dyskont\u00f3w i sklep\u00f3w spo\u017cywczych ze Stan\u00f3w Zjednoczonych, z siedzib\u0105 w Bentonville w stanie Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Ameryka\u0144ski mi\u0119dzynarodowy sprzedawca elektroniki u\u017cytkowej z siedzib\u0105 w Richfield w stanie Minnesota. Zosta\u0142 za\u0142o\u017cony przez Richarda M. Schulze i Jamesa Wheelera w 1966 roku jako specjalistyczny sklep audio o nazwie Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Internetowy serwis detaliczny z siedzib\u0105 w Chinach, b\u0119d\u0105cy w\u0142asno\u015bci\u0105 Alibaba Group. Powsta\u0142a w 2010 roku i sk\u0142ada si\u0119 z ma\u0142ych firm w Chinach i innych lokalizacjach, takich jak Singapur, kt\u00f3re oferuj\u0105 produkty mi\u0119dzynarodowym nabywcom internetowym.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Ameryka\u0144ska mi\u0119dzynarodowa korporacja zajmuj\u0105ca si\u0119 handlem elektronicznym z siedzib\u0105 w San Jose w Kalifornii, kt\u00f3ra za po\u015brednictwem swojej strony internetowej u\u0142atwia sprzeda\u017c konsumentom i przedsi\u0119biorstwom konsumentom."
+    },
+    "section6": {
+        "sTitleBefore6": "B\u0105d\u017a w kontakcie",
+        "sTitle6": "Skontaktuj si\u0119 z nami",
+        "sDesc6": "Je\u015bli masz jakiekolwiek pytania dotycz\u0105ce produktu lub potrzebujesz informacji, nie wahaj si\u0119 z nami skontaktowa\u0107.",
+        "firstName": "Imi\u0119",
+        "lastName": "Nazwisko",
+        "subject": "Przedmiot",
+        "email": "E-mail",
+        "writeyourmessagehere": "Napisz swoj\u0105 wiadomo\u015b\u0107 tutaj.",
+        "sendmessage": "Wy\u015blij wiadomo\u015b\u0107",
+        "sendsuccess": "Wiadomo\u015b\u0107 wys\u0142ana <strong> pomy\u015blnie <\/strong>",
+        "sendsuccess1": "Postaramy si\u0119 odpowiedzie\u0107 jak najszybciej."
+    }
+}

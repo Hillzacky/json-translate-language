@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Joinha Izvozvi",
+        "howtojoin": "Ungabatana Sei?",
+        "giveawaylist": "Rwendo rwekupa",
+        "review": "Ongorora",
+        "support": "Tsigiro",
+        "contact": "Bata",
+        "aboutus": "Nezvedu",
+        "aboutusdesc": "General Chitoro ndiyo nzvimbo yezvitoro yezvose zvitoro zveGeneral Store zvakapoterera pasirese zviri kuita vaparadzi vezvigadzirwa zvinozivikanwa.",
+        "links": "Zvinongedzo",
+        "subscribe": "Nyorera",
+        "subscribedesc": "Ndapota nyora email yako kana iwe uchida kugamuchira nhau dzichangoburwa kubva kwatiri.",
+        "subscribesend": "Chikumbiro chakatumirwa <strong> zvinobudirira <\/strong>",
+        "openregistration": "Vhura Kunyoresa",
+        "opening": "Kuvhura",
+        "closing": "Kuvhara",
+        "registernow": "Bhalisa Zvino",
+        "checkingregistereddata": "Kuongorora yakanyoreswa data",
+        "from": "Kubva",
+        "to": "Ku",
+        "viewregistereddata": "Wona yakanyoreswa data",
+        "visitor": "Mushanyi",
+        "copyright": "Copyright",
+        "allrightsreserved": "Kodzero dzose dzakachengetedzwa"
+    },
+    "title": "Ipa Kure %s",
+    "subtitle": "Nyoresa izvozvi kuti uwane mukana wekuhwina %s!",
+    "wordcontinue": "Enderera",
+    "section1": {
+        "sTitleBefore1": "Ngatibatanei",
+        "sTitle1": "Nakidzwa Nezvakanakira",
+        "sDesc1": "Pano chete ndipo paunogona kuwana vazhinji vachipa mabhenefiti, nyore kujoina, akanakisa ekupa zvigadzirwa uye zvimwe zvakasiyana mabhenefiti",
+        "item": {
+            "iconItem1": "icon-yakasimbiswa_user",
+            "titleItem1": "Kuchengeteka",
+            "descItem1": "Kuchengetedzwa Kunovimbiswa.",
+            "iconItem2": "icon-mari",
+            "titleItem2": "Mari Yakachengeteka",
+            "descItem2": "Haibhadharise chero mubhadharo kana uchigamuchira kupihwa.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Nguva Yakachengeteka",
+            "descItem3": "Wana GetAway mumaawa asingasviki makumi maviri nemana!"
+        },
+        "timer": {
+            "timerTitle": "Mahara ekupinda mahara anopera pa:",
+            "days": "Mazuva",
+            "hours": "Maawa",
+            "minutes": "Maminitsi",
+            "seconds": "Masekondi"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Ipa Kure %s",
+        "bDesc1": "Kana iwe wakanyoresa, tarisa email yako nguva nenguva kuti uwane ruzivo rwechizvino kubva kwatiri. Tichapawo mavocha ekuti titenge kuchitoro chedu mahara. Wakamirira chii! <a href='%s' target='_blank'> Kutanga !!"
+    },
+    "section2": {
+        "sTitleBefore2": "Udza shamwari dzako izvozvi",
+        "sTitle2": "Tora Zvese Mahara Kupa",
+        "sDesc2": "Sarudza chipo chaunoda, iwe unogona zvakare kutora chikamu mune ese akapihwa kubva pane iyo runyorwa yatinopa pazasi."
+    },
+    "banner2": {
+        "bTitle2": "Zvirinyore uye Zvakareruka Zvinodiwa",
+        "bDesc2": "Chete nekuzvinyoresa pachako iwe unogona kutora chikamu mune yedu yekupa. Wakamirira chii! ngatimbo <a href='%s' target='_blank'> Nyoresa <\/a> pachako izvozvi"
+    },
+    "section3": {
+        "sTitleBefore3": "Tora izvezvi",
+        "sTitle3": "Ungabatana Sei?",
+        "sDesc3": "Wana mahara GiveAway mumaawa asingasviki makumi maviri nemana! Usapotsa uyu mukana usingawanzoitika, zviri nyore kwazvo, ingo nyora pawebhusaiti yedu uye utore ongororo (kana paine), haufanire kubhadhara chero chinhu. Makorokoto!",
+        "step1": {
+            "sStep1": "Nhanho 1",
+            "ssDesc11": "Kuti uwane mukana wekuhwina iyo %s, zvese zvaunoda kuti uite kuzadza fomu rekunyoresa account yako. Kuti utange, ingo pinda mumakwikwi neemail kero."
+        },
+        "step2": {
+            "sStep2": "Nhanho 2",
+            "ssDesc21": "Paunenge iwe watopinda, iwe uchave nemukana wekuwana zvimwe zvinyorwa nekuzadza zviito zvakasiyana, zvinosanganisira kushanyira edu enhau media chiteshi.",
+            "ssDesc22": "Iwe une kodzero yekupedzisa zviito zvakawanda sezvaunoda, chiito chega chega chinopa nhamba yakasarudzika yezvinyorwa uye chega chega chekupinda chingave chinokunda.",
+            "ssDesc23": "Iwe unogona zvakare kutsika zviito zve $ 1 chete."
+        },
+        "step3": {
+            "done": "Zvaitwa.",
+            "sStep3": "Nhanho 3",
+            "ssDesc31": "Zvaitwa. Isu tinobva tangobatana newe zvichibva pakubata kwaive kwakazadzwa panguva yekunyora panzvimbo yedu."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Ipa Kure %s munzira hombe.",
+        "bDesc3": "Ichi chiitiko chinopa akawanda ekukunda slots kupfuura gore rapfuura. Koka shamwari dzako uye mhuri kune akatowanda mikana. <a href='%s' target='_blank'> Nyoresa izvozvi <\/a> chiitiko ichi chisati chatanga."
+    },
+    "section4": {
+        "sTitleBefore4": "Sarudzo yekuongorora",
+        "sTitle4": "Kupa Mukundi",
+        "sDesc4": "Dzimwe ongororo dzevakakunda mukupa",
+        "theWinner": {
+            "winner": "WININA",
+            "winner1": "Justin Daniel",
+            "coment1": "Ndatenda neCash, ndinovimba chitoro chenyu chichava chakazara.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Ichi chaicho chiri chakakurumbira chitoro cheGeneralStore, pasuru yacho yakabudirira ini yandakatambira, Chigadzirwa ndechekutanga, uye ini handina kubhadhara chero fizi. Ndatenda.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Pakutanga handina kuzvitenda, asi mushure mekunge ndataura navo zvakazoonekwa kuti yaive GeneralStore. ndinokutendai GeneralStore ye %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Ndatenda mwari nekuwedzera rombo rangu, maita basa nekupa, GeneralStore ndinoida."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Kufamba kwakanaka kwezviitiko zvedu & bhizinesi",
+        "sTitle5": "Kutsigirwa ne",
+        "sDesc5": "Kutenda kwedu nerutsigiro ruzere runotibatsira nguva dzose",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "American multinational technology kambani inogara muSeattle, Washington, iyo inotarisana ne e-commerce, gore komputa, kutenderera kwedhijitari, uye kungwara kwekunyepedzera.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "American internet mutengesi anotengesa zvakanyanya fanicha inowanikwa kuMidvale, Utah, padyo neSalt Lake City. Patrick M. Byrne akatanga Overstock.com muna 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "American multinational retail corporation inoshanda keteni yehypermarket, zvitoro zvemadhora, uye zvitoro kubva kuUnited States, dzimbahwe riri muBentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "American multinational vatengi vemagetsi mutengesi ane mahofisi makuru muRichfield, Minnesota. Iyo pakutanga yakavambwa naRichard M. Schulze naJames Wheeler mu1966 seyeti yekuteerera yakasarudzika inonzi Izwi reMimhanzi.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Yepamhepo yekutengesa sevhisi yakavakirwa muChina inowanikwa neAlibaba Group Yakatangwa mu2010, inoumbwa nemabhizinesi madiki muChina nedzimwe nzvimbo, senge Singapore, dzinopa zvigadzirwa kune vatengi vepasirose online.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "American multinational e-commerce mubatanidzwa iri muSan Jose, California, iyo inobatsira vatengi-kune-vatengi uye bhizinesi-kune-vatengi kutengesa kuburikidza newebhusaiti."
+    },
+    "section6": {
+        "sTitleBefore6": "Get In Kubata",
+        "sTitle6": "Taura nesu",
+        "sDesc6": "Kana iwe uine chero mibvunzo nezve chigadzirwa, kana chero ruzivo iwe rwaunoda, ndapota usazeze kutibata nesu.",
+        "firstName": "Zita rokutanga",
+        "lastName": "Zita rokupedzisira",
+        "subject": "Musoro",
+        "email": "Email",
+        "writeyourmessagehere": "Nyora meseji yako pano.",
+        "sendmessage": "Tumira Meseji",
+        "sendsuccess": "Meseji yatumirwa <strong> zvinobudirira <\/strong>",
+        "sendsuccess1": "Tichapindura nekukurumidza sezvazvinogona."
+    }
+}

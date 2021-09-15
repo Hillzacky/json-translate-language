@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Unisciti Av\u00e0",
+        "howtojoin": "Cumu Unisce?",
+        "giveawaylist": "Lista di rigali",
+        "review": "Rivista",
+        "support": "Supportu",
+        "contact": "Cuntattate",
+        "aboutus": "Nantu \u00e0 noi",
+        "aboutusdesc": "General Store h\u00e8 u centru di vendita di tutti i negozii di General Store in u mondu impegnati in distributori speciali di marche cunnisciute.",
+        "links": "Ligami",
+        "subscribe": "Arrug\u00e0",
+        "subscribedesc": "Inserite u vostru email se vulete riceve l'ultime novit\u00e0 da noi.",
+        "subscribesend": "Richiesta inviata <strong> c\u00f9 successu <\/strong>",
+        "openregistration": "Scrizzione Aperta",
+        "opening": "Apertura",
+        "closing": "Chjuditura",
+        "registernow": "Iscriviti Av\u00e0",
+        "checkingregistereddata": "Verific\u00e0 i dati arregistrati",
+        "from": "Da",
+        "to": "\u00c0",
+        "viewregistereddata": "Vede i dati registrati",
+        "visitor": "Visitatore",
+        "copyright": "Copyright",
+        "allrightsreserved": "Tutti i diritti riservati"
+    },
+    "title": "Regala %s",
+    "subtitle": "Iscriviti av\u00e0 per av\u00e8 a pussibilit\u00e0 di vince %s!",
+    "wordcontinue": "Cuntinu\u00e0",
+    "section1": {
+        "sTitleBefore1": "Unisciteci",
+        "sTitle1": "Enjoy The Benefits",
+        "sDesc1": "Solu qu\u00ec pudete uttene parechji benefici da rigalu, facili da unisce, i migliori prudutti da rigalu \u00e8 parechji altri benefici",
+        "item": {
+            "iconItem1": "icona-verificatu_usuariu",
+            "titleItem1": "Secure",
+            "descItem1": "Sicurezza Garantita.",
+            "iconItem2": "icona-soldi",
+            "titleItem2": "Money Safe",
+            "descItem2": "\u00d9n carica micca tasse quandu riceve un rigalu.",
+            "iconItem3": "icona-access_alarms",
+            "titleItem3": "Time Safe",
+            "descItem3": "Uttenite GiveAway in menu di 24 ore!"
+        },
+        "timer": {
+            "timerTitle": "U bonus di ingressu gratuitu finisce in:",
+            "days": "Ghjorni",
+            "hours": "Stonde",
+            "minutes": "Minuti",
+            "seconds": "Secondi"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Regala %s",
+        "bDesc1": "Se site registratu, verificate periodicamente u vostru email per av\u00e8 l'ultime informazioni da noi. Daremu din\u00f2 voucher per cumpr\u00e0 in u nostru magazinu gratuitamente. Ch\u00ec aspettate! <a href='%s' target='_blank'> Principi\u00e0 <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "D\u00ecite \u00e0 i vostri amichi av\u00e0",
+        "sTitle2": "Uttenite Tuttu Free GiveAway",
+        "sDesc2": "Sceglite u rigalu ch\u00ec vi piace, pudete ancu particip\u00e0 \u00e0 tuttu u rigalu da a lista ch\u00ec furnemu qu\u00ec sottu."
+    },
+    "banner2": {
+        "bTitle2": "Requisiti Facili \u00e8 Semplici",
+        "bDesc2": "Solu registrandu si p\u00f2 particip\u00e0 \u00e0 u nostru rigalu. Ch\u00ec aspettate! <a href='%s' target='_blank'> Registratevi <\/a> av\u00e0."
+    },
+    "section3": {
+        "sTitleBefore3": "Get it Now",
+        "sTitle3": "Cumu unisce?",
+        "sDesc3": "Uttenite un GiveAway gratuitu in menu di 24 ore! \u00d9n mancate micca sta rara opportunit\u00e0, h\u00e8 assai faciule, basta \u00e0 registrassi nantu \u00e0 u nostru situ web \u00e8 pigli\u00e0 l'indagine (s'ellu ci h\u00e8), \u00f9n avete micca da pag\u00e0 nunda. Complimenti!",
+        "step1": {
+            "sStep1": "Passu 1",
+            "ssDesc11": "Per uttene l'occasione di vince %s, basta \u00e0 riempie u modulu di registrazione di u vostru contu. Per principi\u00e0, basta \u00e0 entre in u cuncorsu c\u00f9 u vostru indirizzu email."
+        },
+        "step2": {
+            "sStep2": "Passu 2",
+            "ssDesc21": "Una volta cunnessu, averete l'uppurtunit\u00e0 di uttene entrate addiziunali cumplettendu varie azzioni, cumprese visit\u00e0 i nostri canali di media sociali.",
+            "ssDesc22": "Avete u dirittu di compie quante azzioni ch\u00ec vulete, ogni azzione offre un numeru unicu di entrate \u00e8 ogni entrata h\u00e8 un vincitore potenziale.",
+            "ssDesc23": "Pudete ancu salt\u00e0 azzioni per solu $ 1."
+        },
+        "step3": {
+            "done": "Fattu.",
+            "sStep3": "Passu 3",
+            "ssDesc31": "Fattu. Vi cuntatteremu immediatamente secondu u cuntattu ch\u00ec h\u00e8 statu riempitu \u00e0 u mumentu di a registrazione nantu \u00e0 u nostru situ."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Regala %s in modu mai\u00f2.",
+        "bDesc3": "Questu avvenimentu furnisce pi\u00f9 slot vincitori di l'annu passatu. Invite i vostri amichi \u00e8 famiglia per ancu opportunit\u00e0 pi\u00f9 grande. <a href='%s' target='_blank'> Iscriviti av\u00e0 <\/a> prima ch\u00ec st'evenimentu principii."
+    },
+    "section4": {
+        "sTitleBefore4": "Valutazione scelta",
+        "sTitle4": "Vincitore Giveaway",
+        "sDesc4": "Alcune recensioni di vincitori di rigali",
+        "theWinner": {
+            "winner": "VINCITORE",
+            "winner1": "Justin Daniel",
+            "coment1": "Grazie per u Cash, spergu ch\u00ec u vostru magazinu ser\u00e0 pi\u00f9 affollatu.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Questu h\u00e8 veramente un famosu magazinu GeneralStore, u pacchettu h\u00e0 riesciutu ch\u00ec aghju ricevutu, u Produttu h\u00e8 originale, \u00e8 \u00f9n aghju micca pagatu alcuna tassa. Grazie.",
+            "winner3": "Matthew Davidson",
+            "coment3": "\u00c0 u primu \u00f9n l'aghju micca cridutu, ma dopu av\u00e8 contattatu li si h\u00e8 rivelatu ch\u00ec era un GeneralStore. ti ringraziu GeneralStore per %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Grazie \u00e0 Diu per av\u00e8 aumentatu a mo furtuna, grazie per u rigalu, GeneralStore mi piace."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "A bona marcia di i nostri eventi \u00e8 attivit\u00e0",
+        "sTitle5": "Supportatu da",
+        "sDesc5": "U nostru ringraziu per u sustegnu tutale ch\u00ec ci aiuta sempre",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Cumpagnia di tecnulugia multinazionale americana basata in Seattle, Washington, ch\u00ec si concentra nantu \u00e0 e-commerce, cloud computing, streaming digitale \u00e8 intelligenza artificiale.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Rivenditore internet americanu ch\u00ec vende principalmente mobuli cun sede in Midvale, Utah, vicinu \u00e0 Salt Lake City. Patrick M. Byrne h\u00e0 fundatu Overstock.com in u 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Cumpagnia multinazionale americana di vendita al dettaglio ch\u00ec gestisce una catena di ipermercati, grandi magazzini di sconti \u00e8 negozi di alimentari di i Stati Uniti, c\u00f9 sede in Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Rivenditore multinazionale americanu di elettronica di cunsumu c\u00f9 sede in Richfield, Minnesota. H\u00e8 stata uriginale fundata da Richard M. Schulze \u00e8 James Wheeler in u 1966 cum'\u00e8 un magazinu di specialit\u00e0 audio chjamatu Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Serviziu di vendita al dettaglio in linea basatu in Cina detenutu da u Gruppu Alibaba. Lanciata in u 2010, h\u00e8 cumposta da piccule imprese in Cina \u00e8 in altri lochi, cum'\u00e8 Singapore, ch\u00ec offrenu prudutti \u00e0 cumpratori in linea internaziunali.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Corporazione multinaziunale americana di e-commerce basata in San Jose, California, ch\u00ec facilita a vendita da u cunsumadore \u00e0 u cunsumadore \u00e8 da l'impresa \u00e0 u cunsumadore attraversu u so situ web."
+    },
+    "section6": {
+        "sTitleBefore6": "Cuntattu",
+        "sTitle6": "Cuntatta ci",
+        "sDesc6": "S\u00ec avete qualch\u00ec domanda in quantu \u00e0 un pruduttu, o qualsiasi infurmazione ch\u00ec avete bisognu, per piac\u00e8 \u00f9n esitate micca \u00e0 cuntattateci.",
+        "firstName": "Nome",
+        "lastName": "Casata",
+        "subject": "Sughjettu",
+        "email": "Email",
+        "writeyourmessagehere": "Scrivi qu\u00ec u to missaghju.",
+        "sendmessage": "Mand\u00e0 Missaghju",
+        "sendsuccess": "Missaghju inviatu <strong> c\u00f9 successu <\/strong>",
+        "sendsuccess1": "Risponderemu u pi\u00f9 prestu pussibule."
+    }
+}

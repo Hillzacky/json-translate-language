@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Darap\u1ecd Bayi",
+        "howtojoin": "Bawo ni Lati Darap\u1ecd?",
+        "giveawaylist": "Akoj\u1ecd Afitore",
+        "review": "Atunwo",
+        "support": "Atil\u1eb9yin",
+        "contact": "Kan si",
+        "aboutus": "Nipa re",
+        "aboutusdesc": "Ile-itaja Gbogbogbo j\u1eb9 aarin ile-itaja ti gbogbo aw\u1ecdn ile itaja \u1eb9ka Gbogbogbo Ile-itaja ni gbogbo agbaye ti n \u1e63i\u1e63\u1eb9 ni aw\u1ecdn olupin pataki ti aw\u1ecdn burandi olokiki.",
+        "links": "Aw\u1ecdn \u1ecdna asop\u1ecd",
+        "subscribe": "Alabapin",
+        "subscribedesc": "J\u1ecdw\u1ecd t\u1eb9 imeeli r\u1eb9 ti o ba f\u1eb9 gba aw\u1ecdn iroyin tuntun lati \u1ecdd\u1ecd wa.",
+        "subscribesend": "Ibeere ti firan\u1e63\u1eb9 <strong> ni a\u1e63ey\u1ecdri <\/strong>",
+        "openregistration": "\u1e62ii Iforuk\u1ecdsil\u1eb9",
+        "opening": "Nsii",
+        "closing": "Miiran ti",
+        "registernow": "Foruk\u1ecdsil\u1eb9 Bayi",
+        "checkingregistereddata": "\u1e62i\u1e63ay\u1eb9wo data ti a foruk\u1ecdsil\u1eb9",
+        "from": "Lati",
+        "to": "Si",
+        "viewregistereddata": "Wo data ti a foruk\u1ecdsil\u1eb9",
+        "visitor": "Alejo",
+        "copyright": "A\u1e63\u1eb9-lori-ara",
+        "allrightsreserved": "Gbogbo aw\u1ecdn \u1eb8t\u1ecd wa ni ipam\u1ecd"
+    },
+    "title": "Fun Away %s",
+    "subtitle": "Foruk\u1ecdsil\u1eb9 bayi fun aye lati gbagun %s!",
+    "wordcontinue": "T\u1eb9siwaju",
+    "section1": {
+        "sTitleBefore1": "J\u1eb9 ki a Darap\u1ecd m\u1ecd Wa",
+        "sTitle1": "Gbadun Aw\u1ecdn anfani",
+        "sDesc1": "Nikan nibi o le gba \u1ecdp\u1ecdl\u1ecdp\u1ecd aw\u1ecdn anfani fifunni, r\u1ecdrun lati darap\u1ecd m\u1ecd, aw\u1ecdn \u1ecdja fifun ti o dara jul\u1ecd ati \u1ecdp\u1ecdl\u1ecdp\u1ecd aw\u1ecdn anfani miiran",
+        "item": {
+            "iconItem1": "aami-verified_user",
+            "titleItem1": "Ni aabo",
+            "descItem1": "Aabo onigb\u1ecdw\u1ecd.",
+            "iconItem2": "aami-owo",
+            "titleItem2": "Owo Ailewu",
+            "descItem2": "Ko gba agbara eyikeyi aw\u1ecdn idiyele nigbati gbigba gbigba kan.",
+            "iconItem3": "aami-access_alarms",
+            "titleItem3": "Aago Ailewu",
+            "descItem3": "Gba GiveAway ni o kere ju wakati 24!"
+        },
+        "timer": {
+            "timerTitle": "Ajeseku tit\u1eb9si \u1ecdf\u1eb9 pari ni:",
+            "days": "Aw\u1ecdn \u1ecdj\u1ecd",
+            "hours": "Aw\u1ecdn wakati",
+            "minutes": "I\u1e63\u1eb9ju",
+            "seconds": "Aw\u1ecdn aaya"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Fun Away %s",
+        "bDesc1": "Ti o ba foruk\u1ecdsil\u1eb9, \u1e63ay\u1eb9wo imeeli r\u1eb9 lorekore lati gba alaye tuntun lati \u1ecdd\u1ecd wa. A yoo tun fun aw\u1ecdn iwe-\u1eb9ri fun rira ni itaja wa ni \u1ecdf\u1eb9. Kini o n duro de! <a href='%s' target='_blank'> Bib\u1eb9r\u1eb9 <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "S\u1ecd fun aw\u1ecdn \u1ecdr\u1eb9 r\u1eb9 ni bayi",
+        "sTitle2": "Gba Gbogbo Free giveAway",
+        "sDesc2": "Yan \u1eb9bun ti o f\u1eb9, o tun le kopa ninu gbogbo ifunni lati inu atok\u1ecd ti a pese ni isal\u1eb9."
+    },
+    "banner2": {
+        "bTitle2": "Aw\u1ecdn ibeere R\u1ecdrun ati R\u1ecdrun",
+        "bDesc2": "Nikan nipa fiforuk\u1ecd\u1e63il\u1eb9 ara r\u1eb9 o le \u1e63e alabapin ninu fifun wa. Kini o n duro de! j\u1eb9 ki a <a href='%s' target='_blank'> Foruk\u1ecdsil\u1eb9 <\/a> funrarar\u1eb9 ni bayi."
+    },
+    "section3": {
+        "sTitleBefore3": "Gba Ni Bayi",
+        "sTitle3": "Bawo ni lati Darap\u1ecd?",
+        "sDesc3": "Gba GiveAway \u1ecdf\u1eb9 ni o kere ju wakati 24! Ma\u1e63e padanu aye ti o \u1e63\u1ecdw\u1ecdn yii, o r\u1ecdrun pup\u1ecd, kan foruk\u1ecdsil\u1eb9 lori oju opo w\u1eb9\u1eb9bu wa ki o \u1e63e iwadi (ti o ba j\u1eb9 eyikeyi), o ko ni lati san ohunkohun. Oriire!",
+        "step1": {
+            "sStep1": "Igbese 1",
+            "ssDesc11": "Lati ni aye lati \u1e63\u1eb9gun %s, gbogbo ohun ti o nilo lati \u1e63e ni lati f\u1ecdw\u1ecdsi f\u1ecd\u1ecdmu iforuk\u1ecdsil\u1eb9 ak\u1ecd\u1ecdl\u1eb9 r\u1eb9. Lati b\u1eb9r\u1eb9, kan t\u1eb9 idije p\u1eb9lu adir\u1eb9si imeeli r\u1eb9."
+        },
+        "step2": {
+            "sStep2": "Igbese 2",
+            "ssDesc21": "L\u1ecdgan ti o ba w\u1ecdle, iw\u1ecd yoo ni aye lati gba aw\u1ecdn tit\u1eb9 sii afikun nipas\u1eb9 ipari aw\u1ecdn i\u1e63e l\u1ecdp\u1ecdl\u1ecdp\u1ecd, p\u1eb9lu lilo si aw\u1ecdn ikanni media media wa.",
+            "ssDesc22": "O ni \u1eb9t\u1ecd lati pari bi \u1ecdp\u1ecdl\u1ecdp\u1ecd aw\u1ecdn i\u1e63e bi o \u1e63e f\u1eb9, i\u1e63e k\u1ecd\u1ecdkan nfunni ni n\u1ecdmba alail\u1eb9gb\u1eb9 ti aw\u1ecdn tit\u1eb9 sii ati tit\u1eb9 sii k\u1ecd\u1ecdkan j\u1eb9 olubori to lagbara.",
+            "ssDesc23": "O tun le foju aw\u1ecdn i\u1e63e fun $ 1 kan."
+        },
+        "step3": {
+            "done": "\u1e62e.",
+            "sStep3": "Igbese 3",
+            "ssDesc31": "\u1e62e. A yoo l\u1eb9s\u1eb9k\u1eb9s\u1eb9 kan si \u1ecd da lori olubas\u1ecdr\u1ecd ti o kun ni akoko iforuk\u1ecdsil\u1eb9 lori aaye wa."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Fun Away %s ni \u1eccna Nla.",
+        "bDesc3": "I\u1e63\u1eb9l\u1eb9 yii n pese aw\u1ecdn iho ti o bori di\u1eb9 sii ju \u1ecddun to k\u1ecdja l\u1ecd. Pe aw\u1ecdn \u1ecdr\u1eb9 ati \u1eb9bi r\u1eb9 fun aw\u1ecdn aye ti o tobi jul\u1ecd paapaa. <a href='%s' target='_blank'> Foruk\u1ecdsil\u1eb9 bayi <\/a> \u1e63aaju i\u1e63\u1eb9l\u1eb9 yii b\u1eb9r\u1eb9."
+    },
+    "section4": {
+        "sTitleBefore4": "A\u1e63ayan ti a yan",
+        "sTitle4": "Afitore Winner",
+        "sDesc4": "Di\u1eb9 ninu aw\u1ecdn atuny\u1eb9wo ti aw\u1ecdn o \u1e63\u1eb9gun fifun",
+        "theWinner": {
+            "winner": "Winner",
+            "winner1": "Justin Daniel",
+            "coment1": "O \u1e63eun fun Owo-owo, Mo nireti pe ile itaja r\u1eb9 yoo di pup\u1ecd.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Eyi j\u1eb9 olokiki itaja itaja GeneralStore, package naa \u1e63a\u1e63ey\u1ecdri ti Mo gba, \u1eccja j\u1eb9 atil\u1eb9ba, ati pe Emi ko san owo eyikeyi. E dupe.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Ni igba ak\u1ecdk\u1ecd Emi ko gbagb\u1ecd, \u1e63ugb\u1ecdn l\u1eb9hin ti Mo kan si w\u1ecdn o wa ni pe GeneralStore ni. o \u1e63eun GeneralStore fun %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "\u1e62eun \u1ecdl\u1ecdrun fun alekun orire mi, o \u1e63eun fun fifunni, Gbogbogbo itaja Mo nif\u1eb9 r\u1eb9."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "\u1e62i\u1e63\u1eb9p\u1ecd dan ti aw\u1ecdn i\u1e63\u1eb9l\u1eb9 wa & i\u1e63owo",
+        "sTitle5": "Ni atil\u1eb9yin nipas\u1eb9",
+        "sDesc5": "\u1eccp\u1eb9 wa fun atil\u1eb9yin ni kikun ti o \u1e63e iranl\u1ecdw\u1ecd fun wa nigbagbogbo",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Ile-i\u1e63\u1eb9 im\u1ecd-\u1eb9r\u1ecd ti oril\u1eb9-ede Am\u1eb9rika ti o da ni Seattle, Washington, eyiti o fojusi lori i\u1e63owo e-commerce, i\u0161iro aw\u1ecdsanma, \u1e63i\u1e63an oni n\u1ecdmba, ati oye at\u1ecdw\u1ecdda.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Alagbata Intan\u1eb9\u1eb9ti Am\u1eb9rika ti n ta ni ak\u1ecdk\u1ecd ohun-\u1ecd\u1e63\u1ecd ti o wa ni Midvale, Utah, nitosi Salt Lake City. Patrick M. Byrne da Overstock.com sil\u1eb9 ni \u1ecddun 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Ile-i\u1e63\u1eb9 soobu ti oril\u1eb9-ede Am\u1eb9rika pup\u1ecd ti n \u1e63i\u1e63\u1eb9 pq ti aw\u1ecdn \u1ecdja titaja nla, aw\u1ecdn ile itaja \u1eb9ka \u1eb9dinwo, ati aw\u1ecdn ile itaja onj\u1eb9 lati Am\u1eb9rika, ti o j\u1eb9 ol\u00fa ni Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Oni\u1e63owo ile-i\u1e63\u1eb9 onibara oniruru onibara ti oril\u1eb9-ede Am\u1eb9rika ti o j\u1eb9 ol\u00fa ni Richfield, Minnesota. O j\u1eb9 ipil\u1eb9\u1e63\u1eb9 nipas\u1eb9 Richard M. Schulze ati James Wheeler ni \u1ecddun 1966 bi ile itaja pataki ohun ti a pe ni Ohun ti Orin.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "I\u1e63\u1eb9 titaja ori ayelujara ti o da ni Ilu China ti \u1eb8gb\u1eb9 Alibaba j\u1eb9. Ti \u1e63e ifil\u1ecdl\u1eb9 ni \u1ecddun 2010, o j\u1eb9 aw\u1ecdn i\u1e63owo kekere ni Ilu China ati aw\u1ecdn ipo miiran, bii Singapore, ti o funni ni aw\u1ecdn \u1ecdja si aw\u1ecdn ti n ra ori ayelujara ti kariaye.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Ile-i\u1e63\u1eb9 e-commerce ti oril\u1eb9-ede pup\u1ecd ti Am\u1eb9rika ti o da ni San Jose, California, ti o d\u1eb9r\u1ecd alabara si alabara ati i\u1e63owo-si-olumulo tita nipas\u1eb9 oju opo w\u1eb9\u1eb9bu r\u1eb9."
+    },
+    "section6": {
+        "sTitleBefore6": "Gba Ni F\u1ecdw\u1ecdkan",
+        "sTitle6": "Pe wa",
+        "sDesc6": "Ti o ba ni ibeere eyikeyi nipa \u1ecdja kan, tabi eyikeyi alaye ti o nilo, j\u1ecdw\u1ecd ma \u1e63e \u1e63iyemeji lati kan si wa.",
+        "firstName": "Oruk\u1ecd ak\u1ecdk\u1ecd",
+        "lastName": "Oruko idile",
+        "subject": "Koko-\u1ecdr\u1ecd",
+        "email": "Imeeli",
+        "writeyourmessagehere": "K\u1ecd ifiran\u1e63\u1eb9 r\u1eb9 nibi.",
+        "sendmessage": "Firan\u1e63\u1eb9 Ifiran\u1e63\u1eb9",
+        "sendsuccess": "Ifiran\u1e63\u1eb9 ran\u1e63\u1eb9 <strong> ni a\u1e63ey\u1ecdri <\/strong>",
+        "sendsuccess1": "A yoo dahun ni kete bi o ti \u1e63ee."
+    }
+}

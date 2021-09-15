@@ -1,0 +1,136 @@
+{
+    "main": {
+        "joinnow": "Kusoo Biir Hada",
+        "howtojoin": "Sidee Loogu Biiri Karaa?",
+        "giveawaylist": "Liiska Bixinta",
+        "review": "Dib u eegid",
+        "support": "Taageero",
+        "contact": "Xiriir",
+        "aboutus": "Nagu saabsan",
+        "aboutusdesc": "Dukaanka Guud waa xarunta dukaanka ee dhammaan dukaamada laanta guud ee dukaamada adduunka oo dhan oo ku hawlan qaybiyayaal gaar ah oo caan ah oo caan ah.",
+        "links": "Iskuxirayaasha",
+        "subscribe": "Subscribe",
+        "subscribedesc": "Fadlan qor emaylkaaga haddii aad rabto inaad naga hesho wararkii ugu dambeeyay.",
+        "subscribesend": "Codsi loo diray <strong> si guul leh <\/strong>",
+        "openregistration": "Diiwaangelinta Furan",
+        "opening": "Furitaanka",
+        "closing": "Xidhitaanka",
+        "registernow": "Isdiiwaangeli Hada",
+        "checkingregistereddata": "Hubinta xogta diiwaangashan",
+        "from": "Ka soo",
+        "to": "Ku",
+        "viewregistereddata": "Eeg xogta diiwaangashan",
+        "visitor": "Soo booqde",
+        "copyright": "Xuquuqda Qoraalka",
+        "allrightsreserved": "Xuquuqda daabacaadu way xifdisan"
+    },
+    "title": "Sii %s",
+    "subtitle": "Saxiix hada fursad aad ku guuleysato %s!",
+    "wordcontinue": "Sii wad",
+    "section1": {
+        "sTitleBefore1": "Aan Ku Soo Biirno",
+        "sTitle1": "Ku raaxayso Faa'iidooyinka",
+        "sDesc1": "Kaliya halkaan waxaad kaheli kartaa faa iidooyin badan oo lasiiyo, si sahal ah loogu biiro, waxyaabaha ugu fiican ee wax lagaa siiyo iyo faa'iidooyin kale oo kala duwan",
+        "item": {
+            "iconItem1": "astaan-xaqiijin_user",
+            "titleItem1": "Aamin",
+            "descItem1": "Amniga Sugan.",
+            "iconItem2": "icon-lacag",
+            "titleItem2": "Lacag Ammaan ah",
+            "descItem2": "Wax lacag ah kama qaado markii aad wax bixinayso.",
+            "iconItem3": "icon-access_alarms",
+            "titleItem3": "Waqti Ammaan ah",
+            "descItem3": "Hel Ku Sii Wax Ka Yar 24 Saacadood!"
+        },
+        "timer": {
+            "timerTitle": "Lacagta gelitaanka bilaashka ahi waxay ku egtahay:",
+            "days": "Maalmaha",
+            "hours": "Saacado",
+            "minutes": "Daqiiqado",
+            "seconds": "Ilbiriqsiyo"
+        }
+    },
+    "banner1": {
+        "bTitle1": "Sii %s",
+        "bDesc1": "Haddii aad isdiiwaangalisay, hubi emaylkaaga xilliyada qaarkood si aad nooga hesho macluumaadka ugu dambeeya. Waxaan sidoo kale ku siin doonaa foojarro wax lagu iibsado dukaankeenna bilaash. Maxaad sugeysaa! <a href='%s' target='_blank'> Bilow <\/a>"
+    },
+    "section2": {
+        "sTitleBefore2": "U sheeg asxaabtaada hada",
+        "sTitle2": "Hel Dhammaan Bilaash Bilaash Ah",
+        "sDesc2": "Dooro hadiyadda aad jeceshahay, waxaad sidoo kale ka qayb qaadan kartaa dhammaan bixinta ee liiska aan hoos ku bixinno."
+    },
+    "banner2": {
+        "bTitle2": "Shuruudaha Fudud ee Fudud",
+        "bDesc2": "Kaliya adoo isdiiwaangaliya naftaada waxaad kaqeyb qaadan kartaa bixintayada. Maxaad sugeysaa! aan <a href='%s' target='_blank'> isdiiwaangeli <\/a> naftaada hada."
+    },
+    "section3": {
+        "sTitleBefore3": "Hada Hel",
+        "sTitle3": "Sidee Loogu Biiri Karaa?",
+        "sDesc3": "Hel a free for free in ka yar 24 saacadood! Ha seegin fursaddan dhifka ah, waa wax aad u fudud, kaliya iska diiwaangeli websaydhkaaga oo samee sahanka (haddii ay jiraan), wax lacag ah ha ku bixin. Hambalyo!",
+        "step1": {
+            "sStep1": "Tallaabada 1",
+            "ssDesc11": "Si aad fursad ugu hesho ku guuleysiga %s, waxa kaliya ee aad u baahan tahay inaad sameyso ayaa ah buuxinta foomka diiwaangelinta koontadaada. Si aad u bilowdo, kaliya ku qor tartanka cinwaanka emaylkaaga."
+        },
+        "step2": {
+            "sStep2": "Tallaabada 2",
+            "ssDesc21": "Markaad gasho, waxaad fursad uheli doontaa inaad hesho qoraallo dheeri ah adoo dhammaystiraya ficillo kala duwan, oo ay kujirto booqashada kanaallada warbaahinta bulshada.",
+            "ssDesc22": "Waxaad xaq u leedahay inaad dhammaystirto inta tallaabo ee aad jeceshahay ah, ficil kasta wuxuu bixiyaa tiro gaar ah oo gelitaanno ah gal kastaana waa guuleyste.",
+            "ssDesc23": "Waxaad sidoo kale ka boodi kartaa ficilada kaliya $ 1."
+        },
+        "step3": {
+            "done": "La dhammeeyay",
+            "sStep3": "Tallaabada 3",
+            "ssDesc31": "La dhammeeyay Waxaan isla markiiba kula soo xiriiri doonaa iyada oo ku saleysan xiriirka la buuxiyey waqtiga diiwaangelinta ee boggayaga."
+        }
+    },
+    "banner3": {
+        "bTitle3": "Wax Sii %s si weyn.",
+        "bDesc3": "Dhacdadani waxay bixisaa boosas badan oo guuleysta marka loo eego sanadkii hore. Ku martiqaad asxaabtaada iyo qoyskaaga fursado aad u waaweyn. <a href='%s' target='_blank'> Isdiiwaangeli hada <\/a> kahor dhacdadan bilaaban."
+    },
+    "section4": {
+        "sTitleBefore4": "Qiimeyn la xushay",
+        "sTitle4": "Ku guuleystaha Bixinta",
+        "sDesc4": "Faallooyinka qaarkood ee kuwa ku guuleystay abaalmarinta",
+        "theWinner": {
+            "winner": "GUULEYSTA",
+            "winner1": "Justin Daniel",
+            "coment1": "Waad ku mahadsan tahay Lacagta, Waxaan rajeynayaa in bakhaarkaagu uu ka buuxi doono.",
+            "winner2": "Jessica Vanheln",
+            "coment2": "Runtii tani waa dukaan caan ah oo GeneralStore ah, xirmada waa lagu guuleystay waxaan helay, Badeecadu waa asal, mana aanan bixin wax lacag ah. Mahadsanid.",
+            "winner3": "Matthew Davidson",
+            "coment3": "Markii hore maan rumaysan, laakiin markii aan la xiriiray kadib waxaa ii soo baxday inuu ahaa GeneralStore. waad ku mahadsantahay GeneralStore %s.",
+            "winner4": "Vanessa Welhein",
+            "coment4": "Waad ku mahadsan tahay ilaah inuu ii siyaadiyay nasiibkeyga, waad ku mahadsantahay bixintaada, GeneralStore waan jeclahay."
+        }
+    },
+    "section5": {
+        "sTitleBefore5": "Habsami u socodka dhacdooyinkeenna & ganacsigeenna",
+        "sTitle5": "Waxaa taageeray",
+        "sDesc5": "Waxaan ku mahadsan nahay taageerada buuxda ee had iyo jeer na caawisa",
+        "tSupport1": "Amazon.com",
+        "dSupport1": "Shirkadda tiknoolajiyadda caalamiga ah ee Mareykanka ee fadhigeedu yahay Seattle, Washington, oo diiradda saareysa ganacsiga elektaroonigga ah, xisaabinta daruurta, dhijitaalka dhijitaalka ah, iyo sirdoonka macmalka ah.",
+        "tSupport2": "Overstock.com",
+        "dSupport2": "Dukaanleyda internetka ee Mareykanka iibinta ugu horreyntii alaabta guriga oo ku taal Midvale, Utah, oo u dhow Salt Lake City. Patrick M. Byrne wuxuu aasaasay Overstock.com sanadkii 1999.",
+        "tSupport3": "Walmart.com",
+        "dSupport3": "Shirkad tafaariiqeed oo caalami ah oo Mareykan ah oo ka shaqeysa silsilado dukaamo waawayn ah, dukaamo qiimo jaban, iyo dukaamo raashin oo ka yimaada Mareykanka, oo xarunteedu tahay Bentonville, Arkansas.",
+        "tSupport4": "BestBuy.com",
+        "dSupport4": "Tafaariiqleyda macaamiisha elektaroonigga ah ee macaamiisha caalamiga ah ee xarunteedu tahay Richfield, Minnesota. Waxaa asal ahaan aasaasay Richard M. Schulze iyo James Wheeler 1966 oo ah dukaan qaas ah oo maqal ah oo la yiraahdo Sound of Music.",
+        "tSupport5": "AliExpress.com",
+        "dSupport5": "Adeeg tafaariiqeed oo khadka tooska ah laga leeyahay oo ku yaal Shiinaha waxaa iska leh shirkadda Alibaba Group. Waxaa la bilaabay 2010, waxay ka kooban tahay ganacsiyo yaryar oo ku yaal Shiinaha iyo meelo kale, sida Singapore, oo alaab u siiya kuwa wax iibsada ee caalamiga ah.",
+        "tSupport6": "Ebay.com",
+        "dSupport6": "Shirkad ganacsi oo caalami ah oo e-commerce ah oo fadhigeedu yahay San Jose, Kaliforniya, taas oo fududeysa iibka macaamiisha iyo macaamilka iyo ganacsiga iyo iibka macaamiisha iyada oo loo marayo degelkeeda."
+    },
+    "section6": {
+        "sTitleBefore6": "La Xiriir",
+        "sTitle6": "Nala soo xiriir",
+        "sDesc6": "Haddii aad qabtid wax su'aalo ah oo ku saabsan badeecad, ama wixii macluumaad ah ee aad u baahan tahay, fadlan ha ka waaban inaad nala soo xiriirto.",
+        "firstName": "Magaca koowaad",
+        "lastName": "Magaca Dambe",
+        "subject": "Mawduuca",
+        "email": "Email",
+        "writeyourmessagehere": "Halkan ku qor fariintaada.",
+        "sendmessage": "Dir Fariin",
+        "sendsuccess": "Farriinta waxaa loo diray <strong> si guul leh <\/strong>",
+        "sendsuccess1": "Waxaan ka jawaabi doonnaa sida ugu dhakhsaha badan."
+    }
+}
